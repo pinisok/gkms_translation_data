@@ -8199,62 +8199,62 @@
         {
             "id": "voice_group-cidol-jsna-3-017_home",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_home_cmmn-01",
-            "title": "ホーム①"
+            "title": "홈①"
         },
         {
             "id": "voice_group-cidol-jsna-3-017_home",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_home_cmmn-02",
-            "title": "ホーム②"
+            "title": "홈②"
         },
         {
             "id": "voice_group-cidol-jsna-3-017_home",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_home_cmmn-03",
-            "title": "ホーム③"
+            "title": "홈③"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-detail",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_home_cmmn-01",
-            "title": "ホーム①"
+            "title": "홈①"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-detail",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_home_cmmn-02",
-            "title": "ホーム②"
+            "title": "홈②"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-detail",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_home_cmmn-03",
-            "title": "ホーム③"
+            "title": "홈③"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-detail",
             "voiceAssetId": "sud_vo_system_jsna-cstm-0136_01",
-            "title": "着替え①"
+            "title": "옷 갈아입기①"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-detail",
             "voiceAssetId": "sud_vo_system_jsna-cstm-0136_02",
-            "title": "着替え②"
+            "title": "옷 갈아입기②"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_produce_schedule-01",
-            "title": "プロデュース①"
+            "title": "프로듀스①"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_produce_schedule-02",
-            "title": "プロデュース②"
+            "title": "프로듀스②"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_produce_schedule-03",
-            "title": "プロデュース③"
+            "title": "프로듀스③"
         },
         {
             "id": "voice_group-cidol-jsna-3-017-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-jsna-3-017_produce_schedule-04",
-            "title": "プロデュース④"
+            "title": "프로듀스④"
         },
         {
             "id": "voice_group-cidol-jsna-3-019_home",
@@ -11509,62 +11509,62 @@
         {
             "id": "voice_group-cidol-shro-3-022_home",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-01",
-            "title": "ホーム①"
+            "title": "홈①"
         },
         {
             "id": "voice_group-cidol-shro-3-022_home",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-02",
-            "title": "ホーム②"
+            "title": "홈②"
         },
         {
             "id": "voice_group-cidol-shro-3-022_home",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-03",
-            "title": "ホーム③"
+            "title": "홈③"
         },
         {
             "id": "voice_group-cidol-shro-3-022-detail",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-01",
-            "title": "ホーム①"
+            "title": "홈①"
         },
         {
             "id": "voice_group-cidol-shro-3-022-detail",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-02",
-            "title": "ホーム②"
+            "title": "홈②"
         },
         {
             "id": "voice_group-cidol-shro-3-022-detail",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-03",
-            "title": "ホーム③"
+            "title": "홈③"
         },
         {
             "id": "voice_group-cidol-shro-3-022-detail",
             "voiceAssetId": "sud_vo_system_shro-cstm-0153_01",
-            "title": "着替え①"
+            "title": "옷 갈아입기①"
         },
         {
             "id": "voice_group-cidol-shro-3-022-detail",
             "voiceAssetId": "sud_vo_system_shro-cstm-0153_02",
-            "title": "着替え②"
+            "title": "옷 갈아입기②"
         },
         {
             "id": "voice_group-cidol-shro-3-022-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_produce_schedule-01",
-            "title": "プロデュース①"
+            "title": "프로듀스①"
         },
         {
             "id": "voice_group-cidol-shro-3-022-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_produce_schedule-02",
-            "title": "プロデュース②"
+            "title": "프로듀스②"
         },
         {
             "id": "voice_group-cidol-shro-3-022-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_produce_schedule-03",
-            "title": "プロデュース③"
+            "title": "프로듀스③"
         },
         {
             "id": "voice_group-cidol-shro-3-022-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-shro-3-022_produce_schedule-04",
-            "title": "プロデュース④"
+            "title": "프로듀스④"
         },
         {
             "id": "voice_group-cidol-ssmk-1-000-detail",
@@ -15499,12 +15499,12 @@
         {
             "id": "voice_group-jsna-cstm-0136-cmmn",
             "voiceAssetId": "sud_vo_system_jsna-cstm-0136_01",
-            "title": "ガラクタロード"
+            "title": "가라쿠타로드"
         },
         {
             "id": "voice_group-jsna-cstm-0136-cmmn",
             "voiceAssetId": "sud_vo_system_jsna-cstm-0136_02",
-            "title": "ガラクタロード"
+            "title": "가라쿠타로드"
         },
         {
             "id": "voice_group-jsna-cstm-0140-cmmn",
@@ -16609,12 +16609,12 @@
         {
             "id": "voice_group-shro-cstm-0153-cmmn",
             "voiceAssetId": "sud_vo_system_shro-cstm-0153_01",
-            "title": "め"
+            "title": "메"
         },
         {
             "id": "voice_group-shro-cstm-0153-cmmn",
             "voiceAssetId": "sud_vo_system_shro-cstm-0153_02",
-            "title": "め"
+            "title": "메"
         },
         {
             "id": "voice_group-shro-cstm-0175-cmmn",

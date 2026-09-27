@@ -16143,7 +16143,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "アイドル固有スキルカード使用時、"
+                    "text": "아이돌 고유 스킬 카드 사용 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -16155,7 +16155,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16167,7 +16167,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "の場合、"
+                    "text": "일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -16181,7 +16181,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16193,7 +16193,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "の場合、使用可"
+                    "text": "일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -16207,7 +16207,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16219,7 +16219,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "の場合、"
+                    "text": "일 때, "
                 }
             ]
         },
@@ -20997,7 +20997,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "アクティブスキルカード"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21009,7 +21009,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "使用時、体力が<nobr>80%以上</nobr>の場合、"
+                    "text": "사용 시, 체력이 <nobr>80% 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -21023,7 +21023,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "体力が<nobr>80%以上</nobr>の場合、使用可"
+                    "text": "체력이 <nobr>80% 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -21037,7 +21037,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "体力が<nobr>80%以上</nobr>の場合、"
+                    "text": "체력이 <nobr>80% 이상</nobr>일 때, "
                 }
             ]
         },
@@ -22443,7 +22443,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "クリア時に低下状態が2個以上"
+                    "text": "클리어 시 저하 상태가 2개 이상"
                 }
             ],
             "playProduceDescriptions": [
@@ -22457,7 +22457,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が<nobr>2個以上</nobr> かつ最終ターンの場合、使用可"
+                    "text": "저하 상태가 <nobr>2개 이상</nobr>이고 최종 턴일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22471,7 +22471,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が<nobr>2個以上</nobr> かつ最終ターンの場合、"
+                    "text": "저하 상태가 <nobr>2개 이상</nobr>이고 최종 턴일 때, "
                 }
             ]
         },
@@ -23967,7 +23967,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "クリア時に除外にあるスキルカード(SSR)が5枚以下"
+                    "text": "클리어 시 제외된 스킬 카드(SSR)가 5장 이하"
                 }
             ],
             "playProduceDescriptions": [
@@ -23981,7 +23981,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が<nobr>5枚以下</nobr> かつ最終ターンの場合、使用可"
+                    "text": "제외된 스킬 카드(SSR)가 <nobr>5장 이하</nobr>이고 최종 턴일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -23995,7 +23995,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が<nobr>5枚以下</nobr> かつ最終ターンの場合、"
+                    "text": "제외된 스킬 카드(SSR)가 <nobr>5장 이하</nobr>이고 최종 턴일 때, "
                 }
             ]
         },
@@ -34301,7 +34301,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、除外以外にある"
+                    "text": "턴 시작 시, 제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -34313,7 +34313,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_TroubleSkillCard",
-                    "text": "トラブルカード"
+                    "text": "트러블 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34325,7 +34325,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>2枚以上</nobr>の場合、"
+                    "text": "가 <nobr>2장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -34339,7 +34339,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外以外にある"
+                    "text": "제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -34351,7 +34351,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_TroubleSkillCard",
-                    "text": "トラブルカード"
+                    "text": "트러블 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34363,7 +34363,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>2枚以上</nobr>の場合、使用可"
+                    "text": "<nobr>2장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -34377,7 +34377,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外以外にある"
+                    "text": "제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -34389,7 +34389,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_TroubleSkillCard",
-                    "text": "トラブルカード"
+                    "text": "트러블 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34401,7 +34401,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>2枚以上</nobr>の場合、"
+                    "text": "<nobr>2장 이상</nobr>일 때, "
                 }
             ]
         },
@@ -53506,7 +53506,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンのターン開始後、"
+                    "text": "최종 턴 시작 후, "
                 }
             ],
             "playProduceDescriptions": [
@@ -53520,7 +53520,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンの場合、使用可"
+                    "text": "최종 턴일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -53534,7 +53534,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンの場合、"
+                    "text": "최종 턴일 때, "
                 }
             ]
         },

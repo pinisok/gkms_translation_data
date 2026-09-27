@@ -247,7 +247,7 @@
         },
         {
             "id": "achieve-i_card-amao-3-018-01",
-            "name": "受け止める光",
+            "name": "받아들이는 빛",
             "description": "【시루베】아리무라 마오의 프로듀스로 최종시험에 합격"
         },
         {
@@ -257,7 +257,7 @@
         },
         {
             "id": "achieve-i_card-amao-3-018-03",
-            "name": "世界で一番カッコイイ、王子様に",
+            "name": "세상에서 가장 멋진 왕자님이 될게요",
             "description": "【시루베】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
@@ -2047,33 +2047,33 @@
         },
         {
             "id": "achieve-i_card-jsna-3-017-01",
-            "name": "光り輝く道しるべ",
-            "description": "【ガラクタロード】十王 星南のプロデュースで最終試験に合格"
+            "name": "빛나는 길잡이",
+            "description": "【가라쿠타로드】주오 세나의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-jsna-3-017-02",
-            "name": "ガラクタロード",
-            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-03",
-            "name": "彼女の先を進む、私の姿を！",
-            "description": "【ガラクタロード】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "그녀보다 앞서 나아가는 내 모습을!",
+            "description": "【가라쿠타로드】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-jsna-3-017-04",
-            "name": "ガラクタロード +",
-            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "가라쿠타로드 +",
+            "description": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-05",
-            "name": "ガラクタロード ++",
-            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "가라쿠타로드 ++",
+            "description": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-06",
-            "name": "ガラクタロード +++",
-            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "가라쿠타로드 +++",
+            "description": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-020-01",
@@ -2377,7 +2377,7 @@
         },
         {
             "id": "achieve-i_card-kcna-3-018-01",
-            "name": "出発進行ですわ～♪",
+            "name": "출발 진행이에요~♪",
             "description": "【시루베】쿠라모토 치나의 프로듀스로 최종시험에 합격"
         },
         {
@@ -2387,7 +2387,7 @@
         },
         {
             "id": "achieve-i_card-kcna-3-018-03",
-            "name": "相応しい、わたくしに",
+            "name": "그에 걸맞은 제가 될게요",
             "description": "【시루베】쿠라모토 치나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
@@ -2983,7 +2983,7 @@
         {
             "id": "achieve-i_card-shro-3-022-02",
             "name": "메",
-            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "description": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-3-022-03",
@@ -2993,17 +2993,17 @@
         {
             "id": "achieve-i_card-shro-3-022-04",
             "name": "메 +",
-            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "description": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-3-022-05",
             "name": "메 ++",
-            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "description": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-3-022-06",
             "name": "메 +++",
-            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "description": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ssmk-2-000-04",
@@ -3247,7 +3247,7 @@
         },
         {
             "id": "achieve-i_card-ssmk-3-018-01",
-            "name": "応えたい気持ち",
+            "name": "보답하고 싶은 마음",
             "description": "【시루베】시운 스미카의 프로듀스로 최종시험에 합격"
         },
         {
@@ -3257,7 +3257,7 @@
         },
         {
             "id": "achieve-i_card-ssmk-3-018-03",
-            "name": "この世界で、夢を叶えるから！",
+            "name": "이 세상에서 꿈을 이룰 테니까!",
             "description": "【시루베】시운 스미카의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
@@ -4492,8 +4492,8 @@
         },
         {
             "id": "achieve-p_idol-fktn-000-2",
-            "name": "あなたを幸せにします",
-            "description": "藤田 ことねでTrue End : H.I.Fをみる"
+            "name": "당신을 행복하게 해드릴게요",
+            "description": "후지타 코토네로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-fktn-001",
@@ -4617,13 +4617,13 @@
         },
         {
             "id": "achieve-p_idol-fktn-025",
-            "name": "夢の中で見ていた光景",
-            "description": "藤田 ことねでH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "꿈에서 보았던 광경",
+            "description": "후지타 코토네로 H.I.F 최종시험에 합격하여 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-fktn-026",
-            "name": "積み上げてきた成果",
-            "description": "藤田 ことねでH.I.Fの最終試験に{threshold}回合格"
+            "name": "쌓아 온 성과",
+            "description": "후지타 코토네로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-fktn-027",
@@ -5232,8 +5232,8 @@
         },
         {
             "id": "achieve-p_idol-jsna-000-2",
-            "name": "私のモノになりなさい",
-            "description": "十王 星南でTrue End : H.I.Fをみる"
+            "name": "내 것이 되렴",
+            "description": "주오 세나로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-jsna-001",
@@ -5357,13 +5357,13 @@
         },
         {
             "id": "achieve-p_idol-jsna-025",
-            "name": "十王星南の遺産",
-            "description": "十王 星南でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "주오 세나의 유산",
+            "description": "주오 세나로 H.I.F 최종시험에 합격하여 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-jsna-026",
-            "name": "私たちの物語",
-            "description": "十王 星南でH.I.Fの最終試験に{threshold}回合格"
+            "name": "우리의 이야기",
+            "description": "주오 세나로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-jsna-027",

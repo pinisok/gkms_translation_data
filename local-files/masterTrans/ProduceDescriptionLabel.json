@@ -1586,7 +1586,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードコストとして消費する強化状態の消費量が100%増加"
+                    "text": "스킬 카드 비용으로 소비되는 강화 상태의 소비량이 100% 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1599,7 +1599,7 @@
                     "text": ""
                 }
             ],
-            "name": "強化状態コスト増加"
+            "name": "강화 상태 비용 증가"
         },
         {
             "id": "Label_ExamBuffConsumptionAdd_Produce",
@@ -1612,10 +1612,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードコストとして消費する強化状態の消費量が100%増加"
+                    "text": "스킬 카드 비용으로 소비되는 강화 상태의 소비량이 100% 증가"
                 }
             ],
-            "name": "強化状態コスト増加"
+            "name": "강화 상태 비용 증가"
         },
         {
             "id": "Label_ExamCardCreateId",

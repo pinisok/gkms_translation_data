@@ -327,211 +327,211 @@
         },
         {
             "id": "dearness_event_permanent_amao-001",
-            "name": "有村 麻央のボーカルを1800以上に育成してプロデュースをクリア"
+            "name": "아리무라 마오의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_amao-002",
-            "name": "有村 麻央のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "아리무라 마오의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_amao-003",
-            "name": "有村 麻央でボーカルレッスンを{threshold}回クリアしよう"
+            "name": "아리무라 마오로 보컬 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_amao-004",
-            "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "아리무라 마오로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_atbm-001",
-            "name": "雨夜 燕のダンスを1800以上に育成してプロデュースをクリア"
+            "name": "아마야 츠바메의 댄스를 1800 이상으로 육성하여 프로듀스를 클리어"
         },
         {
             "id": "dearness_event_permanent_atbm-002",
-            "name": "雨夜 燕のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "아마야 츠바메의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_atbm-003",
-            "name": "雨夜 燕でダンスレッスンを{threshold}回クリアしよう"
+            "name": "아마야 츠바메로 댄스 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_atbm-004",
-            "name": "雨夜 燕で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "아마야 츠바메로 최종시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_fktn-001",
-            "name": "藤田 ことねのダンスを1800以上に育成してプロデュースをクリア"
+            "name": "후지타 코토네의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_fktn-002",
-            "name": "藤田 ことねのプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "후지타 코토네의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_fktn-003",
-            "name": "藤田 ことねでダンスレッスンを{threshold}回クリアしよう"
+            "name": "후지타 코토네로 댄스 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_fktn-004",
-            "name": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_hmsz-001",
-            "name": "秦谷 美鈴のボーカルを1800以上に育成してプロデュースをクリア"
+            "name": "하타야 미스즈의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_hmsz-002",
-            "name": "秦谷 美鈴のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_hmsz-003",
-            "name": "秦谷 美鈴でボーカルレッスンを{threshold}回クリアしよう"
+            "name": "하타야 미스즈로 보컬 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_hmsz-004",
-            "name": "秦谷 美鈴で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "하타야 미스즈로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_hrnm-001",
-            "name": "姫崎 莉波のビジュアルを1800以上に育成してプロデュースをクリア"
+            "name": "히메사키 리나미의 비주얼를 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_hrnm-002",
-            "name": "姫崎 莉波のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "히메사키 리나미의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_hrnm-003",
-            "name": "姫崎 莉波でビジュアルレッスンを{threshold}回クリアしよう"
+            "name": "히메사키 리나미로 비주얼 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_hrnm-004",
-            "name": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "히메사키 리나미로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_hski-001",
-            "name": "花海 咲季のビジュアルを1800以上に育成してプロデュースをクリア"
+            "name": "하나미 사키의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_hski-002",
-            "name": "花海 咲季のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "하나미 사키의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_hski-003",
-            "name": "花海 咲季でビジュアルレッスンを{threshold}回クリアしよう"
+            "name": "하나미 사키로 비주얼 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_hski-004",
-            "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "하나미 사키로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_hume-001",
-            "name": "花海 佑芽のダンスを1800以上に育成してプロデュースをクリア"
+            "name": "하나미 우메의 댄스를 1800 이상으로 육성하여 프로듀스를 클리어"
         },
         {
             "id": "dearness_event_permanent_hume-002",
-            "name": "花海 佑芽のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "하나미 우메의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이즈하자"
         },
         {
             "id": "dearness_event_permanent_hume-003",
-            "name": "花海 佑芽でダンスレッスンを{threshold}回クリアしよう"
+            "name": "하나미 우메로 댄스 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_hume-004",
-            "name": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "하나미 우메로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_jsna-001",
-            "name": "十王 星南のビジュアルを1800以上に育成してプロデュースをクリア"
+            "name": "주오 세나의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_jsna-002",
-            "name": "十王 星南のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "주오 세나의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_jsna-003",
-            "name": "十王 星南でビジュアルレッスンを{threshold}回クリアしよう"
+            "name": "주오 세나로 비주얼 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_jsna-004",
-            "name": "十王 星南で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "주오 세나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_kcna-001",
-            "name": "倉本 千奈のダンスを1800以上に育成してプロデュースをクリア"
+            "name": "쿠라모토 치나의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_kcna-002",
-            "name": "倉本 千奈のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "쿠라모토 치나의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_kcna-003",
-            "name": "倉本 千奈でダンスレッスンを{threshold}回クリアしよう"
+            "name": "쿠라모토 치나로 댄스 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_kcna-004",
-            "name": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "쿠라모토 치나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_kllj-001",
-            "name": "葛城 リーリヤのビジュアルを1800以上に育成してプロデュースをクリア"
+            "name": "카츠라기 릴리야의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_kllj-002",
-            "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_kllj-003",
-            "name": "葛城 リーリヤでビジュアルレッスンを{threshold}回クリアしよう"
+            "name": "카츠라기 릴리야로 비주얼 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_kllj-004",
-            "name": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_shro-001",
-            "name": "篠澤 広のボーカルを1800以上に育成してプロデュースをクリア"
+            "name": "시노사와 히로의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_shro-002",
-            "name": "篠澤 広のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "시노사와 히로의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_shro-003",
-            "name": "篠澤 広でボーカルレッスンを{threshold}回クリアしよう"
+            "name": "시노사와 히로로 보컬 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_shro-004",
-            "name": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "시노사와 히로로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_ssmk-001",
-            "name": "紫雲 清夏のダンスを1800以上に育成してプロデュースをクリア"
+            "name": "시운 스미카의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_ssmk-002",
-            "name": "紫雲 清夏のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_ssmk-003",
-            "name": "紫雲 清夏でダンスレッスンを{threshold}回クリアしよう"
+            "name": "시운 스미카로 댄스 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_ssmk-004",
-            "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_permanent_ttmr-001",
-            "name": "月村 手毬のボーカルを1800以上に育成してプロデュースをクリア"
+            "name": "츠키무라 테마리의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_permanent_ttmr-002",
-            "name": "月村 手毬のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "츠키무라 테마리의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_permanent_ttmr-003",
-            "name": "月村 手毬でボーカルレッスンを{threshold}回クリアしよう"
+            "name": "츠키무라 테마리로 보컬 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_permanent_ttmr-004",
-            "name": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_relaunch_amao-001",
@@ -1223,51 +1223,51 @@
         },
         {
             "id": "hidden_mission-dearness-story-amao-37",
-            "name": "麻央でHIF本戦を優勝"
+            "name": "마오로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-fktn-37",
-            "name": "ことねでHIF本戦を優勝"
+            "name": "코토네로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hmsz-37",
-            "name": "美鈴でHIF本戦を優勝"
+            "name": "미스즈로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hrnm-37",
-            "name": "莉波でHIF本戦を優勝"
+            "name": "리나미로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hski-37",
-            "name": "咲季でHIF本戦を優勝"
+            "name": "사키로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hume-37",
-            "name": "佑芽でHIF本戦を優勝"
+            "name": "우메로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-jsna-37",
-            "name": "星南でHIF本戦を優勝"
+            "name": "세나로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-kcna-37",
-            "name": "千奈でHIF本戦を優勝"
+            "name": "치나로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-kllj-37",
-            "name": "リーリヤでHIF本戦を優勝"
+            "name": "릴리야로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-shro-37",
-            "name": "広でHIF本戦を優勝"
+            "name": "히로로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-ssmk-37",
-            "name": "清夏でHIF本戦を優勝"
+            "name": "스미카로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-ttmr-37",
-            "name": "手毬でHIF本戦を優勝"
+            "name": "테마리로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-normal-amao-piece-pack-remind",
@@ -1503,7 +1503,7 @@
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-fktn",
-            "name": "ことねでA-End達成"
+            "name": "코토네로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-hmsz",
@@ -1523,7 +1523,7 @@
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-jsna",
-            "name": "星南でA-End達成"
+            "name": "세나로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-kcna",
@@ -2467,7 +2467,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_14",
-            "name": "藤田 ことねのプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "후지타 코토네의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_15",
@@ -2487,7 +2487,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_19",
-            "name": "十王 星南のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "주오 세나의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_20",
@@ -2515,7 +2515,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_27",
-            "name": "藤田 ことねの親愛度Lvを{threshold}にしよう"
+            "name": "후지타 코토네의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_28",
@@ -2535,7 +2535,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_32",
-            "name": "十王 星南の親愛度Lvを{threshold}にしよう"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_33",
@@ -6647,7 +6647,7 @@
         },
         {
             "id": "mission-research-event-008-mission_1",
-            "name": "{threshold}日ログインしよう"
+            "name": "{threshold}일 로그인하자"
         },
         {
             "id": "mission-research-event-008-mission_10",
@@ -6659,23 +6659,23 @@
         },
         {
             "id": "mission-research-event-008-mission_12",
-            "name": "SPレッスンを{threshold}回クリアしよう"
+            "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "mission-research-event-008-mission_2",
-            "name": "プラン：アノマリーのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+            "name": "플랜:아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-research-event-008-mission_3",
-            "name": "プロデュースの相談で{threshold}回交換しよう"
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
         },
         {
             "id": "mission-research-event-008-mission_8",
-            "name": "スキルカード「国民的アイドル」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「국민적 아이돌」 을 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-008-mission_9",
-            "name": "スキルカード「魅惑の視線」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「매혹적인 시선」 을 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-story-event-001-mission_1",
@@ -7055,19 +7055,19 @@
         },
         {
             "id": "mission-tour-event-006-mission_3",
-            "name": "イベントで{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_4",
-            "name": "イベントでハコユレLv1以上のステージに{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 하코유레 Lv1 이상의 무대에 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_5",
-            "name": "イベントでハコユレLv2以上のステージに{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 하코유레 Lv2 이상의 무대에 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_6",
-            "name": "イベントでハコユレLv3以上のステージに{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 하코유레 Lv3 이상의 무대에 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_7",
@@ -9355,27 +9355,27 @@
         },
         {
             "id": "achieve-i_card-jsna-3-017-01",
-            "name": "【ガラクタロード】十王 星南のプロデュースで最終試験に合格"
+            "name": "【가라쿠타로드】주오 세나의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-jsna-3-017-02",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-03",
-            "name": "【ガラクタロード】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【가라쿠타로드】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-jsna-3-017-04",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-05",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-06",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-020-01",
@@ -10103,7 +10103,7 @@
         },
         {
             "id": "achieve-i_card-shro-3-022-02",
-            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "name": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-3-022-03",
@@ -10111,15 +10111,15 @@
         },
         {
             "id": "achieve-i_card-shro-3-022-04",
-            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "name": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-3-022-05",
-            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "name": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-3-022-06",
-            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+            "name": "【메】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ssmk-2-000-04",
@@ -11311,7 +11311,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-000-2",
-            "name": "藤田 ことねでTrue End : H.I.Fをみる"
+            "name": "후지타 코토네로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-fktn-001",
@@ -11411,11 +11411,11 @@
         },
         {
             "id": "achieve-p_idol-fktn-025",
-            "name": "藤田 ことねでH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "후지타 코토네로 H.I.F 최종시험에 합격하여 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-fktn-026",
-            "name": "藤田 ことねでH.I.Fの最終試験に{threshold}回合格"
+            "name": "후지타 코토네로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-fktn-027",
@@ -11903,7 +11903,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-000-2",
-            "name": "十王 星南でTrue End : H.I.Fをみる"
+            "name": "주오 세나로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-jsna-001",
@@ -12003,11 +12003,11 @@
         },
         {
             "id": "achieve-p_idol-jsna-025",
-            "name": "十王 星南でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "주오 세나로 H.I.F 최종시험에 합격하여 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-jsna-026",
-            "name": "十王 星南でH.I.Fの最終試験に{threshold}回合格"
+            "name": "주오 세나로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-jsna-027",

@@ -313,9 +313,9 @@
         },
         {
             "id": "item-gacha-coin-2026-summer2",
-            "name": "プロデュース応援コイン",
-            "description": "H.I.F挑戦1,500万回突破記念！プロデュース応援コインガシャで使用するコイン",
-            "acquisitionRouteDescription": "プロデュース"
+            "name": "프로듀스 응원 코인",
+            "description": "H.I.F 도전 1,500만 회 돌파 기념! 프로듀스 응원 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스"
         },
         {
             "id": "item-gacha-coin-anniversary-001",
@@ -589,8 +589,8 @@
         },
         {
             "id": "item-gashaticket-wednesday-260923",
-            "name": "学マ水曜日ガシャチケット",
-            "description": "学マ水曜日ガシャで使用するチケット",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -871,9 +871,9 @@
         },
         {
             "id": "item-medal-research-event-008",
-            "name": "ゼミたぬき",
-            "description": "イベント交換所で様々な報酬と交換できるアイテム",
-            "acquisitionRouteDescription": "プロデュースなど"
+            "name": "세미나 너구리",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
         },
         {
             "id": "item-medal-story-event-001",
@@ -967,9 +967,9 @@
         },
         {
             "id": "item-medal-tour-event-006",
-            "name": "初星祭メダル",
+            "name": "하츠보시 축제 메달",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
-            "acquisitionRouteDescription": "イベント「さいごの文化祭」、プロデュース"
+            "acquisitionRouteDescription": "이벤트 「마지막 문화제」, 프로듀스"
         },
         {
             "id": "item-memory_exchange-class1",
@@ -1525,9 +1525,9 @@
         },
         {
             "id": "item-piece-idol_jsna-3-017",
-            "name": "[ガラクタロード]十王星南のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[가라쿠타로드] 주오 세나의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_jsna-3-020",
@@ -1766,8 +1766,8 @@
         {
             "id": "item-piece-idol_shro-3-022",
             "name": "[메] 시노사와 히로의 피스",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_ssmk-1-000",
@@ -1939,9 +1939,9 @@
         },
         {
             "id": "item-play-ticket_tour-event-006",
-            "name": "初星祭チケット",
-            "description": "イベント「さいごの文化祭」でステージに挑戦できるアイテム",
-            "acquisitionRouteDescription": "イベント「さいごの文化祭」"
+            "name": "하츠보시 축제 티켓",
+            "description": "이벤트 「마지막 문화제」에서 스테이지에 도전할 수 있는 아이템",
+            "acquisitionRouteDescription": "이벤트 「마지막 문화제」"
         },
         {
             "id": "item-primastellamaterial-common-001",
@@ -1957,9 +1957,9 @@
         },
         {
             "id": "item-primastellamaterial-idol_fktn-001",
-            "name": "ことねの一番星の光",
-            "description": "藤田ことねの『一番星』解放で使用するアイテム",
-            "acquisitionRouteDescription": "アチーブメントなど"
+            "name": "코토네의 샛별의 빛",
+            "description": "후지타 코토네의 『샛별』 해금에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
         },
         {
             "id": "item-primastellamaterial-idol_hmsz-001",
@@ -1987,9 +1987,9 @@
         },
         {
             "id": "item-primastellamaterial-idol_jsna-001",
-            "name": "星南の一番星の光",
-            "description": "十王星南の『一番星』解放で使用するアイテム",
-            "acquisitionRouteDescription": "アチーブメントなど"
+            "name": "세나의 샛별의 빛",
+            "description": "주오 세나의 『샛별』 해금에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
         },
         {
             "id": "item-primastellamaterial-idol_kcna-001",
@@ -2101,9 +2101,9 @@
         },
         {
             "id": "item-research-event-008",
-            "name": "あさり先生シール",
-            "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
-            "acquisitionRouteDescription": "プロデュースなど"
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
         },
         {
             "id": "item-selection-ticket-001",
@@ -2149,9 +2149,9 @@
         },
         {
             "id": "item-selection-ticket-008",
-            "name": "プロデュース応援サポートセレクションチケット",
-            "description": "チケット交換所でサポートカードを交換できるチケット",
-            "acquisitionRouteDescription": "H.I.F挑戦1,500万回突破記念！プロデュース応援コインガシャ"
+            "name": "프로듀스 응원 서포트 셀렉션 티켓",
+            "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "H.I.F 도전 1,500만 회 돌파 기념! 프로듀스 응원 코인 가챠"
         },
         {
             "id": "item-staminaregen-1",

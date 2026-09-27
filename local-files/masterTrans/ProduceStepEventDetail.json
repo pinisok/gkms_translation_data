@@ -118804,7 +118804,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_03-2-134-0",
-                    "text": "限界への挑戦券"
+                    "text": "한계 도전권"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -118814,7 +118814,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得"
+                    "text": "을 획득"
                 }
             ]
         },
@@ -118829,7 +118829,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ダンス上昇+"
+                    "text": "댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -126319,7 +126319,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_00-3-352-0",
-                    "text": "素敵なお仕事"
+                    "text": "멋진 일"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -126329,7 +126329,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得"
+                    "text": "을 획득"
                 }
             ]
         },
@@ -126344,7 +126344,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ビジュアル上昇+"
+                    "text": "비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -126369,7 +126369,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ランダムな名前に「基本」を含むスキルカードを異なるスキルカードに"
+                    "text": "이름에 「기본」을 포함하는 무작위 스킬 카드를 다른 스킬카드로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -126379,7 +126379,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 }
             ]
         },
@@ -127069,7 +127069,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-sup-3_252",
-                    "text": "うたたねレポート"
+                    "text": "선잠 리포트"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127079,7 +127079,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得"
+                    "text": "를 획득"
                 }
             ]
         },
@@ -127094,7 +127094,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -127119,7 +127119,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ランダムなスキルカードを"
+                    "text": "무작위 스킬 카드를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -127129,7 +127129,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -127144,7 +127144,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_02-3-353-0",
-                    "text": "たらふくすし放題♪"
+                    "text": "배불리 초밥 무한리필♪"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127154,7 +127154,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得"
+                    "text": "을 획득"
                 }
             ]
         },

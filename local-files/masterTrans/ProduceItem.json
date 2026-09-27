@@ -32789,7 +32789,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードチェンジ時、ビジュアルが400以上の場合、\n"
+                    "text": "스킬 카드 변경 시, 비주얼이 400 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -32809,7 +32809,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ビジュアル上昇+"
+                    "text": "비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32849,7 +32849,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "体力回復"
+                    "text": "체력 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32889,10 +32889,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中3回）"
+                    "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "素敵なお仕事"
+            "name": "멋진 일"
         },
         {
             "id": "pitem_01-0-001-0-000",
@@ -36701,7 +36701,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードコストで強化状態を消費した時、"
+                    "text": "스킬 카드 비용으로 강화 상태를 소비했을 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36731,7 +36731,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ランダムな山札か捨札の"
+                    "text": "덱 또는 버린 패의 무작위 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -36741,7 +36741,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "アクティブスキルカード"
+                    "text": "액티브 스킬 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36751,7 +36751,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36761,7 +36761,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardPositionType_Hand",
-                    "text": "手札"
+                    "text": "손 패"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36771,7 +36771,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に移動"
+                    "text": "로 이동"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36801,7 +36801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPlayableValueAdd_Produce",
-                    "text": "スキルカード使用数追加"
+                    "text": "스킬 카드 사용 횟수 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36861,7 +36861,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36871,7 +36871,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36881,10 +36881,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内5回）"
+                    "text": "내 5회)"
                 }
             ],
-            "name": "初星オブジェ（銀）"
+            "name": "하츠보시 오브제(은)"
         },
         {
             "id": "pitem_01-0-005-0-000",
@@ -42417,7 +42417,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、除外以外にある"
+                    "text": "턴 시작 시, 제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -42427,7 +42427,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_TroubleSkillCard",
-                    "text": "トラブルカード"
+                    "text": "트러블 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42437,7 +42437,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>2枚以上</nobr>の場合、"
+                    "text": "가 <nobr>2장 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42467,7 +42467,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultiple",
-                    "text": "パラメータ上昇量増加"
+                    "text": "파라미터 상승량 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42527,7 +42527,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-                    "text": "絶好調"
+                    "text": "절호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42557,7 +42557,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>"
+                    "text": "턴 </nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42587,7 +42587,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -42597,7 +42597,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42607,10 +42607,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内2回）"
+                    "text": "내 2회)"
                 }
             ],
-            "name": "初星オブジェ（紫）"
+            "name": "하츠보시 오브젝트 (보라색)"
         },
         {
             "id": "pitem_01-0-014-0",
@@ -80845,7 +80845,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>3ターン以内</nobr>のターン終了時、"
+                    "text": "남은 <nobr>3턴 이내</nobr>의 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -80875,7 +80875,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReview_Produce",
-                    "text": "好印象"
+                    "text": "호인상"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -80885,7 +80885,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の<nobr>"
+                    "text": "이 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -80905,7 +80905,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>分"
+                    "text": "%</nobr> 만큼 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -80915,7 +80915,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLesson",
-                    "text": "パラメータ"
+                    "text": "파라미터 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -80925,7 +80925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "上昇"
+                    "text": "상승"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -80948,7 +80948,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星ライト（オレンジ）"
+            "name": "하츠보시 라이트(주황색)"
         },
         {
             "id": "pitem_02-0-006-0-000",
@@ -86459,7 +86459,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "アクティブスキルカード"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86469,7 +86469,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "使用時、体力が<nobr>80%以上</nobr>の場合、"
+                    "text": "사용 시, 체력이 <nobr>80% 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86499,7 +86499,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlock",
-                    "text": "元気"
+                    "text": "원기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86559,7 +86559,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamCardPlayAggressive_Produce",
-                    "text": "やる気"
+                    "text": "의욕 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86619,7 +86619,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -86629,7 +86629,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86639,10 +86639,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内3回）"
+                    "text": "내 3회)"
                 }
             ],
-            "name": "初星ライト（紫）"
+            "name": "하츠보시 라이트(보라)"
         },
         {
             "id": "pitem_02-0-014-exam_card_play_aggressive",
@@ -125227,7 +125227,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンのターン開始後、"
+                    "text": "최종 턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125257,7 +125257,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReview_Produce",
-                    "text": "好印象"
+                    "text": "호인상 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125317,7 +125317,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamExtraTurn",
-                    "text": "ターン追加"
+                    "text": "턴 추가 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125357,7 +125357,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象減少"
+                    "text": "호인상 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125417,7 +125417,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -125427,7 +125427,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125437,10 +125437,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内2回）"
+                    "text": "내 2회)"
                 }
             ],
-            "name": "頂点の輝き"
+            "name": "정점의 빛"
         },
         {
             "id": "pitem_02-3-321-1",
@@ -125453,7 +125453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンのターン開始後、"
+                    "text": "최종 턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125483,7 +125483,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReview_Produce",
-                    "text": "好印象"
+                    "text": "호인상 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125543,7 +125543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamExtraTurn",
-                    "text": "ターン追加"
+                    "text": "턴 추가 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125583,7 +125583,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaRecoverFix",
-                    "text": "体力回復"
+                    "text": "체력 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125643,7 +125643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象減少"
+                    "text": "호인상 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125703,7 +125703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -125713,7 +125713,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125723,10 +125723,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内2回）"
+                    "text": "내 2회)"
                 }
             ],
-            "name": "頂点の輝き+"
+            "name": "정점의 빛+"
         },
         {
             "id": "pitem_02-3-328-0",
@@ -126337,7 +126337,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -126347,7 +126347,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、ビジュアルが700以上の場合、\n"
+                    "text": " 시작 시, 비주얼이 700 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -126367,7 +126367,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "体力回復"
+                    "text": "체력 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -126407,10 +126407,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中4回）"
+                    "text": "(프로듀스 중 4회)"
                 }
             ],
-            "name": "たらふくすし放題♪"
+            "name": "배불리 초밥 무한리필♪"
         },
         {
             "id": "pitem_03-0-003-0-000",
@@ -133549,7 +133549,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "アイドル固有スキルカード使用時、"
+                    "text": "아이돌 고유 스킬 카드 사용 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -133559,7 +133559,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133569,7 +133569,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、"
+                    "text": "일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133599,7 +133599,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPowerPoint",
-                    "text": "全力値"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133659,7 +133659,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "アクティブスキルカード"
+                    "text": "액티브 스킬 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133669,7 +133669,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の"
+                    "text": "의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -133679,7 +133679,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133719,7 +133719,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -133729,7 +133729,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133739,10 +133739,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（紫）"
+            "name": "하츠보시 플래그 (보라색)"
         },
         {
             "id": "pitem_03-0-007-0-016",
@@ -133755,7 +133755,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "アイドル固有スキルカード使用時、"
+                    "text": "아이돌 고유 스킬 카드 사용 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -133765,7 +133765,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133775,7 +133775,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、"
+                    "text": "일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133805,7 +133805,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPowerPoint",
-                    "text": "全力値"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133865,7 +133865,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "アクティブスキルカード"
+                    "text": "액티브 스킬 카드"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133875,7 +133875,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の"
+                    "text": "의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -133885,7 +133885,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133925,7 +133925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -133935,7 +133935,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133945,10 +133945,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（紫）"
+            "name": "하츠보시 플래그 (보라색)"
         },
         {
             "id": "pitem_03-0-014-exam_concentration",
@@ -143639,7 +143639,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -143649,7 +143649,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード強化時、ダンスが700以上の場合、\n"
+                    "text": "효과의 스킬 카드 강화 시, 댄스가 700 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -143669,7 +143669,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ダンス上昇+"
+                    "text": "댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -143709,7 +143709,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -143749,10 +143749,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中3回）"
+                    "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "限界への挑戦券"
+            "name": "한계 도전권"
         },
         {
             "id": "pitem_03-3-007-0",
@@ -165489,7 +165489,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165519,7 +165519,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPowerPointAdditive",
-                    "text": "全力値増加量増加"
+                    "text": "전력치 증가량 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165549,7 +165549,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -165569,7 +165569,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165599,7 +165599,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165609,7 +165609,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に変更"
+                    "text": "으로 변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165639,7 +165639,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlock",
-                    "text": "元気"
+                    "text": "원기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165699,7 +165699,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBuffConsumptionAdd_Produce",
-                    "text": "強化状態コスト増加"
+                    "text": "강화 상태 비용 증가 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165729,7 +165729,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>"
+                    "text": "턴 </nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165755,7 +165755,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165785,7 +165785,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPowerPointAdditive",
-                    "text": "全力値増加量増加"
+                    "text": "전력치 증가량 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165815,7 +165815,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -165835,7 +165835,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165865,7 +165865,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165875,7 +165875,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に変更"
+                    "text": "으로 변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165905,7 +165905,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlock",
-                    "text": "元気"
+                    "text": "원기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165965,7 +165965,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBuffConsumptionAdd_Produce",
-                    "text": "強化状態コスト増加"
+                    "text": "강화 상태 비용 증가 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165995,7 +165995,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>"
+                    "text": "턴 </nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167093,7 +167093,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProducePlanType1",
-                    "text": "センス"
+                    "text": "센스"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167103,7 +167103,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "のスキルカード使用後、"
+                    "text": "스킬 카드 사용 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167133,7 +167133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultiple",
-                    "text": "パラメータ上昇量増加"
+                    "text": "파라미터 상승량 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167193,7 +167193,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -167203,7 +167203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167213,10 +167213,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内5回）"
+                    "text": "내 5회)"
                 }
             ],
-            "name": "ゼミパーカー"
+            "name": "세미나 후드"
         },
         {
             "id": "pitem_tower_001-exam_card_play_aggressive-1-stage_005",
@@ -170057,7 +170057,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170067,7 +170067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、"
+                    "text": "시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170097,7 +170097,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170157,7 +170157,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlockAddDown",
-                    "text": "不安"
+                    "text": "불안"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170167,7 +170167,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "∞ターン"
+                    "text": "∞턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170197,7 +170197,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaConsumptionAddFix",
-                    "text": "消費体力追加"
+                    "text": "소비 체력 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170257,7 +170257,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-                    "text": "手札減少"
+                    "text": "패 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170287,7 +170287,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "</nobr>（∞ターン）"
+                    "text": "</nobr>(∞턴)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170317,7 +170317,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -170327,7 +170327,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170337,10 +170337,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星ライト（紫）"
+            "name": "하츠보시 라이트(보라)"
         },
         {
             "id": "pitem_tower_001-exam_card_play_aggressive-1-stage_026-1",
@@ -170353,7 +170353,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターンスキップ時、"
+                    "text": "턴 스킵시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170383,7 +170383,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamDebuffRecover",
-                    "text": "低下状態回復"
+                    "text": "저하 상태 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170443,7 +170443,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -170453,7 +170453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170463,10 +170463,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星ライト（オレンジ）"
+            "name": "하츠보시 라이트(주황색)"
         },
         {
             "id": "pitem_tower_001-exam_card_play_aggressive-1-stage_027",
@@ -170479,7 +170479,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170509,7 +170509,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -170519,7 +170519,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170549,7 +170549,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -170569,7 +170569,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170582,7 +170582,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星ライト（紫）"
+            "name": "하츠보시 라이트(보라)"
         },
         {
             "id": "pitem_tower_001-exam_card_play_aggressive-1-stage_027-1",
@@ -170595,7 +170595,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170625,7 +170625,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次に使用するスキルカードの効果をもう<nobr>"
+                    "text": "다음에 사용할 스킬 카드의 효과를 추가로 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -170645,7 +170645,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>発動（<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -170665,7 +170665,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>・<nobr>"
+                    "text": "회 </nobr>·<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -170685,7 +170685,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170715,7 +170715,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -170725,7 +170725,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170735,10 +170735,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星ライト（オレンジ）"
+            "name": "하츠보시 라이트(주황색)"
         },
         {
             "id": "pitem_tower_001-exam_card_play_aggressive-2-stage_005",
@@ -174747,7 +174747,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174757,7 +174757,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、"
+                    "text": "시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174787,7 +174787,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174847,7 +174847,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlockAddDown",
-                    "text": "不安"
+                    "text": "불안"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174857,7 +174857,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "∞ターン"
+                    "text": "∞턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174887,7 +174887,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaConsumptionAddFix",
-                    "text": "消費体力追加"
+                    "text": "소비 체력 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174947,7 +174947,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-                    "text": "手札減少"
+                    "text": "패 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174977,7 +174977,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "</nobr>（∞ターン）"
+                    "text": "</nobr>(∞턴)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175007,7 +175007,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -175017,7 +175017,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175027,10 +175027,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（紫）"
+            "name": "하츠보시 플래그 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_concentration-1-stage_026-1",
@@ -175043,7 +175043,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターンスキップ時、"
+                    "text": "턴 스킵시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175073,7 +175073,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamDebuffRecover",
-                    "text": "低下状態回復"
+                    "text": "저하 상태 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175133,7 +175133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -175143,7 +175143,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175153,10 +175153,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（青）"
+            "name": "하츠보시 플래그(파랑)"
         },
         {
             "id": "pitem_tower_001-exam_concentration-1-stage_027",
@@ -175169,7 +175169,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175199,7 +175199,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -175209,7 +175209,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175239,7 +175239,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -175259,7 +175259,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175272,7 +175272,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星フラッグ（紫）"
+            "name": "하츠보시 플래그 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_concentration-1-stage_027-1",
@@ -175285,7 +175285,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175315,7 +175315,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次に使用するスキルカードの効果をもう<nobr>"
+                    "text": "다음에 사용할 스킬 카드의 효과를 추가로 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -175335,7 +175335,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>発動（<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -175355,7 +175355,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>・<nobr>"
+                    "text": "회 </nobr>·<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -175375,7 +175375,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175405,7 +175405,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -175415,7 +175415,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -175425,10 +175425,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（青）"
+            "name": "하츠보시 플래그(파랑)"
         },
         {
             "id": "pitem_tower_001-exam_full_power-1-stage_005",
@@ -178289,7 +178289,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178299,7 +178299,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、"
+                    "text": "시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178329,7 +178329,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178389,7 +178389,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlockAddDown",
-                    "text": "不安"
+                    "text": "불안"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178399,7 +178399,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "∞ターン"
+                    "text": "∞턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178429,7 +178429,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaConsumptionAddFix",
-                    "text": "消費体力追加"
+                    "text": "소비 체력 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178489,7 +178489,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-                    "text": "手札減少"
+                    "text": "패 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178519,7 +178519,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "</nobr>（∞ターン）"
+                    "text": "</nobr>(∞턴)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178549,7 +178549,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -178559,7 +178559,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178569,10 +178569,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（紫）"
+            "name": "하츠보시 플래그 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_full_power-1-stage_026-1",
@@ -178585,7 +178585,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターンスキップ時、"
+                    "text": "턴 스킵시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178615,7 +178615,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamDebuffRecover",
-                    "text": "低下状態回復"
+                    "text": "저하 상태 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178675,7 +178675,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -178685,7 +178685,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178695,10 +178695,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（青）"
+            "name": "하츠보시 플래그(파랑)"
         },
         {
             "id": "pitem_tower_001-exam_full_power-1-stage_027",
@@ -178711,7 +178711,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178741,7 +178741,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -178751,7 +178751,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178781,7 +178781,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -178801,7 +178801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178814,7 +178814,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星フラッグ（紫）"
+            "name": "하츠보시 플래그 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_full_power-1-stage_027-1",
@@ -178827,7 +178827,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178857,7 +178857,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次に使用するスキルカードの効果をもう<nobr>"
+                    "text": "다음에 사용할 스킬 카드의 효과를 추가로 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -178877,7 +178877,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>発動（<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -178897,7 +178897,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>・<nobr>"
+                    "text": "회 </nobr>·<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -178917,7 +178917,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178947,7 +178947,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -178957,7 +178957,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -178967,10 +178967,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星フラッグ（青）"
+            "name": "하츠보시 플래그(파랑)"
         },
         {
             "id": "pitem_tower_001-exam_lesson_buff-1-stage_005",
@@ -181691,7 +181691,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181701,7 +181701,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、"
+                    "text": "시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181731,7 +181731,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181791,7 +181791,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlockAddDown",
-                    "text": "不安"
+                    "text": "불안"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181801,7 +181801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "∞ターン"
+                    "text": "∞턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181831,7 +181831,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaConsumptionAddFix",
-                    "text": "消費体力追加"
+                    "text": "소비 체력 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181891,7 +181891,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-                    "text": "手札減少"
+                    "text": "패 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181921,7 +181921,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "</nobr>（∞ターン）"
+                    "text": "</nobr>(∞턴)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181951,7 +181951,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -181961,7 +181961,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181971,10 +181971,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星オブジェ（紫）"
+            "name": "하츠보시 오브젝트 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_lesson_buff-1-stage_026-1",
@@ -181987,7 +181987,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターンスキップ時、"
+                    "text": "턴 스킵시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182017,7 +182017,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamDebuffRecover",
-                    "text": "低下状態回復"
+                    "text": "저하 상태 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182077,7 +182077,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -182087,7 +182087,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182097,10 +182097,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星オブジェ（銀）"
+            "name": "하츠보시 오브제(은)"
         },
         {
             "id": "pitem_tower_001-exam_lesson_buff-1-stage_027",
@@ -182113,7 +182113,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182143,7 +182143,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -182153,7 +182153,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182183,7 +182183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -182203,7 +182203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182216,7 +182216,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星オブジェ（紫）"
+            "name": "하츠보시 오브젝트 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_lesson_buff-1-stage_027-1",
@@ -182229,7 +182229,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182259,7 +182259,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次に使用するスキルカードの効果をもう<nobr>"
+                    "text": "다음에 사용할 스킬 카드의 효과를 추가로 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -182279,7 +182279,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>発動（<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -182299,7 +182299,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>・<nobr>"
+                    "text": "회 </nobr>·<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -182319,7 +182319,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182349,7 +182349,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -182359,7 +182359,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -182369,10 +182369,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星オブジェ（銀）"
+            "name": "하츠보시 오브제(은)"
         },
         {
             "id": "pitem_tower_001-exam_lesson_buff-2-stage_005",
@@ -186281,7 +186281,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186291,7 +186291,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、"
+                    "text": "시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186321,7 +186321,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186381,7 +186381,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlockAddDown",
-                    "text": "不安"
+                    "text": "불안"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186391,7 +186391,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "∞ターン"
+                    "text": "∞턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186421,7 +186421,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaConsumptionAddFix",
-                    "text": "消費体力追加"
+                    "text": "소비 체력 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186481,7 +186481,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-                    "text": "手札減少"
+                    "text": "패 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186511,7 +186511,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "</nobr>（∞ターン）"
+                    "text": "</nobr>(∞턴)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186541,7 +186541,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -186551,7 +186551,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186561,10 +186561,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星オブジェ（紫）"
+            "name": "하츠보시 오브젝트 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_parameter_buff-1-stage_026-1",
@@ -186577,7 +186577,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターンスキップ時、"
+                    "text": "턴 스킵시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186607,7 +186607,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamDebuffRecover",
-                    "text": "低下状態回復"
+                    "text": "저하 상태 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186667,7 +186667,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -186677,7 +186677,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186687,10 +186687,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星オブジェ（銀）"
+            "name": "하츠보시 오브제(은)"
         },
         {
             "id": "pitem_tower_001-exam_parameter_buff-1-stage_027",
@@ -186703,7 +186703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186733,7 +186733,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -186743,7 +186743,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186773,7 +186773,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -186793,7 +186793,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186806,7 +186806,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星オブジェ（紫）"
+            "name": "하츠보시 오브젝트 (보라색)"
         },
         {
             "id": "pitem_tower_001-exam_parameter_buff-1-stage_027-1",
@@ -186819,7 +186819,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186849,7 +186849,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次に使用するスキルカードの効果をもう<nobr>"
+                    "text": "다음에 사용할 스킬 카드의 효과를 추가로 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -186869,7 +186869,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>発動（<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -186889,7 +186889,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>・<nobr>"
+                    "text": "회 </nobr>·<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -186909,7 +186909,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186939,7 +186939,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -186949,7 +186949,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -186959,10 +186959,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星オブジェ（銀）"
+            "name": "하츠보시 오브제(은)"
         },
         {
             "id": "pitem_tower_001-exam_parameter_buff-2-stage_005",
@@ -190841,7 +190841,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190851,7 +190851,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、"
+                    "text": "시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190881,7 +190881,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190941,7 +190941,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlockAddDown",
-                    "text": "不安"
+                    "text": "불안"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190951,7 +190951,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "∞ターン"
+                    "text": "∞턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -190981,7 +190981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaConsumptionAddFix",
-                    "text": "消費体力追加"
+                    "text": "소비 체력 추가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191041,7 +191041,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-                    "text": "手札減少"
+                    "text": "패 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191071,7 +191071,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "</nobr>（∞ターン）"
+                    "text": "</nobr>(∞턴)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191101,7 +191101,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -191111,7 +191111,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191121,10 +191121,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星ライト（紫）"
+            "name": "하츠보시 라이트(보라)"
         },
         {
             "id": "pitem_tower_001-exam_review-1-stage_026-1",
@@ -191137,7 +191137,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターンスキップ時、"
+                    "text": "턴 스킵시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191167,7 +191167,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamDebuffRecover",
-                    "text": "低下状態回復"
+                    "text": "저하 상태 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191227,7 +191227,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -191237,7 +191237,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191247,10 +191247,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星ライト（オレンジ）"
+            "name": "하츠보시 라이트(주황색)"
         },
         {
             "id": "pitem_tower_001-exam_review-1-stage_027",
@@ -191263,7 +191263,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191293,7 +191293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -191303,7 +191303,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonValueMultipleDown",
-                    "text": "パラメータ上昇量減少"
+                    "text": "파라미터 상승량 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191333,7 +191333,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "%</nobr>（<nobr>"
+                    "text": "%</nobr>(<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -191353,7 +191353,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191366,7 +191366,7 @@
                     "text": ""
                 }
             ],
-            "name": "初星ライト（紫）"
+            "name": "하츠보시 라이트(보라)"
         },
         {
             "id": "pitem_tower_001-exam_review-1-stage_027-1",
@@ -191379,7 +191379,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、"
+                    "text": "턴 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191409,7 +191409,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次に使用するスキルカードの効果をもう<nobr>"
+                    "text": "다음에 사용할 스킬 카드의 효과를 추가로 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -191429,7 +191429,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>発動（<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -191449,7 +191449,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "回</nobr>・<nobr>"
+                    "text": "회 </nobr>·<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -191469,7 +191469,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>）"
+                    "text": "턴 </nobr>)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191499,7 +191499,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（"
+                    "text": "("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -191509,7 +191509,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191519,10 +191519,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "内1回）"
+                    "text": "내 1회)"
                 }
             ],
-            "name": "初星ライト（オレンジ）"
+            "name": "하츠보시 라이트(주황색)"
         },
         {
             "id": "pitem_tower_001-exam_review-2-stage_005",

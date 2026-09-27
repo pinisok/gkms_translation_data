@@ -3899,72 +3899,72 @@
         },
         {
             "id": "p_story-003-fktn-after_step_before_audition_mid1-1",
-            "title": "当日",
+            "title": "당일",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-before-selection-01-01",
-            "title": "第1回『選抜試験』へ",
+            "title": "제1회 『선발시험』으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-before-selection-02-01",
-            "title": "第2回『選抜試験』へ",
+            "title": "제2회 『선발시험』으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-before-selection-03-01",
-            "title": "第3回『選抜試験』へ",
+            "title": "제3회 『선발시험』으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-final-failure-01",
-            "title": "まだ、終わらせたくない",
+            "title": "아직, 끝내고 싶지 않아",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-main_match-opening-01",
-            "title": "いざ『H.I.F本戦』！",
+            "title": "드디어 『H.I.F 본선』!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-produce-007-after-selection-01-01",
-            "title": "『H.I.F選抜試験』第1回突破！",
+            "title": "『H.I.F 선발시험』 1회 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-produce-007-after-selection-02-01",
-            "title": "『H.I.F選抜試験』第2回突破！",
+            "title": "『H.I.F 선발시험』 2회 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-produce-007-after-selection-03-01",
-            "title": "『H.I.F選抜試験』第3回突破！",
+            "title": "『H.I.F 선발시험』 3회 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-produce-007-selection-ending-a-01",
-            "title": "『H.I.F選抜試験』突破！",
+            "title": "『H.I.F 선발시험』 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-produce-008-after-final-01-01",
-            "title": "『H.I.F本戦』ラウンド1終了！",
+            "title": "『H.I.F 본선』 라운드1 종료!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-produce-008-final-ending-a-01",
-            "title": "『H.I.F本戦』優勝！",
+            "title": "『H.I.F 본선』 우승!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-selection-failure-01",
-            "title": "まだ、終われない",
+            "title": "아직, 끝낼 수 없어",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-fktn-selection-opening-02",
-            "title": "めざせ『選抜試験』突破！",
+            "title": "목표는 『선발시험』 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -4249,72 +4249,72 @@
         },
         {
             "id": "p_story-003-jsna-after_step_before_audition_mid1-1",
-            "title": "当日",
+            "title": "당일",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-before-selection-01-01",
-            "title": "第1回『選抜試験』へ",
+            "title": "제1회 『선발시험』으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-before-selection-02-01",
-            "title": "第2回『選抜試験』へ",
+            "title": "제2회 『선발시험』으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-before-selection-03-01",
-            "title": "第3回『選抜試験』へ",
+            "title": "제3회 『선발시험』으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-final-failure-01",
-            "title": "まだ、終わらせたくない",
+            "title": "아직, 끝내고 싶지 않아",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-main_match-opening-01",
-            "title": "いざ『H.I.F本戦』！",
+            "title": "드디어 『H.I.F 본선』!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-produce-007-after-selection-01-01",
-            "title": "『H.I.F選抜試験』第1回突破！",
+            "title": "『H.I.F 선발시험』 1회 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-produce-007-after-selection-02-01",
-            "title": "『H.I.F選抜試験』第2回突破！",
+            "title": "『H.I.F 선발시험』 2회 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-produce-007-after-selection-03-01",
-            "title": "『H.I.F選抜試験』第3回突破！",
+            "title": "『H.I.F 선발시험』 3회 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-produce-007-selection-ending-a-01",
-            "title": "『H.I.F選抜試験』突破！",
+            "title": "『H.I.F 선발시험』 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-produce-008-after-final-01-01",
-            "title": "『H.I.F本戦』ラウンド1終了！",
+            "title": "『H.I.F 본선』 라운드1 종료!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-produce-008-final-ending-a-01",
-            "title": "『H.I.F本戦』優勝！",
+            "title": "『H.I.F 본선』 우승!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-selection-failure-01",
-            "title": "まだ、終われない",
+            "title": "아직, 끝낼 수 없어",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-003-jsna-selection-opening-02",
-            "title": "めざせ『選抜試験』突破！",
+            "title": "목표는 『선발시험』 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11624,132 +11624,132 @@
         },
         {
             "id": "p_story-event-003_fktn_activity_021",
-            "title": "自由なドリンク",
+            "title": "자유로운 음료",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_activity_022",
-            "title": "水族館デート？",
+            "title": "수족관 데이트?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_012",
-            "title": "評価される歌",
+            "title": "평가받는 노래",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_013",
-            "title": "意識すべき歌",
+            "title": "의식해야 할 노래",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_014",
-            "title": "今日のボーカル授業",
+            "title": "오늘의 보컬 수업",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_015",
-            "title": "『H.I.F』で必要な力",
+            "title": "『H.I.F』에서 필요한 힘",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_016",
-            "title": "プロデューサーについて",
+            "title": "프로듀서에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_017",
-            "title": "『一番星』十王星南",
+            "title": "『샛별』 주오 세나",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_018",
-            "title": "評価されるダンス",
+            "title": "평가받는 댄스",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_019",
-            "title": "意識すべきダンス",
+            "title": "의식해야 할 댄스",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_020",
-            "title": "今日のダンス授業",
+            "title": "오늘의 댄스 수업",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_021",
-            "title": "『一番星』に相応しい人物",
+            "title": "『샛별』에 어울리는 인물",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_022",
-            "title": "ソロとユニットについて",
+            "title": "솔로와 유닛에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_023",
-            "title": "『H.I.F』について",
+            "title": "『H.I.F』에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_024",
-            "title": "評価されるビジュアル",
+            "title": "평가받는 비주얼",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_025",
-            "title": "意識すべきビジュアル",
+            "title": "의식해야 할 비주얼",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_026",
-            "title": "今日のビジュアル授業",
+            "title": "오늘의 비주얼 수업",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_027",
-            "title": "プロデュースについて",
+            "title": "프로듀스에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_028",
-            "title": "『一番星』になったら",
+            "title": "『샛별』이 되면",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_029",
-            "title": "100プロについて",
+            "title": "100프로에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_030",
-            "title": "コンディションチェック～",
+            "title": "컨디션 체크~",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_031",
-            "title": "今の心境はどうですか～？",
+            "title": "지금 심경은 어떠세요~?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_032",
-            "title": "コンディションチェック！",
+            "title": "컨디션 체크!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_033",
-            "title": "今の心境はどうだ？",
+            "title": "지금 심경은 어때?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_034",
-            "title": "コンディションチェック♪",
+            "title": "컨디션 체크♪",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_school_035",
-            "title": "今の心境はどう？",
+            "title": "지금 심경은 어때?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12274,132 +12274,132 @@
         },
         {
             "id": "p_story-event-003_jsna_activity_021",
-            "title": "憧れのメニュー！",
+            "title": "꿈에 그리던 메뉴!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_activity_022",
-            "title": "水族館で気になるもの",
+            "title": "수족관에서 눈길이 가는 것",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_012",
-            "title": "評価される歌",
+            "title": "평가받는 노래",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_013",
-            "title": "意識すべき歌",
+            "title": "의식해야 할 노래",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_014",
-            "title": "今日のボーカル授業",
+            "title": "오늘의 보컬 수업",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_015",
-            "title": "『H.I.F』で必要な力",
+            "title": "『H.I.F』에서 필요한 힘",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_016",
-            "title": "プロデューサーについて",
+            "title": "프로듀서에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_017",
-            "title": "担当アイドルは『一番星』",
+            "title": "담당 아이돌은 『샛별』",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_018",
-            "title": "評価されるダンス",
+            "title": "평가받는 댄스",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_019",
-            "title": "意識すべきダンス",
+            "title": "의식해야 할 댄스",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_020",
-            "title": "今日のダンス授業",
+            "title": "오늘의 댄스 수업",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_021",
-            "title": "『一番星』に相応しい人物",
+            "title": "『샛별』에 어울리는 인물",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_022",
-            "title": "ソロとユニットについて",
+            "title": "솔로와 유닛에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_023",
-            "title": "『H.I.F』について",
+            "title": "『H.I.F』에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_024",
-            "title": "評価されるビジュアル",
+            "title": "평가받는 비주얼",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_025",
-            "title": "意識すべきビジュアル",
+            "title": "의식해야 할 비주얼",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_026",
-            "title": "今日のビジュアル授業",
+            "title": "오늘의 비주얼 수업",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_027",
-            "title": "プロデュースについて",
+            "title": "프로듀스에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_028",
-            "title": "『一番星』のその先へ",
+            "title": "『샛별』 그 너머로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_029",
-            "title": "100プロについて",
+            "title": "100프로에 대하여",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_030",
-            "title": "コンディションチェック～",
+            "title": "컨디션 체크~",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_031",
-            "title": "今の心境はどうですか～？",
+            "title": "지금 심경은 어떠세요~?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_032",
-            "title": "コンディションチェック！",
+            "title": "컨디션 체크!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_033",
-            "title": "今の心境はどうだ？",
+            "title": "지금 심경은 어때?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_034",
-            "title": "コンディションチェック♪",
+            "title": "컨디션 체크♪",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_school_035",
-            "title": "今の心境はどう？",
+            "title": "지금 심경은 어때?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -14014,17 +14014,17 @@
         },
         {
             "id": "p_story-i_card-jsna-3-017-01",
-            "title": "ガラクタロード 1話",
+            "title": "잡동사니 로드 1화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-i_card-jsna-3-017-02",
-            "title": "ガラクタロード 2話",
+            "title": "잡동사니 로드 2화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-i_card-jsna-3-017-03",
-            "title": "ガラクタロード 3話",
+            "title": "잡동사니 로드 3화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -17194,17 +17194,17 @@
         },
         {
             "id": "p_story-s_card-3-0099-01",
-            "title": "先生をやる理由は？",
+            "title": "선생님이 된 이유는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0099-02",
-            "title": "先生のイメージは？",
+            "title": "선생님의 이미지는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0099-03",
-            "title": "先生は何者？",
+            "title": "선생님의 정체는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -17359,17 +17359,17 @@
         },
         {
             "id": "p_story-s_card-3-0110-01",
-            "title": "回転寿司は奥が深い",
+            "title": "회전초밥은 심오해",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0110-02",
-            "title": "ときには貪欲に！",
+            "title": "때로는 욕심껏!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0110-03",
-            "title": "受け継がれる伝統",
+            "title": "이어지는 전통",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

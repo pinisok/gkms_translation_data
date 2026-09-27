@@ -121,7 +121,7 @@
             "id": "music-all-015-inst",
             "title": "시루베 [Instrumental]",
             "displayTitle": "시루베 [Instrumental]",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -289,7 +289,7 @@
             "id": "music-all-amao-015",
             "title": "시루베",
             "displayTitle": "시루베",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -543,11 +543,11 @@
         },
         {
             "id": "music-all-fktn-016",
-            "title": "ガラクタロード",
-            "displayTitle": "ガラクタロード",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
             "lyrics": "Rou-hou",
-            "composer": "佐藤貴文",
-            "arranger": "鈴木俊介、大澤めい (Bandai Namco Studios Inc.)"
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-fktn-017",
@@ -1223,11 +1223,11 @@
         },
         {
             "id": "music-all-jsna-016",
-            "title": "ガラクタロード",
-            "displayTitle": "ガラクタロード",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
             "lyrics": "Rou-hou",
-            "composer": "佐藤貴文",
-            "arranger": "鈴木俊介、大澤めい (Bandai Namco Studios Inc.)"
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-jsna-017",
@@ -1361,7 +1361,7 @@
             "id": "music-all-kcna-015",
             "title": "시루베",
             "displayTitle": "시루베",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -1793,7 +1793,7 @@
             "id": "music-all-ssmk-015",
             "title": "시루베",
             "displayTitle": "시루베",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -3111,19 +3111,19 @@
         },
         {
             "id": "music-char-shro-006",
-            "title": "め",
-            "displayTitle": "め",
-            "lyrics": "虻瀬犬",
-            "composer": "虻瀬犬",
-            "arranger": "虻瀬犬"
+            "title": "메",
+            "displayTitle": "메",
+            "lyrics": "아부세켄",
+            "composer": "아부세켄",
+            "arranger": "아부세켄"
         },
         {
             "id": "music-char-shro-006-inst",
-            "title": "め [Instrumental]",
-            "displayTitle": "め [Instrumental]",
-            "lyrics": "虻瀬犬",
-            "composer": "虻瀬犬",
-            "arranger": "虻瀬犬"
+            "title": "메 [Instrumental]",
+            "displayTitle": "메 [Instrumental]",
+            "lyrics": "아부세켄",
+            "composer": "아부세켄",
+            "arranger": "아부세켄"
         },
         {
             "id": "music-char-ssmk-001",

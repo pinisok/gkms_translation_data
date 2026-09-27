@@ -36057,7 +36057,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "プロデュース開始時、"
+                    "text": "프로듀스 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -36067,7 +36067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-100_039",
-                    "text": "好きを集める一番星"
+                    "text": "좋아하는 마음을 모으는 샛별 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36077,7 +36077,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\n"
+                    "text": "획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36087,7 +36087,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival_Final",
-                    "text": "H.I.F本戦専用　"
+                    "text": "H.I.F 본선 전용　"
                 }
             ]
         },
@@ -36379,7 +36379,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "プロデュース開始時、"
+                    "text": "프로듀스 시작 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -36389,7 +36389,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-ido-100_048",
-                    "text": "夢を追い続ける一番星"
+                    "text": "꿈을 계속 좇는 샛별 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36399,7 +36399,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\n"
+                    "text": "획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36409,7 +36409,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival_Final",
-                    "text": "H.I.F本戦専用　"
+                    "text": "H.I.F 본선 전용　"
                 }
             ]
         },
@@ -37447,7 +37447,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ダンス上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37467,7 +37467,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37477,7 +37477,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37487,7 +37487,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37503,7 +37503,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ダンス上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37523,7 +37523,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37533,7 +37533,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37543,7 +37543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37559,7 +37559,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ダンス上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37579,7 +37579,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37589,7 +37589,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37599,7 +37599,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37615,7 +37615,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37635,7 +37635,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37645,7 +37645,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37655,7 +37655,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37671,7 +37671,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37691,7 +37691,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37701,7 +37701,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37711,7 +37711,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37727,7 +37727,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37747,7 +37747,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37757,7 +37757,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37767,7 +37767,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37783,7 +37783,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ボーカル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37803,7 +37803,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37813,7 +37813,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37823,7 +37823,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37839,7 +37839,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ボーカル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37859,7 +37859,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37869,7 +37869,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37879,7 +37879,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -37895,7 +37895,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ボーカル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37915,7 +37915,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37925,7 +37925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37935,7 +37935,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -41687,7 +41687,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41697,7 +41697,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ダンス上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41717,7 +41717,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41727,7 +41727,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41737,7 +41737,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -41753,7 +41753,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41763,7 +41763,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ダンス上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41783,7 +41783,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41793,7 +41793,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41803,7 +41803,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -41819,7 +41819,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41829,7 +41829,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ダンス上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41849,7 +41849,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41859,7 +41859,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41869,7 +41869,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -41885,7 +41885,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41895,7 +41895,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ビジュアル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41915,7 +41915,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41925,7 +41925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41935,7 +41935,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -41951,7 +41951,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41961,7 +41961,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ビジュアル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41981,7 +41981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41991,7 +41991,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42001,7 +42001,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -42017,7 +42017,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42027,7 +42027,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ビジュアル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42047,7 +42047,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42057,7 +42057,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42067,7 +42067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -42083,7 +42083,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42093,7 +42093,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ボーカル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42113,7 +42113,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42123,7 +42123,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42133,7 +42133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -42149,7 +42149,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42159,7 +42159,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ボーカル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42179,7 +42179,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42189,7 +42189,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42199,7 +42199,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -42215,7 +42215,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Audition",
-                    "text": "試験・オーディション"
+                    "text": "시험·오디션"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42225,7 +42225,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ボーカル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42245,7 +42245,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42255,7 +42255,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "5回"
+                    "text": "5회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42265,7 +42265,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -52567,7 +52567,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード獲得時、所持している"
+                    "text": "스킬 카드 획득 시, 보유 중인 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -52577,7 +52577,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52587,7 +52587,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカードが8枚以上の場合、ボーカル上昇+"
+                    "text": "효과의 스킬 카드가 8장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -52607,7 +52607,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52617,7 +52617,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52627,7 +52627,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -52643,7 +52643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード獲得時、所持している"
+                    "text": "스킬 카드 획득 시, 보유 중인 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -52653,7 +52653,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52663,7 +52663,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカードが8枚以上の場合、ボーカル上昇+"
+                    "text": "효과의 스킬 카드가 8장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -52683,7 +52683,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52693,7 +52693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52703,7 +52703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -52719,7 +52719,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード獲得時、所持している"
+                    "text": "스킬 카드 획득 시, 보유 중인 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -52729,7 +52729,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52739,7 +52739,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカードが8枚以上の場合、ボーカル上昇+"
+                    "text": "효과의 스킬 카드가 8장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -52759,7 +52759,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52769,7 +52769,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52779,7 +52779,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -53479,7 +53479,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード獲得時、所持している"
+                    "text": "스킬 카드 획득 시, 보유 중인 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -53489,7 +53489,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53499,7 +53499,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカードが8枚以上の場合、ダンス上昇+"
+                    "text": "효과의 스킬 카드가 8장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -53519,7 +53519,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53529,7 +53529,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53539,7 +53539,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -53555,7 +53555,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード獲得時、所持している"
+                    "text": "스킬 카드 획득 시, 보유 중인 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -53565,7 +53565,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53575,7 +53575,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカードが8枚以上の場合、ダンス上昇+"
+                    "text": "효과의 스킬 카드가 8장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -53595,7 +53595,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53605,7 +53605,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53615,7 +53615,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },

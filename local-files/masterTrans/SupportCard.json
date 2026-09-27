@@ -1495,7 +1495,7 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率中"
+                    "text": " / 확률 중"
                 }
             ],
             "name": "아주 매운맛!　하츠보시 카레!!"
@@ -3095,10 +3095,10 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率大"
+                    "text": " / 확률 대"
                 }
             ],
-            "name": "もうすぐ本番ですね"
+            "name": "곧 실전이네요"
         },
         {
             "id": "s_card-3-0100",
@@ -3255,7 +3255,7 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率大"
+                    "text": " / 확률 대"
                 }
             ],
             "name": "나한테, 맡겨 줘"
@@ -3274,7 +3274,7 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "イクラ～♪　ウニ～♪"
+            "name": "연어알~♪　성게~♪"
         }
     ]
 }
