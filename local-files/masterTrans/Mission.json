@@ -39,7 +39,7 @@
         },
         {
             "id": "dearness_event_atbm-001",
-            "name": "雨夜 燕のダンスを1800以上に育成してプロデュースをクリア\t\t\t\t"
+            "name": "아마야 츠바메의 댄스를 1800 이상으로 육성하여 프로듀스를 클리어"
         },
         {
             "id": "dearness_event_atbm-002",
@@ -6651,11 +6651,11 @@
         },
         {
             "id": "mission-research-event-008-mission_10",
-            "name": "スキルカード「至高のエンタメ」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「최고의 엔터테인먼트」를 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-008-mission_11",
-            "name": "スキルカード「ひと呼吸」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「한숨」을 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-008-mission_12",
@@ -10099,7 +10099,7 @@
         },
         {
             "id": "achieve-i_card-shro-3-022-01",
-            "name": "【め】篠澤 広のプロデュースで最終試験に合格"
+            "name": "【메】시노사와 히로의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-shro-3-022-02",
@@ -10107,7 +10107,7 @@
         },
         {
             "id": "achieve-i_card-shro-3-022-03",
-            "name": "【め】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【메】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-shro-3-022-04",

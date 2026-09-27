@@ -319,7 +319,7 @@
         },
         {
             "id": "setting.produce.exit_interval_confirm",
-            "description": "インターバル終了確認\r"
+            "description": "인터벌 종료 확인"
         },
         {
             "id": "setting.produce.exit_interval_confirm.description",

@@ -335,7 +335,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
-            "name": "強化状態コスト増加"
+            "name": "강화 상태 비용 증가"
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",

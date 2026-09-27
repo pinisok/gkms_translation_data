@@ -2977,32 +2977,32 @@
         },
         {
             "id": "achieve-i_card-shro-3-022-01",
-            "name": "わたしは、風！",
-            "description": "【め】篠澤 広のプロデュースで最終試験に合格"
+            "name": "나는 바람!",
+            "description": "【메】시노사와 히로의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-shro-3-022-02",
-            "name": "め",
+            "name": "메",
             "description": "【め】篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-shro-3-022-03",
-            "name": "この初心を、もう一度",
-            "description": "【め】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "이 초심을, 다시 한번",
+            "description": "【메】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-shro-3-022-04",
-            "name": "め +",
+            "name": "메 +",
             "description": "【め】篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-shro-3-022-05",
-            "name": "め ++",
+            "name": "메 ++",
             "description": "【め】篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-shro-3-022-06",
-            "name": "め +++",
+            "name": "메 +++",
             "description": "【め】篠澤 広の特訓段階を{threshold}にする"
         },
         {
