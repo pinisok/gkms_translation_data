@@ -13,42 +13,6 @@
     },
     "data": [
         {
-            "id": "Description_LessonCountAdd_CountSection",
-            "produceDescriptions": [
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "("
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_Exam",
-                    "examDescriptionType": "ExamDescriptionType_CustomizeEffectCount",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": ""
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "번)"
-                }
-            ],
-            "name": ""
-        },
-        {
             "id": "Convert_001",
             "produceDescriptions": [],
             "name": "레슨"
@@ -107,6 +71,42 @@
             "id": "Convert_StepLessonType_VocalLesson",
             "produceDescriptions": [],
             "name": "【보컬 레슨·보컬 턴일 때】"
+        },
+        {
+            "id": "Description_LessonCountAdd_CountSection",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "("
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_Exam",
+                    "examDescriptionType": "ExamDescriptionType_CustomizeEffectCount",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ""
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "번)"
+                }
+            ],
+            "name": ""
         },
         {
             "id": "Description_ProduceCardIsInitial",
@@ -636,7 +636,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "スキルカードの使用に必要な"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -646,7 +646,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의욕 "
+                    "text": "やる気"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -656,7 +656,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
+                    "text": "を減少\r\n異なる強化状態コストには影響しない"
                 }
             ],
             "name": "의욕 비용 감소"
@@ -740,7 +740,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "スキルカードの使用に必要な"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -750,7 +750,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "전력치"
+                    "text": "全力値"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -760,7 +760,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
+                    "text": "を減少\r\n異なる強化状態コストには影響しない"
                 }
             ],
             "name": "전력 비용 감소"
@@ -812,7 +812,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "スキルカードの使用に必要な"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -822,7 +822,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "집중 "
+                    "text": "集中"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -832,7 +832,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
+                    "text": "を減少\r\n異なる強化状態コストには影響しない"
                 }
             ],
             "name": "집중 비용 감소"
@@ -920,7 +920,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "スキルカードの使用に必要な"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -930,7 +930,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "절호조 "
+                    "text": "絶好調"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -940,7 +940,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
+                    "text": "を減少\r\n異なる強化状態コストには影響しない"
                 }
             ],
             "name": "절호조 비용 감소"
@@ -956,7 +956,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "スキルカードの使用に必要な"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -966,7 +966,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "호조 "
+                    "text": "好調"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -976,7 +976,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
+                    "text": "を減少\r\n異なる強化状態コストには影響しない"
                 }
             ],
             "name": "호조 비용 감소"
@@ -1136,7 +1136,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "スキルカードの使用に必要な"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1146,7 +1146,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "호인상 "
+                    "text": "好印象"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1156,7 +1156,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
+                    "text": "を減少\r\n異なる強化状態コストには影響しない"
                 }
             ],
             "name": "호인상 비용 감소"
@@ -1574,6 +1574,48 @@
                 }
             ],
             "name": "원기 증가 무효"
+        },
+        {
+            "id": "Label_ExamBuffConsumptionAdd_Exam",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "スキルカードコストとして消費する強化状態の消費量が100%増加"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_Exam",
+                    "examDescriptionType": "ExamDescriptionType_ExamTurn",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ""
+                }
+            ],
+            "name": "強化状態コスト増加"
+        },
+        {
+            "id": "Label_ExamBuffConsumptionAdd_Produce",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "スキルカードコストとして消費する強化状態の消費量が100%増加"
+                }
+            ],
+            "name": "強化状態コスト増加"
         },
         {
             "id": "Label_ExamCardCreateId",
@@ -2048,7 +2090,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "지침을 "
+                    "text": "指針を"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2058,7 +2100,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "강기 "
+                    "text": "強気"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2068,7 +2110,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "(으)로 변경\n이미 "
+                    "text": "に変更する\nすでに"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2078,7 +2120,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "강기 "
+                    "text": "強気"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2088,7 +2130,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "일 때, 2단계로 변경\n\n▼1단계째\n"
+                    "text": "の場合、2段階目になる\r\n\n▼1段階目\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2098,7 +2140,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "파라미터 "
+                    "text": "パラメータ"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2108,7 +2150,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승량과 소비체력을 100% 증가\n\n▼2단계째\n"
+                    "text": "上昇量と消費体力を100%増加\n\n▼2段階目\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2118,7 +2160,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "파라미터 "
+                    "text": "パラメータ"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2128,7 +2170,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승량을 150% 증가·소비 체력이 100% 증가\n스킬 카드를 사용할 때마다, "
+                    "text": "上昇量を150%増加・消費体力が100%増加\nスキルカードを使うごとに、"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2138,7 +2180,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "체력소비"
+                    "text": "体力消費"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5409,7 +5451,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "지침을 "
+                    "text": "指針を"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5419,7 +5461,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "온존 "
+                    "text": "温存"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5429,7 +5471,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "(으)로 변경\n이미 "
+                    "text": "に変更する\nすでに"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5439,7 +5481,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "온존 "
+                    "text": "温存"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5449,7 +5491,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "일 때, 2단계로 변경\n\n▼1단계째\n"
+                    "text": "の場合、2段階目になる\r\n\n▼1段階目\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5459,7 +5501,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "파라미터 "
+                    "text": "パラメータ"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5469,7 +5511,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승치와 소비체력을 50% 감소\n해제되면, "
+                    "text": "上昇量と消費体力を50%減少\n解除されたとき、"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5479,7 +5521,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "열의"
+                    "text": "熱意"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5489,7 +5531,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+5·"
+                    "text": "+5・"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5499,7 +5541,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 횟수 추가"
+                    "text": "スキルカード使用数追加"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5509,7 +5551,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+1\n\n▼2단계째\n"
+                    "text": "+1\n\n▼2段階目\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5519,7 +5561,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "파라미터 "
+                    "text": "パラメータ"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5529,7 +5571,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승치과 소비체력을 75% 감소\n해제되면, "
+                    "text": "上昇量と消費体力を75%減少\n解除されたとき、"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5539,7 +5581,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "열의"
+                    "text": "熱意"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5549,7 +5591,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+8·"
+                    "text": "+8・"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5559,7 +5601,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "고정 원기"
+                    "text": "固定元気"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5569,7 +5611,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+5·"
+                    "text": "+5・"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5579,7 +5621,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 횟수 추가"
+                    "text": "スキルカード使用数追加"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

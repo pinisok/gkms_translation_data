@@ -48,7 +48,7 @@
         {
             "id": "help-dearness-doost-campaign",
             "order": 11,
-            "name": "친애도 부스트 캠페인",
+            "name": "親愛度ブーストミッション",
             "texts": []
         },
         {
@@ -129,7 +129,7 @@
         {
             "id": "help-livetour-event",
             "order": 23,
-            "name": "시즌 이벤트",
+            "name": "스토리 이벤트",
             "texts": []
         },
         {

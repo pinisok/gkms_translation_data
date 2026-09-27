@@ -118,6 +118,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-015-inst",
+            "title": "시루베 [Instrumental]",
+            "displayTitle": "시루베 [Instrumental]",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
+        },
+        {
             "id": "music-all-016-inst",
             "title": "가라쿠타로드 [Instrumental]",
             "displayTitle": "가라쿠타로드 [Instrumental]",
@@ -276,6 +284,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-amao-015",
+            "title": "시루베",
+            "displayTitle": "시루베",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
         },
         {
             "id": "music-all-amao-016",
@@ -524,6 +540,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-fktn-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード",
+            "lyrics": "Rou-hou",
+            "composer": "佐藤貴文",
+            "arranger": "鈴木俊介、大澤めい (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-fktn-017",
@@ -1198,6 +1222,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-jsna-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード",
+            "lyrics": "Rou-hou",
+            "composer": "佐藤貴文",
+            "arranger": "鈴木俊介、大澤めい (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-jsna-017",
             "title": "GO MY WAY!! -주오 세나 cover-",
             "displayTitle": "GO MY WAY!! -주오 세나 cover-",
@@ -1324,6 +1356,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-kcna-015",
+            "title": "시루베",
+            "displayTitle": "시루베",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
         },
         {
             "id": "music-all-kcna-016",
@@ -1748,6 +1788,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-ssmk-015",
+            "title": "시루베",
+            "displayTitle": "시루베",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
         },
         {
             "id": "music-all-ssmk-016",
@@ -2207,8 +2255,8 @@
         },
         {
             "id": "music-bgm-01_036",
-            "title": "표 [BGM Arrange]",
-            "displayTitle": "표 [BGM Arrange]",
+            "title": "시루베 [BGM Arrange]",
+            "displayTitle": "시루베 [BGM Arrange]",
             "lyrics": "",
             "composer": "",
             "arranger": ""
@@ -3060,6 +3108,22 @@
             "lyrics": "마시마 유로",
             "composer": "마시마 유로",
             "arranger": "마시마 유로"
+        },
+        {
+            "id": "music-char-shro-006",
+            "title": "め",
+            "displayTitle": "め",
+            "lyrics": "虻瀬犬",
+            "composer": "虻瀬犬",
+            "arranger": "虻瀬犬"
+        },
+        {
+            "id": "music-char-shro-006-inst",
+            "title": "め [Instrumental]",
+            "displayTitle": "め [Instrumental]",
+            "lyrics": "虻瀬犬",
+            "composer": "虻瀬犬",
+            "arranger": "虻瀬犬"
         },
         {
             "id": "music-char-ssmk-001",

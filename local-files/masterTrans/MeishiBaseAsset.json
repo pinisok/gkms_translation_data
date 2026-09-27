@@ -27,7 +27,15 @@
         },
         {
             "id": "all-live-06",
-            "name": "LIVE TOUR -標- 후쿠이 공연 기념"
+            "name": "LIVE TOUR -시루베- 후쿠이 공연 기념"
+        },
+        {
+            "id": "all-live-07",
+            "name": "LIVE TOUR -시루베- 후쿠오카 공연 기념"
+        },
+        {
+            "id": "all-live-08",
+            "name": "LIVE TOUR -시루베- 이와테 공연 기념"
         },
         {
             "id": "amao-001",
@@ -152,6 +160,10 @@
         {
             "id": "event-story-024",
             "name": "학생회 1학년반의 일상"
+        },
+        {
+            "id": "event-story-025",
+            "name": "마지막 문화제"
         },
         {
             "id": "first-live-01",

@@ -47,6 +47,11 @@
             "title": "활동 지급·응원 선물 선택 시 체력 회복"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_card",
+            "order": 42,
+            "title": "相談でスキルカード交換後パラメータ上昇"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
             "order": 29,
             "title": "상담으로 P드링크 교환 시 파라미터 상승"
@@ -55,6 +60,11 @@
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",
             "order": 13,
             "title": "스킬 카드 변경 시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card-p_card_search-deck_all-starter",
+            "order": 38,
+            "title": "名前に「基本」を含むスキルカードチェンジ時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
@@ -80,6 +90,11 @@
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
             "order": 25,
             "title": "시험·오디션 종료시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition-produce_card_search_count-p_card_search-deck_all-0015_0000",
+            "order": 39,
+            "title": "試験・オーディション終了時所持スキルカードが15枚以上の場合パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
@@ -170,6 +185,16 @@
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
             "order": 34,
             "title": "스킬 카드(SSR) 획득 시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_full_power-000-0008_0000",
+            "order": 40,
+            "title": "スキルカード獲得時所持している全力効果のスキルカードが8枚以上の場合パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_preservation-000-0008_0000",
+            "order": 41,
+            "title": "スキルカード獲得時所持している温存効果のスキルカードが8枚以上の場合パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",

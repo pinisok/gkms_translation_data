@@ -13,6 +13,42 @@
     },
     "data": [
         {
+            "id": "event-detail-001-p_story-001-after-audition-final-failure-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-audition-mid-failure-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-1-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-1-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-1-normal-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-2-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-2-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-2-normal-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-amao-after-audition-final-failure-01",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-001-p_story-001-amao-after-audition-final-normal-01",
             "produceDescriptions": [
                 {
@@ -76,42 +112,6 @@
                     "text": "30"
                 }
             ]
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-audition-final-failure-01",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-audition-mid-failure-01",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-step-1-normal-01",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-step-1-normal-02",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-step-1-normal-03",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-step-2-normal-01",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-step-2-normal-02",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-after-step-2-normal-03",
-            "produceDescriptions": []
-        },
-        {
-            "id": "event-detail-001-p_story-001-amao-after-audition-final-failure-01",
-            "produceDescriptions": []
         },
         {
             "id": "event-detail-001-p_story-001-amao-after-audition-final-normal-02",
@@ -112994,6 +112994,18 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-p_story-i_card-amao-3-018-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-amao-3-018-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-amao-3-018-03",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-p_story-i_card-atbm-3-000-01",
             "produceDescriptions": []
         },
@@ -113630,6 +113642,18 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-p_story-i_card-jsna-3-017-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-jsna-3-017-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-jsna-3-017-03",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-p_story-i_card-jsna-3-020-01",
             "produceDescriptions": []
         },
@@ -113735,6 +113759,18 @@
         },
         {
             "id": "event-detail-p_story-i_card-kcna-3-016-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-kcna-3-018-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-kcna-3-018-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-kcna-3-018-03",
             "produceDescriptions": []
         },
         {
@@ -113942,6 +113978,18 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-p_story-i_card-shro-3-022-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-shro-3-022-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-shro-3-022-03",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-p_story-i_card-ssmk-3-001-01",
             "produceDescriptions": []
         },
@@ -114023,6 +114071,18 @@
         },
         {
             "id": "event-detail-p_story-i_card-ssmk-3-017-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-ssmk-3-018-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-ssmk-3-018-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-ssmk-3-018-03",
             "produceDescriptions": []
         },
         {
@@ -118720,6 +118780,56 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "비주얼 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "15"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-2-0080-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_03-2-134-0",
+                    "text": "限界への挑戦券"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-2-0080-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ダンス上昇+"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -126199,6 +126309,81 @@
             ]
         },
         {
+            "id": "event-detail-s_card-3-0099-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_00-3-352-0",
+                    "text": "素敵なお仕事"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0099-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0099-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ランダムな名前に「基本」を含むスキルカードを異なるスキルカードに"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ProduceCardChange",
+                    "text": "チェンジ"
+                }
+            ]
+        },
+        {
             "id": "event-detail-s_card-3-0100-01",
             "produceDescriptions": [
                 {
@@ -126870,6 +127055,156 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
                     "text": "강화"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0109-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-03-sup-3_252",
+                    "text": "うたたねレポート"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0109-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0109-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ランダムなスキルカードを"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ProduceCardUpgrade",
+                    "text": "強化"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0110-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_02-3-353-0",
+                    "text": "たらふくすし放題♪"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0110-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "비주얼 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0110-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "이름에 「기본」을 포함하는 무작위 스킬 카드를 다른 스킬카드로 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ProduceCardChange",
+                    "text": "변경"
                 }
             ]
         },

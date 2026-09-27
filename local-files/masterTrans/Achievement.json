@@ -246,6 +246,36 @@
             "description": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
         },
         {
+            "id": "achieve-i_card-amao-3-018-01",
+            "name": "受け止める光",
+            "description": "【시루베】아리무라 마오의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-02",
+            "name": "시루베",
+            "description": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-03",
+            "name": "世界で一番カッコイイ、王子様に",
+            "description": "【시루베】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-04",
+            "name": "시루베 +",
+            "description": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-05",
+            "name": "시루베 ++",
+            "description": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-06",
+            "name": "시루베 +++",
+            "description": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-atbm-2-000-01",
             "name": "자전일섬",
             "description": "【초지일관】아마야 츠바메의 프로듀스로 최종 시험에 합격"
@@ -2016,6 +2046,36 @@
             "description": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-jsna-3-017-01",
+            "name": "光り輝く道しるべ",
+            "description": "【ガラクタロード】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-02",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-03",
+            "name": "彼女の先を進む、私の姿を！",
+            "description": "【ガラクタロード】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-04",
+            "name": "ガラクタロード +",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-05",
+            "name": "ガラクタロード ++",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-06",
+            "name": "ガラクタロード +++",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-jsna-3-020-01",
             "name": "넋을 잃고 바라본 옆모습",
             "description": "【「있잖아, 고백할게.」】주오 세나의 프로듀스로 최종 시험에 합격"
@@ -2314,6 +2374,36 @@
             "id": "achieve-i_card-kcna-3-016-06",
             "name": "미지의 펼쳐지는 +++",
             "description": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-01",
+            "name": "出発進行ですわ～♪",
+            "description": "【시루베】쿠라모토 치나의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-02",
+            "name": "시루베",
+            "description": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-03",
+            "name": "相応しい、わたくしに",
+            "description": "【시루베】쿠라모토 치나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-04",
+            "name": "시루베 +",
+            "description": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-05",
+            "name": "시루베 ++",
+            "description": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-06",
+            "name": "시루베 +++",
+            "description": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-kllj-2-000-04",
@@ -2886,6 +2976,36 @@
             "description": "【가라쿠타 로드】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-shro-3-022-01",
+            "name": "わたしは、風！",
+            "description": "【め】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-02",
+            "name": "め",
+            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-03",
+            "name": "この初心を、もう一度",
+            "description": "【め】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-04",
+            "name": "め +",
+            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-05",
+            "name": "め ++",
+            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-06",
+            "name": "め +++",
+            "description": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ssmk-2-000-04",
             "name": "꿈으로의 리스타트+",
             "description": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
@@ -3124,6 +3244,36 @@
             "id": "achieve-i_card-ssmk-3-017-06",
             "name": "두근두근 이모션+++",
             "description": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-01",
+            "name": "応えたい気持ち",
+            "description": "【시루베】시운 스미카의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-02",
+            "name": "시루베",
+            "description": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-03",
+            "name": "この世界で、夢を叶えるから！",
+            "description": "【시루베】시운 스미카의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-04",
+            "name": "시루베 +",
+            "description": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-05",
+            "name": "시루베 ++",
+            "description": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-06",
+            "name": "시루베 +++",
+            "description": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",
@@ -4341,6 +4491,11 @@
             "description": "후지타 코토네로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-fktn-000-2",
+            "name": "あなたを幸せにします",
+            "description": "藤田 ことねでTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-fktn-001",
             "name": "QOL",
             "description": "후지타 코토네의 프로듀스에서 스킬 카드를 {threshold}회 사용"
@@ -4459,6 +4614,16 @@
             "id": "achieve-p_idol-fktn-024",
             "name": "할 수 있는 것 전~부",
             "description": "후지타 코토네로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-fktn-025",
+            "name": "夢の中で見ていた光景",
+            "description": "藤田 ことねでH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-026",
+            "name": "積み上げてきた成果",
+            "description": "藤田 ことねでH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-fktn-027",
@@ -5066,6 +5231,11 @@
             "description": "주오 세나로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-jsna-000-2",
+            "name": "私のモノになりなさい",
+            "description": "十王 星南でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-jsna-001",
             "name": "새로운 일면",
             "description": "주오 세나로 스킬 카드를 {threshold}회 사용"
@@ -5184,6 +5354,16 @@
             "id": "achieve-p_idol-jsna-024",
             "name": "우리의 두 가지 꿈",
             "description": "주오 세나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-jsna-025",
+            "name": "十王星南の遺産",
+            "description": "十王 星南でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-026",
+            "name": "私たちの物語",
+            "description": "十王 星南でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-jsna-027",

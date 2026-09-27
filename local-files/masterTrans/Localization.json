@@ -58,6 +58,14 @@
             "description": "아이돌 {1}명으로 평가 {0} 이상 획득"
         },
         {
+            "id": "high_score_event.event_info.caution_exam_effect",
+            "description": "※一部のプランのアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n※プロデュース「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません"
+        },
+        {
+            "id": "high_score_event.event_info.caution_plan",
+            "description": "※一部のプランのアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n※プロデュース「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません"
+        },
+        {
             "id": "high_score_event.top.adv.title_label",
             "description": "아이돌 강화의 달\\n~별들의 반짝임~"
         },
@@ -311,7 +319,7 @@
         },
         {
             "id": "setting.produce.exit_interval_confirm",
-            "description": "인터벌 종료 확인"
+            "description": "インターバル終了確認\r"
         },
         {
             "id": "setting.produce.exit_interval_confirm.description",
@@ -352,6 +360,10 @@
         {
             "id": "startup.gasha_point_expire_sheet.bottom_message",
             "description": "이 교환 Pt를 획득 가능한 가챠"
+        },
+        {
+            "id": "story.idol.others.birthday",
+            "description": "その他"
         },
         {
             "id": "story.story_event.section.normal_condition_lock_text",

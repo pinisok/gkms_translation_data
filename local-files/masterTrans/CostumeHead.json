@@ -1146,6 +1146,16 @@
             "description": "【ENDLESS DANCE】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_jsna-cstm-0136",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0137",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_jsna-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(주오 세나)을 구매"
@@ -1619,6 +1629,16 @@
             "id": "costume_head_shro-cstm-0137",
             "name": "가라쿠타로드",
             "description": "【가라쿠타 로드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0153",
+            "name": "め",
+            "description": "【め】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0154",
+            "name": "め",
+            "description": "【め】篠澤 広の才能開花4段階目で入手"
         },
         {
             "id": "costume_head_shro-hair-0001",

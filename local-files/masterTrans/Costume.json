@@ -181,6 +181,16 @@
             "description": "【Fluorite】'26 GO MY WAY!! 아리무라 마오 입수"
         },
         {
+            "id": "amao-cstm-0141",
+            "name": "시루베",
+            "description": "【시루베】아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0142",
+            "name": "시루베",
+            "description": "【시루베】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
             "id": "amao-cstm-0175",
             "name": "「있잖아, 고백할게.」(원피스)",
             "description": "【Fluorite】'26 수영복 아리무라 마오 입수"
@@ -1571,6 +1581,16 @@
             "description": "【ENDLESS DANCE】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "jsna-cstm-0136",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0137",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "jsna-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【작은 야망】'26 GO MY WAY!! 주오 세나 입수"
@@ -1784,6 +1804,16 @@
             "id": "kcna-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【Wonder Scale】'26 GO MY WAY!! 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0141",
+            "name": "시루베",
+            "description": "【시루베】쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0142",
+            "name": "시루베",
+            "description": "【시루베】쿠라모토 치나의 재능 개화 4단계 달성"
         },
         {
             "id": "kcna-cstm-0175",
@@ -2256,6 +2286,16 @@
             "description": "【광경】'26 GO MY WAY!! 시노사와 히로 입수"
         },
         {
+            "id": "shro-cstm-0153",
+            "name": "め",
+            "description": "【め】篠澤 広を入手"
+        },
+        {
+            "id": "shro-cstm-0154",
+            "name": "め",
+            "description": "【め】篠澤 広の才能開花4段階目で入手"
+        },
+        {
             "id": "shro-cstm-0175",
             "name": "「있잖아, 고백할게.」(원피스)",
             "description": "【광경】'26 수영복 시노사와 히로 입수"
@@ -2454,6 +2494,16 @@
             "id": "ssmk-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【Tame-Lie-One-Step】'26 GO MY WAY!! 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0141",
+            "name": "시루베",
+            "description": "【시루베】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0142",
+            "name": "시루베",
+            "description": "【시루베】시운 스미카의 재능 개화 4단계 달성"
         },
         {
             "id": "ssmk-cstm-0175",

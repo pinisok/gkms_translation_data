@@ -234,7 +234,7 @@
         {
             "supportCardId": "s_card-2-0015",
             "number": 2,
-            "text": "아, 잠깐……! \n함부로 만지지마!"
+            "text": "あ、ちょっ……！\r\n勝手に触らないで！"
         },
         {
             "supportCardId": "s_card-2-0016",
@@ -1175,6 +1175,21 @@
             "supportCardId": "s_card-2-0079",
             "number": 3,
             "text": "으악!?　왜 후지타가 여기에!?"
+        },
+        {
+            "supportCardId": "s_card-2-0080",
+            "number": 1,
+            "text": "幻の学食メニュー、\n初星カレー《激辛》……！"
+        },
+        {
+            "supportCardId": "s_card-2-0080",
+            "number": 2,
+            "text": "月に3食しか注文されない、\n魔の料理。"
+        },
+        {
+            "supportCardId": "s_card-2-0080",
+            "number": 3,
+            "text": "か、かりゃい～～～～～！！！！！"
         },
         {
             "supportCardId": "s_card-3-0000",
@@ -2667,6 +2682,21 @@
             "text": "백전백승, 일의전심, 용왕매진……\n온 힘을 다해서 승리를 붙잡으러 가자!"
         },
         {
+            "supportCardId": "s_card-3-0099",
+            "number": 1,
+            "text": "皆さん、気合が入っていますね。"
+        },
+        {
+            "supportCardId": "s_card-3-0099",
+            "number": 2,
+            "text": "『H.I.F』直前は、前のめりになる\nアイドルも多いですから。"
+        },
+        {
+            "supportCardId": "s_card-3-0099",
+            "number": 3,
+            "text": "しっかり導いてあげてくださいね！"
+        },
+        {
             "supportCardId": "s_card-3-0100",
             "number": 1,
             "text": "꽤 수준 높은 레슨이네.\n감탄하게 돼♪"
@@ -2800,6 +2830,36 @@
             "supportCardId": "s_card-3-0108",
             "number": 3,
             "text": "그럴 리가 있나!\n내 교복 차림을 본받아라!"
+        },
+        {
+            "supportCardId": "s_card-3-0109",
+            "number": 1,
+            "text": "ペアでレポートを書く課題かぁ～～～。"
+        },
+        {
+            "supportCardId": "s_card-3-0109",
+            "number": 2,
+            "text": "わたしと佑芽は、最強タッグ。"
+        },
+        {
+            "supportCardId": "s_card-3-0109",
+            "number": 3,
+            "text": "あとは、まかせて。"
+        },
+        {
+            "supportCardId": "s_card-3-0110",
+            "number": 1,
+            "text": "姫崎、おすすめのネタはなんだ？"
+        },
+        {
+            "supportCardId": "s_card-3-0110",
+            "number": 2,
+            "text": "ん～、唐揚げとうどんかな。\nどっちもすっごく美味しいんだ。"
+        },
+        {
+            "supportCardId": "s_card-3-0110",
+            "number": 3,
+            "text": "……サ、サイドメニューだと？"
         }
     ]
 }

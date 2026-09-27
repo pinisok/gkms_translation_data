@@ -47,7 +47,7 @@
         },
         {
             "eventType": "EventType_Tour",
-            "name": "시즌"
+            "name": "스토리"
         },
         {
             "eventType": "EventType_Research",

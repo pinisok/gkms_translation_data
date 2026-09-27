@@ -52,6 +52,18 @@
         {
             "produceType": "ProduceType_HatsuboshiIdolFestival",
             "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "H.I.F 선발시험"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "H.I.F 본선"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
             "produceSplitTypes": "ProduceSplitType_Final",
             "title": "H.I.F 본선"
         },

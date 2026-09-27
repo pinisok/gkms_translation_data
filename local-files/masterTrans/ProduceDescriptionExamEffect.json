@@ -334,6 +334,10 @@
             "name": "호인상 추가 발동"
         },
         {
+            "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
+            "name": "強化状態コスト増加"
+        },
+        {
             "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
             "name": "호조 증가량 추가"
         },
