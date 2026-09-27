@@ -1,0 +1,3305 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "music-all-001-inst",
+            "title": "하지메 [Instrumental]",
+            "displayTitle": "하지메 [Instrumental]",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-002-inst",
+            "title": "Campus mode!! [Instrumental]",
+            "displayTitle": "Campus mode!! [Instrumental]",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-003-inst",
+            "title": "너와 세미블루 [Instrumental]",
+            "displayTitle": "너와 세미블루 [Instrumental]",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-004-inst",
+            "title": "관국 [Instrumental]",
+            "displayTitle": "관국 [Instrumental]",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-005-inst",
+            "title": "가장광소곡 [Instrumental]",
+            "displayTitle": "가장광소곡 [Instrumental]",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-006-inst",
+            "title": "White Night! White Wish! [Instrumental]",
+            "displayTitle": "White Night! White Wish! [Instrumental]",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-007-inst",
+            "title": "해피 밀푀유 [Instrumental]",
+            "displayTitle": "해피 밀푀유 [Instrumental]",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-008-inst",
+            "title": "고금동서 식은 죽 먹기 [Instrumental]",
+            "displayTitle": "고금동서 식은 죽 먹기 [Instrumental]",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-009-inst",
+            "title": "눈이 녹을 때에 [Instrumental]",
+            "displayTitle": "눈이 녹을 때에 [Instrumental]",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-010-inst",
+            "title": "벚꽃 포토그래프 [Instrumental]",
+            "displayTitle": "벚꽃 포토그래프 [Instrumental]",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-011-inst",
+            "title": "Howling over the World [Instrumental]",
+            "displayTitle": "Howling over the World [Instrumental]",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-012-inst",
+            "title": "미라쿠루나나우(˚∀˚)! [Instrumental]",
+            "displayTitle": "미라쿠루나나우(˚∀˚)! [Instrumental]",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-013-inst",
+            "title": "전력을 다해 가자! [Instrumental]",
+            "displayTitle": "전력을 다해 가자! [Instrumental]",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-014-inst",
+            "title": "ENDLESS DANCE [Instrumental]",
+            "displayTitle": "ENDLESS DANCE [Instrumental]",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-016-inst",
+            "title": "가라쿠타로드 [Instrumental]",
+            "displayTitle": "가라쿠타로드 [Instrumental]",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-017-inst",
+            "title": "GO MY WAY!! -cover- [Instrumental]",
+            "displayTitle": "GO MY WAY!! -cover- [Instrumental]",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-018-inst",
+            "title": "「있잖아, 고백할게.」 [Instrumental]",
+            "displayTitle": "「있잖아, 고백할게.」 [Instrumental]",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-022-teama",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-022-teamb",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-022-teamc",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-amao-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-amao-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-amao-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-amao-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-amao-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-amao-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-amao-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-amao-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-amao-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-amao-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-amao-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-amao-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-amao-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-amao-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-amao-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-amao-017",
+            "title": "GO MY WAY!! -아리무라 마오 cover-",
+            "displayTitle": "GO MY WAY!! -아리무라 마오 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-amao-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-atbm-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-atbm-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-atbm-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-atbm-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-atbm-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-atbm-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-atbm-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-atbm-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-atbm-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-atbm-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-atbm-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-atbm-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-atbm-017",
+            "title": "GO MY WAY!! -아마야 츠바메 cover-",
+            "displayTitle": "GO MY WAY!! -아마야 츠바메 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-atbm-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-fktn-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-fktn-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-fktn-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-fktn-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-fktn-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-fktn-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-fktn-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-fktn-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-fktn-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-fktn-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-fktn-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-fktn-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-fktn-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-fktn-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-fktn-017",
+            "title": "GO MY WAY!! -후지타 코토네 cover-",
+            "displayTitle": "GO MY WAY!! -후지타 코토네 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-fktn-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-hmsz-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-hmsz-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-hmsz-003",
+            "title": "너와 세미블루",
+            "displayTitle": "너와 세미블루",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-hmsz-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hmsz-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-hmsz-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-hmsz-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-hmsz-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hmsz-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hmsz-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-hmsz-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-hmsz-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-hmsz-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-hmsz-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-hmsz-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hmsz-017",
+            "title": "GO MY WAY!! -하타야 미스즈 cover-",
+            "displayTitle": "GO MY WAY!! -하타야 미스즈 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-hmsz-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-hrnm-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-hrnm-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-hrnm-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-hrnm-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hrnm-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-hrnm-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-hrnm-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-hrnm-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hrnm-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hrnm-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-hrnm-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-hrnm-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-hrnm-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-hrnm-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-hrnm-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hrnm-017",
+            "title": "GO MY WAY!! -히메사키 리나미 cover-",
+            "displayTitle": "GO MY WAY!! -히메사키 리나미 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-hrnm-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-hski-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-hski-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-hski-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-hski-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hski-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-hski-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-hski-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-hski-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hski-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hski-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-hski-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-hski-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-hski-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-hski-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-hski-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hski-017",
+            "title": "GO MY WAY!! -하나미 사키 cover-",
+            "displayTitle": "GO MY WAY!! -하나미 사키 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-hski-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-hume-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-hume-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-hume-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-hume-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hume-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-hume-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-hume-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-hume-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hume-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hume-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-hume-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-hume-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-hume-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-hume-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-hume-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hume-017",
+            "title": "GO MY WAY!! -하나미 우메 cover-",
+            "displayTitle": "GO MY WAY!! -하나미 우메 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-hume-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-jsna-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-jsna-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-jsna-003",
+            "title": "너와 세미블루",
+            "displayTitle": "너와 세미블루",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-jsna-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-jsna-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-jsna-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-jsna-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-jsna-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-jsna-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-jsna-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-jsna-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-jsna-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-jsna-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-jsna-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-jsna-017",
+            "title": "GO MY WAY!! -주오 세나 cover-",
+            "displayTitle": "GO MY WAY!! -주오 세나 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-jsna-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-kcna-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-kcna-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-kcna-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-kcna-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-kcna-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-kcna-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-kcna-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-kcna-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-kcna-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-kcna-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-kcna-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-kcna-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-kcna-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-kcna-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-kcna-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-kcna-017",
+            "title": "GO MY WAY!! -쿠라모토 치나 cover-",
+            "displayTitle": "GO MY WAY!! -쿠라모토 치나 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-kcna-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-kllj-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-kllj-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-kllj-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-kllj-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-kllj-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-kllj-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-kllj-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-kllj-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-kllj-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-kllj-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-kllj-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-kllj-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-kllj-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-kllj-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-kllj-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-kllj-017",
+            "title": "GO MY WAY!! -카츠라기 릴리야 cover-",
+            "displayTitle": "GO MY WAY!! -카츠라기 릴리야 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-kllj-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-nasr-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-nasr-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-shro-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-shro-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-shro-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-shro-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-shro-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-shro-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-shro-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-shro-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-shro-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-shro-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-shro-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-shro-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-shro-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-shro-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-shro-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-shro-017",
+            "title": "GO MY WAY!! -시노사와 히로 cover-",
+            "displayTitle": "GO MY WAY!! -시노사와 히로 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-shro-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-ssmk-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-ssmk-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-ssmk-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-ssmk-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-ssmk-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-ssmk-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-ssmk-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-ssmk-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-ssmk-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-ssmk-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-ssmk-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-ssmk-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-ssmk-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-ssmk-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-ssmk-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-ssmk-017",
+            "title": "GO MY WAY!! -시운 스미카 cover-",
+            "displayTitle": "GO MY WAY!! -시운 스미카 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-ssmk-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-all-studentcouncil-022",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-studentcouncil-022-inst",
+            "title": "SEARCH RIGHT [Instrumental]",
+            "displayTitle": "SEARCH RIGHT [Instrumental]",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-ttmr-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
+            "id": "music-all-ttmr-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-ttmr-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-ttmr-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-ttmr-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-ttmr-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-ttmr-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-ttmr-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-ttmr-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-ttmr-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
+            "id": "music-all-ttmr-011",
+            "title": "Howling over the World",
+            "displayTitle": "Howling over the World",
+            "lyrics": "카리스야사보우",
+            "composer": "카리스야사보우",
+            "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-ttmr-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
+            "id": "music-all-ttmr-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-ttmr-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-ttmr-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-ttmr-017",
+            "title": "GO MY WAY!! -츠키무라 테마리 cover-",
+            "displayTitle": "GO MY WAY!! -츠키무라 테마리 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코우사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-ttmr-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
+            "id": "music-bgm-01_001",
+            "title": "교실에서의 한때",
+            "displayTitle": "교실에서의 한때",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_002",
+            "title": "프로듀스, 시작!",
+            "displayTitle": "프로듀스, 시작!",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_003",
+            "title": "최종 시험을 향하여",
+            "displayTitle": "최종 시험을 향하여",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_004",
+            "title": "레슨의 나날",
+            "displayTitle": "레슨의 나날",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_005",
+            "title": "몰아붙여~!",
+            "displayTitle": "몰아붙여~!",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_006",
+            "title": "수고하셨습니다!",
+            "displayTitle": "수고하셨습니다!",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_007",
+            "title": "노력의 성과를 보여줄 시간!",
+            "displayTitle": "노력의 성과를 보여줄 시간!",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_008",
+            "title": "TOWN (학원마스 Mix)",
+            "displayTitle": "TOWN (학원마스 Mix)",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_009",
+            "title": "두근두근 콘테스트",
+            "displayTitle": "두근두근 콘테스트",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_010",
+            "title": "시작",
+            "displayTitle": "시작",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_011",
+            "title": "퍼포먼스 대결",
+            "displayTitle": "퍼포먼스 대결",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_012",
+            "title": "학생들의 일상",
+            "displayTitle": "학생들의 일상",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_013",
+            "title": "파란의 막이 오르다",
+            "displayTitle": "파란의 막이 오르다",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_014",
+            "title": "숨겨진 마음",
+            "displayTitle": "숨겨진 마음",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_015",
+            "title": "Ready go!",
+            "displayTitle": "Ready go!",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_016",
+            "title": "갈등",
+            "displayTitle": "갈등",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_017",
+            "title": "즐거운 학원 생활",
+            "displayTitle": "즐거운 학원 생활",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_018",
+            "title": "외출♪",
+            "displayTitle": "외출♪",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_019",
+            "title": "해질녘",
+            "displayTitle": "해질녘",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_020",
+            "title": "태양은 다시 뜬다",
+            "displayTitle": "태양은 다시 뜬다",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_021",
+            "title": "소동 소란",
+            "displayTitle": "소동 소란",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_022",
+            "title": "트러블 메이커즈",
+            "displayTitle": "트러블 메이커즈",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_023",
+            "title": "무언가가 시작될 예감",
+            "displayTitle": "무언가가 시작될 예감",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_024",
+            "title": "우아하게 살아라",
+            "displayTitle": "우아하게 살아라",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_025",
+            "title": "다음 한 걸음",
+            "displayTitle": "다음 한 걸음",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_026",
+            "title": "무적의 누나",
+            "displayTitle": "무적의 누나",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_027",
+            "title": "겉과 속이 다른 스트릭",
+            "displayTitle": "겉과 속이 다른 스트릭",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_028",
+            "title": "노 머니 홈",
+            "displayTitle": "노 머니 홈",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_029",
+            "title": "마음대로 되지 않아도 괜찮아",
+            "displayTitle": "마음대로 되지 않아도 괜찮아",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_030",
+            "title": "Allegro",
+            "displayTitle": "Allegro",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_031",
+            "title": "순수한 마음, 강한 소망",
+            "displayTitle": "순수한 마음, 강한 소망",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_032",
+            "title": "네가 좋아하는 나",
+            "displayTitle": "네가 좋아하는 나",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_033",
+            "title": "맡겨 주세요",
+            "displayTitle": "맡겨 주세요",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_034",
+            "title": "막간에 너와",
+            "displayTitle": "막간에 너와",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_035",
+            "title": "아이돌의 길",
+            "displayTitle": "아이돌의 길",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_036",
+            "title": "표 [BGM Arrange]",
+            "displayTitle": "표 [BGM Arrange]",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-char-amao-001",
+            "title": "Fluorite",
+            "displayTitle": "",
+            "lyrics": "야기누마 카나",
+            "composer": "Moe Shop",
+            "arranger": "Moe Shop"
+        },
+        {
+            "id": "music-char-amao-001-inst",
+            "title": "Fluorite [Instrumental]",
+            "displayTitle": "Fluorite [Instrumental]",
+            "lyrics": "야기누마 카나",
+            "composer": "Moe Shop",
+            "arranger": "Moe Shop"
+        },
+        {
+            "id": "music-char-amao-002",
+            "title": "Feel Jewel Dream",
+            "displayTitle": "",
+            "lyrics": "DÉ DÉ MOUSE",
+            "composer": "DÉ DÉ MOUSE",
+            "arranger": "DÉ DÉ MOUSE"
+        },
+        {
+            "id": "music-char-amao-002-inst",
+            "title": "Feel Jewel Dream [Instrumental]",
+            "displayTitle": "Feel Jewel Dream [Instrumental]",
+            "lyrics": "DÉ DÉ MOUSE",
+            "composer": "DÉ DÉ MOUSE",
+            "arranger": "DÉ DÉ MOUSE"
+        },
+        {
+            "id": "music-char-amao-003",
+            "title": "Sweet Magic",
+            "displayTitle": "",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group)",
+            "arranger": "SHOW (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-amao-003-inst",
+            "title": "Sweet Magic [Instrumental]",
+            "displayTitle": "Sweet Magic [Instrumental]",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group)",
+            "arranger": "SHOW (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-amao-004",
+            "title": "봐줘",
+            "displayTitle": "봐줘",
+            "lyrics": "kamome sano",
+            "composer": "kamome sano",
+            "arranger": "kamome sano"
+        },
+        {
+            "id": "music-char-amao-004-inst",
+            "title": "봐줘 [Instrumental]",
+            "displayTitle": "봐줘 [Instrumental]",
+            "lyrics": "kamome sano",
+            "composer": "kamome sano",
+            "arranger": "kamome sano"
+        },
+        {
+            "id": "music-char-amao-005",
+            "title": "Top Secret",
+            "displayTitle": "Top Secret",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group)",
+            "arranger": "SHOW (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-amao-005-inst",
+            "title": "Top Secret [Instrumental]",
+            "displayTitle": "Top Secret [Instrumental]",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group)",
+            "arranger": "SHOW (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-atbm-001",
+            "title": "이론무장하고",
+            "displayTitle": "이론무장하고",
+            "lyrics": "마츠쿠마 켄타, GBB 아야카",
+            "composer": "마츠쿠마 켄타",
+            "arranger": "SCRAMBLES"
+        },
+        {
+            "id": "music-char-atbm-001-inst",
+            "title": "이론무장하고 [Instrumental]",
+            "displayTitle": "이론무장하고 [Instrumental]",
+            "lyrics": "마츠쿠마 켄타, GBB 아야카",
+            "composer": "마츠쿠마 켄타",
+            "arranger": "SCRAMBLES"
+        },
+        {
+            "id": "music-char-atbm-003",
+            "title": "MY STAGE",
+            "displayTitle": "MY STAGE",
+            "lyrics": "MOMONADY",
+            "composer": "MOMONADY, 유키 후나코시 (Digz, Inc. Group)",
+            "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-atbm-003-inst",
+            "title": "MY STAGE [Instrumental]",
+            "displayTitle": "MY STAGE [Instrumental]",
+            "lyrics": "MOMONADY",
+            "composer": "MOMONADY, 유키 후나코시 (Digz, Inc. Group)",
+            "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-atbm-004",
+            "title": "크라이아이",
+            "displayTitle": "크라이아이",
+            "lyrics": "마츠오 레미",
+            "composer": "GLIM SPANKY",
+            "arranger": "카메모토 히로키"
+        },
+        {
+            "id": "music-char-atbm-004-inst",
+            "title": "크라이아이 [Instrumental]",
+            "displayTitle": "크라이아이 [Instrumental]",
+            "lyrics": "마츠오 레미",
+            "composer": "GLIM SPANKY",
+            "arranger": "카메모토 히로키"
+        },
+        {
+            "id": "music-char-fktn-001",
+            "title": "세상에서 가장 귀여운 나",
+            "displayTitle": "",
+            "lyrics": "HoneyWorks",
+            "composer": "HoneyWorks",
+            "arranger": "HoneyWorks"
+        },
+        {
+            "id": "music-char-fktn-001-inst",
+            "title": "세상에서 가장 귀여운 나 [Instrumental]",
+            "displayTitle": "세상에서 가장 귀여운 나 [Instrumental]",
+            "lyrics": "HoneyWorks",
+            "composer": "HoneyWorks",
+            "arranger": "HoneyWorks"
+        },
+        {
+            "id": "music-char-fktn-002",
+            "title": "Yellow Big Bang!",
+            "displayTitle": "",
+            "lyrics": "야기누마 카나",
+            "composer": "세오 쇼타로 (MONACA)",
+            "arranger": "세오 쇼타로 (MONACA)"
+        },
+        {
+            "id": "music-char-fktn-002-inst",
+            "title": "Yellow Big Bang! [Instrumental]",
+            "displayTitle": "Yellow Big Bang! [Instrumental]",
+            "lyrics": "야기누마 카나",
+            "composer": "세오 쇼타로 (MONACA)",
+            "arranger": "세오 쇼타로 (MONACA)"
+        },
+        {
+            "id": "music-char-fktn-003",
+            "title": "The Cute!!!",
+            "displayTitle": "The Cute!!!",
+            "lyrics": "카나야마 히데시 (Dream Monster)",
+            "composer": "카나야마 히데시 (Dream Monster)",
+            "arranger": "카나야마 히데시 (Dream Monster)"
+        },
+        {
+            "id": "music-char-fktn-003-inst",
+            "title": "The Cute!!! [Instrumental]",
+            "displayTitle": "The Cute!!! [Instrumental]",
+            "lyrics": "카나야마 히데시 (Dream Monster)",
+            "composer": "카나야마 히데시 (Dream Monster)",
+            "arranger": "카나야마 히데시 (Dream Monster)"
+        },
+        {
+            "id": "music-char-fktn-004",
+            "title": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "displayTitle": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "lyrics": "히게드라이버",
+            "composer": "히게드라이버",
+            "arranger": "히게드라이버"
+        },
+        {
+            "id": "music-char-fktn-004-inst",
+            "title": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 [Instrumental]",
+            "displayTitle": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 [Instrumental]",
+            "lyrics": "히게드라이버",
+            "composer": "히게드라이버",
+            "arranger": "히게드라이버"
+        },
+        {
+            "id": "music-char-fktn-005",
+            "title": "후와후와",
+            "displayTitle": "후와후와",
+            "lyrics": "시나가와 이츠키",
+            "composer": "카토 히로야",
+            "arranger": "스도 유겐, 카토 히로야"
+        },
+        {
+            "id": "music-char-fktn-005-inst",
+            "title": "후와후와 [Instrumental]",
+            "displayTitle": "후와후와 [Instrumental]",
+            "lyrics": "시나가와 이츠키",
+            "composer": "카토 히로야",
+            "arranger": "스도 유겐, 카토 히로야"
+        },
+        {
+            "id": "music-char-hmsz-001",
+            "title": "달 거북이",
+            "displayTitle": "달 거북이",
+            "lyrics": "미후메이 (Bandai Namco Studios Inc.)",
+            "composer": "미후메이 (Bandai Namco Studios Inc.)",
+            "arranger": "미후메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hmsz-001-inst",
+            "title": "달 거북이 [Instrumental]",
+            "displayTitle": "달 거북이 [Instrumental]",
+            "lyrics": "미후메이 (Bandai Namco Studios Inc.)",
+            "composer": "미후메이 (Bandai Namco Studios Inc.)",
+            "arranger": "미후메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hmsz-002",
+            "title": "Superlative",
+            "displayTitle": "Superlative",
+            "lyrics": "siqlo",
+            "composer": "siqlo",
+            "arranger": "siqlo"
+        },
+        {
+            "id": "music-char-hmsz-002-inst",
+            "title": "Superlative [Instrumental]",
+            "displayTitle": "Superlative [Instrumental]",
+            "lyrics": "siqlo",
+            "composer": "siqlo",
+            "arranger": "siqlo"
+        },
+        {
+            "id": "music-char-hmsz-003",
+            "title": "소중한 것",
+            "displayTitle": "소중한 것",
+            "lyrics": "후와리 (Dream Monster)",
+            "composer": "후와리 (Dream Monster)",
+            "arranger": "후와리 (Dream Monster)"
+        },
+        {
+            "id": "music-char-hmsz-003-inst",
+            "title": "소중한 것 [Instrumental]",
+            "displayTitle": "소중한 것 [Instrumental]",
+            "lyrics": "후와리 (Dream Monster)",
+            "composer": "후와리 (Dream Monster)",
+            "arranger": "후와리 (Dream Monster)"
+        },
+        {
+            "id": "music-char-hmsz-004",
+            "title": "VEIL",
+            "displayTitle": "VEIL",
+            "lyrics": "GUCCHO",
+            "composer": "GUCCHO, Dubscribe",
+            "arranger": "Dubscribe, GUCCHO"
+        },
+        {
+            "id": "music-char-hmsz-004-inst",
+            "title": "VEIL [Instrumental]",
+            "displayTitle": "VEIL [Instrumental]",
+            "lyrics": "GUCCHO",
+            "composer": "GUCCHO, Dubscribe",
+            "arranger": "Dubscribe, GUCCHO"
+        },
+        {
+            "id": "music-char-hmsz-005",
+            "title": "밤에",
+            "displayTitle": "밤에",
+            "lyrics": "Shogo Nomura(Bandai Namco Studios Inc.)",
+            "composer": "Shogo Nomura(Bandai Namco Studios Inc.)",
+            "arranger": "Shogo Nomura(Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hmsz-005-inst",
+            "title": "밤에 [Instrumental]",
+            "displayTitle": "밤에 [Instrumental]",
+            "lyrics": "Shogo Nomura(Bandai Namco Studios Inc.)",
+            "composer": "Shogo Nomura(Bandai Namco Studios Inc.)",
+            "arranger": "Shogo Nomura(Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hrnm-001",
+            "title": "clumsy trick",
+            "displayTitle": "",
+            "lyrics": "와타나베 쇼",
+            "composer": "와타나베 쇼",
+            "arranger": "나스노 신페이"
+        },
+        {
+            "id": "music-char-hrnm-001-inst",
+            "title": "clumsy trick [Instrumental]",
+            "displayTitle": "clumsy trick [Instrumental]",
+            "lyrics": "와타나베 쇼",
+            "composer": "와타나베 쇼",
+            "arranger": "나스노 신페이"
+        },
+        {
+            "id": "music-char-hrnm-002",
+            "title": "L.U.V",
+            "displayTitle": "",
+            "lyrics": "유키치 카사쿠/men",
+            "composer": "유키치 카사쿠/men",
+            "arranger": "쿠라우치 타츠야"
+        },
+        {
+            "id": "music-char-hrnm-002-inst",
+            "title": "L.U.V [Instrumental]",
+            "displayTitle": "L.U.V [Instrumental]",
+            "lyrics": "유키치 카사쿠/men",
+            "composer": "유키치 카사쿠/men",
+            "arranger": "쿠라우치 타츠야"
+        },
+        {
+            "id": "music-char-hrnm-003",
+            "title": "marble heart",
+            "displayTitle": "marble heart",
+            "lyrics": "시나가와 이츠키",
+            "composer": "스도 유겐",
+            "arranger": "스도 유겐"
+        },
+        {
+            "id": "music-char-hrnm-003-inst",
+            "title": "marble heart [Instrumental]",
+            "displayTitle": "marble heart [Instrumental]",
+            "lyrics": "시나가와 이츠키",
+            "composer": "스도 유겐",
+            "arranger": "스도 유겐"
+        },
+        {
+            "id": "music-char-hrnm-004",
+            "title": "36℃ U･B･U",
+            "displayTitle": "36℃ U･B･U",
+            "lyrics": "Soflan Daichi",
+            "composer": "이토 츠바사",
+            "arranger": "이토 츠바사"
+        },
+        {
+            "id": "music-char-hrnm-004-inst",
+            "title": "36℃ U･B･U [Instrumental]",
+            "displayTitle": "36℃ U･B･U [Instrumental]",
+            "lyrics": "Soflan Daichi",
+            "composer": "이토 츠바사",
+            "arranger": "이토 츠바사"
+        },
+        {
+            "id": "music-char-hrnm-005",
+            "title": "노랫소리는 너의 색",
+            "displayTitle": "노랫소리는 너의 색",
+            "lyrics": "쿠리야마 켄타, 와타나베 호노카",
+            "composer": "타나카 히나노 (IKW)",
+            "arranger": "타나카 히나노 (IKW)"
+        },
+        {
+            "id": "music-char-hrnm-005-inst",
+            "title": "노랫소리는 너의 색 [Instrumental]",
+            "displayTitle": "노랫소리는 너의 색 [Instrumental]",
+            "lyrics": "쿠리야마 켄타, 와타나베 호노카",
+            "composer": "타나카 히나노 (IKW)",
+            "arranger": "타나카 히나노 (IKW)"
+        },
+        {
+            "id": "music-char-hski-001",
+            "title": "Fighting My Way",
+            "displayTitle": "",
+            "lyrics": "HIROMI",
+            "composer": "Giga",
+            "arranger": "Giga"
+        },
+        {
+            "id": "music-char-hski-001-inst",
+            "title": "Fighting My Way [Instrumental]",
+            "displayTitle": "Fighting My Way [Instrumental]",
+            "lyrics": "HIROMI",
+            "composer": "Giga",
+            "arranger": "Giga"
+        },
+        {
+            "id": "music-char-hski-002",
+            "title": "Boom Boom Pow",
+            "displayTitle": "",
+            "lyrics": "KENTZ",
+            "composer": "KENTZ, ERECA",
+            "arranger": "KENTZ"
+        },
+        {
+            "id": "music-char-hski-002-inst",
+            "title": "Boom Boom Pow [Instrumental]",
+            "displayTitle": "Boom Boom Pow [Instrumental]",
+            "lyrics": "KENTZ",
+            "composer": "KENTZ, ERECA",
+            "arranger": "KENTZ"
+        },
+        {
+            "id": "music-char-hski-003",
+            "title": "Try it now",
+            "displayTitle": "Try it now",
+            "lyrics": "Kijibato(Dream Monster)",
+            "composer": "Kijibato(Dream Monster)",
+            "arranger": "Kijibato(Dream Monster)"
+        },
+        {
+            "id": "music-char-hski-003-inst",
+            "title": "Try it now [Instrumental]",
+            "displayTitle": "Try it now [Instrumental]",
+            "lyrics": "Kijibato(Dream Monster)",
+            "composer": "Kijibato(Dream Monster)",
+            "arranger": "Kijibato(Dream Monster)"
+        },
+        {
+            "id": "music-char-hski-004",
+            "title": "Wildest Flower",
+            "displayTitle": "Wildest Flower",
+            "lyrics": "HIROMI",
+            "composer": "Giga",
+            "arranger": "Giga"
+        },
+        {
+            "id": "music-char-hski-004-inst",
+            "title": "Wildest Flower [Instrumental]",
+            "displayTitle": "Wildest Flower [Instrumental]",
+            "lyrics": "HIROMI",
+            "composer": "Giga",
+            "arranger": "Giga"
+        },
+        {
+            "id": "music-char-hski-005",
+            "title": "EGO",
+            "displayTitle": "EGO",
+            "lyrics": "Kijibato (Dream Monster)",
+            "composer": "Kijibato (Dream Monster)",
+            "arranger": "Kijibato (Dream Monster)"
+        },
+        {
+            "id": "music-char-hski-005-inst",
+            "title": "EGO [Instrumental]",
+            "displayTitle": "EGO [Instrumental]",
+            "lyrics": "Kijibato (Dream Monster)",
+            "composer": "Kijibato (Dream Monster)",
+            "arranger": "Kijibato (Dream Monster)"
+        },
+        {
+            "id": "music-char-hume-001",
+            "title": "The Rolling Riceball",
+            "displayTitle": "",
+            "lyrics": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "composer": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "arranger": "한다 아키토시"
+        },
+        {
+            "id": "music-char-hume-001-inst",
+            "title": "The Rolling Riceball [Instrumental]",
+            "displayTitle": "The Rolling Riceball [Instrumental]",
+            "lyrics": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "composer": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "arranger": "한다 아키토시"
+        },
+        {
+            "id": "music-char-hume-002",
+            "title": "구-스-피-",
+            "displayTitle": "구-스-피-",
+            "lyrics": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "composer": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "arranger": "사토 타카후미 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hume-002-inst",
+            "title": "구-스-피- [Instrumental]",
+            "displayTitle": "구-스-피- [Instrumental]",
+            "lyrics": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "composer": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "arranger": "사토 타카후미 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hume-003",
+            "title": "짱세 최강 엑서사이즈",
+            "displayTitle": "짱세 최강 엑서사이즈",
+            "lyrics": "츠보이 리히토 (Bandai Namco Studio Inc.)",
+            "composer": "츠보이 리히토·사토 타카후미 (Bandai Namco Studio Inc.)",
+            "arranger": "츠보이 리히토 (Bandai Namco Studio Inc.)"
+        },
+        {
+            "id": "music-char-hume-003-inst",
+            "title": "짱세 최강 엑서사이즈 [Instrumental]",
+            "displayTitle": "짱세 최강 엑서사이즈 [Instrumental]",
+            "lyrics": "츠보이 리히토 (Bandai Namco Studio Inc.)",
+            "composer": "츠보이 리히토·사토 타카후미 (Bandai Namco Studio Inc.)",
+            "arranger": "츠보이 리히토 (Bandai Namco Studio Inc.)"
+        },
+        {
+            "id": "music-char-hume-004",
+            "title": "새하얀 페이지와 수채화 주인공",
+            "displayTitle": "새하얀 페이지와 수채화 주인공",
+            "lyrics": "사토 타카후미",
+            "composer": "사토 타카후미",
+            "arranger": "한다 츠바사"
+        },
+        {
+            "id": "music-char-hume-004-inst",
+            "title": "새하얀 페이지와 수채화 주인공 [Instrumental]",
+            "displayTitle": "새하얀 페이지와 수채화 주인공 [Instrumental]",
+            "lyrics": "사토 타카후미",
+            "composer": "사토 타카후미",
+            "arranger": "한다 츠바사"
+        },
+        {
+            "id": "music-char-hume-005",
+            "title": "금도끼, 은도끼, 에메랄드도끼",
+            "displayTitle": "금도끼, 은도끼, 에메랄드도끼",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hume-005-inst",
+            "title": "금도끼, 은도끼, 에메랄드도끼 [Instrumental]",
+            "displayTitle": "금도끼, 은도끼, 에메랄드도끼 [Instrumental]",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-jsna-001",
+            "title": "작은 야망",
+            "displayTitle": "",
+            "lyrics": "코무로 미츠코",
+            "composer": "시이나 고",
+            "arranger": "시이나 고"
+        },
+        {
+            "id": "music-char-jsna-001-inst",
+            "title": "작은 야망 [Instrumental]",
+            "displayTitle": "작은 야망 [Instrumental]",
+            "lyrics": "코무로 미츠코",
+            "composer": "시이나 고",
+            "arranger": "시이나 고"
+        },
+        {
+            "id": "music-char-jsna-002",
+            "title": "Our Chant",
+            "displayTitle": "Our Chant",
+            "lyrics": "Fra",
+            "composer": "나카즈루 준이치 (Bandai Namco Studios Inc.), Fra",
+            "arranger": "나카즈루 준이치 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-jsna-002-inst",
+            "title": "Our Chant [Instrumental]",
+            "displayTitle": "Our Chant [Instrumental]",
+            "lyrics": "Fra",
+            "composer": "나카즈루 준이치 (Bandai Namco Studios Inc.), Fra",
+            "arranger": "나카즈루 준이치 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-jsna-003",
+            "title": "Cosmetic",
+            "displayTitle": "",
+            "lyrics": "스테파니 토팔리안, MOMONADY",
+            "composer": "MOMONADY, 유키 후나코시 (Digz, Inc. Group)",
+            "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-jsna-003-inst",
+            "title": "Cosmetic [Instrumental]",
+            "displayTitle": "Cosmetic [Instrumental]",
+            "lyrics": "스테파니 토팔리안, MOMONADY",
+            "composer": "MOMONADY, 유키 후나코시 (Digz, Inc. Group)",
+            "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-jsna-004",
+            "title": "적나라",
+            "displayTitle": "적나라",
+            "lyrics": "이와사토 유호",
+            "composer": "오카베 케이이치(MONACA)",
+            "arranger": "오카베 케이이치(MONACA)"
+        },
+        {
+            "id": "music-char-jsna-004-inst",
+            "title": "적나라 [Instrumental]",
+            "displayTitle": "적나라 [Instrumental]",
+            "lyrics": "이와사토 유호",
+            "composer": "오카베 케이이치(MONACA)",
+            "arranger": "오카베 케이이치(MONACA)"
+        },
+        {
+            "id": "music-char-jsna-005",
+            "title": "Choo Choo Choo",
+            "displayTitle": "Choo Choo Choo",
+            "lyrics": "BOYHOOD (Digz, Inc. Group)",
+            "composer": "BOYHOOD (Digz, Inc. Group)",
+            "arranger": "BOYHOOD (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-jsna-005-inst",
+            "title": "Choo Choo Choo [Instrumental]",
+            "displayTitle": "Choo Choo Choo [Instrumental]",
+            "lyrics": "BOYHOOD (Digz, Inc. Group)",
+            "composer": "BOYHOOD (Digz, Inc. Group)",
+            "arranger": "BOYHOOD (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-kcna-001",
+            "title": "Wonder Scale",
+            "displayTitle": "",
+            "lyrics": "오오모리 쇼코",
+            "composer": "카네마츠 슈",
+            "arranger": "카네마츠 슈"
+        },
+        {
+            "id": "music-char-kcna-001-inst",
+            "title": "Wonder Scale [Instrumental]",
+            "displayTitle": "Wonder Scale [Instrumental]",
+            "lyrics": "오오모리 쇼코",
+            "composer": "카네마츠 슈",
+            "arranger": "카네마츠 슈"
+        },
+        {
+            "id": "music-char-kcna-002",
+            "title": "매일매일, 발견적 단계!",
+            "displayTitle": "매일매일, 발견적 단계!",
+            "lyrics": "츠바키야마 히나코 (Dream Monster)",
+            "composer": "츠바키야마 히나코 (Dream Monster)",
+            "arranger": "츠바키야마 히나코 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-002-inst",
+            "title": "매일매일, 발견적 단계! [Instrumental]",
+            "displayTitle": "매일매일, 발견적 단계! [Instrumental]",
+            "lyrics": "츠바키야마 히나코 (Dream Monster)",
+            "composer": "츠바키야마 히나코 (Dream Monster)",
+            "arranger": "츠바키야마 히나코 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-003",
+            "title": "동경으로 가득",
+            "displayTitle": "",
+            "lyrics": "타카기 류이치 (Dream Monster)",
+            "composer": "타카기 류이치 (Dream Monster)",
+            "arranger": "타카기 류이치 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-003-inst",
+            "title": "동경으로 가득 [Instrumental]",
+            "displayTitle": "동경으로 가득 [Instrumental]",
+            "lyrics": "타카기 류이치 (Dream Monster)",
+            "composer": "타카기 류이치 (Dream Monster)",
+            "arranger": "타카기 류이치 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-004",
+            "title": "하늘과 약속",
+            "displayTitle": "하늘과 약속",
+            "lyrics": "오오모리 쇼코",
+            "composer": "Evan Call",
+            "arranger": "Evan Call"
+        },
+        {
+            "id": "music-char-kcna-004-inst",
+            "title": "하늘과 약속 [Instrumental]",
+            "displayTitle": "하늘과 약속 [Instrumental]",
+            "lyrics": "오오모리 쇼코",
+            "composer": "Evan Call",
+            "arranger": "Evan Call"
+        },
+        {
+            "id": "music-char-kcna-005",
+            "title": "두근거림의 솔페주",
+            "displayTitle": "두근거림의 솔페주",
+            "lyrics": "Cocoro. (Dream Monster)",
+            "composer": "토모아리 타구마 (Dream Monster)",
+            "arranger": "토모아리 타구마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-005-inst",
+            "title": "두근거림의 솔페주 [Instrumental]",
+            "displayTitle": "두근거림의 솔페주 [Instrumental]",
+            "lyrics": "Cocoro. (Dream Monster)",
+            "composer": "토모아리 타구마 (Dream Monster)",
+            "arranger": "토모아리 타구마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kllj-001",
+            "title": "백선",
+            "displayTitle": "",
+            "lyrics": "나유탄 성인",
+            "composer": "나유탄 성인",
+            "arranger": "나유탄 성인"
+        },
+        {
+            "id": "music-char-kllj-001-inst",
+            "title": "백선 [Instrumental]",
+            "displayTitle": "백선 [Instrumental]",
+            "lyrics": "나유탄 성인",
+            "composer": "나유탄 성인",
+            "arranger": "나유탄 성인"
+        },
+        {
+            "id": "music-char-kllj-002",
+            "title": "극광",
+            "displayTitle": "극광",
+            "lyrics": "시게나가 료스케",
+            "composer": "시게나가 료스케",
+            "arranger": "시게나가 료스케"
+        },
+        {
+            "id": "music-char-kllj-002-inst",
+            "title": "극광 [Instrumental]",
+            "displayTitle": "극광 [Instrumental]",
+            "lyrics": "시게나가 료스케",
+            "composer": "시게나가 료스케",
+            "arranger": "시게나가 료스케"
+        },
+        {
+            "id": "music-char-kllj-003",
+            "title": "Wake up!!",
+            "displayTitle": "Wake up!!",
+            "lyrics": "타나카 토루마 (Dream Monster)",
+            "composer": "타나카 토루마 (Dream Monster)",
+            "arranger": "아쉬 이노우에 (Dream Monster), 타나카 토루마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kllj-003-inst",
+            "title": "Wake up!! [Instrumental]",
+            "displayTitle": "Wake up!! [Instrumental]",
+            "lyrics": "타나카 토루마 (Dream Monster)",
+            "composer": "타나카 토루마 (Dream Monster)",
+            "arranger": "아쉬 이노우에 (Dream Monster), 타나카 토루마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kllj-004",
+            "title": "Atmosphere",
+            "displayTitle": "Atmosphere",
+            "lyrics": "Heart's Cry",
+            "composer": "Heart's Cry",
+            "arranger": "Heart's Cry"
+        },
+        {
+            "id": "music-char-kllj-004-inst",
+            "title": "Atmosphere [Instrumental]",
+            "displayTitle": "Atmosphere [Instrumental]",
+            "lyrics": "Heart's Cry",
+            "composer": "Heart's Cry",
+            "arranger": "Heart's Cry"
+        },
+        {
+            "id": "music-char-kllj-005",
+            "title": "Fragile Heart",
+            "displayTitle": "Fragile Heart",
+            "lyrics": "아쉬 이노우에 (Dream Monster)",
+            "composer": "아쉬 이노우에 (Dream Monster)",
+            "arranger": "아쉬 이노우에 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kllj-005-inst",
+            "title": "Fragile Heart [Instrumental]",
+            "displayTitle": "Fragile Heart [Instrumental]",
+            "lyrics": "아쉬 이노우에 (Dream Monster)",
+            "composer": "아쉬 이노우에 (Dream Monster)",
+            "arranger": "아쉬 이노우에 (Dream Monster)"
+        },
+        {
+            "id": "music-char-shro-001",
+            "title": "광경",
+            "displayTitle": "",
+            "lyrics": "하세가와 하쿠시",
+            "composer": "하세가와 하쿠시",
+            "arranger": "하세가와 하쿠시"
+        },
+        {
+            "id": "music-char-shro-001-inst",
+            "title": "광경 [Instrumental]",
+            "displayTitle": "광경 [Instrumental]",
+            "lyrics": "하세가와 하쿠시",
+            "composer": "하세가와 하쿠시",
+            "arranger": "하세가와 하쿠시"
+        },
+        {
+            "id": "music-char-shro-002",
+            "title": "콘트라스트",
+            "displayTitle": "콘트라스트",
+            "lyrics": "사사키 에리",
+            "composer": "사사키 에리, 우카이 다이키, 나카무라 히로",
+            "arranger": "나카무라 히로"
+        },
+        {
+            "id": "music-char-shro-002-inst",
+            "title": "콘트라스트 [Instrumental]",
+            "displayTitle": "콘트라스트 [Instrumental]",
+            "lyrics": "사사키 에리",
+            "composer": "사사키 에리, 우카이 다이키, 나카무라 히로",
+            "arranger": "나카무라 히로"
+        },
+        {
+            "id": "music-char-shro-003",
+            "title": "메쿠루메",
+            "displayTitle": "",
+            "lyrics": "후로쿠로",
+            "composer": "후로쿠로",
+            "arranger": "후로쿠로"
+        },
+        {
+            "id": "music-char-shro-003-inst",
+            "title": "메쿠루메",
+            "displayTitle": "메쿠루메",
+            "lyrics": "후로쿠로",
+            "composer": "후로쿠로",
+            "arranger": "후로쿠로"
+        },
+        {
+            "id": "music-char-shro-004",
+            "title": "선 페이디드",
+            "displayTitle": "선 페이디드",
+            "lyrics": "하세가와 하쿠시",
+            "composer": "하세가와 하쿠시",
+            "arranger": "하세가와 하쿠시"
+        },
+        {
+            "id": "music-char-shro-004-inst",
+            "title": "선 페이디드 [Instrumental]",
+            "displayTitle": "선 페이디드 [Instrumental]",
+            "lyrics": "하세가와 하쿠시",
+            "composer": "하세가와 하쿠시",
+            "arranger": "하세가와 하쿠시"
+        },
+        {
+            "id": "music-char-shro-005",
+            "title": "컨템퍼러리 댄스",
+            "displayTitle": "컨템퍼러리 댄스",
+            "lyrics": "마시마 유로",
+            "composer": "마시마 유로",
+            "arranger": "마시마 유로"
+        },
+        {
+            "id": "music-char-shro-005-inst",
+            "title": "컨템퍼러리 댄스 [Instrumental]",
+            "displayTitle": "컨템퍼러리 댄스 [Instrumental]",
+            "lyrics": "마시마 유로",
+            "composer": "마시마 유로",
+            "arranger": "마시마 유로"
+        },
+        {
+            "id": "music-char-ssmk-001",
+            "title": "Tame-Lie-One-Step",
+            "displayTitle": "",
+            "lyrics": "아즈마 유타",
+            "composer": "아즈마 유타",
+            "arranger": "아즈마 유타"
+        },
+        {
+            "id": "music-char-ssmk-001-inst",
+            "title": "Tame-Lie-One-Step [Instrumental]",
+            "displayTitle": "Tame-Lie-One-Step [Instrumental]",
+            "lyrics": "아즈마 유타",
+            "composer": "아즈마 유타",
+            "arranger": "아즈마 유타"
+        },
+        {
+            "id": "music-char-ssmk-002",
+            "title": "숨겨진 나",
+            "displayTitle": "숨겨진 나",
+            "lyrics": "아즈마 유타",
+            "composer": "아즈마 유타",
+            "arranger": "아즈마 유타"
+        },
+        {
+            "id": "music-char-ssmk-002-inst",
+            "title": "숨겨진 나 [Instrumental]",
+            "displayTitle": "숨겨진 나 [Instrumental]",
+            "lyrics": "아즈마 유타",
+            "composer": "아즈마 유타",
+            "arranger": "아즈마 유타"
+        },
+        {
+            "id": "music-char-ssmk-003",
+            "title": "Ride on Beat",
+            "displayTitle": "",
+            "lyrics": "타나카 류지 (Rebrast)",
+            "composer": "타나카 류지 (Rebrast), 카키사코 히카루 (Rebrast), 하야카와 히로타카 (Rebrast)",
+            "arranger": "카키사코 히카루 (Rebrast), 하야카와 히로타카 (Rebrast)"
+        },
+        {
+            "id": "music-char-ssmk-003-inst",
+            "title": "Ride on Beat [Instrumental]",
+            "displayTitle": "Ride on Beat [Instrumental]",
+            "lyrics": "타나카 류지 (Rebrast)",
+            "composer": "타나카 류지 (Rebrast), 카키사코 히카루 (Rebrast), 하야카와 히로타카 (Rebrast)",
+            "arranger": "카키사코 히카루 (Rebrast), 하야카와 히로타카 (Rebrast)"
+        },
+        {
+            "id": "music-char-ssmk-004",
+            "title": "Love & Joy",
+            "displayTitle": "Love & Joy",
+            "lyrics": "아즈마 유타",
+            "composer": "하라 카즈히로",
+            "arranger": "하라 카즈히로"
+        },
+        {
+            "id": "music-char-ssmk-004-inst",
+            "title": "Love & Joy [Instrumental]",
+            "displayTitle": "Love & Joy [Instrumental]",
+            "lyrics": "아즈마 유타",
+            "composer": "하라 카즈히로",
+            "arranger": "하라 카즈히로"
+        },
+        {
+            "id": "music-char-ssmk-005",
+            "title": "Kira Kira",
+            "displayTitle": "Kira Kira",
+            "lyrics": "Chica",
+            "composer": "Dirty Orange (Digz, Inc. Group), MOMONADY, Chica",
+            "arranger": "Dirty Orange (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-ssmk-005-inst",
+            "title": "Kira Kira [Instrumental]",
+            "displayTitle": "Kira Kira [Instrumental]",
+            "lyrics": "Chica",
+            "composer": "Dirty Orange (Digz, Inc. Group), MOMONADY, Chica",
+            "arranger": "Dirty Orange (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-ttmr-001",
+            "title": "Luna say maybe",
+            "displayTitle": "",
+            "lyrics": "미나미",
+            "composer": "미나미",
+            "arranger": "미나미, 마후네 카츠히로"
+        },
+        {
+            "id": "music-char-ttmr-001-inst",
+            "title": "Luna say maybe [Instrumental]",
+            "displayTitle": "Luna say maybe [Instrumental]",
+            "lyrics": "미나미",
+            "composer": "미나미",
+            "arranger": "미나미, 마후네 카츠히로"
+        },
+        {
+            "id": "music-char-ttmr-002",
+            "title": "아이비",
+            "displayTitle": "",
+            "lyrics": "츠미키",
+            "composer": "츠미키",
+            "arranger": "츠미키"
+        },
+        {
+            "id": "music-char-ttmr-002-inst",
+            "title": "아이비 [Instrumental]",
+            "displayTitle": "아이비 [Instrumental]",
+            "lyrics": "츠미키",
+            "composer": "츠미키",
+            "arranger": "츠미키"
+        },
+        {
+            "id": "music-char-ttmr-003",
+            "title": "이루고 싶은 것들만",
+            "displayTitle": "",
+            "lyrics": "타나카 토루마 (Dream Monster)",
+            "composer": "타나카 토루마 (Dream Monster)",
+            "arranger": "타나카 토루마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-ttmr-003-inst",
+            "title": "이루고 싶은 것들만 [Instrumental]",
+            "displayTitle": "이루고 싶은 것들만 [Instrumental]",
+            "lyrics": "타나카 토루마 (Dream Monster)",
+            "composer": "타나카 토루마 (Dream Monster)",
+            "arranger": "타나카 토루마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-ttmr-004",
+            "title": "도대체 언제부터",
+            "displayTitle": "도대체 언제부터",
+            "lyrics": "오오하시 칫포케",
+            "composer": "오오하시 칫포케",
+            "arranger": "이와사키 류이치"
+        },
+        {
+            "id": "music-char-ttmr-004-inst",
+            "title": "도대체 언제부터 [Instrumental]",
+            "displayTitle": "도대체 언제부터 [Instrumental]",
+            "lyrics": "오오하시 칫포케",
+            "composer": "오오하시 칫포케",
+            "arranger": "이와사키 류이치"
+        },
+        {
+            "id": "music-char-ttmr-005",
+            "title": "Unhappy Light",
+            "displayTitle": "Unhappy Light",
+            "lyrics": "Aira (Dream Monster)",
+            "composer": "Aira (Dream Monster)",
+            "arranger": "Aira (Dream Monster)"
+        },
+        {
+            "id": "music-char-ttmr-005-inst",
+            "title": "Unhappy Light [Instrumental]",
+            "displayTitle": "Unhappy Light [Instrumental]",
+            "lyrics": "Aira (Dream Monster)",
+            "composer": "Aira (Dream Monster)",
+            "arranger": "Aira (Dream Monster)"
+        },
+        {
+            "id": "music-unit-amaohrnm-004",
+            "title": "SUGAR FLAVOR",
+            "displayTitle": "SUGAR FLAVOR",
+            "lyrics": "Kai Takahashi",
+            "composer": "Kai Takahashi",
+            "arranger": "Kai Takahashi"
+        },
+        {
+            "id": "music-unit-amaohrnm-004-inst",
+            "title": "SUGAR FLAVOR [Instrumental]",
+            "displayTitle": "SUGAR FLAVOR [Instrumental]",
+            "lyrics": "Kai Takahashi",
+            "composer": "Kai Takahashi",
+            "arranger": "Kai Takahashi"
+        },
+        {
+            "id": "music-unit-begrazia-002",
+            "title": "Star-mine",
+            "displayTitle": "Star-mine",
+            "lyrics": "진",
+            "composer": "진",
+            "arranger": "진"
+        },
+        {
+            "id": "music-unit-begrazia-002 -inst",
+            "title": "Star-mine [Instrumental]",
+            "displayTitle": "Star-mine [Instrumental]",
+            "lyrics": "진",
+            "composer": "진",
+            "arranger": "진"
+        },
+        {
+            "id": "music-unit-kcnashro-003",
+            "title": "미지의 펼쳐지는",
+            "displayTitle": "미지의 펼쳐지는",
+            "lyrics": "이요와",
+            "composer": "이요와",
+            "arranger": "이요와"
+        },
+        {
+            "id": "music-unit-kcnashro-003-inst",
+            "title": "미지의 펼쳐지는 [Instrumental]",
+            "displayTitle": "미지의 펼쳐지는 [Instrumental]",
+            "lyrics": "이요와",
+            "composer": "이요와",
+            "arranger": "이요와"
+        },
+        {
+            "id": "music-unit-klljssmk-005",
+            "title": "두근두근 이모션",
+            "displayTitle": "두근두근 이모션",
+            "lyrics": "카미야마 요우",
+            "composer": "카미야마 요우",
+            "arranger": "카미야마 요우"
+        },
+        {
+            "id": "music-unit-klljssmk-005-inst",
+            "title": "두근두근 이모션 [Instrumental]",
+            "displayTitle": "두근두근 이모션 [Instrumental]",
+            "lyrics": "카미야마 요우",
+            "composer": "카미야마 요우",
+            "arranger": "카미야마 요우"
+        },
+        {
+            "id": "music-unit-reiris-001",
+            "title": "비 갠 뒤의 아이리스",
+            "displayTitle": "비 갠 뒤의 아이리스",
+            "lyrics": "고다마 사오리",
+            "composer": "코우사키 사토루 (MONACA)",
+            "arranger": "코우사키 사토루 (MONACA)"
+        },
+        {
+            "id": "music-unit-reiris-001-inst",
+            "title": "비 갠 뒤의 아이리스 [Instrumental]",
+            "displayTitle": "비 갠 뒤의 아이리스 [Instrumental]",
+            "lyrics": "고다마 사오리",
+            "composer": "코우사키 사토루 (MONACA)",
+            "arranger": "코우사키 사토루 (MONACA)"
+        }
+    ]
+}

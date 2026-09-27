@@ -1,0 +1,21 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "TermsType_TermsOfService",
+            "name": "이용약관"
+        },
+        {
+            "type": "TermsType_PrivacyPolicy",
+            "name": "개인정보 보호 정책"
+        },
+        {
+            "type": "TermsType_GlobalConsent",
+            "name": "글로벌 콘센트"
+        }
+    ]
+}

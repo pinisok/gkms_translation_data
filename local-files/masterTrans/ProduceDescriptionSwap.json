@@ -1,0 +1,400 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "swapType"
+        ]
+    },
+    "data": [
+        {
+            "id": "Swap_Convert_001",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "레슨"
+        },
+        {
+            "id": "Swap_Convert_001",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "턴"
+        },
+        {
+            "id": "Swap_Convert_002",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "레슨"
+        },
+        {
+            "id": "Swap_Convert_002",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "시험·스테이지"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "레슨 CLEAR의 "
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수가 "
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_NotClear",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "레슨 미 CLEAR"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_NotClear",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "스코어가 999이하"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_100",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "10%"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_100",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "100"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_1000",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "100%"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_1000",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "1000"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_300",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "30%"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_300",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "300"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_500",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "50%"
+        },
+        {
+            "id": "Swap_Convert_ConditionThreshold_Value_500",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "500"
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_DanceLesson",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "【댄스 레슨·댄스 턴일 때】"
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_DanceLesson",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "댄스 턴이라면, "
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_SpLesson",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "【SP 수업일 때】"
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_SpLesson",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "【SP 수업일 때】"
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_VisualLesson",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "【비주얼 레슨·비주얼 턴일 때】"
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_VisualLesson",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "비주얼 턴이라면, "
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_VocalLesson",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "【보컬 레슨·보컬 턴일 때】"
+        },
+        {
+            "id": "Swap_Convert_StepLessonType_VocalLesson",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "보컬 턴이라면, "
+        },
+        {
+            "id": "Swap_Label_Audition",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "시험·오디션"
+        },
+        {
+            "id": "Swap_Label_Audition",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "시험·오디션"
+        },
+        {
+            "id": "Swap_Label_ExamCardUpgrade",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "레슨 중 강화"
+        },
+        {
+            "id": "Swap_Label_ExamCardUpgrade",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "시험·스테이지 중 강화"
+        },
+        {
+            "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 상승치 증가량 증가"
+        },
+        {
+            "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 상승치 증가량 증가"
+        },
+        {
+            "id": "Swap_Label_ExamLesson",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 "
+        },
+        {
+            "id": "Swap_Label_ExamLesson",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "스코어"
+        },
+        {
+            "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 상승 변경"
+        },
+        {
+            "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 상승 변경"
+        },
+        {
+            "id": "Swap_Label_ExamLessonFix",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "고정 파라미터"
+        },
+        {
+            "id": "Swap_Label_ExamLessonFix",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "고정 점수"
+        },
+        {
+            "id": "Swap_Label_ExamLessonValueMultiple",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 상승량 증가"
+        },
+        {
+            "id": "Swap_Label_ExamLessonValueMultiple",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 상승량 증가 "
+        },
+        {
+            "id": "Swap_Label_ExamLessonValueMultipleDown",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 상승량 감소"
+        },
+        {
+            "id": "Swap_Label_ExamLessonValueMultipleDown",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 상승량 감소"
+        },
+        {
+            "id": "Swap_Label_ExamStaminaDamage",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "체력 감소"
+        },
+        {
+            "id": "Swap_Label_ExamStaminaDamage",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "체력 감소"
+        },
+        {
+            "id": "Swap_Label_ExamStaminaRecoverFix",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "체력 회복"
+        },
+        {
+            "id": "Swap_Label_ExamStaminaRecoverFix",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "체력 회복"
+        },
+        {
+            "id": "Swap_Label_LessonAdd",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 증가"
+        },
+        {
+            "id": "Swap_Label_LessonAdd",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 증가"
+        },
+        {
+            "id": "Swap_Label_LessonCountAdd",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 상승 횟수 증가"
+        },
+        {
+            "id": "Swap_Label_LessonCountAdd",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 상승 횟수 증가"
+        },
+        {
+            "id": "Swap_Label_LessonCountReduce",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 상승 횟수 감소"
+        },
+        {
+            "id": "Swap_Label_LessonCountReduce",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 상승 횟수 감소"
+        },
+        {
+            "id": "Swap_Label_LessonReduce",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "파라미터 값 감소"
+        },
+        {
+            "id": "Swap_Label_LessonReduce",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "점수 감소"
+        },
+        {
+            "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "중복 발동 불가"
+        },
+        {
+            "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "중복 발동 불가"
+        },
+        {
+            "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "레슨 중 1회"
+        },
+        {
+            "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "시험·스테이지 중 1회 "
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "덱의 맨 위"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "덱의 맨 위"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "덱의 맨 아래"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "덱의 맨 아래"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "덱의 무작위 위치"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "덱의 무작위 위치"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_Grave",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "버린 패"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_Grave",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "버린 패"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_Hand",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "손 패"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_Hand",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "손 패"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_Lost",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "제외"
+        },
+        {
+            "id": "Swap_Label_ProduceCardPositionType_Lost",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "제외"
+        },
+        {
+            "id": "Swap_Label_ProduceType_FirstStar",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "하지메 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_FirstStar",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "하지메 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "H.I.F 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "H.I.F 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "H.I.F 본선 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "H.I.F 본선 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "H.I.F 선발시험 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "H.I.F 선발시험 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_NextIdolAudition",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "N.I.A 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_NextIdolAudition",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "N.I.A 전용　"
+        }
+    ]
+}

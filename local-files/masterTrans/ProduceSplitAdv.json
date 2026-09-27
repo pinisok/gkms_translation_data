@@ -1,0 +1,155 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "produceType",
+            "type",
+            "produceSplitTypes"
+        ]
+    },
+    "data": [
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "제3회 『선발시험』 전"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『본선』 라운드2 전"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "제1회 『선발시험』 전"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "결전의 무대로!"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "제2회 『선발시험』 전"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "H.I.F 선발시험"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "H.I.F 선발시험"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "H.I.F 본선"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "H.I.F 본선"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "H.I.F 본선"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "H.I.F 본선"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultTrueEnd",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultTrueEnd",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『H.I.F』 본선의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultA",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultA",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『H.I.F』 본선의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultB",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultB",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『H.I.F』 본선의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultC",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultC",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『H.I.F』 본선의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedFinal",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedFinal",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『H.I.F』 본선의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedMid1",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedMid1",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "title": "『H.I.F』 본선의 결과는……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedMid2",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "title": "『선발시험』의 결과는……"
+        }
+    ]
+}

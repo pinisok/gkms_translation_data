@@ -1,0 +1,1770 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 1,
+            "description": "시험에 합격할만큼 실력은 충분한 것 같네요!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 2,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 3,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 4,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 5,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 6,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 7,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 8,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 9,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 10,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 11,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 12,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 13,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 14,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 15,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 16,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 17,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 18,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 19,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 20,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 21,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 22,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 23,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 24,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 25,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 26,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 27,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-audition",
+            "number": 28,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 1,
+            "description": "거의 다 왔네요!\n카드의 사용 순서를 연구해 봅시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 2,
+            "description": "연수 「기초:호조」에서\n기본적인 것을 배울 수 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 3,
+            "description": "연수 「기초:집중」에서\n기본적인 것을 배울 수 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 4,
+            "description": "연수 「기초:호인상」에서\n기본적인 것을 배울 수 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 5,
+            "description": "연수 「기초:의욕」에서\n기본적인 것을 배울 수 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 6,
+            "description": "친애도가 높아지면 스코어 보너스도\n높아집니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 7,
+            "description": "체력이 부족한 것 같습니다\n체력 배분에 신경 써봅시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 8,
+            "description": "호조 상태에서 스코어 보너스가 높은\n턴에 카드를 사용합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 9,
+            "description": "집중도가 높은 상태에서 스코어 보너스의\n높은 턴에 카드를 사용합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 10,
+            "description": "호인상을 많이 쌓는 것을\n의식해봅시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 11,
+            "description": "기력 수치에 따라 점수를\n획득하는 카드를 활용합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 12,
+            "description": "보컬에 약간의 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 13,
+            "description": "댄스에 약간의 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 14,
+            "description": "비주얼에 약간의 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 15,
+            "description": "보컬에 약간의 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 16,
+            "description": "댄스에 약간의 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 17,
+            "description": "비주얼에 약간의 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 18,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 19,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 20,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 21,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 22,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 23,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 24,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 25,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 26,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 27,
+            "description": "보컬에 차이가 많이 났나 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 28,
+            "description": "댄스에 차이가 많이 난 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 29,
+            "description": "비주얼에 차이가 많이 난 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 30,
+            "description": "보컬에 차이가 많이 났나 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 31,
+            "description": "댄스에 차이가 많이 난 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 32,
+            "description": "비주얼에 차이가 많이 난 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 33,
+            "description": "보컬에 차이가 많이 났나 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 34,
+            "description": "댄스에 차이가 많이 난 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-lose",
+            "number": 35,
+            "description": "비주얼에 차이가 많이 난 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 2,
+            "description": "실력은 충분하지만,\n방심하지 말고 마지막 시험에 도전합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 3,
+            "description": "최종 시험을 돌파할 수 있는,\n충분한 실력이 있네요!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 4,
+            "description": "보컬이 조금 불안하지만,\n아직 이길 가능성은 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 5,
+            "description": "댄스가 조금 불안하지만,\n아직 이길 가능성은 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 6,
+            "description": "비주얼이 조금 불안한데요,\n아직 이길 가능성은 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 7,
+            "description": "실력은 충분하지만,\n방심하지 말고 시험에 도전합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 8,
+            "description": "실력은 충분하네요\n분명 시험은 돌파할 수 있을 거예요!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 9,
+            "description": "보컬이 조금 불안하지만,\n아직 이길 가능성은 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 10,
+            "description": "댄스가 조금 불안하지만,\n아직 이길 가능성은 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 11,
+            "description": "비주얼이 조금 불안한데요,\n아직 이길 가능성은 있어요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 12,
+            "description": "P포인트가 있네요,\n선생님과 상의해서 준비해보는 건 어떨까요?"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 13,
+            "description": "훌륭해요!\n이미 충분한 실력이 있는 것 같아요"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 14,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 15,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 16,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 17,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 18,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 19,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 20,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 21,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 22,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 23,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 24,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 25,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 26,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 27,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 28,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 29,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 30,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 31,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 32,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 33,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 34,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 35,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 36,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 37,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 38,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 39,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 40,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 41,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 42,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 43,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 44,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 45,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 46,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 47,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 48,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 49,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 50,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 51,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 52,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 53,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 54,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 55,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 56,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 57,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 58,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 59,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 60,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 61,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 62,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 63,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 64,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 65,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 66,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 67,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 68,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 69,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 70,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 71,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 72,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-normal",
+            "number": 73,
+            "description": "체력이 얼마 남지 않은 것 같아요,\n아이돌을 쉬게 해 주세요"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial",
+            "number": 1,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial",
+            "number": 2,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial",
+            "number": 3,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial",
+            "number": 4,
+            "description": "체력이 얼마 남지 않은 것 같아요,\n아이돌을 쉬게 해 주세요"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial-audition",
+            "number": 1,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial-audition",
+            "number": 2,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial-audition",
+            "number": 3,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-001-tutorial-audition",
+            "number": 4,
+            "description": "체력이 얼마 남지 않은 것 같아요,\n아이돌을 쉬게 해 주세요"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 1,
+            "description": "오디션에 합격할 실력은 충분한 것 같네요!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 2,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 3,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 4,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 5,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 6,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 7,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 8,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 9,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 10,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 11,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 12,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 13,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 14,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 15,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 16,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 17,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 18,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 19,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 20,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 21,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 22,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 23,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 24,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 25,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 26,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 27,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-audition",
+            "number": 28,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 1,
+            "description": "팬 투표 수가 많을수록\n점수 보너스 값이 더 높아집니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 2,
+            "description": "체력이 부족한 것 같습니다\n체력 배분에 신경 써봅시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 3,
+            "description": "보컬에 약간의 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 4,
+            "description": "댄스에 약간의 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 5,
+            "description": "비주얼에 약간의 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 6,
+            "description": "보컬에 약간의 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 7,
+            "description": "댄스에 약간의 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 8,
+            "description": "비주얼에 약간의 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 9,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 10,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 11,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 12,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 13,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 14,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 15,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 16,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 17,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 18,
+            "description": "보컬에 차이가 많이 났나 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 19,
+            "description": "댄스에 차이가 많이 난 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 20,
+            "description": "비주얼에 차이가 많이 난 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 21,
+            "description": "보컬에 차이가 많이 났나 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 22,
+            "description": "댄스에 차이가 많이 난 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 23,
+            "description": "비주얼에 차이가 많이 난 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 24,
+            "description": "보컬에 차이가 많이 났나 봐요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 25,
+            "description": "댄스에 차이가 많이 난 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-lose",
+            "number": 26,
+            "description": "비주얼에 차이가 많이 난 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 2,
+            "description": "P포인트가 있네요. 특별지도에서,\n오디션 준비를 하지 않겠습니까?"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 3,
+            "description": "P포인트가 있네요,\n선생님과 상의해서 준비해보는 건 어떨까요?"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 4,
+            "description": "훌륭해요!\n이미 충분한 실력이 있는 것 같아요"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 5,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 6,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 7,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 8,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 9,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 10,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 11,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 12,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 13,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 14,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 15,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 16,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 17,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 18,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 19,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 20,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 21,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 22,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 23,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 24,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 25,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 26,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 27,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 28,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 29,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 30,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 31,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 32,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 33,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다!"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 34,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 35,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 36,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 37,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 38,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 39,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 40,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 41,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 42,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 43,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 44,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 45,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 46,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 47,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 48,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 49,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 50,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 51,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 52,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 53,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 54,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 55,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 56,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 57,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 58,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 59,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 60,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 61,
+            "description": "보컬이 많이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 62,
+            "description": "댄스가 많이 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-002-normal",
+            "number": 63,
+            "description": "비주얼이 많이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 1,
+            "description": "시험에 합격할만큼 실력은 충분한 것 같네요!"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 2,
+            "description": "보컬이 조금 부족한 것 같네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 3,
+            "description": "댄스가 조금 부족한 것 같네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 4,
+            "description": "비주얼이 조금 부족한 것 같네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 5,
+            "description": "보컬이 조금 부족한 것 같네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 6,
+            "description": "댄스가 조금 부족한 것 같네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 7,
+            "description": "비주얼이 조금 부족한 것 같네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 8,
+            "description": "보컬이 조금 부족한 것 같네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 9,
+            "description": "댄스가 조금 부족한 것 같네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 10,
+            "description": "비주얼이 조금 부족한 것 같네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 11,
+            "description": "보컬이 부족한 것 같네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 12,
+            "description": "댄스가 부족한 것 같네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 13,
+            "description": "비주얼이 부족한 것 같네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 14,
+            "description": "보컬이 부족한 것 같네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 15,
+            "description": "댄스가 부족한 것 같네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 16,
+            "description": "비주얼이 부족한 것 같네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 17,
+            "description": "보컬이 부족한 것 같네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 18,
+            "description": "댄스가 부족한 것 같네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 19,
+            "description": "비주얼이 부족한 것 같네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 20,
+            "description": "보컬이 부족한 듯하네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 21,
+            "description": "댄스가 부족한 듯하네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 22,
+            "description": "비주얼이 부족한 듯하네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 23,
+            "description": "보컬이 부족한 듯하네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 24,
+            "description": "댄스가 부족한 듯하네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 25,
+            "description": "비주얼이 부족한 듯하네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 26,
+            "description": "보컬이 부족한 듯하네요\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 27,
+            "description": "댄스가 부족한 듯하네요\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-audition",
+            "number": 28,
+            "description": "비주얼이 부족한 듯하네요\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 1,
+            "description": "스타성이 높을수록\n스코어 보너스 값도 높아져요"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 2,
+            "description": "체력이 부족한 것 같습니다\n체력 배분에 신경 써봅시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 3,
+            "description": "보컬에 조금 차이가 있었던 것 같습니다\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 4,
+            "description": "댄스에 조금 차이가 있었던 것 같습니다\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 5,
+            "description": "비주얼에 조금 차이가 있었던 것 같습니다\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 6,
+            "description": "보컬에 조금 차이가 있었던 것 같습니다\n<COLOR_VOCAL>보컬</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 7,
+            "description": "댄스에 조금 차이가 있었던 것 같습니다\n<COLOR_DANCE>댄스</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 8,
+            "description": "비주얼에 조금 차이가 있었던 것 같습니다\n<COLOR_VISUAL>비주얼</color> 레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 9,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 10,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 11,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 12,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 13,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 14,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 15,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 16,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 17,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 18,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 19,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 20,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 21,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 22,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 23,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 24,
+            "description": "보컬에 차이가 있었던 것 같아요\n<COLOR_VOCAL>보컬 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 25,
+            "description": "댄스에 차이가 있었던 것 같아요\n<COLOR_DANCE>댄스 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-lose",
+            "number": 26,
+            "description": "비주얼에 차이가 있었던 것 같아요\n<COLOR_VISUAL>비주얼 </color>레슨으로 강화합시다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 2,
+            "description": "P포인트가 있네요. 특별 지도로,\n시험 준비를 하지 않을래요?"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 3,
+            "description": "P포인트가 있네요.\n선생님께 상담해서 준비를 갖춰보지 않을래요?"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 4,
+            "description": "보유 스킬 카드 수를\n줄이는 게 좋을 것 같네요"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 5,
+            "description": "P포인트가 있네요.\n특별 지도나 상담으로 준비를 갖춰보지 않을래요?"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 6,
+            "description": "보유 스킬 카드 수를\n줄이는 게 좋을 것 같네요"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 7,
+            "description": "실력은 충분하네요. 좋은 성적을 노리려면\n잘 하는 파라미터를 키우는 게 좋아요!"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 8,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 9,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 10,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 11,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 12,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 13,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 14,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 15,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 16,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 17,
+            "description": "보컬이 좀 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 18,
+            "description": "댄스가 좀 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 19,
+            "description": "비주얼이 좀 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 20,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 21,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 22,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 23,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 24,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 25,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 26,
+            "description": "보컬이 부족한가 봐요\n<COLOR_VOCAL>보컬 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 27,
+            "description": "댄스가 부족한가 봐요\n<COLOR_DANCE>댄스 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 28,
+            "description": "비주얼이 부족한가 봐요\n<COLOR_VISUAL>비주얼 </color>레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 29,
+            "description": "보컬이 부족한 듯하네요\n<COLOR_VOCAL>보컬</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 30,
+            "description": "댄스가 부족한 듯하네요\n<COLOR_DANCE>댄스</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 31,
+            "description": "비주얼이 부족한 듯하네요\n<COLOR_VISUAL>비주얼</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 32,
+            "description": "보컬이 부족한 듯하네요\n<COLOR_VOCAL>보컬</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 33,
+            "description": "댄스가 부족한 듯하네요\n<COLOR_DANCE>댄스</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 34,
+            "description": "비주얼이 부족한 듯하네요\n<COLOR_VISUAL>비주얼</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 35,
+            "description": "보컬이 부족한 듯하네요\n<COLOR_VOCAL>보컬</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 36,
+            "description": "댄스가 부족한 듯하네요\n<COLOR_DANCE>댄스</color> 레슨을 추천합니다"
+        },
+        {
+            "id": "p_navi-produce_group-003-normal",
+            "number": 37,
+            "description": "비주얼이 부족한 듯하네요\n<COLOR_VISUAL>비주얼</color> 레슨을 추천합니다"
+        }
+    ]
+}

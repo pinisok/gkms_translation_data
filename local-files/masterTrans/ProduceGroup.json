@@ -1,0 +1,24 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "produce_group-001",
+            "name": "정기공연 『하지메』",
+            "description": "정기공연 『하지메』── 그것은 하츠보시 학원 아이돌과의\n성적 상위자들만이 설 수 있는 무대\n자신을 갈고 닦아, 지금, 그녀들은 빛나기 시작한다──"
+        },
+        {
+            "id": "produce_group-002",
+            "name": "NEXT IDOL AUDITION",
+            "description": "『NEXT IDOL AUDITION』──통칭 『N.I.A』\n차세대를 이끌 아이돌의 정점을 결정하는 싸움이 개막!\n팬들을 모아서 지금 영광의 무대로──"
+        },
+        {
+            "id": "produce_group-003",
+            "name": "Hatsuboshi IDOL FESTIVAL",
+            "description": "『Hatsuboshi IDOL FESTIVAL』──\n하츠보시 학원의 정상을 둘러싼 전쟁의 막이 오른다\n자, 목표는!　『샛별』을!"
+        }
+    ]
+}

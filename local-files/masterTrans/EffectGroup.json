@@ -1,0 +1,277 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "effect_group-hidden-stamina_reduce_fix-000",
+            "name": "체력 감소"
+        },
+        {
+            "id": "effect_group-visible-audition_npc_enhance-000",
+            "name": "라이벌 스코어"
+        },
+        {
+            "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
+            "name": "시험 전 체력 회복량 감소"
+        },
+        {
+            "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
+            "name": "시험 전 체력 회복량 증가"
+        },
+        {
+            "id": "effect_group-visible-dance_addition-000",
+            "name": "댄스 상승"
+        },
+        {
+            "id": "effect_group-visible-event_activity_produce_point_down-000",
+            "name": "외출 소비 P포인트 감소"
+        },
+        {
+            "id": "effect_group-visible-event_activity_produce_point_up-000",
+            "name": "외출 소비 P포인트 증가"
+        },
+        {
+            "id": "effect_group-visible-event_school_stamina_down-000",
+            "name": "수업의 소비 체력 감소"
+        },
+        {
+            "id": "effect_group-visible-event_school_stamina_up-000",
+            "name": "수업의 소비 체력 증가"
+        },
+        {
+            "id": "effect_group-visible-exam_add_grow_effect-000",
+            "name": "성장"
+        },
+        {
+            "id": "effect_group-visible-exam_aggressive_reduce-000",
+            "name": "의욕 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_anti_debuff-000",
+            "name": "저하 상태 비활성화 "
+        },
+        {
+            "id": "effect_group-visible-exam_block_restriction-000",
+            "name": "원기 증가 무효 "
+        },
+        {
+            "id": "effect_group-visible-exam_block-000",
+            "name": "원기"
+        },
+        {
+            "id": "effect_group-visible-exam_card_draw-000",
+            "name": "스킬 카드를 드로우"
+        },
+        {
+            "id": "effect_group-visible-exam_card_play_aggressive-000",
+            "name": "의욕"
+        },
+        {
+            "id": "effect_group-visible-exam_card_search_effect_play_count_buff-000",
+            "name": "스킬 카드 추가 발동"
+        },
+        {
+            "id": "effect_group-visible-exam_card_upgrade-000",
+            "name": "레슨 중 강화"
+        },
+        {
+            "id": "effect_group-visible-exam_concentration-000",
+            "name": "강기"
+        },
+        {
+            "id": "effect_group-visible-exam_effect_timer-000",
+            "name": "발동 예약"
+        },
+        {
+            "id": "effect_group-visible-exam_extra_turn-000",
+            "name": "턴 추가 "
+        },
+        {
+            "id": "effect_group-visible-exam_full_power_point_reduce-000",
+            "name": "전력치 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_full_power-000",
+            "name": "전력"
+        },
+        {
+            "id": "effect_group-visible-exam_gimmick_slump-000",
+            "name": "슬럼프"
+        },
+        {
+            "id": "effect_group-visible-exam_hand_grave_count_card_draw-000",
+            "name": "패를 교체한다"
+        },
+        {
+            "id": "effect_group-visible-exam_lesson_buff_reduce-000",
+            "name": "집중 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_lesson_buff-000",
+            "name": "집중"
+        },
+        {
+            "id": "effect_group-visible-exam_lesson_depend_block-000",
+            "name": ""
+        },
+        {
+            "id": "effect_group-visible-exam_lesson_depend_exam_review-000",
+            "name": ""
+        },
+        {
+            "id": "effect_group-visible-exam_lesson_value_multiple_down-000",
+            "name": "파라미터 상승량 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_lesson_value_multiple-000",
+            "name": "파라미터 상승량 증가"
+        },
+        {
+            "id": "effect_group-visible-exam_lesson-000",
+            "name": "파라미터"
+        },
+        {
+            "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
+            "name": "절호조 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
+            "name": "절호조"
+        },
+        {
+            "id": "effect_group-visible-exam_parameter_buff_reduce-000",
+            "name": "호조 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_parameter_buff-000",
+            "name": "호조"
+        },
+        {
+            "id": "effect_group-visible-exam_playable_value_add-000",
+            "name": "스킬 카드 사용 횟수 추가"
+        },
+        {
+            "id": "effect_group-visible-exam_preservation-000",
+            "name": "온존"
+        },
+        {
+            "id": "effect_group-visible-exam_review_reduce-000",
+            "name": "호인상 감소"
+        },
+        {
+            "id": "effect_group-visible-exam_review-000",
+            "name": "호인상"
+        },
+        {
+            "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
+            "name": "소비 체력 추가"
+        },
+        {
+            "id": "effect_group-visible-exam_stamina_consumption_add-000",
+            "name": "소비 체력 증가 "
+        },
+        {
+            "id": "effect_group-visible-exam_stamina_consumption_down_fix-000",
+            "name": "소비 체력 감소 "
+        },
+        {
+            "id": "effect_group-visible-exam_stamina_consumption_down-000",
+            "name": "소비 체력 감소 "
+        },
+        {
+            "id": "effect_group-visible-exam_stance_reset-000",
+            "name": "지침 해제"
+        },
+        {
+            "id": "effect_group-visible-exam_status_enchant_encore-000",
+            "name": "재연"
+        },
+        {
+            "id": "effect_group-visible-exam_status_enchant-000",
+            "name": "지속 효과"
+        },
+        {
+            "id": "effect_group-visible-exam_turn_down-000",
+            "name": "턴 수 감소"
+        },
+        {
+            "id": "effect_group-visible-produce_card_delete-000",
+            "name": "삭제"
+        },
+        {
+            "id": "effect_group-visible-produce_card_upgrade-000",
+            "name": "강화"
+        },
+        {
+            "id": "effect_group-visible-produce_point_addition-000",
+            "name": "P포인트 획득"
+        },
+        {
+            "id": "effect_group-visible-produce_point_reduce_fix-000",
+            "name": "P포인트 감소"
+        },
+        {
+            "id": "effect_group-visible-shop_price_discount_multiple-000",
+            "name": "상담에서 모든 항목을 할인"
+        },
+        {
+            "id": "effect_group-visible-shop_price_up_multiple-000",
+            "name": "상담의 모든 항목을 할증"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",
+            "name": "상담에서 스킬 카드 삭제 할인"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_card_delete_price_up_multiple-000",
+            "name": "상담의 스킬 카드 삭제를 할증"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_card_price_discount_multiple-000",
+            "name": "상담 스킬 카드 할인"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_card_price_up_multiple-000",
+            "name": "상담의 스킬 카드를 할증"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_card_upgrade_price_discount_multiple-000",
+            "name": "상담에서 스킬 카드 강화 할인"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_card_upgrade_price_up_multiple-000",
+            "name": "상담의 스킬 카드 강화를 할증"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_drink_price_discount_multiple-000",
+            "name": "상담에서 P드링크 할인"
+        },
+        {
+            "id": "effect_group-visible-shop_produce_drink_price_up_multiple-000",
+            "name": "상담의 P드링크를 할증"
+        },
+        {
+            "id": "effect_group-visible-stamina_recover_fix-000",
+            "name": "체력 회복"
+        },
+        {
+            "id": "effect_group-visible-stamina_reduce_fix-000",
+            "name": "체력 감소"
+        },
+        {
+            "id": "effect_group-visible-stance_lock-000",
+            "name": "지침 고정"
+        },
+        {
+            "id": "effect_group-visible-visual_addition-000",
+            "name": "비주얼 상승"
+        },
+        {
+            "id": "effect_group-visible-vocal_addition-000",
+            "name": "보컬 상승"
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "id": "help-achievement",
+            "order": 17,
+            "name": "업적",
+            "texts": [
+                "업적은 다양한 조건을 충족하면 획득할 수 있습니다. 프로듀서 Lv 상승을 위한 경험치 등 다양한 보상을 획득할 수 있으니 적극적으로 업적을 모아보세요.",
+                "업적을 획득할 때 얻을 수 있는 별이 일정 개수에 도달하면 마스터 업적을 획득할 수 있습니다. 마스터 업적은 획득한 별 수에 따라 등급이 올라가며 보상을 획득할 수 있습니다.",
+                "True End 업적은 True End에 도달하면 획득할 수 있습니다. True End 업적을 획득하면 유휴 파라미터가 상승합니다."
+            ]
+        },
+        {
+            "id": "help-box-gasha-event",
+            "order": 24,
+            "name": "스토리 이벤트",
+            "texts": []
+        },
+        {
+            "id": "help-circle-battle-event",
+            "order": 26,
+            "name": "지방행각 이벤트",
+            "texts": []
+        },
+        {
+            "id": "help-competition",
+            "order": 12,
+            "name": "링크 콘테스트",
+            "texts": []
+        },
+        {
+            "id": "help-contest",
+            "order": 12,
+            "name": "콘테스트",
+            "texts": [
+                "전국의 프로듀서와 대전할 수 있습니다.\n콘테스트에서는 프로듀스에서 획득한\n메모리에 연동되는 파라미터, 스킬 카드,\nP아이템을 사용하여 대전할 수 있습니다.",
+                "스테이지마다 퍼포먼스 대결을 펼쳐\n획득한 점수로 승패를 겨룹니다.\n스테이지 승리 수가 많은 프로듀서가\n승리하게 됩니다.",
+                "콘테스트에는 등급이 있습니다.\n랭킹 상위에 오르면\n더 높은 등급으로 승격할 수 있습니다.\n등급이 높아지면 보상이 호화로워집니다.",
+                "콘테스트 메달을 모으면\n아이템 교환소에서\n호화로운 보상과 교환할 수 있습니다."
+            ]
+        },
+        {
+            "id": "help-dearness-doost-campaign",
+            "order": 11,
+            "name": "친애도 부스트 캠페인",
+            "texts": []
+        },
+        {
+            "id": "help-dearness-map",
+            "order": 10,
+            "name": "친애도 맵",
+            "texts": []
+        },
+        {
+            "id": "help-dearness-top",
+            "order": 9,
+            "name": "친애도 TOP",
+            "texts": []
+        },
+        {
+            "id": "help-event_mission",
+            "order": 25,
+            "name": "이벤트 미션",
+            "texts": []
+        },
+        {
+            "id": "help-event-mission",
+            "order": 22,
+            "name": "특별 미션",
+            "texts": []
+        },
+        {
+            "id": "help-gasha",
+            "order": 14,
+            "name": "가챠",
+            "texts": []
+        },
+        {
+            "id": "help-grade-mission",
+            "order": 29,
+            "name": "P 평가 랭크 업적",
+            "texts": []
+        },
+        {
+            "id": "help-guild",
+            "order": 16,
+            "name": "서클",
+            "texts": [
+                "서클에서는 전국의 프로듀서들과 서클을 결성하여 교류할 수 있습니다.",
+                "서클에서는 서클 멤버들에게 특훈 아이템을 선택하여, 아이템을 기부 받을 수 있습니다. 또한 아이템을 기부하면 프렌드 코인을 획득할 수 있습니다."
+            ]
+        },
+        {
+            "id": "help-highscore",
+            "order": 24,
+            "name": "주오 쿠니오의 아이돌 강화의 달",
+            "texts": []
+        },
+        {
+            "id": "help-highscorerush",
+            "order": 23,
+            "name": "주오 쿠니오의 아이돌 강화의 달",
+            "texts": []
+        },
+        {
+            "id": "help-home",
+            "order": 1,
+            "name": "홈",
+            "texts": []
+        },
+        {
+            "id": "help-idol",
+            "order": 2,
+            "name": "아이돌",
+            "texts": []
+        },
+        {
+            "id": "help-lesson",
+            "order": 6,
+            "name": "레슨/시험",
+            "texts": []
+        },
+        {
+            "id": "help-livetour-event",
+            "order": 23,
+            "name": "시즌 이벤트",
+            "texts": []
+        },
+        {
+            "id": "help-main-story-event",
+            "order": 23,
+            "name": "하츠보시 커뮤 이벤트",
+            "texts": []
+        },
+        {
+            "id": "help-memory",
+            "order": 4,
+            "name": "메모리",
+            "texts": []
+        },
+        {
+            "id": "help-menu",
+            "order": 19,
+            "name": "메뉴",
+            "texts": []
+        },
+        {
+            "id": "help-mission",
+            "order": 15,
+            "name": "미션",
+            "texts": []
+        },
+        {
+            "id": "help-panel-mission",
+            "order": 21,
+            "name": "패널 미션 이벤트",
+            "texts": []
+        },
+        {
+            "id": "help-photography-prepare-top",
+            "order": 23,
+            "name": "아이돌 촬영",
+            "texts": []
+        },
+        {
+            "id": "help-produce",
+            "order": 5,
+            "name": "프로듀스",
+            "texts": [
+                "시험에 합격하여 라이브 출전을 목표로 합시다.\n라이브에 참가하기 위해서는\n중간 시험과 최종 시험을 통과해야 합니다.",
+                "시험에 합격하기 위해서는,\n아이돌의 파라미터가 중요합니다. \n시험을 위해 파라미터를 육성합시다.",
+                "시험마다 심사 기준이 있습니다.\n심사 기준에 맞게 파라미터를 육성하면\n시험에 합격하기 쉬워집니다."
+            ]
+        },
+        {
+            "id": "help-produce_card_skin",
+            "order": 99,
+            "name": "스킬 카드 스킨",
+            "texts": []
+        },
+        {
+            "id": "help-producer-ranking",
+            "order": 24,
+            "name": "프로듀서 랭킹",
+            "texts": []
+        },
+        {
+            "id": "help-research-event",
+            "order": 28,
+            "name": "아사리 선생님의 프로듀스 세미나",
+            "texts": []
+        },
+        {
+            "id": "help-shop",
+            "order": 18,
+            "name": "상점",
+            "texts": []
+        },
+        {
+            "id": "help-story",
+            "order": 8,
+            "name": "커뮤",
+            "texts": []
+        },
+        {
+            "id": "help-story-event",
+            "order": 20,
+            "name": "스토리 이벤트",
+            "texts": []
+        },
+        {
+            "id": "help-story-event-guild-mission",
+            "order": 25,
+            "name": "연계 미션",
+            "texts": []
+        },
+        {
+            "id": "help-support",
+            "order": 3,
+            "name": "서포트 카드",
+            "texts": []
+        },
+        {
+            "id": "help-tower",
+            "order": 13,
+            "name": "아이돌의 길",
+            "texts": []
+        },
+        {
+            "id": "help-trail",
+            "order": 30,
+            "name": "추억 의상",
+            "texts": []
+        }
+    ]
+}

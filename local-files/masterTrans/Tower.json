@@ -1,0 +1,61 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "tower_001-amao",
+            "title": "아리무라 마오 아이돌의 길"
+        },
+        {
+            "id": "tower_001-atbm",
+            "title": "아마야 츠바메 아이돌의 길"
+        },
+        {
+            "id": "tower_001-fktn",
+            "title": "후지타 코토네 아이돌의 길"
+        },
+        {
+            "id": "tower_001-hmsz",
+            "title": "하타야 미스즈 아이돌의 길"
+        },
+        {
+            "id": "tower_001-hrnm",
+            "title": "히메사키 리나미 아이돌의 길"
+        },
+        {
+            "id": "tower_001-hski",
+            "title": "하나미 사키 아이돌의 길"
+        },
+        {
+            "id": "tower_001-hume",
+            "title": "하나미 우메 아이돌의 길"
+        },
+        {
+            "id": "tower_001-jsna",
+            "title": "주오 세나 아이돌의 길"
+        },
+        {
+            "id": "tower_001-kcna",
+            "title": "쿠라모토 치나 아이돌의 길"
+        },
+        {
+            "id": "tower_001-kllj",
+            "title": "카츠라기 릴리야 아이돌의 길"
+        },
+        {
+            "id": "tower_001-shro",
+            "title": "시노사와 히로 아이돌의 길"
+        },
+        {
+            "id": "tower_001-ssmk",
+            "title": "시운 스미카 아이돌의 길"
+        },
+        {
+            "id": "tower_001-ttmr",
+            "title": "츠키무라 테마리 아이돌의 길"
+        }
+    ]
+}

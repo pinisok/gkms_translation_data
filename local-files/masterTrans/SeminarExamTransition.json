@@ -1,0 +1,107 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "examEffectType",
+            "isLessonInt",
+            "seminarExamId"
+        ]
+    },
+    "data": [
+        {
+            "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_01",
+            "description": "목표치에 도달하지 못했네요. 호조는 파라메터의\n상승치를 높이는 효과가 있습니다. 시험 연수로\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "시험 연수",
+            "seminarExamName": "【시험 연수１】호조"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_01",
+            "description": "목표치에 도달하지 못했네요. 호조는 파라메터의\n상승치를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "기초 연수",
+            "seminarExamName": "【기초１】호조"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_02",
+            "description": "목표치에 도달하지 못했네요. 집중은 수치만큼\n파라메터 상승치를 높이는 효과가 있습니다. 시험 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "시험 연수",
+            "seminarExamName": "【시험 연수２】집중"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_02",
+            "description": "목표치에 도달하지 못했네요. 집중은 수치만큼\n파라메터 상승치를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "기초 연수",
+            "seminarExamName": "【기초２】집중"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamReview",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_03",
+            "description": "목표치에 도달하지 못했네요. 호인상은 턴 종료시\n파라메터를 높이는 효과가 있습니다. 시험 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "시험 연수",
+            "seminarExamName": "【시험 연수３】호인상"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamReview",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_03",
+            "description": "목표치에 도달하지 못했네요. 호인상은 턴 종료시\n파라메터를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "기초 연수",
+            "seminarExamName": "【기초３】호인상"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_04",
+            "description": "목표치에 도달하지 못했네요. 의욕은 수치만큼\n원기의 증가치를 높이는 효과가 있습니다. 시험 \n연수에서 능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "시험 연수",
+            "seminarExamName": "【시험 연수４】의욕"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_04",
+            "description": "목표치에 도달하지 못했네요. 의욕은 수치만큼\n원기의 증가치를 높이는 효과가 있습니다. 시험 \n연수에서 능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "기초 연수",
+            "seminarExamName": "【기초４】의욕"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamConcentration",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_05",
+            "description": "목표치에 도달하지 못했네요. 강기는 파라미터\n상승량과 소비 체력을 증가시키는 효과가 있습니다.\n시험 연수에서 능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "시험 연수",
+            "seminarExamName": "【시험 연수 6】강기"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamConcentration",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_07",
+            "description": "목표치에 도달하지 못했네요. 강기는 파라미터\n상승량과 소비 체력을 증가시키는 효과가 있습니다.\n연수에서 능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "기초 연수",
+            "seminarExamName": "【기초 8】강기"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamFullPower",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_06",
+            "description": "목표치에 도달하지 못했네요. 전력은 파라미터의\n상승량을 올리는 것 외에, 스킬 카드 사용수를\n1회 추가하는 효과가 있습니다. 연수에서 능숙\n하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "시험 연수",
+            "seminarExamName": "【시험 연수 5】전력"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamFullPower",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_08",
+            "description": "목표치에 도달하지 못했네요. 전력은 파라미터의\n상승량을 올리는 것 외에, 스킬 카드 사용수를\n1회 추가하는 효과가 있습니다. 시험 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
+            "seminarExamGroupName": "기초 연수",
+            "seminarExamName": "【기초 7】전력"
+        }
+    ]
+}

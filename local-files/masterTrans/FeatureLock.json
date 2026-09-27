@@ -1,0 +1,87 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "tutorialType"
+        ]
+    },
+    "data": [
+        {
+            "tutorialType": "TutorialType_Work",
+            "name": "업무",
+            "description": "「업무」기능 해제",
+            "routeDescription": "홈의 일에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "name": "콘테스트",
+            "description": "「콘테스트」 기능 해제",
+            "routeDescription": "콘테스트에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_CoinGasha",
+            "name": "코인 가챠",
+            "description": "「코인 가챠」 기능 해제",
+            "routeDescription": "샵의 코인가챠에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_MoneyReceive",
+            "name": "활동비",
+            "description": "「활동비」 기능 해제",
+            "routeDescription": "홈의 활동비에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+            "name": "프로듀스 아이돌 특훈",
+            "description": "「프로듀스 아이돌 특훈」 기능 해제",
+            "routeDescription": "아이돌의 P아이돌 육성에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_SupportCardLevelUpdate",
+            "name": "서포트 카드 강화",
+            "description": "「서포트 카드 강화」 기능 해제",
+            "routeDescription": "서포트 카드에서 확인할 수 있습니다\n"
+        },
+        {
+            "tutorialType": "TutorialType_DailyExchange",
+            "name": "데일리 교환소",
+            "description": "「데일리 교환소」 기능 출시",
+            "routeDescription": "샵의 데일리 교환소에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_Tower",
+            "name": "아이돌의 길",
+            "description": "「아이돌의 길」 기능 해제",
+            "routeDescription": "콘테스트의 아이돌의 길에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_Guild",
+            "name": "서클",
+            "description": "「서클」 기능 해제",
+            "routeDescription": "메뉴의 서클에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_DearnessTop",
+            "name": "친애도 TOP",
+            "description": "「친애도 TOP」기능 해방",
+            "routeDescription": "홈의 친애도에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": 32,
+            "name": "P 평가 랭크 업적",
+            "description": "「P 평가 랭크 업적」 기능 개방",
+            "routeDescription": "미션의 노멀 미션에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_ProducerRanking",
+            "name": "프로듀서 랭킹",
+            "description": "「프로듀서 랭킹」 기능 해방",
+            "routeDescription": "콘테스트의 P랭킹에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_ProduceCardConvert",
+            "name": "스킬 카드 스위치",
+            "description": "「스킬 카드 스위치」 기능 해방",
+            "routeDescription": "프로듀스에서 확인 가능"
+        }
+    ]
+}

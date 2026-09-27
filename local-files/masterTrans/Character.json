@@ -1,0 +1,129 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "amao",
+            "lastName": "아리무라",
+            "firstName": "마오"
+        },
+        {
+            "id": "andk",
+            "lastName": "아오이",
+            "firstName": "나데시코"
+        },
+        {
+            "id": "atbm",
+            "lastName": "아마야",
+            "firstName": "츠바메"
+        },
+        {
+            "id": "fktn",
+            "lastName": "후지타",
+            "firstName": "코토네"
+        },
+        {
+            "id": "hmsz",
+            "lastName": "하타야",
+            "firstName": "미스즈"
+        },
+        {
+            "id": "hrnm",
+            "lastName": "히메사키",
+            "firstName": "리나미"
+        },
+        {
+            "id": "hski",
+            "lastName": "하나미",
+            "firstName": "사키"
+        },
+        {
+            "id": "hume",
+            "lastName": "하나미",
+            "firstName": "우메"
+        },
+        {
+            "id": "jkno",
+            "lastName": "주오",
+            "firstName": "쿠니오"
+        },
+        {
+            "id": "jsna",
+            "lastName": "주오",
+            "firstName": "세나"
+        },
+        {
+            "id": "kcna",
+            "lastName": "쿠라모토",
+            "firstName": "치나"
+        },
+        {
+            "id": "kllj",
+            "lastName": "카츠라기",
+            "firstName": "릴리야"
+        },
+        {
+            "id": "krnh",
+            "lastName": "카요",
+            "firstName": "린바"
+        },
+        {
+            "id": "ktko",
+            "lastName": "쿠로이",
+            "firstName": "타카오"
+        },
+        {
+            "id": "myu0",
+            "lastName": "마시로",
+            "firstName": "유우"
+        },
+        {
+            "id": "nasr",
+            "lastName": "네오",
+            "firstName": "아사리"
+        },
+        {
+            "id": "sgka",
+            "lastName": "시라쿠사",
+            "firstName": "겟카"
+        },
+        {
+            "id": "shro",
+            "lastName": "시노사와",
+            "firstName": "히로"
+        },
+        {
+            "id": "ssmk",
+            "lastName": "시운",
+            "firstName": "스미카"
+        },
+        {
+            "id": "sson",
+            "lastName": "시라쿠사",
+            "firstName": "시온"
+        },
+        {
+            "id": "trda",
+            "lastName": "댄스",
+            "firstName": "트레이너"
+        },
+        {
+            "id": "trvi",
+            "lastName": "비주얼",
+            "firstName": "트레이너"
+        },
+        {
+            "id": "trvo",
+            "lastName": "보컬",
+            "firstName": "트레이너"
+        },
+        {
+            "id": "ttmr",
+            "lastName": "츠키무라",
+            "firstName": "테마리"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "page"
+        ]
+    },
+    "data": [
+        {
+            "page": "StoryEventTop",
+            "name": "홈"
+        },
+        {
+            "page": "TowerTop",
+            "name": "타워 TOP"
+        }
+    ]
+}

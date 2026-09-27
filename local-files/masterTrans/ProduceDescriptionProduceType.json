@@ -1,0 +1,35 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "produceType",
+            "produceSplitType"
+        ]
+    },
+    "data": [
+        {
+            "produceType": "ProduceType_FirstStar",
+            "produceSplitType": "ProduceSplitType_Unknown",
+            "name": "하지메 전용　"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "produceSplitType": "ProduceSplitType_Unknown",
+            "name": "N.I.A 전용　"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "produceSplitType": "ProduceSplitType_Unknown",
+            "name": "H.I.F 전용　"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "produceSplitType": "ProduceSplitType_Selection",
+            "name": "H.I.F 선발시험 전용　"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "produceSplitType": "ProduceSplitType_Final",
+            "name": "H.I.F 본선 전용　"
+        }
+    ]
+}

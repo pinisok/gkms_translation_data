@@ -1,0 +1,133 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_daily",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_daily",
+            "name": "컴백 데일리 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_daily",
+            "name": "프로듀스 「N.I.A」 챌린지 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-003_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-004_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-001_daily",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "mission-group-highscorerush-event-002_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-003_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-004_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-005_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-007_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-009_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-013_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-001_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-002_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-003_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-004_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-005_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-006_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-007_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-008_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-009_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-group-main-story-event-010_daily",
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "mission-release_memorial_group",
+            "name": "입학 기념 미션"
+        }
+    ]
+}

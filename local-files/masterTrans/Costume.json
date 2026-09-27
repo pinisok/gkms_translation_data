@@ -1,0 +1,2714 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "amao-casl-0000",
+            "name": "평소 사복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "amao-casl-0001",
+            "name": "진짜의 나",
+            "description": "아리무라 마오의 친밀도 Lv 10 만들기"
+        },
+        {
+            "id": "amao-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "amao-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "amao-cstm-0004",
+            "name": "Fluorite",
+            "description": "【Fluorite】아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0016",
+            "name": "Fluorite",
+            "description": "【Fluorite】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "amao-cstm-0035",
+            "name": "Feel Jewel Dream",
+            "description": "【Feel Jewel Dream】아리무라 마오 획득"
+        },
+        {
+            "id": "amao-cstm-0036",
+            "name": "Feel Jewel Dream",
+            "description": "【Feel Jewel Dream】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "amao-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아리무라 마오를 입수"
+        },
+        {
+            "id": "amao-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "amao-cstm-0061",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】아리무라 마오를 입수"
+        },
+        {
+            "id": "amao-cstm-0062",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "amao-cstm-0063",
+            "name": "관국",
+            "description": "【Fluorite】'24 축제 아리무라 마오 획득"
+        },
+        {
+            "id": "amao-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【Fluorite】'24 할로윈 아리무라 마오를 입수"
+        },
+        {
+            "id": "amao-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【Fluorite】'24 크리스마스 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "amao-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "아리무라 마오의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "amao-cstm-0073",
+            "name": "백금의 빛",
+            "description": "아리무라 마오의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "amao-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【Fluorite】'25 발렌타인 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0076",
+            "name": "히나마츠리 기모노",
+            "description": "히나마츠리 기모노 (아리무라 마오) 구매"
+        },
+        {
+            "id": "amao-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【Fluorite】'25 벚꽃 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0092",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0093",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "amao-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "아리무라 마오의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "amao-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (아리무라 마오)를 입수"
+        },
+        {
+            "id": "amao-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【Fluorite】'25Howling over the World 아리무라 마오를 입수"
+        },
+        {
+            "id": "amao-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【Fluorite】'25 애니메이트 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0120",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0121",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "amao-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Fluorite】'25 전력을 다해 가자! 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【Fluorite】'26ENDLESS DANCE 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0129",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】아리무라 마오를 획득"
+        },
+        {
+            "id": "amao-cstm-0130",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 재능 개화 4단계로 획득"
+        },
+        {
+            "id": "amao-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【Fluorite】'26 GO MY WAY!! 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【Fluorite】'26 수영복 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【Fluorite】'26 수영복 아리무라 마오 입수"
+        },
+        {
+            "id": "amao-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(아리무라 마오) 구매하기"
+        },
+        {
+            "id": "amao-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "amao-trng-0001",
+            "name": "레슨웨어",
+            "description": "아리무라 마오의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "amao-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(아리무라 마오)을 구매"
+        },
+        {
+            "id": "atbm-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "atbm-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "atbm-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【이론무장하고】'26 여름 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "atbm-cstm-0063",
+            "name": "관국",
+            "description": "【이론무장하고】'26 축제 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【이론무장하고】'26 할로윈 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【이론무장하고】'26 크리스마스 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "차일드 스모크(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "atbm-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "atbm-cstm-0073",
+            "name": "백금의 빛",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "atbm-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【이론무장하고】'26 발렌타인 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【이론무장하고】'26 하나마츠리 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【이론무장하고】'26 벚꽃 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0106",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0107",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "atbm-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "atbm-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "atbm-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【이론무장하고】'26 Howling over the World 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【이론무장하고】'26 애니메이트 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【이론무장하고】'26ENDLESS DANCE 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【이론무장하고】'26 GO MY WAY!! 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0145",
+            "name": "크라이아이",
+            "description": "【크라이아이】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0146",
+            "name": "크라이아이",
+            "description": "【크라이아이】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "atbm-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【이론무장하고】'26 수영복 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【이론무장하고】'26 수영복 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "atbm-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "atbm-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "atbm-trng-0001",
+            "name": "레슨웨어",
+            "description": "아마야 츠바메의 마스터 업적 Rank 3을 달성"
+        },
+        {
+            "id": "atbm-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "fktn-casl-0000",
+            "name": "평소 사복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "fktn-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "fktn-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "fktn-cstm-0001",
+            "name": "세상에서 가장 귀여운 나",
+            "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수!"
+        },
+        {
+            "id": "fktn-cstm-0013",
+            "name": "세상에서 가장 귀여운 나",
+            "description": "【세상에서 제일 귀여운 나】 후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0027",
+            "name": "Yellow Big Bang!",
+            "description": "【Yellow Big Bang!】후지타 코토네 입수!"
+        },
+        {
+            "id": "fktn-cstm-0028",
+            "name": "Yellow Big Bang!",
+            "description": "【Yellow Big Bang!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0045",
+            "name": "관국",
+            "description": "【관국】후지타 코토네를 입수"
+        },
+        {
+            "id": "fktn-cstm-0046",
+            "name": "관국",
+            "description": "【관국】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【세상에서 가장 귀여운 나】'24 여름 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】후지타 코토네를 입수"
+        },
+        {
+            "id": "fktn-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0063",
+            "name": "축제 핫피",
+            "description": "축제 핫피 (후지타 코토네)를 입수"
+        },
+        {
+            "id": "fktn-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【세계 제일 귀여운 나】'24 할로윈 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】후지타 코토네를 입수"
+        },
+        {
+            "id": "fktn-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "fktn-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "후지타 코토네의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "fktn-cstm-0073",
+            "name": "백금의 빛",
+            "description": "후지타 코토네의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "fktn-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【세계 제일 귀여운 나】'25 발렌타인 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【세계 제일 귀여운 나】'25 하나마츠리 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【세계 제일 귀여운 나】'25 벚꽃 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0086",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0087",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "후지타 코토네의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "fktn-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (후지타 코토네)를 입수"
+        },
+        {
+            "id": "fktn-cstm-0112",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0113",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【세계 제일 귀여운 나】'25 Howling over the World 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【세계 제일 귀여운 나】'25 애니메이트 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【세계 제일 귀여운 나】'25 미라쿠루나나우(˚∀˚)! 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【세계 제일 귀여운 나】'26ENDLESS DANCE 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0138",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0139",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【세상에서 가장 귀여운 나】'26 수영복 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【세상에서 가장 귀여운 나】'26 수영복 후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(후지타 코토네) 구매하기"
+        },
+        {
+            "id": "fktn-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "fktn-trng-0001",
+            "name": "레슨웨어",
+            "description": "후지타 코토네의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "fktn-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(후지타 코토네)을 구매"
+        },
+        {
+            "id": "hmsz-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "hmsz-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hmsz-cstm-0011",
+            "name": "달 거북이",
+            "description": "【달 거북이】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0023",
+            "name": "달 거북이",
+            "description": "【달 거북이】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【달 거북이】'25 여름 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0059",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈를 입수"
+        },
+        {
+            "id": "hmsz-cstm-0060",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0063",
+            "name": "관국",
+            "description": "【달 거북이】'25 축제 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【달 거북이】'25 할로윈 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【달 거북이】'25 크리스마스 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "차일드 스모크 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "hmsz-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "하타야 미스즈의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "hmsz-cstm-0073",
+            "name": "백금의 빛",
+            "description": "하타야 미스즈의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "hmsz-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【달 거북이】'26 발렌타인 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【츠키노카메】'26 하나마츠리 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【츠키노카메】'26 벚꽃 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0102",
+            "name": "VEIL",
+            "description": "【VEIL】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0103",
+            "name": "VEIL",
+            "description": "【VEIL】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "하타야 미스즈의 아이돌 길 스테이지 25를 클리어"
+        },
+        {
+            "id": "hmsz-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (하타야 미스즈)를 입수"
+        },
+        {
+            "id": "hmsz-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【달 거북이】'26 Howling over the World 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【달 거북이】'25 애니메이트 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【달 거북이】'25 미라쿠루나나우(˚∀˚)! 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【달 거북이】'25 전력을 다해 가자! 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【츠키노카메】'26 GO MY WAY!! 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0173",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0174",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0177",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0178",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "hmsz-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hmsz-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hmsz-trng-0001",
+            "name": "레슨웨어",
+            "description": "하타야 미스즈의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "hmsz-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "hrnm-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "hrnm-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hrnm-cstm-0005",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0017",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】 히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-cstm-0037",
+            "name": "L.U.V",
+            "description": "【L.U.V】히메사키 리나미를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0038",
+            "name": "L.U.V",
+            "description": "【L.U.V】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-cstm-0043",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0044",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-cstm-0051",
+            "name": "후드 수영복",
+            "description": "후드 수영복 (히메사키 리나미)를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】히메사키 리나미를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-cstm-0055",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】히메사키 리나미를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0056",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-cstm-0063",
+            "name": "관국",
+            "description": "【clumsy trick】'24 축제 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【clumsy trick】'24 할로윈 히메사키 리나미를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【clumsy trick】'24 크리스마스 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "hrnm-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "히메사키 리나미의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "hrnm-cstm-0073",
+            "name": "백금의 빛",
+            "description": "히메사키 리나미의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "hrnm-cstm-0075",
+            "name": "하트 앞치마",
+            "description": "하트 앞치마 (히메사키 리나미)를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【clumsy trick】'25 하나마츠리 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【clumsy trick】'25 벚꽃 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0094",
+            "name": "36℃ U･B･U",
+            "description": "【36℃ U･B･U】히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0095",
+            "name": "36℃ U･B･U",
+            "description": "【36℃ U･B･U】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "hrnm-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (히메사키 리나미)를 입수"
+        },
+        {
+            "id": "hrnm-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【clumsy trick】'25 애니메이트 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【clumsy trick】'25 미라쿠루나나우(˚∀˚)! 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【clumsy trick】'25 전력을 다해 가자! 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【clumsy trick】'26ENDLESS DANCE 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0129",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】히메사키 리나미를 획득"
+        },
+        {
+            "id": "hrnm-cstm-0130",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 재능 개화 4단계로 획득"
+        },
+        {
+            "id": "hrnm-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미의 재능 개화 4단계째에서 입수"
+        },
+        {
+            "id": "hrnm-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【clumsy trick】'26 GO MY WAY!! 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【clumsy trick】'26 수영복 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【clumsy trick】'26 수영복 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-othr-0000",
+            "name": "온천 목욕 타올",
+            "description": "입수 불가"
+        },
+        {
+            "id": "hrnm-othr-0002",
+            "name": "어서 오세요 하츠보시 온천",
+            "description": "【어서 오세요 하츠보시온천!】히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-othr-0003",
+            "name": "어서 오세요 하츠보시 온천",
+            "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hrnm-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hrnm-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hrnm-trng-0001",
+            "name": "레슨웨어",
+            "description": "히메사키 리나미의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "hrnm-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(히메사키 리나미)을 구매"
+        },
+        {
+            "id": "hski-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "hski-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hski-cstm-0002",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0014",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】 하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0029",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0030",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【Fighting my way 】'24 여름 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미 사키를 입수"
+        },
+        {
+            "id": "hski-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0063",
+            "name": "관국",
+            "description": "【관국화】하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【Fighting My Way】'24 헐로윈 하나미 사키를 입수"
+        },
+        {
+            "id": "hski-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【Fighting My Way】'24 크리스마스 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "hski-cstm-0070",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【고금동서 식은 죽 먹기】하나미 사키를 입수"
+        },
+        {
+            "id": "hski-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "하나미 사키의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "hski-cstm-0073",
+            "name": "백금의 빛",
+            "description": "하나미 사키의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "hski-cstm-0074",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【고금동서 식은 죽 먹기】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【Fighting My Way】'25 발렌타인 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【Fighting My Way】'25 하나마츠리 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0079",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】하나미 사키를 입수"
+        },
+        {
+            "id": "hski-cstm-0080",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】하나미사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0081",
+            "name": "벚꽃 세일러",
+            "description": "벚꽃 세일러 (하나미 사키) 구매"
+        },
+        {
+            "id": "hski-cstm-0082",
+            "name": "Wildest Flower",
+            "description": "【Wildest Flower】하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0083",
+            "name": "Wildest Flower",
+            "description": "【Wildest Flower】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "하나미 사키의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "hski-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (하나미 사키)를 입수"
+        },
+        {
+            "id": "hski-cstm-0112",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0113",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【Fighting My Way】'25 Howling over the World 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【Fighting My Way】'25 미라쿠루나나우(˚∀˚)! 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Fighting My Way】'25 전력을 다해 가자! 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【Fighting My Way】'26ENDLESS DANCE 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하나미 사키 획득"
+        },
+        {
+            "id": "hski-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hski-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【Fighting My Way】'26 수영복 하나미 사키 입수"
+        },
+        {
+            "id": "hski-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【Fighting My Way】'26 수영복 하나미 사키 입수"
+        },
+        {
+            "id": "hski-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(하나미 사키) 구매하기"
+        },
+        {
+            "id": "hski-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hski-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hski-trng-0001",
+            "name": "레슨웨어",
+            "description": "하나미 사키의 마스터 업적을 Rank3 달성하기"
+        },
+        {
+            "id": "hski-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(하나미 사키)을 구매"
+        },
+        {
+            "id": "hume-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "hume-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hume-cstm-0010",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】 하나미 우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0022",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】 하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0049",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】하나미 우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0050",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【The Rolling Riceball】'24 여름 하나미 우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미 우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0057",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0058",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0063",
+            "name": "관국",
+            "description": "【The Rolling Riceball】'24 축제 하나미 우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【The Rolling Riceball】'24 할로윈 하나미 ​​우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0067",
+            "name": "산타 케이프",
+            "description": "산타 케이프(하나미 우메) 를 입수"
+        },
+        {
+            "id": "hume-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "차일드 스모크(하나미 우메)를 구매"
+        },
+        {
+            "id": "hume-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "하나미 우메의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "hume-cstm-0073",
+            "name": "백금의 빛",
+            "description": "하나미 우메의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "hume-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【The Rolling Riceball】'26 발렌타인 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【The Rolling Riceball】'26 하나마츠리 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【The Rolling Riceball】'26 벚꽃 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0100",
+            "name": "새하얀 페이지와 수채화 주인공",
+            "description": "【새하얀 페이지와 수채화 주인공】하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0101",
+            "name": "새하얀 페이지와 수채화 주인공",
+            "description": "【새하얀 페이지와 수채화 주인공】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "hume-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (하나미 우메)를 입수"
+        },
+        {
+            "id": "hume-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【The Rolling Riceball】'25 Howling over the World 하나미 ​​우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【The Rolling Riceball】'25 애니메이트 하나미 ​​우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【The Rolling Riceball】'25 미라쿠루나나우(˚∀˚)! 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【The Rolling Riceball】'25 전력을 다해 가자! 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0126",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0127",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hume-cstm-0138",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】하나미 우메 획득"
+        },
+        {
+            "id": "hume-cstm-0139",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】하나미 우메의 재능 개화 4단계에서 획득"
+        },
+        {
+            "id": "hume-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【The Rolling Riceball】'26 수영복 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【The Rolling Riceball】'26 수영복 하나미 우메 입수"
+        },
+        {
+            "id": "hume-othr-0000",
+            "name": "온천 목욕 타올",
+            "description": "입수 불가"
+        },
+        {
+            "id": "hume-othr-0002",
+            "name": "온천용 수영복",
+            "description": ""
+        },
+        {
+            "id": "hume-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hume-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "hume-trng-0001",
+            "name": "레슨웨어",
+            "description": "하나미 우메의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "hume-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(하나미 우메)을 구매"
+        },
+        {
+            "id": "jsna-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "jsna-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "jsna-cstm-0012",
+            "name": "작은 야망",
+            "description": "【작은 야망】주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0024",
+            "name": "작은 야망",
+            "description": "【작은 야망】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【달 거북이】'25 여름 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0055",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0056",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0063",
+            "name": "관국",
+            "description": "【작은 야망】'25 축제 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【작은 야망】'25 할로윈 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【작은 야망】'25 크리스마스 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "차일드 스모크(주오 세나)를 구매"
+        },
+        {
+            "id": "jsna-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "주오 세나의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "jsna-cstm-0073",
+            "name": "백금의 빛",
+            "description": "주오 세나의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "jsna-cstm-0075",
+            "name": "하트 앞치마",
+            "description": "하트 앞치마 (주오 세나)를 입수"
+        },
+        {
+            "id": "jsna-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【작은 야망】'25 하나마츠리 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0077",
+            "name": "Our Chant",
+            "description": "【Our Chant】주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0078",
+            "name": "Our Chant",
+            "description": "【Our Chant】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【작은 야망】'25 벚꽃 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0104",
+            "name": "적나라",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0105",
+            "name": "적나라",
+            "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "주오 세나의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "jsna-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (주오 세나)를 입수"
+        },
+        {
+            "id": "jsna-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【작은 야망】'25 Howling over the World 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【작은 야망】'25 애니메이트 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【작은 야망】'25 미라쿠루나나우(˚∀˚)! 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【작은 야망】'25 전력을 다해 가자! 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0126",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0127",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "jsna-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【작은 야망】'26 GO MY WAY!! 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【「있잖아, 고백할게.」】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【「있잖아, 고백할게.」】주오 세나 입수"
+        },
+        {
+            "id": "jsna-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(주오 세나)을 구매"
+        },
+        {
+            "id": "jsna-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "jsna-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "jsna-trng-0001",
+            "name": "레슨웨어",
+            "description": "주오 세나의 마스터 업적을 Rank3로 설정"
+        },
+        {
+            "id": "jsna-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(주오 세나)을 구매"
+        },
+        {
+            "id": "kcna-casl-0000",
+            "name": "평소 사복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "kcna-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "kcna-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "kcna-cstm-0008",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0020",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】 쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0033",
+            "name": "매일매일, 발견적 단계!",
+            "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0034",
+            "name": "매일매일, 발견적 단계!",
+            "description": "【매일매일, 발견적 단계!】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【Wonder Scale】'24 여름 쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0061",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0062",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0063",
+            "name": "관국",
+            "description": "【Wonder Scale】'24 축제 쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【Wonder Scale】'24 크리스마스 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "kcna-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "쿠라모토 치나의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "kcna-cstm-0073",
+            "name": "백금의 빛",
+            "description": "쿠라모토 치나의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "kcna-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【Wonder Scale】'25 발렌타인 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0076",
+            "name": "히나마츠리 기모노",
+            "description": "히나마츠리 기모노 (쿠라모토 치나) 구매"
+        },
+        {
+            "id": "kcna-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【Wonder Scale】'25 벚꽃 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0090",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0091",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "쿠라모토 치나의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "kcna-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (쿠라모토 치나)를 입수"
+        },
+        {
+            "id": "kcna-cstm-0116",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "kcna-cstm-0117",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0118",
+            "name": "외침을 전하는 슈트",
+            "description": "외침을 전하는 슈트(쿠라모토 치나)를 구매"
+        },
+        {
+            "id": "kcna-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【Wonder Scale】'25 애니메이트 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【Wonder Scale】'25 미라쿠루나나우(˚∀˚)! 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Wonder Scale】'25 전력을 다해 가자! 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【Wonder Scale】'26ENDLESS DANCE 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【Wonder Scale】'26 GO MY WAY!! 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【Wonder Scale】'26 수영복 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【Wonder Scale】'26 수영복 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-othr-0002",
+            "name": "어서 오세요 하츠보시 온천",
+            "description": "【웰컴 투 하츠보시 온천】쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-othr-0003",
+            "name": "어서 오세요 하츠보시 온천",
+            "description": "【웰컴 투 하츠보시 온천】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "kcna-trng-0001",
+            "name": "레슨웨어",
+            "description": "쿠라모토 치나의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "kcna-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(쿠라모토 치나)을 구매"
+        },
+        {
+            "id": "kllj-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "kllj-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "kllj-cstm-0007",
+            "name": "백선",
+            "description": "【백선】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0019",
+            "name": "백선",
+            "description": "【백선】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0041",
+            "name": "극광",
+            "description": "【극광】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0042",
+            "name": "극광",
+            "description": "【극광】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0045",
+            "name": "관국",
+            "description": "【관국】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0046",
+            "name": "관국",
+            "description": "【관국】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0049",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0050",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【백선】'24 여름 여름 카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0063",
+            "name": "축제 핫피",
+            "description": "축제 핫피 (카츠라기 릴리야)를 입수"
+        },
+        {
+            "id": "kllj-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【백선】'24 할로윈 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0067",
+            "name": "산타 케이프",
+            "description": "산타 케이프(카츠라기 릴리야) 를 입수"
+        },
+        {
+            "id": "kllj-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "kllj-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "카츠라기 릴리야의 아이돌 길 10 스테이지 클리어"
+        },
+        {
+            "id": "kllj-cstm-0073",
+            "name": "백금의 빛",
+            "description": "카츠라기 릴리야의 아이돌 길 15 스테이지 클리어"
+        },
+        {
+            "id": "kllj-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【백선】'25 발렌타인 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【백선】'25 하나마츠리 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0098",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0099",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "카츠라기 릴리야의 아이돌 길 25 스테이지 클리어"
+        },
+        {
+            "id": "kllj-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (카츠라기 릴리야)를 입수"
+        },
+        {
+            "id": "kllj-cstm-0116",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0117",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0118",
+            "name": "외침을 전하는 슈트",
+            "description": "외침을 전하는 슈트(카츠라기 릴리야)를 구매"
+        },
+        {
+            "id": "kllj-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【백선】'25 애니메이트 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【백선】'25 미라쿠루나나우(˚∀˚)! 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【백선】'25 전력을 다해 가자! 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【백선】'26ENDLESS DANCE 카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0133",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0134",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【흰 선】'26 GO MY WAY!! 카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【백선】'26 수영복 카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【백선】'26 수영복 카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(카츠라기 릴리야) 구매하기"
+        },
+        {
+            "id": "kllj-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "kllj-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "kllj-trng-0001",
+            "name": "레슨웨어",
+            "description": "카츠라기 릴리야의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "kllj-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(카츠라기 릴리야)을 구매"
+        },
+        {
+            "id": "nasr-casl-0000",
+            "name": "평소 사복",
+            "description": ""
+        },
+        {
+            "id": "nasr-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "어린이 스모크(네오 아사리)를 구매"
+        },
+        {
+            "id": "nasr-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": ""
+        },
+        {
+            "id": "nasr-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복(네오 아사리)을 구매"
+        },
+        {
+            "id": "nasr-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "이벤트 보상 또는, 특정 이벤트 커뮤 읽기 완료로 획득"
+        },
+        {
+            "id": "nasr-cstm-0135",
+            "name": "티셔츠 수영복",
+            "description": "티셔츠 수영복(네오 아사리)을 구매"
+        },
+        {
+            "id": "shro-casl-0000",
+            "name": "평소 사복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "shro-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "shro-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "shro-cstm-0006",
+            "name": "광경",
+            "description": "【광경】시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0018",
+            "name": "광경",
+            "description": "【광경】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0031",
+            "name": "콘트라스트",
+            "description": "【콘트라스트】시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0032",
+            "name": "콘트라스트",
+            "description": "【콘트라스트】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0047",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】시노사와 히로를 입수"
+        },
+        {
+            "id": "shro-cstm-0048",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【광경】'24 여름 시노사와 히로를 입수"
+        },
+        {
+            "id": "shro-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시노사와 히로를 입수"
+        },
+        {
+            "id": "shro-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0063",
+            "name": "관국",
+            "description": "【광경】'24 축제 시노사와 히로를 입수"
+        },
+        {
+            "id": "shro-cstm-0065",
+            "name": "좀비 유니폼",
+            "description": "좀비 유니폼(시노사와 히로)를 구입"
+        },
+        {
+            "id": "shro-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【광경】'24 크리스마스 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "shro-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "시노사와 히로의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "shro-cstm-0073",
+            "name": "백금의 빛",
+            "description": "시노사와 히로의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "shro-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】시노사와 히로를 입수"
+        },
+        {
+            "id": "shro-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【광경】'25 하나마츠리 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【광경】'25 벚꽃 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0088",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로를 입수"
+        },
+        {
+            "id": "shro-cstm-0089",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "시노사와 히로의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "shro-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (시노사와 히로)를 입수"
+        },
+        {
+            "id": "shro-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【광경】'25 Howling over the World 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【광경】'25 애니메이트 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0120",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0121",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【광경】'25 전력을 다해 가자! 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【광경】'26ENDLESS DANCE 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【광경】'26 GO MY WAY!! 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【광경】'26 수영복 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【광경】'26 수영복 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(시노사와 히로) 구매하기"
+        },
+        {
+            "id": "shro-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "shro-trng-0001",
+            "name": "레슨웨어",
+            "description": "시노사와 히로의 마스터 업적을 Rank3 으로 만들기"
+        },
+        {
+            "id": "shro-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(시노사와 히로)을 구매"
+        },
+        {
+            "id": "ssmk-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "ssmk-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "ssmk-cstm-0009",
+            "name": "Tame-Lie-One-Step",
+            "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0021",
+            "name": "Tame-Lie-One-Step",
+            "description": "【Tame-Lie-One-Step】 시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0039",
+            "name": "숨겨진 나",
+            "description": "【숨겨진 나】시운 스미카를 입수"
+        },
+        {
+            "id": "ssmk-cstm-0040",
+            "name": "숨겨진 나",
+            "description": "【숨겨진 나】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0043",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0044",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】 시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0051",
+            "name": "후드 수영복",
+            "description": "후드 수영복 (시운 스미카)를 입수"
+        },
+        {
+            "id": "ssmk-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시운 스미카를 입수"
+        },
+        {
+            "id": "ssmk-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0063",
+            "name": "관국",
+            "description": "【Tame-Lie-One-Step】 '24제 시운 스미카 획득"
+        },
+        {
+            "id": "ssmk-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【Tame-Lie-One-Step】'24 할로윈 시운 스미카를 입수"
+        },
+        {
+            "id": "ssmk-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【Tame-Lie-One-Step】'24 크리스마스 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "ssmk-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "시운 스미카의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "ssmk-cstm-0073",
+            "name": "백금의 빛",
+            "description": "시운 스미카의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "ssmk-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【Tame-Lie-One-Step】'25 발렌타인 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【Tame-Lie-One-Step】'25 하나마츠리 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0079",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0080",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0081",
+            "name": "벚꽃 세일러",
+            "description": "벚꽃 세일러 (시운 스미카) 구매"
+        },
+        {
+            "id": "ssmk-cstm-0096",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0097",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "시운 스미카의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "ssmk-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (시운 스미카)를 입수"
+        },
+        {
+            "id": "ssmk-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【Tame-Lie-One-Step】'25 Howling over the World 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【Tame-Lie-One-Step】'25 애니메이트 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Tame-Lie-One-Step】'25 전력을 다해 가자! 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【Tame-Lie-One-Step】'26ENDLESS DANCE 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0133",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0134",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【Tame-Lie-One-Step】'26 GO MY WAY!! 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0175",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【Tame-Lie-One-Step】'26 수영복 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0176",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【Tame-Lie-One-Step】'26 수영복 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복 (시운 스미카) 구입하기"
+        },
+        {
+            "id": "ssmk-schl-0000",
+            "name": "하츠세키 학원 교복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "ssmk-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "ssmk-trng-0001",
+            "name": "레슨웨어",
+            "description": "시운 스미카의 마스터 업적을 Rank3 달성"
+        },
+        {
+            "id": "ssmk-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복 (시운 스미카)을 구매"
+        },
+        {
+            "id": "ttmr-casl-0000",
+            "name": "평소 사복",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "ttmr-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
+            "id": "ttmr-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "ttmr-cstm-0003",
+            "name": "Luna say maybe",
+            "description": "【Luna say maybe】 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0015",
+            "name": "Luna say maybe",
+            "description": "【Luna say maybe】 츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0025",
+            "name": "아이비",
+            "description": "【아이비】 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0026",
+            "name": "아이비",
+            "description": "【아이비】게츠무라 테마리의 재능 개화 4단계 달성 가능"
+        },
+        {
+            "id": "ttmr-cstm-0047",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】츠키무라 테마리를 입수"
+        },
+        {
+            "id": "ttmr-cstm-0048",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0051",
+            "name": "너와 세미블루",
+            "description": "【Luna say maybe】'24 여름 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】츠키무라 테마리를 입수"
+        },
+        {
+            "id": "ttmr-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0063",
+            "name": "관국",
+            "description": "【Luna say maybe】'24 축제 츠키무라 테마리 획득"
+        },
+        {
+            "id": "ttmr-cstm-0065",
+            "name": "좀비 유니폼",
+            "description": "좀비 유니폼(츠키무라 테마리)를 구입"
+        },
+        {
+            "id": "ttmr-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【Luna say maybe】'24 크리스마스 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "아동용 스모크 의상 팩 구매"
+        },
+        {
+            "id": "ttmr-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "ttmr-cstm-0073",
+            "name": "백금의 빛",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "ttmr-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【Luna say maybe】'25 발렌타인 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【Luna say maybe】'25 벚꽃 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0084",
+            "name": "대체 언제부터",
+            "description": "【대체 언제부터】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0085",
+            "name": "대체 언제부터",
+            "description": "【대체 언제부터】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "ttmr-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복 (츠키무라 테마리)를 입수"
+        },
+        {
+            "id": "ttmr-cstm-0112",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0113",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【Luna say maybe】'25 Howling over the World 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0119",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【Luna say maybe】'25 애니메이트 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【Luna say maybe】'25 미라쿠루나나우(˚∀˚)! 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0128",
+            "name": "ENDLESS DANCE",
+            "description": "【Luna say maybe】'26ENDLESS DANCE 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리의 재능 개화 4단계째에서 입수"
+        },
+        {
+            "id": "ttmr-cstm-0140",
+            "name": "GO MY WAY!!",
+            "description": "【Luna say maybe】'26 GO MY WAY!! 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0173",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0174",
+            "name": "「있잖아, 고백할게.」(수영복)",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0177",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0178",
+            "name": "「있잖아, 고백할게.」(원피스)",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(츠키무라 테마리) 구매하기"
+        },
+        {
+            "id": "ttmr-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "ttmr-trng-0001",
+            "name": "레슨웨어",
+            "description": "츠키무라 테마리의 마스터 업적을 Rank3로 달성했다."
+        },
+        {
+            "id": "ttmr-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(츠키무라 테마리)을 구매"
+        }
+    ]
+}

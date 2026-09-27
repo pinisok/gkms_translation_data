@@ -1,0 +1,361 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProduceExamEffectType_ExamLesson",
+            "name": "파라미터 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuff",
+            "name": "호조 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlock",
+            "name": "원기 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardDraw",
+            "name": "스킬 카드를 드로우"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
+            "name": "소비 체력 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardCreateId",
+            "name": "생성"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaReduceFix",
+            "name": "체력소비"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuff",
+            "name": "집중 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardUpgrade",
+            "name": "레슨 중 강화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamPlayableValueAdd",
+            "name": "스킬 카드 사용 횟수 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
+            "name": "집중 강화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
+            "name": "소비 체력 변화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockRestriction",
+            "name": "원기 증가 무효"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStatusEnchant",
+            "name": "지속 효과"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
+            "name": "소비 체력 저하"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaDamage",
+            "name": "체력 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
+            "name": "체력 회복"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonFix",
+            "name": "고정 파라미터"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardDuplicate",
+            "name": "복제"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReview",
+            "name": "호인상 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
+            "name": "스킬 카드 추가 발동"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonValueMultiple",
+            "name": "파라미터 상승량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardPlayAggressive",
+            "name": "의욕 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamConcentration",
+            "name": "강기 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamPreservation",
+            "name": "온존 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPower",
+            "name": "전력 "
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStanceReset",
+            "name": "지침 해제"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPoint",
+            "name": "전력치"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
+            "name": "전력치 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
+            "name": "소비 체력 변화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamUplifting",
+            "name": "고양"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamExtraTurn",
+            "name": "턴 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAntiDebuff",
+            "name": "저하 상태 비활성화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
+            "name": "소비 체력 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockAddDown",
+            "name": "불안"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
+            "name": "불안 무효"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
+            "name": "체력 회복 효과 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaReduceChange",
+            "name": "체력 소비 경감"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamPanic",
+            "name": "변덕"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
+            "name": "파라미터 상승 변경"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamHandHold",
+            "name": "패 넘기기"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
+            "name": "소비 체력 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
+            "name": "소비 체력 증가 효과 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
+            "name": "체력 회복 무효"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
+            "name": "소비 체력 감소 효과 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGetCardUpgrade",
+            "name": "생성 강화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
+            "name": "소비 체력 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
+            "name": "패를 교체한다"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEffectTimer",
+            "name": "발동 예약"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
+            "name": "긴장"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
+            "name": "부조화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickSleepy",
+            "name": "약함"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
+            "name": "열의"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
+            "name": "스킬 카드 사용불가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickSlump",
+            "name": "슬럼프"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown",
+            "name": "패 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockFix",
+            "name": "고정 원기"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
+            "name": "멍 때리기"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+            "name": "절호조 "
+        },
+        {
+            "type": "ProduceExamEffectType_StanceLock",
+            "name": "지침 고정"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamDebuffRecover",
+            "name": "저하 상태 회복"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewReduce",
+            "name": "호인상 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAggressiveReduce",
+            "name": "의욕 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffReduce",
+            "name": "집중 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffReduce",
+            "name": "호조 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
+            "name": "파라미터 상승량 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAddGrowEffect",
+            "name": "성장"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamOverPreservation",
+            "name": "여유"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEnthusiasticAdditive",
+            "name": "열의 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEnthusiasticMultiple",
+            "name": "열의 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
+            "name": "전력 강화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
+            "name": "강기 강화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
+            "name": "집중 증가량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
+            "name": "호조 증가량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAggressiveAdditive",
+            "name": "의욕 증가량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewAdditive",
+            "name": "호인상 증가량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
+            "name": "전력치 증가량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
+            "name": "파라미터 상승치 증가량 증가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
+            "name": "절호조 감소"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
+            "name": "프라이드"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewMultiple",
+            "name": "호인상 강화"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewCountAdd",
+            "name": "호인상 추가 발동"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
+            "name": "호조 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
+            "name": "집중 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
+            "name": "의욕 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
+            "name": "호인상 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
+            "name": "전력 값 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
+            "name": "재연"
+        }
+    ]
+}

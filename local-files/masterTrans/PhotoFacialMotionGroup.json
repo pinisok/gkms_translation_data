@@ -1,0 +1,30 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 1,
+            "name": "웃음"
+        },
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 2,
+            "name": "화남"
+        },
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 3,
+            "name": "곤란함"
+        },
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 4,
+            "name": "부끄러움"
+        }
+    ]
+}

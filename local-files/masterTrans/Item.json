@@ -1,0 +1,2085 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "item_gacha-coin-continuous-001",
+            "name": "TVCM 방영 기념 무제한 가샤 코인",
+            "description": "TVCM 방영 기념 무제한 가샤에서 사용하는 동전",
+            "acquisitionRouteDescription": "TVCM 방영 기념 로그인 보너스, TVCM 방영 기념 미션"
+        },
+        {
+            "id": "item_gacha-coin-continuous-002",
+            "name": "H.I.F 개막 기념 무제한 가챠 코인",
+            "description": "H.I.F 개막 기념 무제한 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-coin-box-gasha-event-001",
+            "name": "고마워",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-002",
+            "name": "야밤의 반짝반짝 숨결",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-003",
+            "name": "장난이 가득",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-004",
+            "name": "힘내라, 산타!",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-005",
+            "name": "엉망진창 초코",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-006",
+            "name": "봄의 방문, 복숭아 장식",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-007",
+            "name": "시작의 꽃 장식",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-015",
+            "name": "히로시마 투어 메달",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-019",
+            "name": "나고야 투어 메달",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-020",
+            "name": "동경 와펜",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-box-gasha-event-021",
+            "name": "기운 넘치는 하츠보시",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-001",
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-002",
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-003",
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-004",
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-005",
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-006",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (쿠라모토 치나 / 시운 스미카)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-007",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (아리무라 마오/하나미 우메)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-008",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (카츠라기 릴리야/주오 세나)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-009",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (츠키무라 테마리/하나미 사키)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-010",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (주오 세나/아마야 츠바메)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-011",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (하나미 사키/카츠라기 릴리야)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-012",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~ (하나미 우메/히메사키 리나미) 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-013",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~ (하타야 미스즈/시노사와 히로) 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-014",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(아리무라 마오/히메사키 리나미) 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-coin-highscorerush-event-015",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~별들의 반짝임~ (아마야 츠바메/주오 세나)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
+            "id": "item-common-idol_card-piece-r",
+            "name": "R 아이돌 피스",
+            "description": "R 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-common-idol_card-piece-sr",
+            "name": "SR 아이돌 피스",
+            "description": "SR 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-common-idol_card-piece-ssr",
+            "name": "SSR 아이돌 피스",
+            "description": "SSR 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "아이돌 길 등"
+        },
+        {
+            "id": "item-common-support_card-limit-r",
+            "name": "구리 해방권",
+            "description": "R 서포트 카드의 상한 해방에 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-common-support_card-limit-sr",
+            "name": "금 해방권",
+            "description": "SR 서포트 카드의 상한 해방에 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-common-support_card-limit-ssr",
+            "name": "무지개 해방권",
+            "description": "SSR 서포트 카드의 상한 해방에 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-commu-key-001",
+            "name": "기록의 열쇠",
+            "description": "코믹을 해제할 수 있는 아이템",
+            "acquisitionRouteDescription": "머니 교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-amao",
+            "name": "마오와의 기록의 열쇠",
+            "description": "아리무라 마오의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-atbm",
+            "name": "츠바메와의 기록의 열쇠",
+            "description": "아마야 츠바메의 STEP3 친애도 커뮤를 해금하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-fktn",
+            "name": "코토네와의 기록의 열쇠",
+            "description": "후지타 코토네의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-hmsz",
+            "name": "미스즈와의 기록의 열쇠",
+            "description": "하타야 미스즈의 STEP3 친애도 커뮤를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-hrnm",
+            "name": "리나미와의 기록의 열쇠",
+            "description": "히메사키 리나미의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-hski",
+            "name": "사키와의 기록의 열쇠",
+            "description": "하나미 사키의 STEP3 친밀도 커뮤를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-hume",
+            "name": "우메와의 기록의 열쇠",
+            "description": "하나미 우메의 STEP3 친밀도 커뮤를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-jsna",
+            "name": "세나와의 기록의 열쇠",
+            "description": "주오 세나의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-kcna",
+            "name": "치나와의 기록의 열쇠",
+            "description": "쿠라모토 치나의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-kllj",
+            "name": "릴리야와의 기록의 열쇠",
+            "description": "카츠라기 릴리야의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-shro",
+            "name": "히로와의 기록의 열쇠",
+            "description": "시노사와 히로의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-ssmk",
+            "name": "스미카와의 기록의 열쇠",
+            "description": "시운 스미카의 STEP 3 친애도 커뮤니케이션을 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-dearness-unlock-ttmr",
+            "name": "테마리와의 기록의 열쇠",
+            "description": "츠키무라 테마리의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
+            "id": "item-friend_coin",
+            "name": "프렌드 코인",
+            "description": "프렌드 가챠에 사용하는 코인",
+            "acquisitionRouteDescription": "대여, 동아리 기부 등"
+        },
+        {
+            "id": "item-gacha-coin-18m-aniv-001",
+            "name": "1.5th 하츠미짱 코인",
+            "description": "1.5주년 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-gacha-coin-2026-summer",
+            "name": "프로듀스 코인",
+            "description": "여름방학 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스"
+        },
+        {
+            "id": "item-gacha-coin-anniversary-001",
+            "name": "하츠미 짱 코인",
+            "description": "1st 애니버서리 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-gacha-coin-hif-001",
+            "name": "H.I.F 직전 캠페인 코인",
+            "description": "H.I.F 직전 캠페인 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스"
+        },
+        {
+            "id": "item-gacha-coin-newyear-001",
+            "name": "하츠보시 복권 티켓 2025",
+            "description": "근하신년! 복권 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-gacha-coin-newyear-002",
+            "name": "하츠보시 복권 티켓 2026",
+            "description": "근하신년! 복권 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-gacha-selection-ticket-007-stepup-skin",
+            "name": "스킬 카드 스킨 포함 SSR P아이돌 확정 가챠 티켓 교환권",
+            "description": "티켓 교환소에서 스킬 카드 스킨 포함 프로듀스 아이돌 확정 가챠 티켓으로 교환할 수 있는 교환권",
+            "acquisitionRouteDescription": "스텝업 가챠 STEP3 보너스"
+        },
+        {
+            "id": "item-gachaticket-2nd-anniv-10-001",
+            "name": "2nd 애니버서리 10연 가챠 티켓",
+            "description": "2nd 애니버서리 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gachaticket-ssr-8",
+            "name": "2nd 애니버서리 라이브 투어 한정 SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "2nd 애니버서리 라이브 투어 한정 SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gasha_200limit-exchange",
+            "name": "Story of Re; IRIS 방영 기념 교환권",
+            "description": "20장 모으면 아이템 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "Story of Re; IRIS 방영기념 SSR 1.5배 셀렉트픽 업가샤"
+        },
+        {
+            "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
+            "name": "1.5주년 기념 시즌 한정 SSR 확정 가챠 티켓",
+            "description": "1.5주년 기념 시즌 한정 SSR 확정 가챠 티켓에 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaitem-10_01",
+            "name": "하츠미 인★무료 ​​10연 가챠 티켓",
+            "description": "최대 100연 무료! TVCM 방영 기념 10연 무료 가챠에서 사용할 수 있는 아이템",
+            "acquisitionRouteDescription": "TVCM 방영 기념 로그인 보너스"
+        },
+        {
+            "id": "item-gashaticket-1",
+            "name": "플래티넘 가챠 티켓",
+            "description": "플래티넘 가챠에 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-10",
+            "name": "플래티넘 10연 가챠 티켓",
+            "description": "플래티넘 가챠에서 사용하는 10연 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-200limit-10-2026-01",
+            "name": "2nd 애니버서리 교환권",
+            "description": "20장 모으면 아이템 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "200연 한정 서포트 카드 셀렉트 픽업 가챠"
+        },
+        {
+            "id": "item-gashaticket-aniv-001",
+            "name": "곧 1주년 기념 가챠 10연 티켓",
+            "description": "곧 1주년 기념 10연 무료 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-christmas-001",
+            "name": "크리스마스 가챠 10연 티켓",
+            "description": "크리스마스 로그인 보너스 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-gasha-00970-ticket-001",
+            "name": "【너와 세미블루】 시운 스미카 확정 가챠 티켓",
+            "description": "스킬 카드 스킨 포함 P아이돌 대상 너와 세미블루 스미카 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": "티켓 교환소"
+        },
+        {
+            "id": "item-gashaticket-gasha-00970-ticket-002",
+            "name": "【너와 세미블루】 히메사키 리나미 확정 가챠 티켓",
+            "description": "스킬 카드 스킨 포함 P아이돌 대상 너와 세미블루 리나미 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": "티켓 교환소"
+        },
+        {
+            "id": "item-gashaticket-gasha-00970-ticket-003",
+            "name": "【관국】 카츠라기 릴리야 확정 가챠 티켓",
+            "description": "스킬 카드 스킨 포함 P아이돌 대상 관국 릴리야 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": "티켓 교환소"
+        },
+        {
+            "id": "item-gashaticket-gasha-00970-ticket-004",
+            "name": "【관국】 후지타 코토네 확정 가챠 티켓",
+            "description": "스킬 카드 스킨 포함 P아이돌 대상 관국 코토네 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": "티켓 교환소"
+        },
+        {
+            "id": "item-gashaticket-new-wednesday-26-0603-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-new-wednesday-26-0617-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-new-wednesday-26-0701-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-new-wednesday-26-0729-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-new-wednesday-26-0731-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-fix_1",
+            "name": "SSR 확정 가챠 티켓",
+            "description": "SSR 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-fix_1_1st-anniversary-001",
+            "name": "1st 애니버서리 기념 SSR 확정 티켓",
+            "description": "1st 애니버서리 기념 SSR 확정 티켓 가챠에 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-fix_10-hoten",
+            "name": "SSR 10연 가챠 티켓",
+            "description": "입학 기념 48시간 한정 SSR 확정 10연 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-fix_5",
+            "name": "1.5th 주년 기념 SSR 확정 가챠 티켓",
+            "description": "1.5th 주년 기념 SSR 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-fix_7",
+            "name": "신입생 응원! SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "신입생 응원! SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_1",
+            "name": "SSR P 아이돌 확정 가챠 티켓",
+            "description": "SSR P 아이돌 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_2",
+            "name": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓",
+            "description": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓 가챠에 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_3",
+            "name": "MOIW2025 기념 SSR P아이돌 확정 가챠 티켓",
+            "description": "MOIW2025 기념 SSR P아이돌 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_4",
+            "name": "2nd 애니버서리 SSR P아이돌 확정 가챠 티켓",
+            "description": "2nd 애니버서리 SSR P아이돌 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_5",
+            "name": "The 2nd Period 시즌 한정 SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "The 2nd Period 시즌 한정 SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_6",
+            "name": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 가챠 티켓",
+            "description": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-season-fix_4",
+            "name": "시즌 한정 SSR P 아이돌 확정 가챠 티켓",
+            "description": "시즌 한정 SSR P 아이돌 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-support-fix_1",
+            "name": "SSR S 카드 확정 가챠 티켓",
+            "description": "SSR S카드 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-support-fix-nia-1",
+            "name": "N.I.A 챌린지 SSR 서포트 카드 확정 가챠 티켓",
+            "description": "N.I.A 챌린지 SSR 서포트 카드 확정 가챠에 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-support-season-fix_1",
+            "name": "시즌 한정 SSR 서포트 카드 확정 가챠 티켓",
+            "description": "시즌 한정 SSR 서포트 카드 확정 티켓 가샤에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-valentine-001",
+            "name": "발렌타인 가챠 10회 티켓",
+            "description": "발렌타인 로그인 보너스 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-260520",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-260715",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-260812",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-260826",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-001-1",
+            "name": "사키의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-001-10",
+            "name": "사키의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-002-1",
+            "name": "테마리의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-002-10",
+            "name": "테마리의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-003-1",
+            "name": "코토네의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-003-10",
+            "name": "코토네의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-004-1",
+            "name": "츠바메의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-005-1",
+            "name": "마오의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-006-1",
+            "name": "릴리야의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-007-1",
+            "name": "치나의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-008-1",
+            "name": "스미카의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-009-1",
+            "name": "히로의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-010-1",
+            "name": "세나의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-010-10",
+            "name": "세나의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-011-1",
+            "name": "미스즈의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-012-1",
+            "name": "우메의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-fainal-26-013-1",
+            "name": "리나미의 특별 티켓",
+            "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-hif-aniv-001",
+            "name": "H.I.F 직전 캠페인 교환권",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스"
+        },
+        {
+            "id": "item-Idolcardpiece-exchange-1",
+            "name": "플라워",
+            "description": "교환소에서 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠, 아이돌 피스 교환 등"
+        },
+        {
+            "id": "item-limitovermaterial-1",
+            "name": "레슨 노트",
+            "description": "프로듀스 아이돌의 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스, 과제, 업적 등"
+        },
+        {
+            "id": "item-limitovermaterial-2",
+            "name": "베테랑 노트",
+            "description": "프로듀스 아이돌의 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스, 업무, 코인 가챠 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-a-1",
+            "name": "센스 노트 (보컬)",
+            "description": "플랜: 센스 프로듀스 아이돌 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 센스 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-a-2",
+            "name": "센스 노트 (댄스)",
+            "description": "플랜: 센스 프로듀스 아이돌 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 센스 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-a-3",
+            "name": "센스 노트 (비주얼)",
+            "description": "플랜: 센스 프로듀스 아이돌 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 센스 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-b-1",
+            "name": "로직 노트 (보컬)",
+            "description": "플랜: 로직 프로듀스 아이돌 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 로직 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-b-2",
+            "name": "로직 노트 (댄스)",
+            "description": "플랜: 로직 프로듀스 아이돌 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 로직 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-b-3",
+            "name": "로직 노트 (비주얼)",
+            "description": "플랜: 로직 프로듀스 아이돌 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 로직 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-c-1",
+            "name": "어노말리 노트(보컬)",
+            "description": "플랜:아노말리의 프로듀스 아이돌의 특훈으로 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스(플랜:아노말리의 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-c-2",
+            "name": "어노말리 노트(댄스)",
+            "description": "플랜:아노말리의 프로듀스 아이돌의 특훈으로 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스(플랜:아노말리의 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-2-c-3",
+            "name": "어노말리 노트(비주얼)",
+            "description": "플랜:아노말리의 프로듀스 아이돌의 특훈으로 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스(플랜:아노말리의 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-limitovermaterial-3",
+            "name": "마스터 노트",
+            "description": "프로듀스 아이돌의 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스, 콘테스트 교환소, 이벤트 등"
+        },
+        {
+            "id": "item-limitovermaterial-4",
+            "name": "레전드 노트",
+            "description": "프로듀스 아이돌의 특훈에 사용하는 아이템",
+            "acquisitionRouteDescription": "아이템 교환소 등"
+        },
+        {
+            "id": "item-medal-circle-battle-event-001",
+            "name": "지방행각메달",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "지방행각 이벤트"
+        },
+        {
+            "id": "item-medal-event-all-001",
+            "name": "하츠보시 트로피",
+            "description": "하츠보시 트로피 교환소에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 등"
+        },
+        {
+            "id": "item-medal-main-story-event-001",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스로 입수"
+        },
+        {
+            "id": "item-medal-main-story-event-002",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-003",
+            "name": "하츠보시의 책갈피",
+            "description": "하츠보시 커뮤 이벤트에서 모으면 아이템 교환 가능",
+            "acquisitionRouteDescription": "프로듀스로 입수"
+        },
+        {
+            "id": "item-medal-main-story-event-004",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-005",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-006",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-007",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-008",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-009",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-main-story-event-010",
+            "name": "하츠보시의 책갈피",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-research-event-006",
+            "name": "세미나 너구리",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-research-event-007",
+            "name": "세미나 너구리",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-001",
+            "name": "나카요시 포퍼",
+            "description": "이벤트 교환소에서 다양한 보상으로 교환 가능",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-002",
+            "name": "찬바람에 흩날리는",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-003",
+            "name": "일당백의 증표",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-004",
+            "name": "신성의 반짝임",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-006",
+            "name": "단결 머리띠",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-007",
+            "name": "토모카츠 우대권",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-008",
+            "name": "3학년 1반 메모리얼",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-009",
+            "name": "피크닉 추억",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-010",
+            "name": "반짝반짝 별과 함께 보는 풍경",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-011",
+            "name": "기숙사 일동보다",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-012",
+            "name": "생일 선물",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-013",
+            "name": "수학 여행 기념품",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-014",
+            "name": "수제 고리 장식",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-tour-event-001",
+            "name": "오사카 투어 메달",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "시즌 이벤트"
+        },
+        {
+            "id": "item-medal-tour-event-002",
+            "name": "시부야 투어 메달",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "라이브 투어 이벤트, 프로듀스"
+        },
+        {
+            "id": "item-memory_exchange-class1",
+            "name": "센스 코인",
+            "description": "센스 가챠에 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 센스 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-memory_exchange-class2",
+            "name": "로직 코인",
+            "description": "로직 가챠에 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스 (플랜: 로직 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-memory_exchange-class3",
+            "name": "어노말리 코인",
+            "description": "어노말리 가챠에서 사용하는 동전",
+            "acquisitionRouteDescription": "프로듀스(플랜:아노말리의 프로듀스 아이돌) 등"
+        },
+        {
+            "id": "item-memory-inherit",
+            "name": "메모리 합성 티켓",
+            "description": "메모리 합성에 사용되는 티켓",
+            "acquisitionRouteDescription": "플랜 코인 가샤 등"
+        },
+        {
+            "id": "item-money",
+            "name": "머니",
+            "description": "특훈과 머니 교환소에서 사용하는 아이템",
+            "acquisitionRouteDescription": "활동비, 업무 등"
+        },
+        {
+            "id": "item-piece-idol_amao-1-000",
+            "name": "[학원생활] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-1-001",
+            "name": "[첫사랑] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-2-000",
+            "name": "[시작은 멋있게] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-000",
+            "name": "[Fluorite] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-001",
+            "name": "[너와 세미블루] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-002",
+            "name": "[Feel Jewel Dream] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-007",
+            "name": "[Campus mode!!] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-009",
+            "name": "[눈이 녹을 때에] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-013",
+            "name": "[미라쿠루나나우(˚∀˚)!]아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-015",
+            "name": "[봐줘] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-017",
+            "name": "[SUGAR FLAVOR]아리무라 마오의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-1-000",
+            "name": "[학원생활] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-2-000",
+            "name": "[초지일관] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-000",
+            "name": "[이론무장하고] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-012",
+            "name": "[Campus mode!!] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-018",
+            "name": "[크라이아이] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-1-000",
+            "name": "[학원생활] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-1-001",
+            "name": "[첫 목소리] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-2-000",
+            "name": "[귀여움♡시작했답니다] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-000",
+            "name": "[세계 제일 귀여운 나] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-001",
+            "name": "[Yellow Big Bang!] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-002",
+            "name": "[관국] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-006",
+            "name": "[White Night! White Wish!] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-007",
+            "name": "[Campus mode!!] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-011",
+            "name": "[비 갠 뒤의 아이리스] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-013",
+            "name": "[자기 긍정감 폭발 ↑↑ 슈키슈키 송] 후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-016",
+            "name": "[전력을 다해 가자!]후지타 코토네의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_fktn-3-019",
+            "name": "[GO MY WAY!!] 후지타 코토네의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-1-000",
+            "name": "[학원생활] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-1-001",
+            "name": "[첫 출진] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-2-000",
+            "name": "[천천히, 한 걸음씩] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-000",
+            "name": "[달 거북이] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-005",
+            "name": "[Campus mode!!] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-010",
+            "name": "[Star-mine]하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-014",
+            "name": "[Superlative]하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-015",
+            "name": "[ENDLESS DANCE]하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 교환소 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-016",
+            "name": "[VEIL] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-020",
+            "name": "[「있잖아, 고백할게.」] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-1-000",
+            "name": "[학원생활] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-1-001",
+            "name": "[초심] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-2-000",
+            "name": "[『나다움』의 시작] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-000",
+            "name": "[clumsy trick] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-001",
+            "name": "[너와 세미블루] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-002",
+            "name": "[L.U.V] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-004",
+            "name": "[어서오세요 하츠보시 온천] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-007",
+            "name": "[Campus mode!!] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-008",
+            "name": "[해피 밀푀유] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-012",
+            "name": "[Howling over the World] 히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-013",
+            "name": "[36℃ U･B･U]히메사키 리나미의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-017",
+            "name": "[가라쿠타로드]히메사키 리나미의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hrnm-3-018",
+            "name": "[SUGAR FLAVOR]히메사키 리나미의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-1-000",
+            "name": "[학원생활] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-1-001",
+            "name": "[첫 목소리] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-2-000",
+            "name": "[내가 제일!] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-000",
+            "name": "[Fighting My Way] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-001",
+            "name": "[Boom Boom Pow] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-002",
+            "name": "[관국] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-006",
+            "name": "[고금동서 식은 죽 먹기] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-008",
+            "name": "[Campus mode!!] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-011",
+            "name": "[벚꽃 포토그래프] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-012",
+            "name": "[비 갠 뒤의 아이리스] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-015",
+            "name": "[전력을 다해 가자!]하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-017",
+            "name": "[Wildest Flower]하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-018",
+            "name": "[가라쿠타로드] 하나미 사키의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-019",
+            "name": "[GO MY WAY!!] 하나미 사키의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-1-000",
+            "name": "[학교생활] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-1-001",
+            "name": "[첫 출진] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-2-000",
+            "name": "[아이돌, 시작!] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-000",
+            "name": "[The Rolling Riceball] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-005",
+            "name": "[White Night! White Wish!] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-006",
+            "name": "[Campus mode!!] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-009",
+            "name": "[구-스-피-] 하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-012",
+            "name": "[Star-mine]하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-016",
+            "name": "[ENDLESS DANCE]하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-017",
+            "name": "[새하얀 페이지와 수채화 주인공] 하나미 우메의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-018",
+            "name": "[GO MY WAY!!] 하나미 우메의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-1-000",
+            "name": "[학원생활] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-1-001",
+            "name": "[첫 출진] 주오 세나의 조각\n",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-2-000",
+            "name": "[샛별] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-000",
+            "name": "[작은 야망] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-002",
+            "name": "[Campus mode!!] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-003",
+            "name": "[해피 밀푀유] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-006",
+            "name": "[Our Chant] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-011",
+            "name": "[Star-mine]주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-015",
+            "name": "[적나라]주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-016",
+            "name": "[ENDLESS DANCE]주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-020",
+            "name": "[「있잖아, 고백할게.」] 주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-1-000",
+            "name": "[학원생활] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-1-001",
+            "name": "[초심] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-2-000",
+            "name": "[가슴을 펴고 한 걸음씩] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-000",
+            "name": "[Wonder Scale] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-001",
+            "name": "[매일, 발견적 스텝!] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-002",
+            "name": "[가장광소곡] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-005",
+            "name": "[어서오세요 하츠보시 온천] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-007",
+            "name": "[Campus mode!!] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-009",
+            "name": "[눈이 녹을 때에] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-012",
+            "name": "[Howling over the World] 쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-014",
+            "name": "[하늘과 약속]쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kcna-3-016",
+            "name": "[미지의 펼쳐지는]쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-1-000",
+            "name": "[학원생활] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-1-001",
+            "name": "[초심] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-2-000",
+            "name": "[한 걸음 더 나아가면] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-000",
+            "name": "[백선] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-001",
+            "name": "[관국] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-005",
+            "name": "[White Night! White Wish!] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-006",
+            "name": "[Campus mode!!] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-008",
+            "name": "[극광] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-010",
+            "name": "[벚꽃 포토그래프] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-012",
+            "name": "[Howling over the World] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-015",
+            "name": "[Atmosphere] 카츠라기 릴리야의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-017",
+            "name": "[두근두근 이모션]카츠라기 릴리야의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-018",
+            "name": "[가라쿠타 로드]카츠라기 릴리야의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-1-000",
+            "name": "[학원생활] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-1-001",
+            "name": "[첫사랑] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-2-000",
+            "name": "[가장 어울리지 않는 것] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-000",
+            "name": "[광경] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-001",
+            "name": "[콘트라스트] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-002",
+            "name": "[가장광소곡] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-007",
+            "name": "[Campus mode!!] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-008",
+            "name": "[해피 밀푀유] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-012",
+            "name": "[선 페이디드] 시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-014",
+            "name": "[미라쿠루나나우(˚∀˚)!]시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-016",
+            "name": "[미지의 펼쳐지는]시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-018",
+            "name": "[가라쿠타 로드] 시노사와 히로의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-1-000",
+            "name": "[학원생활] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-1-001",
+            "name": "[첫사랑] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-2-000",
+            "name": "[꿈으로의 리스타트] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-000",
+            "name": "[Tame-Lie-One-Step] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-001",
+            "name": "[너와 세미블루] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-002",
+            "name": "[숨겨진 나] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-007",
+            "name": "[Campus mode!!] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-010",
+            "name": "[벚꽃 포토그래프] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-012",
+            "name": "[Love & Joy] 시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-014",
+            "name": "[미라쿠루나나우(˚∀˚)!]시운 스미카의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 교환소 등"
+        },
+        {
+            "id": "item-piece-idol_ssmk-3-017",
+            "name": "[두근두근 이모션]시운 스미카의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-1-000",
+            "name": "[학원생활] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-1-001",
+            "name": "[첫 목소리] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-2-000",
+            "name": "[고독한 늑대] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-000",
+            "name": "[Luna say maybe] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-001",
+            "name": "[아이비] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-002",
+            "name": "[가장광소곡] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-007",
+            "name": "[Campus mode!!] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-009",
+            "name": "[눈이 녹을 때에] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-011",
+            "name": "[비 갠 뒤의 아이리스] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-015",
+            "name": "[전력을 다해 가자!]츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-016",
+            "name": "[대체 언제부터]츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-018",
+            "name": "[가라쿠타로드]츠키무라 테마리의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-021",
+            "name": "[「있잖아, 고백할게.」] 츠키무라 테마리의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-play-ticket_april-001",
+            "name": "라이브 도전권",
+            "description": "스페셜 이벤트에서 스테이지에 도전할 수 있는 아이템",
+            "acquisitionRouteDescription": "스페셜 이벤트"
+        },
+        {
+            "id": "item-play-ticket_tour-event-001",
+            "name": "라이브 도전권 (오사카)",
+            "description": "라이브 투어 이벤트에서 스테이지에 도전할 수 있는 아이템",
+            "acquisitionRouteDescription": "시즌 이벤트"
+        },
+        {
+            "id": "item-play-ticket_tour-event-002",
+            "name": "라이브 도전권 (시부야)",
+            "description": "라이브 투어 이벤트에서 스테이지에 도전할 수 있는 아이템",
+            "acquisitionRouteDescription": "시즌 이벤트"
+        },
+        {
+            "id": "item-primastellamaterial-common-001",
+            "name": "프리마스텔라 노트",
+            "description": "프로듀스 아이돌의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "아이템 교환소 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_amao-001",
+            "name": "마오의 샛별의 빛",
+            "description": "아리무라 마오의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_hmsz-001",
+            "name": "미스즈의 샛별의 빛",
+            "description": "하타야 미스즈의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_hrnm-001",
+            "name": "리나미의 샛별의 빛",
+            "description": "히메사키 리나미의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_hski-001",
+            "name": "사키의 샛별의 빛",
+            "description": "하나미 사키의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_hume-001",
+            "name": "우메의 샛별의 빛",
+            "description": "하나미 우메의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_kcna-001",
+            "name": "치나의 샛별의 빛",
+            "description": "쿠라모토 치나의 '샛별' 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_kllj-001",
+            "name": "릴리야의 샛별의 빛",
+            "description": "카츠라기 릴리야의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_shro-001",
+            "name": "히로의 샛별의 빛",
+            "description": "시노사와 히로의 '샛별' 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_ssmk-001",
+            "name": "스미카의 샛별의 빛",
+            "description": "시운 스미카의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_ttmr-001",
+            "name": "테마리의 샛별의 빛",
+            "description": "츠키무라 테마리의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-produce_continue-1",
+            "name": "재도전 티켓",
+            "description": "프로듀스 재도전 시 사용하는 아이템",
+            "acquisitionRouteDescription": "AP 교환소 등"
+        },
+        {
+            "id": "item-produce-produce_growth_panel_sheet_point-hif",
+            "name": "H.I.F 보너스 Pt",
+            "description": "H.I.F 보너스 해방·강화에 사용하는 Pt",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-produce-reroll-memory-001",
+            "name": "메모리 재생성 티켓",
+            "description": "프로듀스 메모리 재생성 시 사용하는 티켓",
+            "acquisitionRouteDescription": "AP 교환소 등"
+        },
+        {
+            "id": "item-produceboostreward_limitovermaterial-1",
+            "name": "입수 노트 수 업",
+            "description": "프로듀스 시작 시에 사용하면 특훈 아이템의 입수량이 200% 상승하는 획득량 상승 아이템",
+            "acquisitionRouteDescription": "AP 교환소 등"
+        },
+        {
+            "id": "item-produceboostreward_support_card_enhance_point-1",
+            "name": "입수 서포트 강화 pt 업",
+            "description": "프로듀스 시작 시에 사용하면 서포트 강화 Pt의 입수량이 200% 상승하는 획득량 상승 아이템",
+            "acquisitionRouteDescription": "AP 교환소 등"
+        },
+        {
+            "id": "item-pvp_rate_coin-1",
+            "name": "콘테스트 메달",
+            "description": "교환소에서 사용하는 메달",
+            "acquisitionRouteDescription": "콘테스트"
+        },
+        {
+            "id": "item-research-event-001",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-002",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-003",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-004",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-005",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-006",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-007",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-selection-ticket-001",
+            "name": "반주년 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-002",
+            "name": "1st 애니버서리 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-003",
+            "name": "300만 DL 기념 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-004",
+            "name": "1.5th 애니버서리 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-005",
+            "name": "서포트 카드 셀렉션 티켓",
+            "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "H.I.F 직전 캠페인 코인 가챠"
+        },
+        {
+            "id": "item-selection-ticket-006",
+            "name": "2nd 애니버서리 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-007",
+            "name": "여름방학 서포트 셀렉션 티켓",
+            "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "여름방학 코인 가챠"
+        },
+        {
+            "id": "item-staminaregen-1",
+            "name": "AP 드링크",
+            "description": "AP가 20회 회복되는 음료",
+            "acquisitionRouteDescription": "미션, 프로듀서 Lv업 보상 등"
+        },
+        {
+            "id": "item-support_card_enhance_point",
+            "name": "서포트 강화 pt",
+            "description": "서포트 카드 강화에 사용하는 포인트",
+            "acquisitionRouteDescription": "프로듀싱, 업무, 과제, 업적 등"
+        },
+        {
+            "id": "item-support_card-exchange-1",
+            "name": "서포트의 증표",
+            "description": "교환소에서 사용하는 아이템",
+            "acquisitionRouteDescription": "서포트 변환 등"
+        }
+    ]
+}

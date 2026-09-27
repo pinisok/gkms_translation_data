@@ -1,0 +1,2805 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "supportCardId",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "supportCardId": "s_card-2-0000",
+            "number": 1,
+            "text": "언니 발겨ㅡㅡㅡ언!!"
+        },
+        {
+            "supportCardId": "s_card-2-0000",
+            "number": 2,
+            "text": "우와! \n정말......위험하잖아 우메에에!"
+        },
+        {
+            "supportCardId": "s_card-2-0000",
+            "number": 3,
+            "text": "에헤헤헤, 친애의 허그~!"
+        },
+        {
+            "supportCardId": "s_card-2-0001",
+            "number": 1,
+            "text": "…………"
+        },
+        {
+            "supportCardId": "s_card-2-0001",
+            "number": 2,
+            "text": "…………"
+        },
+        {
+            "supportCardId": "s_card-2-0002",
+            "number": 1,
+            "text": "코토네, 오늘이야말로......"
+        },
+        {
+            "supportCardId": "s_card-2-0002",
+            "number": 2,
+            "text": "엑...... 실례합니다~!"
+        },
+        {
+            "supportCardId": "s_card-2-0002",
+            "number": 3,
+            "text": "아! \n......정말, 곤란한 후배라니까."
+        },
+        {
+            "supportCardId": "s_card-2-0003",
+            "number": 1,
+            "text": "미안해, 함께 공부하지 못해서."
+        },
+        {
+            "supportCardId": "s_card-2-0003",
+            "number": 2,
+            "text": "아니, 곤란할 때는 서로 이해해줘야겠지?"
+        },
+        {
+            "supportCardId": "s_card-2-0003",
+            "number": 3,
+            "text": "후후, 항상 의지하고 있어."
+        },
+        {
+            "supportCardId": "s_card-2-0004",
+            "number": 1,
+            "text": "왼손은 이렇게…… 착"
+        },
+        {
+            "supportCardId": "s_card-2-0004",
+            "number": 2,
+            "text": "차, 착! 인가요!?"
+        },
+        {
+            "supportCardId": "s_card-2-0004",
+            "number": 3,
+            "text": "그래, 착!\n후후, 잘했어 잘했어."
+        },
+        {
+            "supportCardId": "s_card-2-0005",
+            "number": 1,
+            "text": "헤헤, 또 걸렸네~♪"
+        },
+        {
+            "supportCardId": "s_card-2-0005",
+            "number": 2,
+            "text": "스, 스미카 쨩……!"
+        },
+        {
+            "supportCardId": "s_card-2-0005",
+            "number": 3,
+            "text": "......저, 정말! 장난만 치고......"
+        },
+        {
+            "supportCardId": "s_card-2-0006",
+            "number": 1,
+            "text": "근육이 좋네요!\n어떤 트레이닝을 하고 있는 걸까?"
+        },
+        {
+            "supportCardId": "s_card-2-0006",
+            "number": 2,
+            "text": "내 메뉴도 알려줄 테니,\n부디 스미카도 꼭!"
+        },
+        {
+            "supportCardId": "s_card-2-0006",
+            "number": 3,
+            "text": "아, 나는 훈련은 안 했고, \n그~런~건 됐으려나~"
+        },
+        {
+            "supportCardId": "s_card-2-0007",
+            "number": 1,
+            "text": "후우~"
+        },
+        {
+            "supportCardId": "s_card-2-0007",
+            "number": 2,
+            "text": "와아~! 예뻐라! \n시노사와 씨, 잘하시는군요!"
+        },
+        {
+            "supportCardId": "s_card-2-0007",
+            "number": 3,
+            "text": "...... 후후. 치나도 해볼래?"
+        },
+        {
+            "supportCardId": "s_card-2-0008",
+            "number": 1,
+            "text": "어머, 또 힘을 너무 많이 주는 것 같네."
+        },
+        {
+            "supportCardId": "s_card-2-0008",
+            "number": 2,
+            "text": "와와! 세, 세나 언니...... \n설마, 보고 계셨나요……!?"
+        },
+        {
+            "supportCardId": "s_card-2-0008",
+            "number": 3,
+            "text": "(으으~………… \n너무 기쁘고 부끄럽사와요~!)"
+        },
+        {
+            "supportCardId": "s_card-2-0009",
+            "number": 1,
+            "text": "읏, 읏…… 푸하~!!"
+        },
+        {
+            "supportCardId": "s_card-2-0009",
+            "number": 2,
+            "text": "(에, 단숨에……? \n이런 맛없는 걸!?)"
+        },
+        {
+            "supportCardId": "s_card-2-0009",
+            "number": 3,
+            "text": "(믿을 수 없어……!)"
+        },
+        {
+            "supportCardId": "s_card-2-0010",
+            "number": 1,
+            "text": "포근하고…… \n낮잠을 자기에 안성맞춤인 장소네요."
+        },
+        {
+            "supportCardId": "s_card-2-0010",
+            "number": 2,
+            "text": "음, 후……후우......"
+        },
+        {
+            "supportCardId": "s_card-2-0010",
+            "number": 3,
+            "text": "...... 후후. 그럼 저도."
+        },
+        {
+            "supportCardId": "s_card-2-0011",
+            "number": 1,
+            "text": "대단하네요. \n자신의 매력을 잘 알고 있네요."
+        },
+        {
+            "supportCardId": "s_card-2-0011",
+            "number": 2,
+            "text": "역시 당신은 \n내 것이 되어야 해."
+        },
+        {
+            "supportCardId": "s_card-2-0011",
+            "number": 3,
+            "text": "아하하...... 영광이네요."
+        },
+        {
+            "supportCardId": "s_card-2-0012",
+            "number": 1,
+            "text": "물, 마셔주세요."
+        },
+        {
+            "supportCardId": "s_card-2-0012",
+            "number": 2,
+            "text": "굉장했어…… 생명의 은인."
+        },
+        {
+            "supportCardId": "s_card-2-0012",
+            "number": 3,
+            "text": "서두르지 말고 천천히 가자"
+        },
+        {
+            "supportCardId": "s_card-2-0013",
+            "number": 1,
+            "text": "네, 꽃잎을 뗐어요."
+        },
+        {
+            "supportCardId": "s_card-2-0013",
+            "number": 2,
+            "text": "...... 응? 아, 고마워요."
+        },
+        {
+            "supportCardId": "s_card-2-0013",
+            "number": 3,
+            "text": "...... 같은 대화도, 앞으로 1년인가"
+        },
+        {
+            "supportCardId": "s_card-2-0014",
+            "number": 1,
+            "text": "그럼, 여기까진 괜찮나요?"
+        },
+        {
+            "supportCardId": "s_card-2-0014",
+            "number": 2,
+            "text": "질문이 있으면,\n뭐든지 말해주세요."
+        },
+        {
+            "supportCardId": "s_card-2-0014",
+            "number": 3,
+            "text": "선생님에게 사양할 필요는 없답니다."
+        },
+        {
+            "supportCardId": "s_card-2-0015",
+            "number": 1,
+            "text": "무슨 노래 듣고 있어? 테마리짱."
+        },
+        {
+            "supportCardId": "s_card-2-0015",
+            "number": 2,
+            "text": "아, 잠깐……! \n함부로 만지지마!"
+        },
+        {
+            "supportCardId": "s_card-2-0016",
+            "number": 1,
+            "text": "으럇 !"
+        },
+        {
+            "supportCardId": "s_card-2-0016",
+            "number": 2,
+            "text": "꺄아 ! !"
+        },
+        {
+            "supportCardId": "s_card-2-0017",
+            "number": 1,
+            "text": "물 드세요."
+        },
+        {
+            "supportCardId": "s_card-2-0017",
+            "number": 2,
+            "text": "으? 하히하호~"
+        },
+        {
+            "supportCardId": "s_card-2-0017",
+            "number": 3,
+            "text": "후후, 많이 드세요."
+        },
+        {
+            "supportCardId": "s_card-2-0018",
+            "number": 1,
+            "text": "어, 이제 무리야?"
+        },
+        {
+            "supportCardId": "s_card-2-0018",
+            "number": 2,
+            "text": "크읏……!"
+        },
+        {
+            "supportCardId": "s_card-2-0018",
+            "number": 3,
+            "text": "아직 멀었어!"
+        },
+        {
+            "supportCardId": "s_card-2-0019",
+            "number": 1,
+            "text": "자, 포즈!"
+        },
+        {
+            "supportCardId": "s_card-2-0019",
+            "number": 2,
+            "text": "어?"
+        },
+        {
+            "supportCardId": "s_card-2-0019",
+            "number": 3,
+            "text": "앗! 헉!"
+        },
+        {
+            "supportCardId": "s_card-2-0020",
+            "number": 1,
+            "text": "후후, 수영복이면 진정이 안돼?"
+        },
+        {
+            "supportCardId": "s_card-2-0020",
+            "number": 2,
+            "text": "수영복, 이상하지 않을까 해서……"
+        },
+        {
+            "supportCardId": "s_card-2-0020",
+            "number": 3,
+            "text": "굉장히 귀여워!"
+        },
+        {
+            "supportCardId": "s_card-2-0021",
+            "number": 1,
+            "text": "아-…… 아아-"
+        },
+        {
+            "supportCardId": "s_card-2-0021",
+            "number": 2,
+            "text": "어때? 우주인의 목소리."
+        },
+        {
+            "supportCardId": "s_card-2-0021",
+            "number": 3,
+            "text": "바보 아냐."
+        },
+        {
+            "supportCardId": "s_card-2-0022",
+            "number": 1,
+            "text": "내가 직접 해 주는\n수영 지도를 받도록 하렴."
+        },
+        {
+            "supportCardId": "s_card-2-0022",
+            "number": 2,
+            "text": "오늘은 견학이라서요."
+        },
+        {
+            "supportCardId": "s_card-2-0022",
+            "number": 3,
+            "text": "……그, 그러니."
+        },
+        {
+            "supportCardId": "s_card-2-0023",
+            "number": 1,
+            "text": "자, 내 등에 올라타."
+        },
+        {
+            "supportCardId": "s_card-2-0023",
+            "number": 2,
+            "text": "신경쓰지 않아도 되니까."
+        },
+        {
+            "supportCardId": "s_card-2-0023",
+            "number": 3,
+            "text": "으으……\n마오 선배의 등, 따뜻해……"
+        },
+        {
+            "supportCardId": "s_card-2-0024",
+            "number": 1,
+            "text": "이렇게 해서, 이렇게! 랍니다!"
+        },
+        {
+            "supportCardId": "s_card-2-0024",
+            "number": 2,
+            "text": "치낫치, 대단해~♪"
+        },
+        {
+            "supportCardId": "s_card-2-0024",
+            "number": 3,
+            "text": "오비 뿐만 아니라,\n허리끈을 제대로 조이는 것이 요령이예요."
+        },
+        {
+            "supportCardId": "s_card-2-0025",
+            "number": 1,
+            "text": "뭔가 코토네의 기척이 느껴져."
+        },
+        {
+            "supportCardId": "s_card-2-0025",
+            "number": 2,
+            "text": "축제 가면 썼으니 안 들킬거야!"
+        },
+        {
+            "supportCardId": "s_card-2-0025",
+            "number": 3,
+            "text": "후후, 다 보인다구."
+        },
+        {
+            "supportCardId": "s_card-2-0026",
+            "number": 1,
+            "text": "미스즈는 요리 자주 해?"
+        },
+        {
+            "supportCardId": "s_card-2-0026",
+            "number": 2,
+            "text": "일식이라면,\n집에서도 자주 만들었어요."
+        },
+        {
+            "supportCardId": "s_card-2-0026",
+            "number": 3,
+            "text": "그럼 다음엔 일식을 가르쳐주면 좋겠어."
+        },
+        {
+            "supportCardId": "s_card-2-0027",
+            "number": 1,
+            "text": "올해 신입생은 어때?"
+        },
+        {
+            "supportCardId": "s_card-2-0027",
+            "number": 2,
+            "text": "후후, 다이아몬드 원석이 가득해."
+        },
+        {
+            "supportCardId": "s_card-2-0027",
+            "number": 3,
+            "text": "그거 기대되는걸."
+        },
+        {
+            "supportCardId": "s_card-2-0028",
+            "number": 1,
+            "text": "코토네 쨩의 억새, \n정말 멋지네!"
+        },
+        {
+            "supportCardId": "s_card-2-0028",
+            "number": 2,
+            "text": "와~~~ 고마워!"
+        },
+        {
+            "supportCardId": "s_card-2-0028",
+            "number": 3,
+            "text": "…………그러면, 놀아볼까~!"
+        },
+        {
+            "supportCardId": "s_card-2-0029",
+            "number": 1,
+            "text": "역할 연구……어렵네……"
+        },
+        {
+            "supportCardId": "s_card-2-0029",
+            "number": 2,
+            "text": "츠키무라 양이 연기할 분은,\n굉장히 비뚤어진 분이랍니다."
+        },
+        {
+            "supportCardId": "s_card-2-0029",
+            "number": 3,
+            "text": "자세히 알려줘!"
+        },
+        {
+            "supportCardId": "s_card-2-0030",
+            "number": 1,
+            "text": "재밌어 보이는 음료."
+        },
+        {
+            "supportCardId": "s_card-2-0030",
+            "number": 2,
+            "text": "후후~ 안목이 있네."
+        },
+        {
+            "supportCardId": "s_card-2-0030",
+            "number": 3,
+            "text": "뭘 섞으면 그런 색이\n되는 걸까, 신기해."
+        },
+        {
+            "supportCardId": "s_card-2-0031",
+            "number": 1,
+            "text": "요전에, 봐 버렸어요……"
+        },
+        {
+            "supportCardId": "s_card-2-0031",
+            "number": 2,
+            "text": "언니의 특제 드링크 레시피.\n속닥속닥속닥……"
+        },
+        {
+            "supportCardId": "s_card-2-0031",
+            "number": 3,
+            "text": "에에에~엣!?"
+        },
+        {
+            "supportCardId": "s_card-2-0032",
+            "number": 1,
+            "text": "이렇게 부채로 부채질을 하면\n골고루 구워진답니다……!"
+        },
+        {
+            "supportCardId": "s_card-2-0032",
+            "number": 2,
+            "text": "그렇구나……열을\n골고루 가하기 위해서 하는 거구나."
+        },
+        {
+            "supportCardId": "s_card-2-0032",
+            "number": 3,
+            "text": "이렇게 하면 연기 냄새가 배지 않고\n향도 좋아진답니다!"
+        },
+        {
+            "supportCardId": "s_card-2-0033",
+            "number": 1,
+            "text": "마오 선배, 표정이 딱딱해요! \n좀 더! 웃어주세요!"
+        },
+        {
+            "supportCardId": "s_card-2-0033",
+            "number": 2,
+            "text": "이, 이렇게? \n이런 건 익숙하지 않아서."
+        },
+        {
+            "supportCardId": "s_card-2-0033",
+            "number": 3,
+            "text": "음, 그래도, 곤란한 표정의 마오 선배도,\n귀여우니까 괜찮아요!"
+        },
+        {
+            "supportCardId": "s_card-2-0034",
+            "number": 1,
+            "text": "봐, 잠자리가 있어!\n왠지 그리운데. "
+        },
+        {
+            "supportCardId": "s_card-2-0034",
+            "number": 2,
+            "text": "누가 많이 잡는지,\n승부야, 우메! "
+        },
+        {
+            "supportCardId": "s_card-2-0034",
+            "number": 3,
+            "text": "좋아아아!\n지지 않을거야, 언니! "
+        },
+        {
+            "supportCardId": "s_card-2-0035",
+            "number": 1,
+            "text": "홋홋호~"
+        },
+        {
+            "supportCardId": "s_card-2-0035",
+            "number": 2,
+            "text": "착한 아이들한테\n선물을 전해주러 가자~"
+        },
+        {
+            "supportCardId": "s_card-2-0035",
+            "number": 3,
+            "text": "후훗♪\n우메 순록한테 맡겨줘!"
+        },
+        {
+            "supportCardId": "s_card-2-0036",
+            "number": 1,
+            "text": "손은 턱에 대고~,\n입꼬리는 씩 웃으면서!"
+        },
+        {
+            "supportCardId": "s_card-2-0036",
+            "number": 2,
+            "text": "이, 이렇게……말인가요?"
+        },
+        {
+            "supportCardId": "s_card-2-0036",
+            "number": 3,
+            "text": "그래 그래!\n좋네 좋아♪"
+        },
+        {
+            "supportCardId": "s_card-2-0037",
+            "number": 1,
+            "text": "괜찮으면, 말이야.\n반씩 나눠 먹자!"
+        },
+        {
+            "supportCardId": "s_card-2-0037",
+            "number": 2,
+            "text": "그렇게까지 말하면 어쩔 수 없네――냠."
+        },
+        {
+            "supportCardId": "s_card-2-0037",
+            "number": 3,
+            "text": "눈을 반짝이고 말이야~.\n귀여운 녀석이네에~♪"
+        },
+        {
+            "supportCardId": "s_card-2-0038",
+            "number": 1,
+            "text": "조금만 더, 마지막까지 방심하지마!"
+        },
+        {
+            "supportCardId": "s_card-2-0038",
+            "number": 2,
+            "text": "네, 네! 1, 2, 3, 4 ――"
+        },
+        {
+            "supportCardId": "s_card-2-0038",
+            "number": 3,
+            "text": "지쳤을 때엔 더더욱,\n손가락 끝까지 의식해야 해!"
+        },
+        {
+            "supportCardId": "s_card-2-0039",
+            "number": 1,
+            "text": "역시 사키쨩. 완벽해."
+        },
+        {
+            "supportCardId": "s_card-2-0039",
+            "number": 2,
+            "text": "감사합니다!\n트레이너님 덕분이에요!"
+        },
+        {
+            "supportCardId": "s_card-2-0039",
+            "number": 3,
+            "text": "좋은 말을 해줬네.\n한 세트, 더 해볼래?"
+        },
+        {
+            "supportCardId": "s_card-2-0040",
+            "number": 1,
+            "text": "배를 의식하면서,\n천천히 호흡을 뱉고"
+        },
+        {
+            "supportCardId": "s_card-2-0040",
+            "number": 2,
+            "text": "……가능하다면,\n배는 만지지 말아줬으면 하는데."
+        },
+        {
+            "supportCardId": "s_card-2-0040",
+            "number": 3,
+            "text": "이것도 레슨이니까.\n기초는 중요하다구?"
+        },
+        {
+            "supportCardId": "s_card-2-0041",
+            "number": 1,
+            "text": "후훗. 비밀 레시피는――이거야!"
+        },
+        {
+            "supportCardId": "s_card-2-0041",
+            "number": 2,
+            "text": "괴, 굉장해!\n초콜렛이 무지개 빛으로 빛나기 시작했어――"
+        },
+        {
+            "supportCardId": "s_card-2-0041",
+            "number": 3,
+            "text": "이것이 화학 반응……!"
+        },
+        {
+            "supportCardId": "s_card-2-0042",
+            "number": 1,
+            "text": "이 부분을 손보면,\n볼이 부드러워보일거예요."
+        },
+        {
+            "supportCardId": "s_card-2-0042",
+            "number": 2,
+            "text": "과연…… 이렇게 하면 될까?"
+        },
+        {
+            "supportCardId": "s_card-2-0042",
+            "number": 3,
+            "text": "네.\n정말 귀여워졌네요."
+        },
+        {
+            "supportCardId": "s_card-2-0043",
+            "number": 1,
+            "text": "간다아아아아!"
+        },
+        {
+            "supportCardId": "s_card-2-0043",
+            "number": 2,
+            "text": "기다려 기다려! \n빠르다니까!?"
+        },
+        {
+            "supportCardId": "s_card-2-0043",
+            "number": 3,
+            "text": "아하하! \n정말 즐겁네!"
+        },
+        {
+            "supportCardId": "s_card-2-0044",
+            "number": 1,
+            "text": "와! 엄청 아름다운 음색♪"
+        },
+        {
+            "supportCardId": "s_card-2-0044",
+            "number": 2,
+            "text": "잎을 쭉 펴 봐.\n너무 물지 않는게 요령이야."
+        },
+        {
+            "supportCardId": "s_card-2-0044",
+            "number": 3,
+            "text": "잘 부는 거……\n어, 어렵사와요~~~!"
+        },
+        {
+            "supportCardId": "s_card-2-0045",
+            "number": 1,
+            "text": "아리무라 선배, 그거,\n빨리 밖에 버려주세요!"
+        },
+        {
+            "supportCardId": "s_card-2-0045",
+            "number": 2,
+            "text": "그렇게 무서워 하지 않아도……\n봐, 이렇게 귀엽잖아."
+        },
+        {
+            "supportCardId": "s_card-2-0045",
+            "number": 3,
+            "text": "우와앗!?\n보여 주지 않아도 된다니까!"
+        },
+        {
+            "supportCardId": "s_card-2-0046",
+            "number": 1,
+            "text": "뿅, 하고——앗."
+        },
+        {
+            "supportCardId": "s_card-2-0046",
+            "number": 2,
+            "text": "아앗! 히로 양이 \n해머 반동에 질 것 같아!?"
+        },
+        {
+            "supportCardId": "s_card-2-0046",
+            "number": 3,
+            "text": "때리는 쪽이 튕겨 나갈 정도의 단단한 머리. \n역시 우메."
+        },
+        {
+            "supportCardId": "s_card-2-0047",
+            "number": 1,
+            "text": "릴리야!\n아직 뛸 수 있지!?"
+        },
+        {
+            "supportCardId": "s_card-2-0047",
+            "number": 2,
+            "text": "네, 네……! 열심히 할게요!"
+        },
+        {
+            "supportCardId": "s_card-2-0047",
+            "number": 3,
+            "text": "바로 그 자세야!\n그래도, 일부러 져 주진 않을 거야!"
+        },
+        {
+            "supportCardId": "s_card-2-0048",
+            "number": 1,
+            "text": "봐봐, 이거 귀엽지 않아?"
+        },
+        {
+            "supportCardId": "s_card-2-0048",
+            "number": 2,
+            "text": "대박, 완전 귀엽다!"
+        },
+        {
+            "supportCardId": "s_card-2-0048",
+            "number": 3,
+            "text": "그치~ 역시 나랑 스미카 취향은 통한다니까."
+        },
+        {
+            "supportCardId": "s_card-2-0049",
+            "number": 1,
+            "text": "으그극……또 내가 2위인가."
+        },
+        {
+            "supportCardId": "s_card-2-0049",
+            "number": 2,
+            "text": "아직 츠바메한테 질 수는 없지."
+        },
+        {
+            "supportCardId": "s_card-2-0049",
+            "number": 3,
+            "text": "어디 두고 보거라!\n내 기필코 쫓아가주마!"
+        },
+        {
+            "supportCardId": "s_card-2-0050",
+            "number": 1,
+            "text": "요녀석-.\n당근도 남기면 안 되잖아~?"
+        },
+        {
+            "supportCardId": "s_card-2-0050",
+            "number": 2,
+            "text": "……쳇. 안 들킬 줄 알았는데."
+        },
+        {
+            "supportCardId": "s_card-2-0050",
+            "number": 3,
+            "text": "어휴. 우리 집 꼬맹이들이랑\n똑같은 얼굴을 하니까 다 알거든."
+        },
+        {
+            "supportCardId": "s_card-2-0051",
+            "number": 1,
+            "text": "하타야 양의 몸짓은 무척이나 아름다워요!"
+        },
+        {
+            "supportCardId": "s_card-2-0051",
+            "number": 2,
+            "text": "후후. 칭찬 해 주셔서,\n감사합니다."
+        },
+        {
+            "supportCardId": "s_card-2-0051",
+            "number": 3,
+            "text": "저도 언젠가,\n하타야 양 처럼――!"
+        },
+        {
+            "supportCardId": "s_card-2-0052",
+            "number": 1,
+            "text": "이, 이렇게 하겠요!"
+        },
+        {
+            "supportCardId": "s_card-2-0052",
+            "number": 2,
+            "text": "후후. 좋은데 좋은데?"
+        },
+        {
+            "supportCardId": "s_card-2-0052",
+            "number": 3,
+            "text": "아, 아직, 놓지 말아 주시와요.\n부들부들 떨리어요……"
+        },
+        {
+            "supportCardId": "s_card-2-0053",
+            "number": 1,
+            "text": "시노사와 양, 괜찮아요!?"
+        },
+        {
+            "supportCardId": "s_card-2-0053",
+            "number": 2,
+            "text": "후후.\n릴리야 따라가는 거, 즐거워."
+        },
+        {
+            "supportCardId": "s_card-2-0053",
+            "number": 3,
+            "text": "……무, 무리하면 안 돼요!"
+        },
+        {
+            "supportCardId": "s_card-2-0054",
+            "number": 1,
+            "text": "마옷치 선배.\n다음은 이 옷, 어때요~?"
+        },
+        {
+            "supportCardId": "s_card-2-0054",
+            "number": 2,
+            "text": "이런 건, 키가 큰 스미카에게\n더 잘 어울릴 것 같은데."
+        },
+        {
+            "supportCardId": "s_card-2-0054",
+            "number": 3,
+            "text": "조금만, 입어보라니까.\n이거랑……또, 이거랑 이거랑."
+        },
+        {
+            "supportCardId": "s_card-2-0055",
+            "number": 1,
+            "text": "……어라, 미스즈잖아."
+        },
+        {
+            "supportCardId": "s_card-2-0055",
+            "number": 2,
+            "text": "네……또 만났네요."
+        },
+        {
+            "supportCardId": "s_card-2-0055",
+            "number": 3,
+            "text": "날씨 좋네……낮잠 자기 딱 좋은 날이야."
+        },
+        {
+            "supportCardId": "s_card-2-0056",
+            "number": 1,
+            "text": "한 바퀴 늦었지 않나!\n달리는 자세를 의식해라!"
+        },
+        {
+            "supportCardId": "s_card-2-0056",
+            "number": 2,
+            "text": "털썩, 추욱~~……"
+        },
+        {
+            "supportCardId": "s_card-2-0056",
+            "number": 3,
+            "text": "아직 부족하다! 시노사와아!"
+        },
+        {
+            "supportCardId": "s_card-2-0058",
+            "number": 1,
+            "text": "요전에-, 기숙사에서 벌레가 나와서……\n구제하느라 고생했단 말이에요-!"
+        },
+        {
+            "supportCardId": "s_card-2-0058",
+            "number": 2,
+            "text": "에! 몰랐어……!\n크, 크기가 꽤, 컸어……?"
+        },
+        {
+            "supportCardId": "s_card-2-0058",
+            "number": 3,
+            "text": "그~랬거든요~! 누가 처리할까\n정하느라 고생했다고요~."
+        },
+        {
+            "supportCardId": "s_card-2-0059",
+            "number": 1,
+            "text": "하-앗! 영차-!"
+        },
+        {
+            "supportCardId": "s_card-2-0059",
+            "number": 2,
+            "text": "히로, 그 자세는 대체……?"
+        },
+        {
+            "supportCardId": "s_card-2-0059",
+            "number": 3,
+            "text": "후후, 오리지널, 아이돌 권법이야."
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 1,
+            "text": "안쪽만……알맹이만……아야."
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 2,
+            "text": "……가시 찔렸다."
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 3,
+            "text": "아앗! 괜찮아!?\n집게를 쓰는 편이 나을 거야."
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 1,
+            "text": "체간을 단련하면, 이런 식으로――"
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 2,
+            "text": "좋은 스트레치네!\n부하는 큰데, 부담은 적고!"
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 3,
+            "text": "히메사키 선배의 스트레치도\n꼭, 가르쳐주십시오!"
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 1,
+            "text": "와아~~~~~~~~앗!\n에헤헤……마오선배, 놀라셨어요?"
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 2,
+            "text": "후후, 코토네인가.깜짝 놀랐어.\n뱀파이어 잘 어울리네."
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 3,
+            "text": "이건 절대 놀라지 않는 녀석이다~!?"
+        },
+        {
+            "supportCardId": "s_card-2-0063",
+            "number": 1,
+            "text": "이 근처! 이 근처를 누르면 좋아."
+        },
+        {
+            "supportCardId": "s_card-2-0063",
+            "number": 2,
+            "text": "아, 잠깐만——히귝!?"
+        },
+        {
+            "supportCardId": "s_card-2-0063",
+            "number": 3,
+            "text": "여기가 아프다는 건, \n피로가 쌓여 있는 걸지도~!"
+        },
+        {
+            "supportCardId": "s_card-2-0064",
+            "number": 1,
+            "text": "어깨에 힘은 빼면서, \n손끝까지 의식을 집중하고——"
+        },
+        {
+            "supportCardId": "s_card-2-0064",
+            "number": 2,
+            "text": "정말 예뻐——이, 이렇게 하는 건가?"
+        },
+        {
+            "supportCardId": "s_card-2-0064",
+            "number": 3,
+            "text": "아주 좋다고 생각해요! \n역시 카츠라기 씨예요♪"
+        },
+        {
+            "supportCardId": "s_card-2-0065",
+            "number": 1,
+            "text": "……어머. \n어째서 이런 곳에."
+        },
+        {
+            "supportCardId": "s_card-2-0065",
+            "number": 2,
+            "text": "분명, 기숙사 사감 \n업무로 지치신 거겠죠."
+        },
+        {
+            "supportCardId": "s_card-2-0065",
+            "number": 3,
+            "text": "……후아……아……음, 미스즈……?"
+        },
+        {
+            "supportCardId": "s_card-2-0066",
+            "number": 1,
+            "text": "아리무라, 아까 영화는 어땠나."
+        },
+        {
+            "supportCardId": "s_card-2-0066",
+            "number": 2,
+            "text": "아아, 정말 좋았어. \n츠바메가 추천하는 영화는 전부 재미있네."
+        },
+        {
+            "supportCardId": "s_card-2-0066",
+            "number": 3,
+            "text": "훗, 네놈과는,\n영화와 책 취향만큼은 맞는 모양이군."
+        },
+        {
+            "supportCardId": "s_card-2-0067",
+            "number": 1,
+            "text": "안녕~! 귀엽다~!\n같이 놀아줄 거야~? 기쁘다~♪"
+        },
+        {
+            "supportCardId": "s_card-2-0067",
+            "number": 2,
+            "text": "우와앗! 크, 크다……!"
+        },
+        {
+            "supportCardId": "s_card-2-0067",
+            "number": 3,
+            "text": "무섭지 않아, 테마리쨩!\n내가 있으니까 괜찮아!"
+        },
+        {
+            "supportCardId": "s_card-2-0068",
+            "number": 1,
+            "text": "흥."
+        },
+        {
+            "supportCardId": "s_card-2-0068",
+            "number": 2,
+            "text": "흥, 이랍니다!"
+        },
+        {
+            "supportCardId": "s_card-2-0068",
+            "number": 3,
+            "text": "친구끼리 싸운다는 거,\n이런 느낌이면 되는 거야?"
+        },
+        {
+            "supportCardId": "s_card-2-0069",
+            "number": 1,
+            "text": "와, 엄청난 양이네. 역시 ‘샛별'."
+        },
+        {
+            "supportCardId": "s_card-2-0069",
+            "number": 2,
+            "text": "마오는 어때?\n팬클럽 애들 거야?"
+        },
+        {
+            "supportCardId": "s_card-2-0069",
+            "number": 3,
+            "text": "맞아.\n마음이 담긴 초콜릿은 기쁘네."
+        },
+        {
+            "supportCardId": "s_card-2-0070",
+            "number": 1,
+            "text": "그렇게 한꺼번에 들고\n괜찮아?"
+        },
+        {
+            "supportCardId": "s_card-2-0070",
+            "number": 2,
+            "text": "흐흐~ㅎ♪ 얍!"
+        },
+        {
+            "supportCardId": "s_card-2-0070",
+            "number": 3,
+            "text": "오오~~~ 안 무너졌어! 대박~!"
+        },
+        {
+            "supportCardId": "s_card-2-0071",
+            "number": 1,
+            "text": "츠키무라 씨, 기연이네."
+        },
+        {
+            "supportCardId": "s_card-2-0071",
+            "number": 2,
+            "text": "괜찮으면 같이\n햄버거를 먹죠."
+        },
+        {
+            "supportCardId": "s_card-2-0071",
+            "number": 3,
+            "text": "하, 햄버거……?\n사양할게요!!"
+        },
+        {
+            "supportCardId": "s_card-2-0072",
+            "number": 1,
+            "text": "공주님, 여기 적은 저한테 맡기고,\n물러나 주세요!"
+        },
+        {
+            "supportCardId": "s_card-2-0072",
+            "number": 2,
+            "text": "아니,\n당신을 버릴 수는 없어!"
+        },
+        {
+            "supportCardId": "s_card-2-0072",
+            "number": 3,
+            "text": "하아아아아앗!"
+        },
+        {
+            "supportCardId": "s_card-2-0073",
+            "number": 1,
+            "text": "아, 아야야야……"
+        },
+        {
+            "supportCardId": "s_card-2-0073",
+            "number": 2,
+            "text": "10초만 더 힘내자!\n하아나……두우울……"
+        },
+        {
+            "supportCardId": "s_card-2-0073",
+            "number": 3,
+            "text": "1초가 길어!?"
+        },
+        {
+            "supportCardId": "s_card-2-0074",
+            "number": 1,
+            "text": "콜록. 제가\n건배 구호를, 해도 괜찮을까요?"
+        },
+        {
+            "supportCardId": "s_card-2-0074",
+            "number": 2,
+            "text": "어머. 부탁해도 될까요?"
+        },
+        {
+            "supportCardId": "s_card-2-0074",
+            "number": 3,
+            "text": "이 평온하고 기분 좋은 멋진\n한때를 위하여――건배, 에요~!"
+        },
+        {
+            "supportCardId": "s_card-2-0075",
+            "number": 1,
+            "text": "파티하면 역시 타코파티지.\n이건 양보 못해."
+        },
+        {
+            "supportCardId": "s_card-2-0075",
+            "number": 2,
+            "text": "치즈 퐁듀도 재밌잖아!\n프랑스어잖아? 프랑스어!"
+        },
+        {
+            "supportCardId": "s_card-2-0075",
+            "number": 3,
+            "text": "흠, 프랑스어구나.\n확실히 멋있긴 한데……"
+        },
+        {
+            "supportCardId": "s_card-2-0076",
+            "number": 1,
+            "text": "후와아……이거, 프린트네."
+        },
+        {
+            "supportCardId": "s_card-2-0076",
+            "number": 2,
+            "text": "고마워――후후."
+        },
+        {
+            "supportCardId": "s_card-2-0076",
+            "number": 3,
+            "text": "그렇게 방심한 표정을\n아이돌이 해도 되는 거야?"
+        },
+        {
+            "supportCardId": "s_card-2-0077",
+            "number": 1,
+            "text": "세나 선배! 거기예요, 거기!"
+        },
+        {
+            "supportCardId": "s_card-2-0077",
+            "number": 2,
+            "text": "에잇――아앗!"
+        },
+        {
+            "supportCardId": "s_card-2-0077",
+            "number": 3,
+            "text": "수, 수박이 꽤 단단하네."
+        },
+        {
+            "supportCardId": "s_card-2-0078",
+            "number": 1,
+            "text": "아, 아리무라 선배……"
+        },
+        {
+            "supportCardId": "s_card-2-0078",
+            "number": 2,
+            "text": "괜찮아.\n내가 지켜 줄 테니까…… 꺄악!?"
+        },
+        {
+            "supportCardId": "s_card-2-0078",
+            "number": 3,
+            "text": "뭐, 뭐예요? 무슨 일이에요?\n꺄악!?"
+        },
+        {
+            "supportCardId": "s_card-2-0079",
+            "number": 1,
+            "text": "자, 세나의 라이브 공연장은 여기인가……"
+        },
+        {
+            "supportCardId": "s_card-2-0079",
+            "number": 2,
+            "text": "뜨아악!?　부회장니임~!?"
+        },
+        {
+            "supportCardId": "s_card-2-0079",
+            "number": 3,
+            "text": "으악!?　왜 후지타가 여기에!?"
+        },
+        {
+            "supportCardId": "s_card-3-0000",
+            "number": 1,
+            "text": "자, 한 입 줄게!"
+        },
+        {
+            "supportCardId": "s_card-3-0000",
+            "number": 2,
+            "text": "(……먹을 수 있는 건가, 이거?)"
+        },
+        {
+            "supportCardId": "s_card-3-0000",
+            "number": 3,
+            "text": "……필요없어."
+        },
+        {
+            "supportCardId": "s_card-3-0001",
+            "number": 1,
+            "text": "(순간적으로 숨어버렸지만……\n뭐 하고있는거람, 나……)"
+        },
+        {
+            "supportCardId": "s_card-3-0001",
+            "number": 2,
+            "text": "(……어쩐지……\n그리운 느낌이 든 것 같아……)"
+        },
+        {
+            "supportCardId": "s_card-3-0001",
+            "number": 3,
+            "text": "(……따뜻한 곳으로,\n가볼까요.)"
+        },
+        {
+            "supportCardId": "s_card-3-0002",
+            "number": 1,
+            "text": "저얼대, 용서하지 않을 거니까!"
+        },
+        {
+            "supportCardId": "s_card-3-0002",
+            "number": 2,
+            "text": "그렇게까지 화낼 건 없잖아!"
+        },
+        {
+            "supportCardId": "s_card-3-0002",
+            "number": 3,
+            "text": "이 녀석들 귀찮아ㅡ……"
+        },
+        {
+            "supportCardId": "s_card-3-0003",
+            "number": 1,
+            "text": "자! 메이크업 끝!\n그러니까 놀러가자~!"
+        },
+        {
+            "supportCardId": "s_card-3-0003",
+            "number": 2,
+            "text": "아니, 전혀 안 됐어! \n거기 앉아!"
+        },
+        {
+            "supportCardId": "s_card-3-0003",
+            "number": 3,
+            "text": "역시 안 되나 젠장~~~!"
+        },
+        {
+            "supportCardId": "s_card-3-0004",
+            "number": 1,
+            "text": "흐아암~……엉니~"
+        },
+        {
+            "supportCardId": "s_card-3-0004",
+            "number": 2,
+            "text": "호늘 이야 말호, 꼭……"
+        },
+        {
+            "supportCardId": "s_card-3-0004",
+            "number": 3,
+            "text": "절~대, 안질허히하~……"
+        },
+        {
+            "supportCardId": "s_card-3-0005",
+            "number": 1,
+            "text": "우리, 이제 3학년이야."
+        },
+        {
+            "supportCardId": "s_card-3-0005",
+            "number": 2,
+            "text": "...... 그렇지.\n활기찬 신입생들에게 부끄럽지 않게,"
+        },
+        {
+            "supportCardId": "s_card-3-0005",
+            "number": 3,
+            "text": "우리도 더 열심히 해야겠지."
+        },
+        {
+            "supportCardId": "s_card-3-0006",
+            "number": 1,
+            "text": "흐에에...... 끝나지 않사와요~!"
+        },
+        {
+            "supportCardId": "s_card-3-0006",
+            "number": 2,
+            "text": "괜찮아, 이제 얼마 안 남았어."
+        },
+        {
+            "supportCardId": "s_card-3-0006",
+            "number": 3,
+            "text": "끝까지 함께 노력해볼까요?"
+        },
+        {
+            "supportCardId": "s_card-3-0007",
+            "number": 1,
+            "text": "뭐 좀 마실래?"
+        },
+        {
+            "supportCardId": "s_card-3-0007",
+            "number": 2,
+            "text": "아, 감사합니다……!"
+        },
+        {
+            "supportCardId": "s_card-3-0007",
+            "number": 3,
+            "text": "(마치, 왕자님 같아……요.)"
+        },
+        {
+            "supportCardId": "s_card-3-0008",
+            "number": 1,
+            "text": "엄청난데, 릴리야 저거 봐!"
+        },
+        {
+            "supportCardId": "s_card-3-0008",
+            "number": 2,
+            "text": "무슨 일이야, 스미카쨔……"
+        },
+        {
+            "supportCardId": "s_card-3-0008",
+            "number": 3,
+            "text": "자, 치즈!"
+        },
+        {
+            "supportCardId": "s_card-3-0009",
+            "number": 1,
+            "text": "오늘이 마지막 기회."
+        },
+        {
+            "supportCardId": "s_card-3-0009",
+            "number": 2,
+            "text": "어떻게든 성공시킬거예요~!"
+        },
+        {
+            "supportCardId": "s_card-3-0009",
+            "number": 3,
+            "text": "응응.…… 좋아, 힘내자ㅡ!"
+        },
+        {
+            "supportCardId": "s_card-3-0010",
+            "number": 1,
+            "text": "이 아이는?"
+        },
+        {
+            "supportCardId": "s_card-3-0010",
+            "number": 2,
+            "text": "제 보물이랍니다!\n귀, 귀엽죠?"
+        },
+        {
+            "supportCardId": "s_card-3-0010",
+            "number": 3,
+            "text": "쿠마짱도 치나짱도 귀여워!"
+        },
+        {
+            "supportCardId": "s_card-3-0011",
+            "number": 1,
+            "text": "회장, 미스즈짱! 놀러 왔어!"
+        },
+        {
+            "supportCardId": "s_card-3-0011",
+            "number": 2,
+            "text": "어머.... 후후, 오늘도 기운이 넘치네요."
+        },
+        {
+            "supportCardId": "s_card-3-0011",
+            "number": 3,
+            "text": "정말…… \n학생회실은 놀이터가 아니야."
+        },
+        {
+            "supportCardId": "s_card-3-0012",
+            "number": 1,
+            "text": "(후우...... \n이쯤에서 잠시 휴식할까.)"
+        },
+        {
+            "supportCardId": "s_card-3-0012",
+            "number": 2,
+            "text": "하아……! 아직, 더……!"
+        },
+        {
+            "supportCardId": "s_card-3-0012",
+            "number": 3,
+            "text": "......정말"
+        },
+        {
+            "supportCardId": "s_card-3-0013",
+            "number": 1,
+            "text": "어서 오세요~~ 으악!"
+        },
+        {
+            "supportCardId": "s_card-3-0013",
+            "number": 2,
+            "text": "우연이네, 코토네"
+        },
+        {
+            "supportCardId": "s_card-3-0013",
+            "number": 3,
+            "text": "(이 사람, 이런 데까지!!!)"
+        },
+        {
+            "supportCardId": "s_card-3-0014",
+            "number": 1,
+            "text": "아직 시작에 불과해!"
+        },
+        {
+            "supportCardId": "s_card-3-0014",
+            "number": 2,
+            "text": "내 목소리가 들리지 않을 정도로,\n신나게 해봐!"
+        },
+        {
+            "supportCardId": "s_card-3-0014",
+            "number": 3,
+            "text": "...... 이게, 샛별……"
+        },
+        {
+            "supportCardId": "s_card-3-0015",
+            "number": 1,
+            "text": "자,\n신입생 모임에 어울리는 한 장이 될 거야!"
+        },
+        {
+            "supportCardId": "s_card-3-0015",
+            "number": 2,
+            "text": "아, 아아아직 마음의 준비가~!"
+        },
+        {
+            "supportCardId": "s_card-3-0015",
+            "number": 3,
+            "text": "...... 후아."
+        },
+        {
+            "supportCardId": "s_card-3-0016",
+            "number": 1,
+            "text": "히로 쨩 확보~!"
+        },
+        {
+            "supportCardId": "s_card-3-0016",
+            "number": 2,
+            "text": "확보당했다."
+        },
+        {
+            "supportCardId": "s_card-3-0016",
+            "number": 3,
+            "text": "하타야 양도 함께,\n따라 와 주세요!"
+        },
+        {
+            "supportCardId": "s_card-3-0016",
+            "number": 4,
+            "text": "...... 네, 포기했어요."
+        },
+        {
+            "supportCardId": "s_card-3-0017",
+            "number": 1,
+            "text": "마지막 한 상자, 출발 신호~!"
+        },
+        {
+            "supportCardId": "s_card-3-0017",
+            "number": 2,
+            "text": "자, 잠깐만……!\n무거우니까 조심해서……"
+        },
+        {
+            "supportCardId": "s_card-3-0017",
+            "number": 3,
+            "text": "괜찮아, 괜찮아~!"
+        },
+        {
+            "supportCardId": "s_card-3-0018",
+            "number": 1,
+            "text": "테마리~\n과자를 하나도 안먹는 것 같은데?"
+        },
+        {
+            "supportCardId": "s_card-3-0018",
+            "number": 2,
+            "text": "혹시, 다이어트 중이야~?"
+        },
+        {
+            "supportCardId": "s_card-3-0018",
+            "number": 3,
+            "text": "으...... 시끄러워."
+        },
+        {
+            "supportCardId": "s_card-3-0019",
+            "number": 1,
+            "text": "후훗, 이 정도면 별거 아니예요."
+        },
+        {
+            "supportCardId": "s_card-3-0019",
+            "number": 2,
+            "text": "잔뜩 선생님을 의지해 주세요."
+        },
+        {
+            "supportCardId": "s_card-3-0019",
+            "number": 3,
+            "text": "너는 나의, 학생이니까요."
+        },
+        {
+            "supportCardId": "s_card-3-0020",
+            "number": 1,
+            "text": "아, 가을의 미각 박람회네요!\n마침 배도 고픈데. "
+        },
+        {
+            "supportCardId": "s_card-3-0020",
+            "number": 2,
+            "text": "밤밥 도시락과 주먹밥…\n과자도 먹어볼까요! "
+        },
+        {
+            "supportCardId": "s_card-3-0020",
+            "number": 3,
+            "text": "후후후……이런 점심도,\n가끔은 괜찮겠죠! "
+        },
+        {
+            "supportCardId": "s_card-3-0021",
+            "number": 1,
+            "text": "마리 쨩, 감기 걸릴거예요."
+        },
+        {
+            "supportCardId": "s_card-3-0021",
+            "number": 2,
+            "text": "아, 알고 있다구……!"
+        },
+        {
+            "supportCardId": "s_card-3-0021",
+            "number": 3,
+            "text": "진정이 안 돼…… 정말이지……"
+        },
+        {
+            "supportCardId": "s_card-3-0022",
+            "number": 1,
+            "text": "앗! 마오 선배, 무지개에요~"
+        },
+        {
+            "supportCardId": "s_card-3-0022",
+            "number": 2,
+            "text": "아아, 정말이네."
+        },
+        {
+            "supportCardId": "s_card-3-0022",
+            "number": 3,
+            "text": "후후, 청소 뒤의 보상…… 이려나?"
+        },
+        {
+            "supportCardId": "s_card-3-0023",
+            "number": 1,
+            "text": "아, 물웅덩이 발견~!"
+        },
+        {
+            "supportCardId": "s_card-3-0023",
+            "number": 2,
+            "text": "잠깐 우메!"
+        },
+        {
+            "supportCardId": "s_card-3-0023",
+            "number": 3,
+            "text": "그만해~!"
+        },
+        {
+            "supportCardId": "s_card-3-0024",
+            "number": 1,
+            "text": "아-……\n저언혀, 모르겠어~"
+        },
+        {
+            "supportCardId": "s_card-3-0024",
+            "number": 2,
+            "text": "아니, 코토네!\n그게 아니라고 했잖아!?"
+        },
+        {
+            "supportCardId": "s_card-3-0024",
+            "number": 3,
+            "text": "상으로…… 돈까스…… 쿨쿨……"
+        },
+        {
+            "supportCardId": "s_card-3-0025",
+            "number": 1,
+            "text": "우리들, 여기까지\n온거군요……!"
+        },
+        {
+            "supportCardId": "s_card-3-0025",
+            "number": 2,
+            "text": "후후…… 지쳤어……"
+        },
+        {
+            "supportCardId": "s_card-3-0025",
+            "number": 3,
+            "text": "정상 등반 기념 밥이다~!\n잘 먹겠습니다~!"
+        },
+        {
+            "supportCardId": "s_card-3-0026",
+            "number": 1,
+            "text": "수영장 청소 같은건\n지루하다고 생각했는데 말이야."
+        },
+        {
+            "supportCardId": "s_card-3-0026",
+            "number": 2,
+            "text": "릴리야랑 함께면 즐겁네!"
+        },
+        {
+            "supportCardId": "s_card-3-0026",
+            "number": 3,
+            "text": "……응. 나도 즐거워♪"
+        },
+        {
+            "supportCardId": "s_card-3-0027",
+            "number": 1,
+            "text": "자! 여러분!\n힘들고 괴로운 레슨 후에는――"
+        },
+        {
+            "supportCardId": "s_card-3-0027",
+            "number": 2,
+            "text": "바캉스를 즐길 시간이에요~~~♪"
+        },
+        {
+            "supportCardId": "s_card-3-0027",
+            "number": 3,
+            "text": "오~~~~~~~~~~~~!"
+        },
+        {
+            "supportCardId": "s_card-3-0028",
+            "number": 1,
+            "text": "일시휴전 하지 않을래요?"
+        },
+        {
+            "supportCardId": "s_card-3-0028",
+            "number": 2,
+            "text": "흥, 나를 구슬리는 게\n가능할 줄 알았어?"
+        },
+        {
+            "supportCardId": "s_card-3-0028",
+            "number": 3,
+            "text": "……그립네요, 이 대화."
+        },
+        {
+            "supportCardId": "s_card-3-0029",
+            "number": 1,
+            "text": "좋아~ 협공하자~!"
+        },
+        {
+            "supportCardId": "s_card-3-0029",
+            "number": 2,
+            "text": "맡겨줘, 코토네"
+        },
+        {
+            "supportCardId": "s_card-3-0029",
+            "number": 3,
+            "text": "이럴 때만 호흡이 딱 맞네!"
+        },
+        {
+            "supportCardId": "s_card-3-0030",
+            "number": 1,
+            "text": "저기 있는 건 뭔가요!"
+        },
+        {
+            "supportCardId": "s_card-3-0030",
+            "number": 2,
+            "text": "후훗♪ 치나 쨩.\n그렇게 서두르면 떨어질지도 몰라?"
+        },
+        {
+            "supportCardId": "s_card-3-0030",
+            "number": 3,
+            "text": "괜찮아요! \n언니와 손을 잡고 있으니까요!"
+        },
+        {
+            "supportCardId": "s_card-3-0031",
+            "number": 1,
+            "text": "맡겨줘. 불을 붙여줄게."
+        },
+        {
+            "supportCardId": "s_card-3-0031",
+            "number": 2,
+            "text": "와, 감사합니다......!"
+        },
+        {
+            "supportCardId": "s_card-3-0031",
+            "number": 3,
+            "text": "후훗, 휴대용 불꽃놀이,\n재미있네요."
+        },
+        {
+            "supportCardId": "s_card-3-0032",
+            "number": 1,
+            "text": "츠바메 쨩이 걱정되나요?"
+        },
+        {
+            "supportCardId": "s_card-3-0032",
+            "number": 2,
+            "text": "그, 그렇지 않아.\n고민하고 있었을 뿐이야."
+        },
+        {
+            "supportCardId": "s_card-3-0032",
+            "number": 3,
+            "text": "내가 스카우트 했던……\n문제아들에 대해서 말이야."
+        },
+        {
+            "supportCardId": "s_card-3-0033",
+            "number": 1,
+            "text": "오늘 밤은 추워요.\n같이 덮죠."
+        },
+        {
+            "supportCardId": "s_card-3-0033",
+            "number": 2,
+            "text": "……낯간지러운데.\n어린애 취급 하지 마."
+        },
+        {
+            "supportCardId": "s_card-3-0033",
+            "number": 3,
+            "text": "후후……\n오늘 밤만큼은, 포기하세요."
+        },
+        {
+            "supportCardId": "s_card-3-0034",
+            "number": 1,
+            "text": "세탁이 끝날 때까지,\n얼마나 남았을까."
+        },
+        {
+            "supportCardId": "s_card-3-0034",
+            "number": 2,
+            "text": "아직 멀었으려나."
+        },
+        {
+            "supportCardId": "s_card-3-0034",
+            "number": 3,
+            "text": "그럼 차를 한 잔 더 끓여줄게!"
+        },
+        {
+            "supportCardId": "s_card-3-0035",
+            "number": 1,
+            "text": "그 책, 재미있어?"
+        },
+        {
+            "supportCardId": "s_card-3-0035",
+            "number": 2,
+            "text": "두근두근해~"
+        },
+        {
+            "supportCardId": "s_card-3-0035",
+            "number": 3,
+            "text": "나도 읽어볼까"
+        },
+        {
+            "supportCardId": "s_card-3-0036",
+            "number": 1,
+            "text": "테마릿치, 이거 붙여봐!"
+        },
+        {
+            "supportCardId": "s_card-3-0036",
+            "number": 2,
+            "text": "절대로 싫어. 잠깐, 멋대로――"
+        },
+        {
+            "supportCardId": "s_card-3-0036",
+            "number": 3,
+            "text": "헤헷, 엄청 잘 어울리네!\n귀여워~!"
+        },
+        {
+            "supportCardId": "s_card-3-0037",
+            "number": 1,
+            "text": "응~♪시원해졌네요!"
+        },
+        {
+            "supportCardId": "s_card-3-0037",
+            "number": 2,
+            "text": "가을 하면 예술, 독서, 식욕의 가을!\n바로 먹으러 가죠!"
+        },
+        {
+            "supportCardId": "s_card-3-0037",
+            "number": 3,
+            "text": "치나와 함께라면 즐거운 일 뿐이야.\n후후. 언제나 고마워."
+        },
+        {
+            "supportCardId": "s_card-3-0038",
+            "number": 1,
+            "text": "리허설 준비, 다 됐어요."
+        },
+        {
+            "supportCardId": "s_card-3-0038",
+            "number": 2,
+            "text": "신입생 앞에서 하는 연설은 조금 긴장되네."
+        },
+        {
+            "supportCardId": "s_card-3-0038",
+            "number": 3,
+            "text": "회장님도 긴장하시나요?\n의외네요."
+        },
+        {
+            "supportCardId": "s_card-3-0039",
+            "number": 1,
+            "text": "어머, 코토네잖아.\n먼저 갈게."
+        },
+        {
+            "supportCardId": "s_card-3-0039",
+            "number": 2,
+            "text": "……너, 너무 빠르지 않아요~!?"
+        },
+        {
+            "supportCardId": "s_card-3-0039",
+            "number": 3,
+            "text": "후후. 따라올 수 있겠어?"
+        },
+        {
+            "supportCardId": "s_card-3-0040",
+            "number": 1,
+            "text": "후후, 이제 슬슬 때가 된 것 같아.\n타이밍 맞추는 게 꽤 어렵네."
+        },
+        {
+            "supportCardId": "s_card-3-0040",
+            "number": 2,
+            "text": "……좋은 냄새. \n두근두근, 하네요……."
+        },
+        {
+            "supportCardId": "s_card-3-0040",
+            "number": 3,
+            "text": "음, 이쪽은 이제 괜찮아 보이네.\n받아, 릴리야."
+        },
+        {
+            "supportCardId": "s_card-3-0041",
+            "number": 1,
+            "text": "미스즈 쨩!\n저기도 가보자!"
+        },
+        {
+            "supportCardId": "s_card-3-0041",
+            "number": 2,
+            "text": "후후후, 좋아요."
+        },
+        {
+            "supportCardId": "s_card-3-0041",
+            "number": 3,
+            "text": "자자, 서두르지 마."
+        },
+        {
+            "supportCardId": "s_card-3-0042",
+            "number": 1,
+            "text": "눈이 내리기 시작했네~."
+        },
+        {
+            "supportCardId": "s_card-3-0042",
+            "number": 2,
+            "text": "버스가 올 때까지, 얼마 안 남았으려나?\n살짝 추워졌네."
+        },
+        {
+            "supportCardId": "s_card-3-0042",
+            "number": 3,
+            "text": "자, 그런 릴리야에겐,\n머플러를 나눠줄게!"
+        },
+        {
+            "supportCardId": "s_card-3-0043",
+            "number": 1,
+            "text": "헤헷, 걸렸네~♪\n이걸로, 내 독주 상태……!"
+        },
+        {
+            "supportCardId": "s_card-3-0043",
+            "number": 2,
+            "text": "기다려~엇!\n이 정도로, 나는 지지 않아!"
+        },
+        {
+            "supportCardId": "s_card-3-0043",
+            "number": 3,
+            "text": "엑!? 너무 빠르잖아!?"
+        },
+        {
+            "supportCardId": "s_card-3-0044",
+            "number": 1,
+            "text": "수고했어 테마릿치~ 이온음료 마실래?"
+        },
+        {
+            "supportCardId": "s_card-3-0044",
+            "number": 2,
+            "text": "릴리야가,\n다음엔 이 파트를 하고 싶다고 해서"
+        },
+        {
+            "supportCardId": "s_card-3-0044",
+            "number": 3,
+            "text": "우히~ 미안~ 늦었네~!"
+        },
+        {
+            "supportCardId": "s_card-3-0045",
+            "number": 1,
+            "text": "저희들도 언젠가는 꼭"
+        },
+        {
+            "supportCardId": "s_card-3-0045",
+            "number": 2,
+            "text": "커다란 스테이지에서,\n이 곡을 불러보고싶어!"
+        },
+        {
+            "supportCardId": "s_card-3-0045",
+            "number": 3,
+            "text": "후후…… 갈 길이 멀어."
+        },
+        {
+            "supportCardId": "s_card-3-0046",
+            "number": 1,
+            "text": "(이번에야 말로, 꼭)"
+        },
+        {
+            "supportCardId": "s_card-3-0046",
+            "number": 2,
+            "text": "(내 걸로 만들어보겠어)"
+        },
+        {
+            "supportCardId": "s_card-3-0046",
+            "number": 3,
+            "text": "(이 노래를 가장\n잘 소화해내는 건 나야!)"
+        },
+        {
+            "supportCardId": "s_card-3-0047",
+            "number": 1,
+            "text": "언니 모양을 한 초콜릿은 어떨까요!"
+        },
+        {
+            "supportCardId": "s_card-3-0047",
+            "number": 2,
+            "text": "엄청 귀여워!\n먹기 아까운걸♪"
+        },
+        {
+            "supportCardId": "s_card-3-0047",
+            "number": 3,
+            "text": "에헤헤~ ♡\n기뻐해주면 좋겠다~!"
+        },
+        {
+            "supportCardId": "s_card-3-0048",
+            "number": 1,
+            "text": "주, 줄을 서고있사와요~!"
+        },
+        {
+            "supportCardId": "s_card-3-0048",
+            "number": 2,
+            "text": "후후, 이렇게 많이 모여주다니,\n기뻐."
+        },
+        {
+            "supportCardId": "s_card-3-0048",
+            "number": 3,
+            "text": "제 차례, 이제 곧……\n음~! 두근두근거려요~!"
+        },
+        {
+            "supportCardId": "s_card-3-0049",
+            "number": 1,
+            "text": "우, 우으……무서워……"
+        },
+        {
+            "supportCardId": "s_card-3-0049",
+            "number": 2,
+            "text": "저기……혼자 설 수 있겠어요?"
+        },
+        {
+            "supportCardId": "s_card-3-0049",
+            "number": 3,
+            "text": "기, 기다려!\n나를 곁에서 떨어지지마!"
+        },
+        {
+            "supportCardId": "s_card-3-0050",
+            "number": 1,
+            "text": "오늘은 마음껏 놀자!"
+        },
+        {
+            "supportCardId": "s_card-3-0050",
+            "number": 2,
+            "text": "너무 세요~~~~!?"
+        },
+        {
+            "supportCardId": "s_card-3-0050",
+            "number": 3,
+            "text": "오오……우메, 나도 해줘."
+        },
+        {
+            "supportCardId": "s_card-3-0051",
+            "number": 1,
+            "text": "도와줘서 고마워, 아리무라 양.\n앞으로도 같이 열심히 하자!"
+        },
+        {
+            "supportCardId": "s_card-3-0051",
+            "number": 2,
+            "text": "그래. 저 벚꽃의 꽃이 다시 필 때 즈음에는,"
+        },
+        {
+            "supportCardId": "s_card-3-0051",
+            "number": 3,
+            "text": "우리들도, 분명――"
+        },
+        {
+            "supportCardId": "s_card-3-0052",
+            "number": 1,
+            "text": "자, 찍을 거야~!"
+        },
+        {
+            "supportCardId": "s_card-3-0052",
+            "number": 2,
+            "text": "합격 축하해, 우메!"
+        },
+        {
+            "supportCardId": "s_card-3-0052",
+            "number": 3,
+            "text": "좋아~ 보결 합격!\n이제 언니랑 같이 있을 수 있어!"
+        },
+        {
+            "supportCardId": "s_card-3-0053",
+            "number": 1,
+            "text": "다, 다음 번엔 절대 안 질거야!"
+        },
+        {
+            "supportCardId": "s_card-3-0053",
+            "number": 2,
+            "text": "후후, 얼마든지."
+        },
+        {
+            "supportCardId": "s_card-3-0053",
+            "number": 3,
+            "text": "얘들아, 슬슬 쉬지 않을래?"
+        },
+        {
+            "supportCardId": "s_card-3-0054",
+            "number": 1,
+            "text": "진심으로 간다……사키 쨩."
+        },
+        {
+            "supportCardId": "s_card-3-0054",
+            "number": 2,
+            "text": "얼마든지 덤벼 릴리야."
+        },
+        {
+            "supportCardId": "s_card-3-0054",
+            "number": 3,
+            "text": "상대하기에 부족함이 없어!"
+        },
+        {
+            "supportCardId": "s_card-3-0055",
+            "number": 1,
+            "text": "모처럼이니까,\n여기서 사진 찍지 않을래?"
+        },
+        {
+            "supportCardId": "s_card-3-0055",
+            "number": 2,
+            "text": "오, 좋네!\n입학 기념이네!"
+        },
+        {
+            "supportCardId": "s_card-3-0055",
+            "number": 3,
+            "text": "웃어웃어――찍는다, 치-즈♪"
+        },
+        {
+            "supportCardId": "s_card-3-0056",
+            "number": 1,
+            "text": "츠바메, 그 서류는, 내가 도와줄게."
+        },
+        {
+            "supportCardId": "s_card-3-0056",
+            "number": 2,
+            "text": "흥, 네 녀석 도움 같은 건 필요없다.\n일 할 준비나 해 놔라."
+        },
+        {
+            "supportCardId": "s_card-3-0056",
+            "number": 3,
+            "text": "……알았어.\n항상 고마워, 츠바메."
+        },
+        {
+            "supportCardId": "s_card-3-0057",
+            "number": 1,
+            "text": "친구라는 건,\n서로가 서로를 이용하는 거지."
+        },
+        {
+            "supportCardId": "s_card-3-0057",
+            "number": 2,
+            "text": "그런가아~?"
+        },
+        {
+            "supportCardId": "s_card-3-0057",
+            "number": 3,
+            "text": "괜찮지 않을까?\n그런 것도, 친구라는 걸로."
+        },
+        {
+            "supportCardId": "s_card-3-0058",
+            "number": 1,
+            "text": "우리 싸우는 중이거든……\n말 걸지 말아줄래?"
+        },
+        {
+            "supportCardId": "s_card-3-0058",
+            "number": 2,
+            "text": "그랬네요.\n그럼, 지금부터 혼잣말 할게요."
+        },
+        {
+            "supportCardId": "s_card-3-0058",
+            "number": 3,
+            "text": "3명이서 같이 라면\n먹으러 가던 게, 생각나서요,"
+        },
+        {
+            "supportCardId": "s_card-3-0059",
+            "number": 1,
+            "text": "게임에 너무 몰입하는 거 아냐?"
+        },
+        {
+            "supportCardId": "s_card-3-0059",
+            "number": 2,
+            "text": "자주 있는 일이잖아~, 우리 사이에는."
+        },
+        {
+            "supportCardId": "s_card-3-0059",
+            "number": 3,
+            "text": "테마리 쨩도,\n진심으로 싸워 주세요!"
+        },
+        {
+            "supportCardId": "s_card-3-0060",
+            "number": 1,
+            "text": "이거, 읽어줘. 부탁해."
+        },
+        {
+            "supportCardId": "s_card-3-0060",
+            "number": 2,
+            "text": "어디보자……하타야 미스즈 씨,\n친구분이 찾습니다?"
+        },
+        {
+            "supportCardId": "s_card-3-0060",
+            "number": 3,
+            "text": "……쿨."
+        },
+        {
+            "supportCardId": "s_card-3-0061",
+            "number": 1,
+            "text": "아리무라한테 어울리는 머리핀?"
+        },
+        {
+            "supportCardId": "s_card-3-0061",
+            "number": 2,
+            "text": "재밌는 의제네.\n나도 선물하게 해 주렴."
+        },
+        {
+            "supportCardId": "s_card-3-0061",
+            "number": 3,
+            "text": "나는, 고양이 머리핀이 좋을 것 같은데♪"
+        },
+        {
+            "supportCardId": "s_card-3-0062",
+            "number": 1,
+            "text": "으으~~! 몇 번을 해 봐도\n계산이 맞지를 않사와요……!"
+        },
+        {
+            "supportCardId": "s_card-3-0062",
+            "number": 2,
+            "text": "진정해라. 행이 밀려있지 않나!"
+        },
+        {
+            "supportCardId": "s_card-3-0062",
+            "number": 3,
+            "text": "흐에엑~~~~!\n모르겠사와요~~~~!?"
+        },
+        {
+            "supportCardId": "s_card-3-0063",
+            "number": 1,
+            "text": "얘, 얘가 부엉이\n인형이고――"
+        },
+        {
+            "supportCardId": "s_card-3-0063",
+            "number": 2,
+            "text": "어쩜! 너무 귀엽사와요!"
+        },
+        {
+            "supportCardId": "s_card-3-0063",
+            "number": 3,
+            "text": "요즘 인형들은 얼굴이 전부 귀엽다 보니까.\n나도 모르게 사버려……!"
+        },
+        {
+            "supportCardId": "s_card-3-0064",
+            "number": 1,
+            "text": "옳지옳지.\n착하지."
+        },
+        {
+            "supportCardId": "s_card-3-0064",
+            "number": 2,
+            "text": "리, 리나밍 선배……?"
+        },
+        {
+            "supportCardId": "s_card-3-0064",
+            "number": 3,
+            "text": "스미카쨩이 항상 열심히 하는 거,\n나는 잘 알고 있어."
+        },
+        {
+            "supportCardId": "s_card-3-0065",
+            "number": 1,
+            "text": "이번에는, 무슨 꿍꿍이인가요?"
+        },
+        {
+            "supportCardId": "s_card-3-0065",
+            "number": 2,
+            "text": "후지타 코토네의 유로 도시락\n서비스 되겠습니다-♪"
+        },
+        {
+            "supportCardId": "s_card-3-0065",
+            "number": 3,
+            "text": "테마리 도시락, 같이 만들래?"
+        },
+        {
+            "supportCardId": "s_card-3-0066",
+            "number": 1,
+            "text": "네 담당 프로듀서는,\n고생 깨나 하겠는걸."
+        },
+        {
+            "supportCardId": "s_card-3-0066",
+            "number": 2,
+            "text": "후후, 나는 시노사와 히로."
+        },
+        {
+            "supportCardId": "s_card-3-0066",
+            "number": 3,
+            "text": "턱걸이 아이돌을\n하고 있는 몸, 이거든."
+        },
+        {
+            "supportCardId": "s_card-3-0067",
+            "number": 1,
+            "text": "근사한 추억이 생겼네, 미스즈."
+        },
+        {
+            "supportCardId": "s_card-3-0067",
+            "number": 2,
+            "text": "네……후후……\n시노사와 양한테, 숨기기는 안 통하네요."
+        },
+        {
+            "supportCardId": "s_card-3-0067",
+            "number": 3,
+            "text": "(후후, 테마리한테 자랑해야지)"
+        },
+        {
+            "supportCardId": "s_card-3-0068",
+            "number": 1,
+            "text": "테마리, 채소도 밸런스 맞춰서 먹어!"
+        },
+        {
+            "supportCardId": "s_card-3-0068",
+            "number": 2,
+            "text": "……나도 알아.\n잠깐, 당근은 넣지 마!"
+        },
+        {
+            "supportCardId": "s_card-3-0068",
+            "number": 3,
+            "text": "편식은 몸에 안 좋다고-."
+        },
+        {
+            "supportCardId": "s_card-3-0069",
+            "number": 1,
+            "text": "무척 예쁘네!"
+        },
+        {
+            "supportCardId": "s_card-3-0069",
+            "number": 2,
+            "text": "네. 무척……예쁘네요."
+        },
+        {
+            "supportCardId": "s_card-3-0069",
+            "number": 3,
+            "text": "이 멤버로 불꽃놀이를 볼 수 있어서,\n정말 잘 됐다――"
+        },
+        {
+            "supportCardId": "s_card-3-0070",
+            "number": 1,
+            "text": "왜 런치타임에서 제일 바쁜\n타이밍에 오고 난리에요오오~?"
+        },
+        {
+            "supportCardId": "s_card-3-0070",
+            "number": 2,
+            "text": "점심 식사를 하러 왔으니까 그렇지."
+        },
+        {
+            "supportCardId": "s_card-3-0070",
+            "number": 3,
+            "text": "최소한 피크타임이 아닐 때\n와 달라고오오오오!"
+        },
+        {
+            "supportCardId": "s_card-3-0071",
+            "number": 1,
+            "text": "음, 다음은 아리무라 차례인가."
+        },
+        {
+            "supportCardId": "s_card-3-0071",
+            "number": 2,
+            "text": "이예-이, 분위기 띄워 보자-!"
+        },
+        {
+            "supportCardId": "s_card-3-0071",
+            "number": 3,
+            "text": "리나미, 오늘은 텐션이 높네……"
+        },
+        {
+            "supportCardId": "s_card-3-0072",
+            "number": 1,
+            "text": "큰일 날 뻔 했네, 치나. 다친 덴 없어?"
+        },
+        {
+            "supportCardId": "s_card-3-0072",
+            "number": 2,
+            "text": "감사합니다……!"
+        },
+        {
+            "supportCardId": "s_card-3-0072",
+            "number": 3,
+            "text": "후후, 가벼우니까,\n이대로 안아 들고 가 버릴까."
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 1,
+            "text": "피-스, 피----스."
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 2,
+            "text": "갸루 하면 교복으로 놀이공원.\n카츄샤, 그리고 양손에 피스."
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 3,
+            "text": "뭐야 그게~! 완전 깬다~!\n그거 편견 아냐~?"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 1,
+            "text": "이 잡지, 옛날 생각 나네."
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 2,
+            "text": "이번 달 호는, 츠무지 쨩의\n특집 기사가 실렸거든요!"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 3,
+            "text": "후후, 릴리야 쨩, 즐거워 보이네."
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 1,
+            "text": "잘 와 주셨습니다♪"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 2,
+            "text": "넓고 큰 집에 메이드씨까지――"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 3,
+            "text": "………………하와아아!\n드라마 세계같아~~~앗!"
+        },
+        {
+            "supportCardId": "s_card-3-0076",
+            "number": 1,
+            "text": "저, 저기, 그…… 알지?"
+        },
+        {
+            "supportCardId": "s_card-3-0076",
+            "number": 2,
+            "text": "후후. 아뇨, 모르겠는데요."
+        },
+        {
+            "supportCardId": "s_card-3-0076",
+            "number": 3,
+            "text": "(후후, 저 두 사람, 화해했구나)"
+        },
+        {
+            "supportCardId": "s_card-3-0077",
+            "number": 1,
+            "text": "후아아~…… 기분 좋네요~~♡"
+        },
+        {
+            "supportCardId": "s_card-3-0077",
+            "number": 2,
+            "text": "트레이닝 후에는,\n제대로 풀어 줘야지."
+        },
+        {
+            "supportCardId": "s_card-3-0077",
+            "number": 3,
+            "text": "이게 바로\n 자극이 팍팍 온다는 그거네요~!"
+        },
+        {
+            "supportCardId": "s_card-3-0078",
+            "number": 1,
+            "text": "훗후-, 다음 도전자는 누구냐-."
+        },
+        {
+            "supportCardId": "s_card-3-0078",
+            "number": 2,
+            "text": "내가 갈게. \n팔씨름은 조금 소양이 있어서 말이야."
+        },
+        {
+            "supportCardId": "s_card-3-0078",
+            "number": 3,
+            "text": "마오 선배, 지지 않을 거예요-."
+        },
+        {
+            "supportCardId": "s_card-3-0079",
+            "number": 1,
+            "text": "여기 있었나 하타야! \n왜 한가롭게 누워 있는 거냐!?"
+        },
+        {
+            "supportCardId": "s_card-3-0079",
+            "number": 2,
+            "text": "후아아…… 오늘도 낮잠 자기 좋은 날씨네요."
+        },
+        {
+            "supportCardId": "s_card-3-0079",
+            "number": 3,
+            "text": "정말이지…… 이런 곳에 있었구나."
+        },
+        {
+            "supportCardId": "s_card-3-0080",
+            "number": 1,
+            "text": "또, 또 떨어졌어……! \n한 번 더……!"
+        },
+        {
+            "supportCardId": "s_card-3-0080",
+            "number": 2,
+            "text": "리, 릴리야? \n슬슬 포기하는 게……"
+        },
+        {
+            "supportCardId": "s_card-3-0080",
+            "number": 3,
+            "text": "아직 돈은 있으니까 괜찮아!"
+        },
+        {
+            "supportCardId": "s_card-3-0081",
+            "number": 1,
+            "text": "니시시~♪ 볼 말랑말랑해~."
+        },
+        {
+            "supportCardId": "s_card-3-0081",
+            "number": 2,
+            "text": "으으음……"
+        },
+        {
+            "supportCardId": "s_card-3-0081",
+            "number": 3,
+            "text": "큰일이다, 깨워 버렸나!?"
+        },
+        {
+            "supportCardId": "s_card-3-0082",
+            "number": 1,
+            "text": "카, 카츠라기! 왜 여기 있는 거야!?"
+        },
+        {
+            "supportCardId": "s_card-3-0082",
+            "number": 2,
+            "text": "저, 저는…… 그게, 저……  \n츠바메 선배는요!?"
+        },
+        {
+            "supportCardId": "s_card-3-0082",
+            "number": 3,
+            "text": "아, 아니 나는…… 조금 말이지……"
+        },
+        {
+            "supportCardId": "s_card-3-0083",
+            "number": 1,
+            "text": "후아아……\n조금 낮잠 자고 올까요."
+        },
+        {
+            "supportCardId": "s_card-3-0083",
+            "number": 2,
+            "text": "어, 하타야 씨,\n어디 가는 걸까……?"
+        },
+        {
+            "supportCardId": "s_card-3-0083",
+            "number": 3,
+            "text": "설마…… 불량 학생은 아니겠지?"
+        },
+        {
+            "supportCardId": "s_card-3-0084",
+            "number": 1,
+            "text": "하나~의~꿈~♪"
+        },
+        {
+            "supportCardId": "s_card-3-0084",
+            "number": 2,
+            "text": "오오. 테마리, 역시."
+        },
+        {
+            "supportCardId": "s_card-3-0084",
+            "number": 3,
+            "text": "굉장히 잘하시어요~!"
+        },
+        {
+            "supportCardId": "s_card-3-0085",
+            "number": 1,
+            "text": "알겠나, 일절의 잡념을 버리고,\n정신을 통일하는 거다."
+        },
+        {
+            "supportCardId": "s_card-3-0085",
+            "number": 2,
+            "text": "아, 다리 저려~!?"
+        },
+        {
+            "supportCardId": "s_card-3-0085",
+            "number": 3,
+            "text": "우메, 집중하렴."
+        },
+        {
+            "supportCardId": "s_card-3-0086",
+            "number": 1,
+            "text": "어때? 완벽하지?"
+        },
+        {
+            "supportCardId": "s_card-3-0086",
+            "number": 2,
+            "text": "흥, 내가 본보기를 보여주지."
+        },
+        {
+            "supportCardId": "s_card-3-0086",
+            "number": 3,
+            "text": "그, 그건 너무 과한 거 아니니!?"
+        },
+        {
+            "supportCardId": "s_card-3-0087",
+            "number": 1,
+            "text": "음~ 이런 머리는 어때요?\n옆머리를 땋아서~"
+        },
+        {
+            "supportCardId": "s_card-3-0087",
+            "number": 2,
+            "text": "역시 코토네쨩이네.\n나도 지지 않을 거야~."
+        },
+        {
+            "supportCardId": "s_card-3-0087",
+            "number": 3,
+            "text": "너희들, 날 갖고 노는 거 아니야?"
+        },
+        {
+            "supportCardId": "s_card-3-0088",
+            "number": 1,
+            "text": "ㄱㅡ날의 일,\n기억하고 계시나요?"
+        },
+        {
+            "supportCardId": "s_card-3-0088",
+            "number": 2,
+            "text": "물론이지.\n아마 평생 잊지 못할 거야."
+        },
+        {
+            "supportCardId": "s_card-3-0088",
+            "number": 3,
+            "text": "저도요……\n계속, 계속 기억하고 있을 거예요."
+        },
+        {
+            "supportCardId": "s_card-3-0089",
+            "number": 1,
+            "text": "회장! 언니로서 \n도와주러 왔어!"
+        },
+        {
+            "supportCardId": "s_card-3-0089",
+            "number": 2,
+            "text": "여기 온 목적이, 그거 하나뿐일까?"
+        },
+        {
+            "supportCardId": "s_card-3-0089",
+            "number": 3,
+            "text": "우메를 프로듀스하는\n당신을 직접 확인하러 온 거야!"
+        },
+        {
+            "supportCardId": "s_card-3-0090",
+            "number": 1,
+            "text": "고양이 토라 쨩, 찾았다-."
+        },
+        {
+            "supportCardId": "s_card-3-0090",
+            "number": 2,
+            "text": "이리오렴. 나오렴."
+        },
+        {
+            "supportCardId": "s_card-3-0090",
+            "number": 3,
+            "text": "……거기서, 뭐 해?"
+        },
+        {
+            "supportCardId": "s_card-3-0091",
+            "number": 1,
+            "text": "어라라~?\n둘 다 고통스러워하고 있네요~?"
+        },
+        {
+            "supportCardId": "s_card-3-0091",
+            "number": 2,
+            "text": "이 정도, 시, 시지 않거든!"
+        },
+        {
+            "supportCardId": "s_card-3-0091",
+            "number": 3,
+            "text": "저도……맵, 맵지 않아요."
+        },
+        {
+            "supportCardId": "s_card-3-0092",
+            "number": 1,
+            "text": "잘 먹겠습니다아♪"
+        },
+        {
+            "supportCardId": "s_card-3-0092",
+            "number": 2,
+            "text": "아. 페이스트가, 없어졌어."
+        },
+        {
+            "supportCardId": "s_card-3-0092",
+            "number": 3,
+            "text": "꺅! 갑자기 말 걸면\n깜짝 놀라잖아!"
+        },
+        {
+            "supportCardId": "s_card-3-0093",
+            "number": 1,
+            "text": "릴리야!\n긴 여행 수고했어!"
+        },
+        {
+            "supportCardId": "s_card-3-0093",
+            "number": 2,
+            "text": "스미카 짱!\n수험, 열심히 하자!"
+        },
+        {
+            "supportCardId": "s_card-3-0093",
+            "number": 3,
+            "text": "응!\n반드시 합격할 거야~!"
+        },
+        {
+            "supportCardId": "s_card-3-0094",
+            "number": 1,
+            "text": "부회장~~!!"
+        },
+        {
+            "supportCardId": "s_card-3-0094",
+            "number": 2,
+            "text": "이 목소리는, 하나미……위다!?"
+        },
+        {
+            "supportCardId": "s_card-3-0094",
+            "number": 3,
+            "text": "비켜주세요~~~!!!!!"
+        },
+        {
+            "supportCardId": "s_card-3-0095",
+            "number": 1,
+            "text": "치나 짱, 뭐 들고 있는 거야!?"
+        },
+        {
+            "supportCardId": "s_card-3-0095",
+            "number": 2,
+            "text": "타코야키 재료예요!"
+        },
+        {
+            "supportCardId": "s_card-3-0095",
+            "number": 3,
+            "text": "뭐……\n멋진 타코야키가 될 것 같네요."
+        },
+        {
+            "supportCardId": "s_card-3-0096",
+            "number": 1,
+            "text": "이렇게 나들이하는 건,\n오랜만이네요."
+        },
+        {
+            "supportCardId": "s_card-3-0096",
+            "number": 2,
+            "text": "미스즈, 평소보다 텐션 높은 거야?"
+        },
+        {
+            "supportCardId": "s_card-3-0096",
+            "number": 3,
+            "text": "정말, 기대하고 있었거든요."
+        },
+        {
+            "supportCardId": "s_card-3-0097",
+            "number": 1,
+            "text": "……매번 매번, 시끄러운 축제."
+        },
+        {
+            "supportCardId": "s_card-3-0097",
+            "number": 2,
+            "text": "(꿈이 시작된 장소, 인가)"
+        },
+        {
+            "supportCardId": "s_card-3-0097",
+            "number": 3,
+            "text": "흥…… 잘도 하네."
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 1,
+            "text": "드디어 운동회, 메인이네."
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 2,
+            "text": "하츠보시 학원의 운동회는, 운동신경이나\n체력만으로 이길 수 있을 만큼 쉽지 않단다."
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 3,
+            "text": "백전백승, 일의전심, 용왕매진……\n온 힘을 다해서 승리를 붙잡으러 가자!"
+        },
+        {
+            "supportCardId": "s_card-3-0100",
+            "number": 1,
+            "text": "꽤 수준 높은 레슨이네.\n감탄하게 돼♪"
+        },
+        {
+            "supportCardId": "s_card-3-0100",
+            "number": 2,
+            "text": "학생들은 성장하고 있다.\n우리도 따라가야 한다!"
+        },
+        {
+            "supportCardId": "s_card-3-0100",
+            "number": 3,
+            "text": "그렇죠.\n학생들을 잘 뒷받침할 수 있도록요!"
+        },
+        {
+            "supportCardId": "s_card-3-0101",
+            "number": 1,
+            "text": "（어머~? 말도 안 돼,\n저 애도 같은 사람을 좋아하는 거야!?）"
+        },
+        {
+            "supportCardId": "s_card-3-0101",
+            "number": 2,
+            "text": "（우와, 뒷내용이 궁금해~!）"
+        },
+        {
+            "supportCardId": "s_card-3-0101",
+            "number": 3,
+            "text": "（저 배우 씨,\n예전에 함께 출연한 적 있는 분이야……）"
+        },
+        {
+            "supportCardId": "s_card-3-0102",
+            "number": 1,
+            "text": "테마리's 어묵탕, 한 그릇 완성~♪"
+        },
+        {
+            "supportCardId": "s_card-3-0102",
+            "number": 2,
+            "text": "대박이야~!　재료가 엄청 많다!"
+        },
+        {
+            "supportCardId": "s_card-3-0102",
+            "number": 3,
+            "text": "이렇게 더운데 따끈따끈 어묵탕이라니\n……도전할 만하네."
+        },
+        {
+            "supportCardId": "s_card-3-0103",
+            "number": 1,
+            "text": "이 인트로…… 설마!?"
+        },
+        {
+            "supportCardId": "s_card-3-0103",
+            "number": 2,
+            "text": "드디어 왔어요~~~~!"
+        },
+        {
+            "supportCardId": "s_card-3-0103",
+            "number": 3,
+            "text": "오, 텐션 오르네."
+        },
+        {
+            "supportCardId": "s_card-3-0104",
+            "number": 1,
+            "text": "인터뷰, 잘 부탁드립니다."
+        },
+        {
+            "supportCardId": "s_card-3-0104",
+            "number": 2,
+            "text": "후후……의욕이 넘치는구나, 유우!"
+        },
+        {
+            "supportCardId": "s_card-3-0104",
+            "number": 3,
+            "text": "뭐, 일이니까요."
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 1,
+            "text": "이게 하츠보시의 『H.I.F』인가.\n보기 힘든 라이브가 아니면 좋겠군."
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 2,
+            "text": "후후…… 실력 좀 보죠."
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 3,
+            "text": "호오…… 재미있는 병아리들이 많군."
+        },
+        {
+            "supportCardId": "s_card-3-0106",
+            "number": 1,
+            "text": "음식 리포트도 힘내자, 테마리 쨩."
+        },
+        {
+            "supportCardId": "s_card-3-0106",
+            "number": 2,
+            "text": "네, 오늘은 일이니까요.\n제대로 먹겠습니다."
+        },
+        {
+            "supportCardId": "s_card-3-0106",
+            "number": 3,
+            "text": "으음~ 맛있어~♪"
+        },
+        {
+            "supportCardId": "s_card-3-0107",
+            "number": 1,
+            "text": "하얀 원피스를 입은 소녀가 둘."
+        },
+        {
+            "supportCardId": "s_card-3-0107",
+            "number": 2,
+            "text": "현실과 동떨어진 분위기라, 재밌어."
+        },
+        {
+            "supportCardId": "s_card-3-0107",
+            "number": 3,
+            "text": "소중한 여름의 추억이 될 것 같아요."
+        },
+        {
+            "supportCardId": "s_card-3-0108",
+            "number": 1,
+            "text": "멈춰!　시운!\n그 치마 길이는 대체 뭐냐!?"
+        },
+        {
+            "supportCardId": "s_card-3-0108",
+            "number": 2,
+            "text": "에~?\n이 정도는 평범한데요."
+        },
+        {
+            "supportCardId": "s_card-3-0108",
+            "number": 3,
+            "text": "그럴 리가 있나!\n내 교복 차림을 본받아라!"
+        }
+    ]
+}

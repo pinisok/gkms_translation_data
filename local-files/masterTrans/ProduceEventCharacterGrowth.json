@@ -1,0 +1,244 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "characterId",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "characterId": "amao",
+            "number": 1,
+            "title": "새로운 나",
+            "description": "비주얼 300 이상"
+        },
+        {
+            "characterId": "amao",
+            "number": 2,
+            "title": "성장 가능성의 증거",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "amao",
+            "number": 3,
+            "title": "이상에 더 가까이",
+            "description": "비주얼 1000 이상"
+        },
+        {
+            "characterId": "atbm",
+            "number": 1,
+            "title": "단점을 무기로",
+            "description": "비주얼 300 이상"
+        },
+        {
+            "characterId": "atbm",
+            "number": 2,
+            "title": "안정된 실력",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "atbm",
+            "number": 3,
+            "title": "정점을 집어삼키는 힘",
+            "description": "댄스 1000 이상"
+        },
+        {
+            "characterId": "fktn",
+            "number": 1,
+            "title": "생활개선",
+            "description": "댄스300 이상"
+        },
+        {
+            "characterId": "fktn",
+            "number": 2,
+            "title": "재기발랄",
+            "description": "비주얼 450 이상"
+        },
+        {
+            "characterId": "fktn",
+            "number": 3,
+            "title": "믿음의 힘",
+            "description": "댄스 1000 이상"
+        },
+        {
+            "characterId": "hmsz",
+            "number": 1,
+            "title": "여유롭게",
+            "description": "보컬 300 이상"
+        },
+        {
+            "characterId": "hmsz",
+            "number": 2,
+            "title": "착실하게",
+            "description": "비주얼 450 이상"
+        },
+        {
+            "characterId": "hmsz",
+            "number": 3,
+            "title": "높은 곳으로",
+            "description": "보컬 1000 이상"
+        },
+        {
+            "characterId": "hrnm",
+            "number": 1,
+            "title": "3학년의 실력",
+            "description": "보컬 200 이상"
+        },
+        {
+            "characterId": "hrnm",
+            "number": 2,
+            "title": "한번 더 꿈을 붙잡기 위해",
+            "description": "댄스 450 이상"
+        },
+        {
+            "characterId": "hrnm",
+            "number": 3,
+            "title": "모두의 언니",
+            "description": "비주얼 1000 이상"
+        },
+        {
+            "characterId": "hski",
+            "number": 1,
+            "title": "확실한 한걸음",
+            "description": "댄스 200 이상"
+        },
+        {
+            "characterId": "hski",
+            "number": 2,
+            "title": "전력전진",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "hski",
+            "number": 3,
+            "title": "절대 지지않을 힘",
+            "description": "비주얼 900 이상"
+        },
+        {
+            "characterId": "hume",
+            "number": 1,
+            "title": "마이너스에서 시작",
+            "description": "댄스300 이상"
+        },
+        {
+            "characterId": "hume",
+            "number": 2,
+            "title": "알 수 없는 재능",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "hume",
+            "number": 3,
+            "title": "폭탄",
+            "description": "댄스 1000 이상"
+        },
+        {
+            "characterId": "jsna",
+            "number": 1,
+            "title": "재시작",
+            "description": "댄스 200 이상"
+        },
+        {
+            "characterId": "jsna",
+            "number": 2,
+            "title": "매진하는 엘리트",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "jsna",
+            "number": 3,
+            "title": "광휘찬연",
+            "description": "비주얼 900 이상"
+        },
+        {
+            "characterId": "kcna",
+            "number": 1,
+            "title": "첫걸음",
+            "description": "보컬 200 이상"
+        },
+        {
+            "characterId": "kcna",
+            "number": 2,
+            "title": "깜찍발랄의 힘",
+            "description": "비주얼 450 이상"
+        },
+        {
+            "characterId": "kcna",
+            "number": 3,
+            "title": "꿈으로의 한걸음",
+            "description": "댄스 1000 이상"
+        },
+        {
+            "characterId": "kllj",
+            "number": 1,
+            "title": "한 걸음씩 조금씩",
+            "description": "댄스 200 이상"
+        },
+        {
+            "characterId": "kllj",
+            "number": 2,
+            "title": "전하기 위한 힘",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "kllj",
+            "number": 3,
+            "title": "이상적인 모습",
+            "description": "비주얼 1000 이상"
+        },
+        {
+            "characterId": "shro",
+            "number": 1,
+            "title": "필요했던 기초력",
+            "description": "보컬 300 이상"
+        },
+        {
+            "characterId": "shro",
+            "number": 2,
+            "title": "춤 출 체력",
+            "description": "댄스 450 이상"
+        },
+        {
+            "characterId": "shro",
+            "number": 3,
+            "title": "노래할 힘",
+            "description": "보컬 1000 이상"
+        },
+        {
+            "characterId": "ssmk",
+            "number": 1,
+            "title": "전진을 위한 1보",
+            "description": "댄스300 이상"
+        },
+        {
+            "characterId": "ssmk",
+            "number": 2,
+            "title": "세련된 미소",
+            "description": "비주얼 450 이상"
+        },
+        {
+            "characterId": "ssmk",
+            "number": 3,
+            "title": "한번 더, 춤추다",
+            "description": "댄스 1000 이상"
+        },
+        {
+            "characterId": "ttmr",
+            "number": 1,
+            "title": "실력발휘",
+            "description": "보컬 200 이상"
+        },
+        {
+            "characterId": "ttmr",
+            "number": 2,
+            "title": "약점극복",
+            "description": "댄스 450 이상"
+        },
+        {
+            "characterId": "ttmr",
+            "number": 3,
+            "title": "한계 돌파",
+            "description": "보컬 1000 이상"
+        }
+    ]
+}

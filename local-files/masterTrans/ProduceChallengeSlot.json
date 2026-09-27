@@ -1,0 +1,335 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "produceId",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「하지메」 : 마스터의 최종 시험에서 1위 달성"
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「하지메」 : 마스터에서 프로듀스 평가 S를 획득"
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-006",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-006",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-006",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「하지메」 : 마스터의 최종 시험에서 1위 달성"
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「하지메」 : 마스터에서 프로듀스 평가 S를 획득"
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-006",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-006",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-006",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「하지메」 : 마스터의 최종 시험에서 1위 달성"
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「하지메」 : 마스터에서 프로듀스 평가 S를 획득"
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-006",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-006",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-006",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「하지메」 : 마스터의 최종 시험에서 1위 달성"
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「하지메」 : 마스터에서 프로듀스 평가 S를 획득"
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-006",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-006",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-006",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「하지메」 : 마스터의 최종 시험에서 1위 달성"
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「하지메」 : 마스터에서 프로듀스 평가 S를 획득"
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-006",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-006",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-006",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「하지메」 : 마스터의 최종 시험에서 1위 달성"
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「하지메」 : 마스터에서 프로듀스 평가 S를 획득"
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-006",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-006",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-006",
+            "number": 3,
+            "unlockDescription": ""
+        }
+    ]
+}

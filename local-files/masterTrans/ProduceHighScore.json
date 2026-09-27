@@ -1,0 +1,85 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "highscore-event-001",
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "id": "highscore-event-002",
+            "name": "하이스코어 이벤트"
+        },
+        {
+            "id": "highscore-event-003",
+            "name": "하이스코어 이벤트"
+        },
+        {
+            "id": "highscore-event-004",
+            "name": "하이스코어 이벤트"
+        },
+        {
+            "id": "highscorerush-event-001",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "highscorerush-event-002",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-003",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-004",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-005",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-006",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-007",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-008",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-009",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-010",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-011",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-012",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-013",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-014",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "highscorerush-event-015",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "memory_gift-20251116-kcna",
+            "name": "메모리 「학원 생활 쿠라모토 치나」"
+        },
+        {
+            "id": "memory_gift-20251116-shro",
+            "name": "메모리 「학원 생활 시노사와 히로」"
+        },
+        {
+            "id": "memory_gift-20260516-beginner-plan1-1",
+            "name": "초심자 응원 메모리 (하이터치)"
+        },
+        {
+            "id": "memory_gift-20260516-beginner-plan1-2",
+            "name": "초심자 응원 메모리 (토크 타임)"
+        },
+        {
+            "id": "memory_gift-20260516-beginner-plan2-1",
+            "name": "초심자 응원 메모리 (손뼉)"
+        },
+        {
+            "id": "memory_gift-20260516-beginner-plan2-2",
+            "name": "초심자 응원 메모리 (활기찬 인사)"
+        },
+        {
+            "id": "memory_gift-20260516-beginner-plan3-1",
+            "name": "초심자 응원 메모리 (스타라이트)"
+        },
+        {
+            "id": "memory_gift-20260516-beginner-plan3-2",
+            "name": "초심자 응원 메모리 (차곡차곡)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan1-1",
+            "name": "H.I.F 응원 메모리 (슈프레히콜+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan1-2",
+            "name": "H.I.F 응원 메모리 (존재감+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan2-1",
+            "name": "H.I.F 응원 메모리 (모두가 좋아해+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan2-2",
+            "name": "H.I.F 응원 메모리 (소녀심+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan2-3",
+            "name": "H.I.F 응원 메모리 (반짝반짝 꽃가루+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan2-4",
+            "name": "H.I.F 응원 메모리 (두근두근이 멈추지 않아+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan3-1",
+            "name": "H.I.F 응원 메모리 (역전+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan3-2",
+            "name": "H.I.F 응원 메모리 (시작의 미소+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan3-3",
+            "name": "H.I.F 응원 메모리 (차곡차곡+)"
+        },
+        {
+            "id": "memory_gift-20260516-hif-plan3-4",
+            "name": "H.I.F 응원 메모리 (모티베+)"
+        },
+        {
+            "id": "memory_gift-fktn",
+            "name": "첫 라이브"
+        },
+        {
+            "id": "memory_gift-hski",
+            "name": "첫 라이브"
+        },
+        {
+            "id": "memory_gift-ttmr",
+            "name": "첫 라이브"
+        }
+    ]
+}

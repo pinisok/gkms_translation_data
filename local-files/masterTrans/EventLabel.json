@@ -1,0 +1,61 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "eventType"
+        ]
+    },
+    "data": [
+        {
+            "eventType": "EventType_MissionDailyRelease",
+            "name": "특별 미션"
+        },
+        {
+            "eventType": "EventType_MissionPanel",
+            "name": "패널 미션"
+        },
+        {
+            "eventType": "EventType_ProduceHighScore",
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "eventType": "EventType_StoryCampaign",
+            "name": "커뮤니티 무료 개방 중"
+        },
+        {
+            "eventType": "EventType_StoryEvent",
+            "name": "스토리"
+        },
+        {
+            "eventType": "EventType_StoryEventMainStory",
+            "name": "하츠보시\\n커뮤"
+        },
+        {
+            "eventType": "EventType_StoryEventBoxGasha",
+            "name": "스토리"
+        },
+        {
+            "eventType": "EventType_StoryEventGuildMission",
+            "name": "스토리"
+        },
+        {
+            "eventType": "EventType_GvgRaid",
+            "name": "지방행각"
+        },
+        {
+            "eventType": "EventType_DearnessBoost",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "eventType": "EventType_Tour",
+            "name": "시즌"
+        },
+        {
+            "eventType": "EventType_Research",
+            "name": "아사리 선생님의 프로듀스 세미나"
+        },
+        {
+            "eventType": 13,
+            "name": "추억 의상"
+        }
+    ]
+}

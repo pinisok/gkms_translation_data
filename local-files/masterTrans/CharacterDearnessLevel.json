@@ -1,0 +1,2265 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "characterId",
+            "dearnessLevel"
+        ]
+    },
+    "data": [
+        {
+            "characterId": "amao",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「멋짐만 있는 게 아니야」를 획득"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "아리무라 마오의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「학원 No.2」의 실력을 획득한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 댄스를 800 이상으로 만든다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "아마야 츠바메의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「아이돌 적정성 S」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 댄스를 800 이상으로 만든다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "후지타 코토네의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "fktn",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「오늘은 흐린 하늘」을 획득"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "하타야 미스즈의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적「흘러넘치는 마음」을 획득"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 비주얼을 800 이상으로 만든다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "히메사키 리나미의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「합격은 당연하다」를 획득"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "하나미 사키의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「언니를 향한 도전」을 획득"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "하나미 우메의 친밀도 TOP으로 이동"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「쌓아 온 것들」을 획득"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 비주얼을 900 이상으로 만든다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "주오 세나의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "jsna",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「원기일점 돌파」를 획득"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 댄스를 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "쿠라모토 치나의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "kcna",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「미소 연습」을 획득"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "카츠라기 릴리야의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "kllj",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「재능 없이도 할 수 있는 것」을 획득한 상태에서 프로듀스 중간시험을 통과한다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "시노사와 히로의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "shro",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「진심을 내면」을 획득"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 댄스를 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "시운 스미카의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "ssmk",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「타협은 없다」를 획득"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "츠키무라 테마리의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        }
+    ]
+}

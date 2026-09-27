@@ -1,0 +1,41 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "photo_background-danceroom-01",
+            "name": "댄스 레슨실"
+        },
+        {
+            "id": "photo_background-hotspring-01",
+            "name": "하츠보시 온천"
+        },
+        {
+            "id": "photo_background-riverbed",
+            "name": "둔치"
+        },
+        {
+            "id": "photo_background-rooftop-01",
+            "name": "본교 건물 옥상"
+        },
+        {
+            "id": "photo_background-seaside",
+            "name": "스튜디오(해변)"
+        },
+        {
+            "id": "photo_background-visualroom-01",
+            "name": "비주얼 레슨실"
+        },
+        {
+            "id": "photo_background-vocalroom-01",
+            "name": "보컬 레슨실"
+        },
+        {
+            "id": "photo_photobooth-01",
+            "name": "애니메이트"
+        }
+    ]
+}

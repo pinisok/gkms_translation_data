@@ -1,0 +1,1069 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "dearness_normal-mission_amao_01",
+            "name": "아이돌 미션 마오"
+        },
+        {
+            "id": "dearness_normal-mission_atbm_01",
+            "name": "아이돌 미션 츠바메"
+        },
+        {
+            "id": "dearness_normal-mission_fktn_01",
+            "name": "아이돌 미션 코토네"
+        },
+        {
+            "id": "dearness_normal-mission_hmsz_01",
+            "name": "아이돌 미션 미스즈"
+        },
+        {
+            "id": "dearness_normal-mission_hrnm_01",
+            "name": "아이돌 미션 리나미"
+        },
+        {
+            "id": "dearness_normal-mission_hski_01",
+            "name": "아이돌 미션 사키"
+        },
+        {
+            "id": "dearness_normal-mission_hume_01",
+            "name": "아이돌 미션 우메"
+        },
+        {
+            "id": "dearness_normal-mission_jsna_01",
+            "name": "아이돌 미션 세나"
+        },
+        {
+            "id": "dearness_normal-mission_kcna_01",
+            "name": "아이돌 미션 치나"
+        },
+        {
+            "id": "dearness_normal-mission_kllj_01",
+            "name": "아이돌 미션 릴리야"
+        },
+        {
+            "id": "dearness_normal-mission_shro_01",
+            "name": "아이돌 미션 히로"
+        },
+        {
+            "id": "dearness_normal-mission_ssmk_01",
+            "name": "아이돌 미션 스미카"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr_01",
+            "name": "아이돌 미션 테마리"
+        },
+        {
+            "id": "dearness_panel-mission_amao_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_atbm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_fktn_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_hmsz_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_hrnm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_hski_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_hume_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_jsna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_kcna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_kllj_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_amao_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_fktn_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_hmsz_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_hrnm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_hski_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_hume_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_jsna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_kcna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_kllj_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_shro_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_ssmk_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_ttmr_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_shro_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_ssmk_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_ttmr_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "grade_mission-001-group_1",
+            "name": "P 평가 랭크 업적 미션"
+        },
+        {
+            "id": "limited-time-mission-001-group_1",
+            "name": "H.I.F 개막 기념! 기간 한정 미션 (~2026/6/15 10:59)"
+        },
+        {
+            "id": "mission_group-daily-001",
+            "name": "데일리 미션"
+        },
+        {
+            "id": "mission_group-release_memorial_1",
+            "name": "입학 기념 미션 1일째"
+        },
+        {
+            "id": "mission_group-release_memorial_2",
+            "name": "입학 기념 미션 2일째"
+        },
+        {
+            "id": "mission_group-release_memorial_3",
+            "name": "입학 기념 미션 3일째"
+        },
+        {
+            "id": "mission_group-release_memorial_4",
+            "name": "입학 기념 미션 4일째"
+        },
+        {
+            "id": "mission_group-release_memorial_5",
+            "name": "입학 기념 미션 5일째"
+        },
+        {
+            "id": "mission_group-release_memorial_6",
+            "name": "입학 기념 미션 6일째"
+        },
+        {
+            "id": "mission_group-release_memorial_7",
+            "name": "입학 기념 미션 7일째"
+        },
+        {
+            "id": "mission_group-weekly-001",
+            "name": "주간 미션"
+        },
+        {
+            "id": "mission-continuous-gasha-mission_001",
+            "name": "TVCM 방영 기념 미션 (~2026/2/1 4:59)"
+        },
+        {
+            "id": "mission-group-april-event-001",
+            "name": "스페셜 이벤트 미션 001"
+        },
+        {
+            "id": "mission-group-box-gasha-event-001",
+            "name": "박스 스토리 이벤트 미션 001"
+        },
+        {
+            "id": "mission-group-box-gasha-event-002",
+            "name": "박스 스토리 이벤트 미션 002"
+        },
+        {
+            "id": "mission-group-box-gasha-event-003",
+            "name": "할로윈 광소곡"
+        },
+        {
+            "id": "mission-group-box-gasha-event-004",
+            "name": "케이크가 맺어준 우정의 크리스마스"
+        },
+        {
+            "id": "mission-group-box-gasha-event-005",
+            "name": "발렌타인 협주곡"
+        },
+        {
+            "id": "mission-group-box-gasha-event-006",
+            "name": "토리카에바 하나마츠리"
+        },
+        {
+            "id": "mission-group-box-gasha-event-007",
+            "name": "벚꽃 흩날리는 스타트라인"
+        },
+        {
+            "id": "mission-group-box-gasha-event-015",
+            "name": "박스 스토리 이벤트 미션 008"
+        },
+        {
+            "id": "mission-group-box-gasha-event-019",
+            "name": "라이브 투어 이벤트 나고야 편"
+        },
+        {
+            "id": "mission-group-box-gasha-event-020",
+            "name": "라이브 투어 이벤트 특별편　GO MY WAY!!"
+        },
+        {
+            "id": "mission-group-box-gasha-event-021",
+            "name": "여름바람 원피스"
+        },
+        {
+            "id": "mission-group-circle-battle-event-001",
+            "name": "#애니메이트 응원단"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_1",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_2",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_3",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_4",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_5",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_6",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_001_7",
+            "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_1",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_2",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_3",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_4",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_5",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_6",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_7",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_1",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_2",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_3",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_4",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_5",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_6",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-daily_mission_NIA_clear_7",
+            "name": "NIA 클리어 미션 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-001",
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "id": "mission-group-highscore-event-001_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "id": "mission-group-highscore-event-002",
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "id": "mission-group-highscore-event-002_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "id": "mission-group-highscore-event-003_1",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-003_2",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-003_3",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-003_4",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-003_5",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-004_1",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-004_2",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-004_3",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-004_4",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscore-event-004_5",
+            "name": "아이돌 강화 월간 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-001_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "mission-group-highscorerush-event-001_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "mission-group-highscorerush-event-001_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "mission-group-highscorerush-event-001_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "mission-group-highscorerush-event-001_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달·개"
+        },
+        {
+            "id": "mission-group-highscorerush-event-002_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-002_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-002_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-002_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-002_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-003_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-003_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-003_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-003_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-003_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-004_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-004_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-004_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-004_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-004_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-005_1",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-005_2",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-005_3",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-005_4",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-005_5",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_1",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_2",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_3",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_4",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_5",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-007_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-007_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-007_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-007_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-007_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_1",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_2",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_3",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_4",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_5",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-009_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-009_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-009_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-009_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-009_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-013_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-013_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-013_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-013_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-013_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_1",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_2",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_3",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_4",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_5",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-main-story-event-001_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-001_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-001_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-001_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-001_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-002_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-002_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-002_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-002_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-002_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-003_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-003_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-003_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-003_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-003_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-004_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-004_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-004_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-004_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-004_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-005_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-005_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-005_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-005_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-005_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-006_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-006_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-006_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-006_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-006_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-007_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-007_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-007_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-007_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-007_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-008_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-008_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-008_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-008_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-008_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-009_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-009_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-009_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-009_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-009_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-010_1",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-010_2",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-010_3",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-010_4",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-main-story-event-010_5",
+            "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-mission_HIF_clear_1",
+            "name": "HIF 클리어 미션"
+        },
+        {
+            "id": "mission-group-panel-mission-01",
+            "name": "제1회 패널미션 시트 1"
+        },
+        {
+            "id": "mission-group-panel-mission-02",
+            "name": "제1회 패널미션 시트 2"
+        },
+        {
+            "id": "mission-group-research-event-001",
+            "name": "아사리 세미나 001"
+        },
+        {
+            "id": "mission-group-research-event-002",
+            "name": "아사리 세미나 002"
+        },
+        {
+            "id": "mission-group-research-event-003",
+            "name": "아사리 세미나 003"
+        },
+        {
+            "id": "mission-group-research-event-004",
+            "name": "아사리 세미나 004"
+        },
+        {
+            "id": "mission-group-research-event-005",
+            "name": "아사리 세미나 005"
+        },
+        {
+            "id": "mission-group-research-event-006",
+            "name": "아사리 세미나 006"
+        },
+        {
+            "id": "mission-group-research-event-007",
+            "name": "아사리 세미나 007"
+        },
+        {
+            "id": "mission-group-story-event-001",
+            "name": "1학년 1반의 아이돌들"
+        },
+        {
+            "id": "mission-group-story-event-002",
+            "name": "스토리 이벤트 미션 002"
+        },
+        {
+            "id": "mission-group-story-event-003",
+            "name": "스토리 이벤트 미션 003"
+        },
+        {
+            "id": "mission-group-story-event-004",
+            "name": "스토리 이벤트 미션 004"
+        },
+        {
+            "id": "mission-group-story-event-006",
+            "name": "스토리 이벤트 미션 006"
+        },
+        {
+            "id": "mission-group-story-event-007",
+            "name": "스토리 이벤트 미션 007"
+        },
+        {
+            "id": "mission-group-story-event-008",
+            "name": "스토리 이벤트 미션 008"
+        },
+        {
+            "id": "mission-group-story-event-009",
+            "name": "스토리 이벤트 미션 009"
+        },
+        {
+            "id": "mission-group-story-event-010",
+            "name": "스토리 이벤트 미션 010"
+        },
+        {
+            "id": "mission-group-story-event-011",
+            "name": "스토리 이벤트 미션 011"
+        },
+        {
+            "id": "mission-group-story-event-012",
+            "name": "스토리 이벤트 미션 012"
+        },
+        {
+            "id": "mission-group-story-event-013",
+            "name": "스토리 이벤트 미션 013"
+        },
+        {
+            "id": "mission-group-story-event-014",
+            "name": "스토리 이벤트 미션 014"
+        },
+        {
+            "id": "mission-group-tour-event-001",
+            "name": "투어 이벤트 미션 001"
+        },
+        {
+            "id": "mission-group-tour-event-002",
+            "name": "투어 이벤트 미션 002"
+        },
+        {
+            "id": "panel_mission-event-002-group_1",
+            "name": "제2회 패널미션 시트 1"
+        },
+        {
+            "id": "panel_mission-event-002-group_2",
+            "name": "제2회 패널미션 시트 2"
+        },
+        {
+            "id": "panel_mission-event-003-group_1",
+            "name": "150만 DL 기념 패널 미션"
+        },
+        {
+            "id": "panel_mission-event-004-group_1",
+            "name": "제3회 패널미션 시트 1"
+        },
+        {
+            "id": "panel_mission-event-004-group_2",
+            "name": "제3회 패널미션 시트 2"
+        },
+        {
+            "id": "panel_mission-event-006-group_1",
+            "name": "제4회 패널미션 시트 1"
+        },
+        {
+            "id": "panel_mission-event-006-group_2",
+            "name": "제4회 패널미션 시트 2"
+        },
+        {
+            "id": "panel_mission-event-007-group_1",
+            "name": "패널 미션 그룹 1"
+        },
+        {
+            "id": "panel_mission-event-007-group_2",
+            "name": "패널 미션 그룹 2"
+        },
+        {
+            "id": "panel_mission-event-008-group_1",
+            "name": "패널 미션 그룹 1"
+        },
+        {
+            "id": "panel_mission-event-008-group_2",
+            "name": "패널 미션 그룹 2"
+        },
+        {
+            "id": "panel_mission-event-009-group_1",
+            "name": "패널 미션 그룹 1"
+        },
+        {
+            "id": "panel_mission-event-009-group_2",
+            "name": "패널 미션 그룹 2"
+        },
+        {
+            "id": "panel_mission-event-010-group_1",
+            "name": "패널 미션 그룹 1"
+        },
+        {
+            "id": "panel_mission-event-010-group_2",
+            "name": "패널 미션 그룹 2"
+        },
+        {
+            "id": "panel_mission-event-011-group_1",
+            "name": "패널 미션 그룹 1"
+        },
+        {
+            "id": "panel_mission-event-niv-group_1",
+            "name": "주오 쿠니오의 챌린지 미션 ~A+로 가는 길~"
+        }
+    ]
+}

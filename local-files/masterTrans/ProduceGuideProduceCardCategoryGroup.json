@@ -1,0 +1,73 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "CardPlayAggressive_group_20",
+            "description": "『의욕 증가』 스킬 카드로 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "CardPlayAggressive_group_35",
+            "description": "『의욕 증가』 스킬 카드로 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_20",
+            "description": "『의욕 증가』를 중심으로 『호인상 증가』 스킬 카드도 함께 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_35",
+            "description": "『의욕 증가』를 중심으로 『호인상 증가』 스킬 카드도 함께 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "Concentration_group_20",
+            "description": "『강기 변경』과 『온존 변경』 스킬 카드를 균형있게 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "Concentration_group_35",
+            "description": "『강기 변경』과 『온존 변경』 스킬 카드를 균형있게 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "FullPower_group_20",
+            "description": "『전력치 증가』를 중심으로 『온존 변경』 스킬 카드도 함께 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "FullPower_group_35",
+            "description": "『전력치 증가』를 중심으로 『온존 변경』 스킬 카드도 함께 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "LessonBuff_group_20",
+            "description": "『집중 증가』나 『호조 증가』 스킬 카드를 균형있게 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "LessonBuff_group_35",
+            "description": "『집중 증가』나 『호조 증가』 스킬 카드를 균형있게 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "ParameterBuff_group_20",
+            "description": "『호조 증가』나 『집중 증가』 스킬 카드를 균형있게 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "ParameterBuff_group_35",
+            "description": "『호조 증가』나 『집중 증가』 스킬 카드를 균형있게 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_20",
+            "description": "『호인상 증가』를 중심으로 『의욕 증가』 스킬 카드도 함께 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_35",
+            "description": "『호인상 증가』를 중심으로 『의욕 증가』 스킬 카드도 함께 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "Review_group_20",
+            "description": "『호인상 증가』 스킬 카드로 구성하는 것을 추천합니다"
+        },
+        {
+            "id": "Review_group_35",
+            "description": "『호인상 증가』 스킬 카드로 구성하는 것을 추천합니다"
+        }
+    ]
+}

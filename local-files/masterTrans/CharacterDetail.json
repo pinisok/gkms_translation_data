@@ -1,0 +1,1097 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "characterId",
+            "type",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3학년"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "157"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "46"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "85/53/85"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "염소자리"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "나나세 츠무기"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "1월18일"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "효고현"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "격투기, 손재주가 좋음"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "사람 돌보기, 연극 보기"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "멋진 아이돌을 목표로 하는 몸집 작은3학년. 후배들에게 작은 왕자님으로 추앙받고 있다.\n어릴적부터 가극의 스타를 동경해, 아역배우로서 활약하고 있었지만,\n최근에는 그녀가 바라는 이상적인 모습과 신체 성장의 차이로 고민하고 있다."
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3학년"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "169"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "51"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "80/55/82"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "황소자리"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "아마네 유카리"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "5월20일"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "도쿄"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "비서 기능 전반, 수학, 서예"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "서예, 역사(일본사), 독서"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "156"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "40"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "O"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "75/55/75"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "황소자리"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "이이다 히카루"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "4월29일"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "사이타마현"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "댄스, 얼굴과 이름 기억하기"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "돈을 버는 것"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "「돈 잘 버는 아이돌」을 목표로 하는 분위기 메이커.\n중등부 출신 내부 진학조. 댄스에 재능이 많다.\n학원평가, 자기평가 모두 낮지만, 제 컨디션은 아닌 듯하다.\n많은 아르바이트를 겸직하고 있는 탓에 항상 피곤한 것 같다."
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "160"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "42"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "B"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "73/54/74"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "물병자리"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "하루사키 논"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "2월6일"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "교토부"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "요리, 꽃꽃이, 생체 시계가 정확"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "낮잠, 산책"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n츠키무라 테마리의 그늘에 가려져 다소 수수한 평가를 받았지만, 그 실력은 진짜다. 결점이 적은 완성된 아이돌이라는 인상. 한층 더 성장할 것도 기대할 수 있을 것이다."
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3학년"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "166"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "56"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "90/59/93"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "물고기자리"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "우스이 유리"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "3월5일"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "후쿠오카현"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "요리, 바느질·수공예"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "카페 돌아다니기, 화장품 모으기"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "어른스러운 분위기가 있는3학년. 남을 잘 돌봐주는 기숙생 모두의 언니.\n과거 유닛에 몸담았던 적도 있지만, 결과는 부진했다."
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "152"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "45"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "84/55/80 "
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "양자리"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "나가츠키 아오이"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "16"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "4월2일"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "왼손"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "아이치현"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "운동, 가사, 마사지"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "승부가 가능한 것"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "입학시험 수석 신입생. 악착스럽고 지기 싫어하는 전 운동선수.\n신체능력이 뛰어나 전교생 중 상위 10%에 들 정도.\n미경험자이지만, 이해력이 매우 좋고, 성장이 빠르다.\n이미 완성되고 있는 능력은, 큰 성장을 기대할 수 없어 보이기도 하는데……"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "158"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "50"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "AB"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "91/60/85"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "양자리"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "마츠다 아야네"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "4월1일"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "아이치현"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "스포츠, 마사지"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "언니와의 승부"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "보결 입학한 신입생\n활기 넘치고, 신체 능력이 뛰어난 전직 운동 선수"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3학년"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "170"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "54"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "88/56/86"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "궁수자리"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "히타카 마시로"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "12월7일"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "양손"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "도쿄"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "아이돌의 재능을 간파하기"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "레슨, 재능 있는 아이돌 찾기"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "하츠보시 학원의 학생회장이자, 지난 해의 『샛별』.\n『학원 최고의 아이돌』이라 불리며, 많은 학생들에게 존경받고 있다."
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "148"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "43"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "O"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "73/56/73"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "사자자리"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "이토 마오"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "8월1일"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "카나가와현"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "기운찬 인사, 동물들이 따르는 점"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "그림 그리기"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "응석받이로 자란 순수한 아가씨. 천진난만한 여자아이.\n「훌륭한 아이돌」을 꿈꾸며 하츠보시 학원에 입학했다."
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "161"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "43"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "B"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "82/53/80"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "사자자리"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "하나이와 카나"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "7월24일"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "스웨덴"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "과자 만들기, 게임"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "과자 만들기, 일본 애니"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "해외 출신 신입생.\n노래나 댄스 경험은 없고, 항상 자신 없는 듯 움츠러들어 있다.\n그다지 아이돌에 어울리지 않아 보이는데……"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "159"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "41"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "AB"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "72/54/76"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "궁수자리"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "카와무라 레이나"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "12월21일"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "왼손"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "아키타현"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "학업 전반, 물리, 수학, 퍼즐"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "서투른 분야에 도전하기, 관엽식물 기르기"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "14세에 대학을 졸업한 천재 소녀. 자세한 경력은 별도 표기.\n촉망받던 장래를 버리고 아이돌을 목표로 하는 이유는 불명.\n입학시험은 필기 만점, 실기0점. 학원장의 면접 평가는 우수하다고 한다."
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "168"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "54"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "O"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "89/58/85"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "전갈자리"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "미나토 미야"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "11월11일"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "왼손"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "훗카이도"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "몸이 유연하다"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "노래방, SNS"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "건강하고 밝고, 누구와도 친해질 수 있는 성격의 소녀.\n입학 전에는 발레로 세계적으로 활약한 실적도 있어, 기대받고 있었다.\n하지만 수업이나 레슨을 자주 빼먹고 있으며, 의욕이 없어 보인다."
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1학년"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "162"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "51"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "AB"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "82/58/86"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "쌍둥이자리"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "오지카 나오"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "6월3일"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "교토부"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "노래"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "맛있는거 먹기 (봉인 중)"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n1학년이지만, 이미 일선에 설 만한 가창력을 지녔다.\n품행에 문제 있음. 나쁜 소문 많음. 트러블 메이커."
+        }
+    ]
+}

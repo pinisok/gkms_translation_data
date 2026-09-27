@@ -1,0 +1,34 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "mainStoryPartId",
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-01",
+            "title": "1장",
+            "description": "처음 뵙겠습니다 하츠보시 학원"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-02",
+            "title": "2장",
+            "description": "아이돌들의 공동생활"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-03",
+            "title": "3장",
+            "description": "우리들은 Re;IRIS"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-04",
+            "title": "4장",
+            "description": "Hatsuboshi IDOL FESTIVAL"
+        }
+    ]
+}

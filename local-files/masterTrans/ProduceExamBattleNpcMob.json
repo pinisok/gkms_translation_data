@@ -1,0 +1,257 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "npc_andk",
+            "name": "아오이 나데시코"
+        },
+        {
+            "id": "npc_atbm",
+            "name": "아마야 츠바메"
+        },
+        {
+            "id": "npc_hif_border",
+            "name": "border"
+        },
+        {
+            "id": "npc_krnh",
+            "name": "카야 린하"
+        },
+        {
+            "id": "npc_mob-da-1",
+            "name": "시라사키 아이리"
+        },
+        {
+            "id": "npc_mob-da-2",
+            "name": "모리시타 호노카"
+        },
+        {
+            "id": "npc_mob-da-3",
+            "name": "시오이치 후우카"
+        },
+        {
+            "id": "npc_mob-da-4",
+            "name": "쿠가야마 유리"
+        },
+        {
+            "id": "npc_mob-da-5",
+            "name": "츠루비 유미"
+        },
+        {
+            "id": "npc_mob-da-6",
+            "name": "카자미야 스즈나"
+        },
+        {
+            "id": "npc_mob-vi-1",
+            "name": "아카바네 카오리"
+        },
+        {
+            "id": "npc_mob-vi-2",
+            "name": "하루노 시오리"
+        },
+        {
+            "id": "npc_mob-vi-3",
+            "name": "마에하라 마리나"
+        },
+        {
+            "id": "npc_mob-vi-4",
+            "name": "코엔지 레이"
+        },
+        {
+            "id": "npc_mob-vi-5",
+            "name": "하스다 나나"
+        },
+        {
+            "id": "npc_mob-vi-6",
+            "name": "미야가와 에나"
+        },
+        {
+            "id": "npc_mob-vo-1",
+            "name": "요츠야 릴리"
+        },
+        {
+            "id": "npc_mob-vo-2",
+            "name": "이시다 리나"
+        },
+        {
+            "id": "npc_mob-vo-3",
+            "name": "호소카와 시즈쿠"
+        },
+        {
+            "id": "npc_mob-vo-4",
+            "name": "하나오카 미야비"
+        },
+        {
+            "id": "npc_mob-vo-5",
+            "name": "미야지 코하루"
+        },
+        {
+            "id": "npc_mob-vo-6",
+            "name": "히가시다 유우미"
+        },
+        {
+            "id": "npc_mob-vo-7",
+            "name": "오기노 나노카"
+        },
+        {
+            "id": "npc_mob-vo-8",
+            "name": "나가모토 히나노"
+        },
+        {
+            "id": "npc_nia_01",
+            "name": "후유키 사라"
+        },
+        {
+            "id": "npc_nia_02",
+            "name": "후미즈키 미즈호"
+        },
+        {
+            "id": "npc_nia_03",
+            "name": "히무로 유즈키"
+        },
+        {
+            "id": "npc_nia_04",
+            "name": "츠루미 레이라"
+        },
+        {
+            "id": "npc_nia_05",
+            "name": "타카미야 미사"
+        },
+        {
+            "id": "npc_nia_06",
+            "name": "카모사와 히마리"
+        },
+        {
+            "id": "npc_nia_07",
+            "name": "쿠미가야 이치카"
+        },
+        {
+            "id": "npc_nia_08",
+            "name": "아리마 리온"
+        },
+        {
+            "id": "npc_nia_09",
+            "name": "카시마 메이"
+        },
+        {
+            "id": "npc_nia_10",
+            "name": "사메지마 카이유"
+        },
+        {
+            "id": "npc_nia_11",
+            "name": "하마무라 카나미"
+        },
+        {
+            "id": "npc_nia_12",
+            "name": "하노 란"
+        },
+        {
+            "id": "npc_nia_13",
+            "name": "미도리카와 후미"
+        },
+        {
+            "id": "npc_nia_14",
+            "name": "코노 미츠키"
+        },
+        {
+            "id": "npc_nia_15",
+            "name": "키노세 이리카"
+        },
+        {
+            "id": "npc_nia_16",
+            "name": "유키무라 리코"
+        },
+        {
+            "id": "npc_nia_17",
+            "name": "사가와 료카"
+        },
+        {
+            "id": "npc_nia_18",
+            "name": "히토야마 유나"
+        },
+        {
+            "id": "npc_nia_19",
+            "name": "카리스마 마호"
+        },
+        {
+            "id": "npc_nia_20",
+            "name": "이노마타 린코"
+        },
+        {
+            "id": "npc_nia_21",
+            "name": "우시지마 마키"
+        },
+        {
+            "id": "npc_nia_22",
+            "name": "아유카와 나나"
+        },
+        {
+            "id": "npc_nia_23",
+            "name": "나오나 마코"
+        },
+        {
+            "id": "npc_nia_24",
+            "name": "콘노 유카"
+        },
+        {
+            "id": "npc_nia_25",
+            "name": "카사다 카자코"
+        },
+        {
+            "id": "npc_rare-mob-da-1",
+            "name": "아카미 미즈키"
+        },
+        {
+            "id": "npc_rare-mob-da-2",
+            "name": "카자마 리온"
+        },
+        {
+            "id": "npc_rare-mob-vi-1",
+            "name": "칸자키 케이"
+        },
+        {
+            "id": "npc_rare-mob-vi-2",
+            "name": "카즈키 유리카"
+        },
+        {
+            "id": "npc_rare-mob-vo-1",
+            "name": "아마기 사쿠라"
+        },
+        {
+            "id": "npc_rare-mob-vo-2",
+            "name": "나루미 히카리"
+        },
+        {
+            "id": "npc_sgka",
+            "name": "시라쿠사 겟카"
+        },
+        {
+            "id": "npc_sson",
+            "name": "시라쿠사 시온"
+        },
+        {
+            "id": "npc_unite-mob_01",
+            "name": "PRINCESS DOMINION"
+        },
+        {
+            "id": "npc_unite-mob_02",
+            "name": "루미나리벨"
+        },
+        {
+            "id": "npc_unite-mob_03",
+            "name": "Nebula Note"
+        },
+        {
+            "id": "npc_unite-mob_04",
+            "name": "스위트♡루체"
+        },
+        {
+            "id": "npc_unite-mob_05",
+            "name": "캔디·리즈미카"
+        }
+    ]
+}

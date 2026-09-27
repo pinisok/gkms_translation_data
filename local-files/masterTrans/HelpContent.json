@@ -1,0 +1,1649 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "helpCategoryId",
+            "id",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "helpCategoryId": "help-achievement",
+            "id": "achievement-achievement",
+            "order": 1,
+            "name": "업적"
+        },
+        {
+            "helpCategoryId": "help-achievement",
+            "id": "achievement-idol",
+            "order": 2,
+            "name": "아이돌 업적"
+        },
+        {
+            "helpCategoryId": "help-achievement",
+            "id": "achievement-others",
+            "order": 4,
+            "name": "기타 업적"
+        },
+        {
+            "helpCategoryId": "help-achievement",
+            "id": "achievement-produce-achievement",
+            "order": 3,
+            "name": "프로듀스 업적"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event",
+            "order": 1,
+            "name": "스토리 이벤트"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-bonus",
+            "order": 3,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-finish",
+            "order": 8,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-gasha",
+            "order": 4,
+            "name": "이벤트 가챠"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-gasha-coin",
+            "order": 7,
+            "name": "이벤트 용 아이템"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-idol",
+            "order": 2,
+            "name": "이벤트 보상 프로듀스 아이돌"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-mission",
+            "order": 6,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-box-gasha-event",
+            "id": "box-gasha-event-story",
+            "order": 5,
+            "name": "이벤트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-exchange",
+            "order": 5,
+            "name": "지방행각메달"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-finish",
+            "order": 9,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-memory",
+            "order": 3,
+            "name": "편성"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-mission",
+            "order": 7,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-ranking",
+            "order": 8,
+            "name": "서클 랭킹"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-reward",
+            "order": 4,
+            "name": "이벤트 보상"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-rule",
+            "order": 1,
+            "name": "지방행각 이벤트"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-stage",
+            "order": 2,
+            "name": "스테이지"
+        },
+        {
+            "helpCategoryId": "help-circle-battle-event",
+            "id": "circle-battle-event-story",
+            "order": 6,
+            "name": "이벤트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-competition",
+            "order": 1,
+            "name": "링크 콘테스트"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-competition-ranking",
+            "order": 10,
+            "name": "링크 콘테스트 랭킹"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-grade",
+            "order": 8,
+            "name": "등급"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-preparation-period",
+            "order": 7,
+            "name": "개최 준비 기간"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rate-pt",
+            "order": 9,
+            "name": "마이 유닛"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rehearsal",
+            "order": 11,
+            "name": "리허설"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rule",
+            "order": 2,
+            "name": "링크 콘테스트 규칙"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-season",
+            "order": 6,
+            "name": "시즌"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-squad",
+            "order": 3,
+            "name": "편성"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-stage",
+            "order": 4,
+            "name": "스테이지"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-total",
+            "order": 5,
+            "name": "종합력"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-contest",
+            "order": 1,
+            "name": "콘테스트"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-contest-ranking",
+            "order": 10,
+            "name": "콘테스트 랭킹"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-grade",
+            "order": 8,
+            "name": "등급"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-myunit",
+            "order": 6,
+            "name": "마이 유닛"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-preparation-period",
+            "order": 7,
+            "name": "개최 준비 기간"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-rate-pt",
+            "order": 9,
+            "name": "레이트 Pt"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-rule",
+            "order": 2,
+            "name": "콘테스트 규칙"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-season",
+            "order": 6,
+            "name": "시즌"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-squad",
+            "order": 3,
+            "name": "편성"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-stage",
+            "order": 4,
+            "name": "스테이지"
+        },
+        {
+            "helpCategoryId": "help-contest",
+            "id": "contest-total",
+            "order": 5,
+            "name": "종합력"
+        },
+        {
+            "helpCategoryId": "help-dearness-doost-campaign",
+            "id": "help-dearness-doost-campaign-info",
+            "order": 57,
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "helpCategoryId": "help-dearness-map",
+            "id": "help-dearness-map-info",
+            "order": 56,
+            "name": "친애도 맵"
+        },
+        {
+            "helpCategoryId": "help-dearness-top",
+            "id": "help-dearness-top-info",
+            "order": 55,
+            "name": "친애도 TOP"
+        },
+        {
+            "helpCategoryId": "help-event_mission",
+            "id": "event_mission-event_mission",
+            "order": 1,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-event-mission",
+            "id": "event-mission-rookie",
+            "order": 1,
+            "name": "데일리 해금 미션"
+        },
+        {
+            "helpCategoryId": "help-gasha",
+            "id": "gasha-Gasha",
+            "order": 1,
+            "name": "가챠"
+        },
+        {
+            "helpCategoryId": "help-gasha",
+            "id": "gasha-gasha-pt",
+            "order": 2,
+            "name": "교환 Pt와 플라워"
+        },
+        {
+            "helpCategoryId": "help-grade-mission",
+            "id": "grade-mission",
+            "order": 65,
+            "name": "P 평가 랭크 업적"
+        },
+        {
+            "helpCategoryId": "help-guild",
+            "id": "guild-create",
+            "order": 2,
+            "name": "서클 설립"
+        },
+        {
+            "helpCategoryId": "help-guild",
+            "id": "guild-Guild",
+            "order": 1,
+            "name": "서클"
+        },
+        {
+            "helpCategoryId": "help-guild",
+            "id": "guild-join",
+            "order": 3,
+            "name": "서클 가입"
+        },
+        {
+            "helpCategoryId": "help-guild",
+            "id": "guild-leave",
+            "order": 6,
+            "name": "서클 탈퇴/제명"
+        },
+        {
+            "helpCategoryId": "help-guild",
+            "id": "guild-message-board",
+            "order": 4,
+            "name": "게시판"
+        },
+        {
+            "helpCategoryId": "help-guild",
+            "id": "guild-request",
+            "order": 5,
+            "name": "리퀘스트"
+        },
+        {
+            "helpCategoryId": "help-highscore",
+            "id": "highscore-highscore",
+            "order": 1,
+            "name": "주오 쿠니오의 아이돌 강화 월간 개요"
+        },
+        {
+            "helpCategoryId": "help-highscore",
+            "id": "highscore-ranking",
+            "order": 2,
+            "name": "하이 스코어 랭킹 유형"
+        },
+        {
+            "helpCategoryId": "help-highscore",
+            "id": "highscore-score_reward",
+            "order": 3,
+            "name": "하이 스코어 달성 보상"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-finish",
+            "order": 8,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-gasha",
+            "order": 6,
+            "name": "이벤트 가챠"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-item",
+            "order": 3,
+            "name": "별의 반짝임"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-mission",
+            "order": 7,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-eventmode-produce",
+            "order": 2,
+            "name": "이벤트 모드 프로듀스"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-highscorerush",
+            "order": 1,
+            "name": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-ranking",
+            "order": 4,
+            "name": "하이 스코어 랭킹 유형"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-score-reward",
+            "order": 5,
+            "name": "하이 스코어 달성 보상"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-ap",
+            "order": 3,
+            "name": "AP"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-day-reset",
+            "order": 9,
+            "name": "날짜 갱신"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-home",
+            "order": 1,
+            "name": "홈"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-home-character-change",
+            "order": 7,
+            "name": "홈 아이돌 설정"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-jewel",
+            "order": 4,
+            "name": "쥬얼"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-main-task",
+            "order": 8,
+            "name": "과제"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-money-received",
+            "order": 5,
+            "name": "활동비"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-p-lv",
+            "order": 2,
+            "name": "프로듀서 Lv"
+        },
+        {
+            "helpCategoryId": "help-home",
+            "id": "home-work",
+            "order": 6,
+            "name": "일"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-another",
+            "order": 2,
+            "name": "어나더 아이돌"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-dearness",
+            "order": 53,
+            "name": "친애도"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-dearness-pt",
+            "order": 54,
+            "name": "친애도 Pt"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-idol-card",
+            "order": 1,
+            "name": "프로듀스 아이돌"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-idol-card-level-limit",
+            "order": 50,
+            "name": "특훈"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-idol-card-potential-rank",
+            "order": 51,
+            "name": "재능개화"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-idol-card-release",
+            "order": 52,
+            "name": "프로듀스 아이돌의 해금"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-parameter",
+            "order": 4,
+            "name": "파라미터"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-plan1",
+            "order": 20,
+            "name": "플랜 : 센스"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-plan2",
+            "order": 30,
+            "name": "플랜 : 로직"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-plan3",
+            "order": 40,
+            "name": "플랜 : 어노말리"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-primastella",
+            "order": 60,
+            "name": "『샛별』"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-true-end-bonus",
+            "order": 58,
+            "name": "True End 보너스"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-unit",
+            "order": 3,
+            "name": "유닛 아이돌"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-audition",
+            "order": 15,
+            "name": "시험"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-audition-flow",
+            "order": 16,
+            "name": "시험의 흐름"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-audition-view",
+            "order": 17,
+            "name": "시험의 표시"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-block",
+            "order": 4,
+            "name": "원기"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-effect",
+            "order": 12,
+            "name": "발생하는 효과"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-gimmick",
+            "order": 13,
+            "name": "응원과 트러블"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-health-lesson",
+            "order": 3,
+            "name": "체력(레슨)"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-lesson",
+            "order": 1,
+            "name": "레슨"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-lesson-view",
+            "order": 2,
+            "name": "레슨 표시"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-p-drink",
+            "order": 9,
+            "name": "P아이템"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-p-item",
+            "order": 8,
+            "name": "P드링크"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-perfect-lesson",
+            "order": 14,
+            "name": "퍼펙트 레슨"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card",
+            "order": 5,
+            "name": "스킬 카드"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card-conditions",
+            "order": 18,
+            "name": "스킬 카드 사용·효과 조건에 대해"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card-powerup",
+            "order": 6,
+            "name": "스킬 카드 강화"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card-replay",
+            "order": 19,
+            "name": "재연"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card-use",
+            "order": 7,
+            "name": "스킬 카드 사용 절차"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-skip",
+            "order": 10,
+            "name": "SKIP"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-support",
+            "order": 11,
+            "name": "스킬 카드 지원"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-event-bonus",
+            "order": 2,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-exchange",
+            "order": 8,
+            "name": "이벤트 교환소용 아이템"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-finish",
+            "order": 9,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-idol",
+            "order": 5,
+            "name": "이벤트 보상 프로듀스 아이돌"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-play-ticket",
+            "order": 4,
+            "name": "라이브 도전권"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-reward",
+            "order": 7,
+            "name": "이벤트 보상"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-stage",
+            "order": 3,
+            "name": "이벤트 스테이지"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-story",
+            "order": 6,
+            "name": "이벤트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-tour",
+            "order": 1,
+            "name": "시즌 이벤트"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-bonus",
+            "order": 4,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-coin",
+            "order": 6,
+            "name": "이벤트 교환소용 아이템"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-finish",
+            "order": 7,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-main-story",
+            "order": 3,
+            "name": "하츠보시 커뮤 해금"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-mission",
+            "order": 2,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-point",
+            "order": 5,
+            "name": "합계 이벤트 Pt 보상"
+        },
+        {
+            "helpCategoryId": "help-main-story-event",
+            "id": "help-main-story-event-story",
+            "order": 1,
+            "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "help-hif-produce-memory-ability",
+            "order": 9,
+            "name": "H.I.F 전용 어빌리티"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "help-selection-memory",
+            "order": 8,
+            "name": "선발시험 메모리"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory",
+            "order": 1,
+            "name": "메모리"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-contest",
+            "order": 3,
+            "name": "콘테스트 편성시의 효과"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-convert",
+            "order": 5,
+            "name": "메모리 변환"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-deck-edit",
+            "order": 4,
+            "name": "메모리 편성 화면"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-inherit",
+            "order": 6,
+            "name": "메모리 합성"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-produce",
+            "order": 2,
+            "name": "프로듀스 편성시의 효과"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-review",
+            "order": 7,
+            "name": "프로듀스 회고"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-album-to-live",
+            "order": 9,
+            "name": "포토 앨범"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-costume",
+            "order": 7,
+            "name": "의상"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-data-linkage",
+            "order": 17,
+            "name": "데이터 연동"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-friend",
+            "order": 2,
+            "name": "친구"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-friend-invite",
+            "order": 3,
+            "name": "친구 초대 기능"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-help",
+            "order": 13,
+            "name": "헬프"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-item",
+            "order": 5,
+            "name": "소지품"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-live-shooting",
+            "order": 8,
+            "name": "촬영"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-media",
+            "order": 12,
+            "name": "미디어"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-meishi",
+            "order": 4,
+            "name": "명함"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-music",
+            "order": 10,
+            "name": "뮤직"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-predownload",
+            "order": 16,
+            "name": "일괄 다운"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-produce-collection",
+            "order": 6,
+            "name": "P도감"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-profile",
+            "order": 1,
+            "name": "프로필"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-roster",
+            "order": 11,
+            "name": "학생 명부"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-setting",
+            "order": 14,
+            "name": "설정"
+        },
+        {
+            "helpCategoryId": "help-menu",
+            "id": "menu-title",
+            "order": 15,
+            "name": "타이틀로"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-daily",
+            "order": 2,
+            "name": "데일리 미션"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-event",
+            "order": 7,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-idol",
+            "order": 6,
+            "name": "아이돌 미션"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-mission",
+            "order": 1,
+            "name": "미션"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-normal",
+            "order": 4,
+            "name": "노멀 미션"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-pass",
+            "order": 8,
+            "name": "미션 패스"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-special",
+            "order": 5,
+            "name": "기간 한정 미션"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-weekly",
+            "order": 3,
+            "name": "주간 미션"
+        },
+        {
+            "helpCategoryId": "help-panel-mission",
+            "id": "panel-mission-panel-mission",
+            "order": 1,
+            "name": "패널 미션"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-bonus",
+            "order": 64,
+            "name": "H.I.F 보너스"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce",
+            "order": 54,
+            "name": "Hatsuboshi IDOL FESTIVAL"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-finals",
+            "order": 60,
+            "name": "본선"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-item-customize",
+            "order": 57,
+            "name": "커스텀 P아이템"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-memory-ability",
+            "order": 63,
+            "name": "H.I.F 전용 어빌리티"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-open-lesson",
+            "order": 56,
+            "name": "공개 레슨"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-schedule-interval",
+            "order": 61,
+            "name": "인터벌"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-selection",
+            "order": 58,
+            "name": "선발시험"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-star",
+            "order": 55,
+            "name": "스타성"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-selection-memory",
+            "order": 59,
+            "name": "선발시험 메모리"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-003-add",
+            "order": 37,
+            "name": "난이도:마스터(정기공연 『하지메』)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-004-add",
+            "order": 50,
+            "name": "난이도:레전드(정기 공연 『하지메』)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-005-add",
+            "order": 47,
+            "name": "난이도:마스터(NEXT IDOL AUDITION)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-business",
+            "order": 40,
+            "name": "영업"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-character-growth",
+            "order": 13,
+            "name": "육성 목표"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-confirm",
+            "order": 8,
+            "name": "시작 확인 화면"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-costume-choice",
+            "order": 3,
+            "name": "의상 선택"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-customize",
+            "order": 42,
+            "name": "특별 지도"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-customize-customize",
+            "order": 43,
+            "name": "스킬 카드 커스터마이징"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-easy-mode",
+            "order": 54,
+            "name": "어시스트 모드"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-ending",
+            "order": 29,
+            "name": "엔딩"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-event",
+            "order": 22,
+            "name": "아이돌 커뮤 (프로듀스)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-exam-audition",
+            "order": 27,
+            "name": "시험(프로듀스)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-fanpresent",
+            "order": 44,
+            "name": "응원 선물"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-fanvote",
+            "order": 39,
+            "name": "팬 투표수"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-generate-memory",
+            "order": 32,
+            "name": "메모리 생성"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-growth-info",
+            "order": 4,
+            "name": "육성 정보"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-guide",
+            "order": 49,
+            "name": "획득 가이드"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-hard-lesson",
+            "order": 26,
+            "name": "집중 강화 레슨"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-health-produce",
+            "order": 14,
+            "name": "체력(프로듀스)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-idol-card-select",
+            "order": 2,
+            "name": "프로듀스 아이돌 선택"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-judging-trend",
+            "order": 10,
+            "name": "심사 기준"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-lesson",
+            "order": 24,
+            "name": "수업 (프로듀스)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-live",
+            "order": 28,
+            "name": "P라이브"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-memory-deck-edit",
+            "order": 7,
+            "name": "메모리 편성(프로듀스)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-menu",
+            "order": 33,
+            "name": "메뉴"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-nia_audition",
+            "order": 45,
+            "name": "오디션"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-ppoint",
+            "order": 18,
+            "name": "P포인트"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-present",
+            "order": 21,
+            "name": "활동 지급"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce",
+            "order": 1,
+            "name": "프로듀스"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce-1",
+            "order": 34,
+            "name": "정기공연 『하지메』"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce-2",
+            "order": 38,
+            "name": "NEXT IDOL AUDITION"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce-drink",
+            "order": 16,
+            "name": "P드링크"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce-item",
+            "order": 17,
+            "name": "P아이템"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce-ranking",
+            "order": 35,
+            "name": "프로듀스 랭킹"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-ProduceSchedule",
+            "order": 11,
+            "name": "P수첩"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-refresh",
+            "order": 15,
+            "name": "휴식"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-replay",
+            "order": 65,
+            "name": "리플레이"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-result",
+            "order": 31,
+            "name": "프로듀스 결과"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-schedule-confirm",
+            "order": 12,
+            "name": "스케줄"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-schedule-select",
+            "order": 9,
+            "name": "일정 선택"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-select-info",
+            "order": 5,
+            "name": "편성 상세"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-self_lesson",
+            "order": 41,
+            "name": "자율 레슨"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-seminar",
+            "order": 36,
+            "name": "연수"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-shool-actibity",
+            "order": 20,
+            "name": "수업/외출"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-shop",
+            "order": 19,
+            "name": "상담"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-sp-lesson",
+            "order": 25,
+            "name": "SP 레슨"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-support-card-deck-edit",
+            "order": 6,
+            "name": "서포트 카드 편성(프로듀스)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-support-event",
+            "order": 23,
+            "name": "서포트 카드 이벤트"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-true-end",
+            "order": 30,
+            "name": "True End:『하지메』"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-true-end-2",
+            "order": 46,
+            "name": "True End: N.I.A"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-true-end-3",
+            "order": 62,
+            "name": "True End:H.I.F"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "ProduceCardConvert",
+            "order": 51,
+            "name": "스킬 카드 스위치"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "producer-ranking-badge",
+            "order": 53,
+            "name": "뱃지"
+        },
+        {
+            "helpCategoryId": "help-produce_card_skin",
+            "id": "help-produce_card_skin",
+            "order": 1,
+            "name": "스킬 카드 스킨"
+        },
+        {
+            "helpCategoryId": "help-producer-ranking",
+            "id": "producer-ranking",
+            "order": 1,
+            "name": "프로듀서 랭킹"
+        },
+        {
+            "helpCategoryId": "help-producer-ranking",
+            "id": "producer-ranking-badge",
+            "order": 3,
+            "name": "뱃지"
+        },
+        {
+            "helpCategoryId": "help-producer-ranking",
+            "id": "producer-ranking-season",
+            "order": 2,
+            "name": "시즌"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-bonus",
+            "order": 6,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-coin",
+            "order": 5,
+            "name": "이벤트 교환소용 아이템"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-point",
+            "order": 4,
+            "name": "합계 이벤트 Pt 보상"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-produce",
+            "order": 2,
+            "name": "이벤트 모드 프로듀스"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-reroll",
+            "order": 3,
+            "name": "메모리 어빌리티 재추첨"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-research-event",
+            "order": 1,
+            "name": "아사리 선생님의 프로듀스 세미나"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-coingasha",
+            "order": 5,
+            "name": "코인 가챠"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-costume",
+            "order": 9,
+            "name": "의상 상점"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-exchange",
+            "order": 7,
+            "name": "아이템 교환소"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-exchange-daily",
+            "order": 6,
+            "name": "데일리 교환소"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-exchange-ticket",
+            "order": 8,
+            "name": "티켓 교환소"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-itemshop",
+            "order": 3,
+            "name": "팩"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-jewel",
+            "order": 2,
+            "name": "쥬얼"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-mission-pass",
+            "order": 4,
+            "name": "패스"
+        },
+        {
+            "helpCategoryId": "help-shop",
+            "id": "shop-shop-all",
+            "order": 1,
+            "name": "상점"
+        },
+        {
+            "helpCategoryId": "help-story",
+            "id": "story-story",
+            "order": 1,
+            "name": "커뮤"
+        },
+        {
+            "helpCategoryId": "help-story",
+            "id": "story-story-event-story",
+            "order": 5,
+            "name": "이벤트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-story",
+            "id": "story-story-idol",
+            "order": 3,
+            "name": "아이돌 커뮤"
+        },
+        {
+            "helpCategoryId": "help-story",
+            "id": "story-story-main",
+            "order": 2,
+            "name": "하츠보시\\n커뮤"
+        },
+        {
+            "helpCategoryId": "help-story",
+            "id": "story-story-support-card",
+            "order": 4,
+            "name": "서포트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-coin",
+            "order": 6,
+            "name": "이벤트 교환소용 아이템"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-finish",
+            "order": 7,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-mission",
+            "order": 5,
+            "name": "이벤트 미션"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-point",
+            "order": 3,
+            "name": "합계 이벤트 Pt 보상"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-story",
+            "order": 1,
+            "name": "스토리 이벤트"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-story-bonus",
+            "order": 2,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-story-event",
+            "id": "story-event-event-story-story-unlock",
+            "order": 4,
+            "name": "이벤트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-story-event-guild-mission",
+            "id": "guild-mission",
+            "order": 1,
+            "name": "연계 미션"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-lesson-support",
+            "order": 2,
+            "name": "스킬 카드 지원"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-produce-upgrade-select",
+            "order": 5,
+            "name": "Lv 강화"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-ability",
+            "order": 4,
+            "name": "서포트 어빌리티"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-bonus",
+            "order": 9,
+            "name": "서포트 보너스"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-card",
+            "order": 1,
+            "name": "서포트 카드"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-card-deck-edit",
+            "order": 7,
+            "name": "서포트 카드 편성"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-card-exchange",
+            "order": 8,
+            "name": "서포트 변환"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-card-level-limit-rank",
+            "order": 6,
+            "name": "상한해방"
+        },
+        {
+            "helpCategoryId": "help-support",
+            "id": "support-support-event",
+            "order": 3,
+            "name": "서포트 이벤트"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "clear-rank",
+            "order": 3,
+            "name": "클리어 조건의 ★"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "memory-memory-tower",
+            "order": 4,
+            "name": "아이돌의 길 메모리 편성"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "tower",
+            "order": 1,
+            "name": "아이돌의 길"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "tower-achivement",
+            "order": 5,
+            "name": "아이돌의 길 업적"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "tower-ranking",
+            "order": 6,
+            "name": "아이돌의 길 랭킹"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "tower-rule",
+            "order": 2,
+            "name": "아이돌의 길 규칙"
+        },
+        {
+            "helpCategoryId": "help-trail",
+            "id": "trail",
+            "order": 1,
+            "name": "추억 의상"
+        }
+    ]
+}

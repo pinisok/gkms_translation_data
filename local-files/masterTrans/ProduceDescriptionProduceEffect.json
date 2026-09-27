@@ -1,0 +1,377 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProduceEffectType_VocalAddition",
+            "name": "보컬 상승"
+        },
+        {
+            "type": "ProduceEffectType_DanceAddition",
+            "name": "댄스 상승"
+        },
+        {
+            "type": "ProduceEffectType_VisualAddition",
+            "name": "비주얼 상승"
+        },
+        {
+            "type": "ProduceEffectType_VocalDown",
+            "name": "보컬 감소"
+        },
+        {
+            "type": "ProduceEffectType_DanceDown",
+            "name": "댄스 감소"
+        },
+        {
+            "type": "ProduceEffectType_VisualDown",
+            "name": "비주얼 감소"
+        },
+        {
+            "type": "ProduceEffectType_VocalGrowthRateAddition",
+            "name": "보컬 파라미터 보너스+"
+        },
+        {
+            "type": "ProduceEffectType_DanceGrowthRateAddition",
+            "name": "댄스 파라미터 보너스+"
+        },
+        {
+            "type": "ProduceEffectType_VisualGrowthRateAddition",
+            "name": "비주얼 파라미터 보너스+"
+        },
+        {
+            "type": "ProduceEffectType_VocalGrowthRateDown",
+            "name": "보컬 파라미터 보너스-"
+        },
+        {
+            "type": "ProduceEffectType_DanceGrowthRateDown",
+            "name": "댄스 파라미터 보너스-"
+        },
+        {
+            "type": "ProduceEffectType_VisualGrowthRateDown",
+            "name": "비주얼 파라미터 보너스-"
+        },
+        {
+            "type": "ProduceEffectType_StaminaRecoverFix",
+            "name": "체력 회복"
+        },
+        {
+            "type": "ProduceEffectType_StaminaRecoverMultiple",
+            "name": "체력 비율 회복"
+        },
+        {
+            "type": "ProduceEffectType_StaminaReduceFix",
+            "name": "체력 감소"
+        },
+        {
+            "type": "ProduceEffectType_StaminaReduceMultiple",
+            "name": "체력 비율 감소"
+        },
+        {
+            "type": "ProduceEffectType_StaminaSpecify",
+            "name": "체력 변경"
+        },
+        {
+            "type": "ProduceEffectType_StaminaRecoverValueUp",
+            "name": "체력 회복량 증가"
+        },
+        {
+            "type": "ProduceEffectType_StaminaRecoverValueDown",
+            "name": "체력 회복량 감소"
+        },
+        {
+            "type": "ProduceEffectType_StaminaReduceValueUp",
+            "name": "체력 감소량 증가"
+        },
+        {
+            "type": "ProduceEffectType_StaminaReduceValueDown",
+            "name": "체력 감소량 감소"
+        },
+        {
+            "type": "ProduceEffectType_StaminaRecoverDisable",
+            "name": "체력 회복 무효"
+        },
+        {
+            "type": "ProduceEffectType_MaxStaminaAddition",
+            "name": "최대 체력 증가"
+        },
+        {
+            "type": "ProduceEffectType_MaxStaminaReduceFix",
+            "name": "최대 체력 감소"
+        },
+        {
+            "type": "ProduceEffectType_MaxStaminaReduceMultiple",
+            "name": "최대 체력 비율 감소"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointReduceFix",
+            "name": "P포인트 감소"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointReduceMultiple",
+            "name": "P포인트 비율 감소"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointSpecify",
+            "name": "P포인트 변경"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointAdditionValueUp",
+            "name": "P포인트 획득량 증가"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointAdditionValueDown",
+            "name": "P포인트 획득량 감소"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointReduceValueUp",
+            "name": "P포인트 감소량 증가"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointReduceValueDown",
+            "name": "P포인트 감소량 감소"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardUpgrade",
+            "name": "강화"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardDuplicate",
+            "name": "복사"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardDuplicateUpgrade",
+            "name": "복사하여 강화"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardChange",
+            "name": "체인지"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardChangeUpgrade",
+            "name": "체인지하고 강화"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardDelete",
+            "name": "삭제"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointAddition",
+            "name": "P포인트 획득"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointGetDisable",
+            "name": "P포인트 획득 불가"
+        },
+        {
+            "type": "ProduceEffectType_ProduceItemGetDisable",
+            "name": "P아이템 획득 불가"
+        },
+        {
+            "type": "ProduceEffectType_ProduceDrinkGetDisable",
+            "name": "P드링크 획득 불가"
+        },
+        {
+            "type": "ProduceEffectType_ProduceReward",
+            "name": "보상 습득"
+        },
+        {
+            "type": "ProduceEffectType_ProduceRewardSet",
+            "name": "보상 습득"
+        },
+        {
+            "type": "ProduceEffectType_AuditionParameterBonusMultiple",
+            "name": "점수 보너스 증가"
+        },
+        {
+            "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
+            "name": "SP 레슨 확률 증가"
+        },
+        {
+            "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
+            "name": "보컬 SP 레슨 발생률 증가 "
+        },
+        {
+            "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
+            "name": "댄스 SP 레슨 확률 증가"
+        },
+        {
+            "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
+            "name": "비주얼 SP 레슨 확률 증가"
+        },
+        {
+            "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
+            "name": "SP 레슨 확률 감소"
+        },
+        {
+            "type": "ProduceEffectType_ExamStatusEnchant",
+            "name": "레슨 중 발생 효과"
+        },
+        {
+            "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
+            "name": "레슨 보상 스킬 카드 옵션 추가"
+        },
+        {
+            "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
+            "name": "레슨 보상 스킬 카드 옵션 감소"
+        },
+        {
+            "type": "ProduceEffectType_ShopPriceDiscountMultiple",
+            "name": "상담에서 모든 항목을 할인"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
+            "name": "상담에서 스킬 카드 할인"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
+            "name": "상담에서 P드링크 할인"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardUpgradePriceDiscountMultiple",
+            "name": "상담에서 스킬 카드 강화 할인"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardUpgradePriceSpecify",
+            "name": "상담에서 스킬 카드 강화 변경"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
+            "name": "상담에서 스킬 카드 삭제 할인"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
+            "name": "상담에서 스킬 카드 강화 변경"
+        },
+        {
+            "type": "ProduceEffectType_ProduceResultRewardMoneyUp",
+            "name": "프로듀스 완료 시 획득 머니 증가"
+        },
+        {
+            "type": "ProduceEffectType_ProduceResultRewardSupportCardEnhancePointUp",
+            "name": "프로듀스 완료 시 지원 Pt 증가"
+        },
+        {
+            "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
+            "name": "지원 이벤트의 체력 회복량 증가"
+        },
+        {
+            "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
+            "name": "지원 이벤트의 P포인트 획득량 증가"
+        },
+        {
+            "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
+            "name": "지원 이벤트의 파라미터 상승량 증가"
+        },
+        {
+            "type": "ProduceEffectType_SupportCardEventProbabilityUp",
+            "name": "지원 이벤트 확률 증가"
+        },
+        {
+            "type": "ProduceEffectType_LessonPresentProducePointUp",
+            "name": "레슨 보상의 P포인트 획득량 증가"
+        },
+        {
+            "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
+            "name": "레슨 지원 확률 증가"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
+            "name": "재추첨 횟수 증가"
+        },
+        {
+            "type": "ProduceEffectType_ProducePointAdditionDisableTrigger",
+            "name": "초기 P포인트 증가"
+        },
+        {
+            "type": "ProduceEffectType_ParameterLimitUp",
+            "name": "파라미터 상한 증가"
+        },
+        {
+            "type": "ProduceEffectType_ExamTurnUp",
+            "name": "턴 수 증가"
+        },
+        {
+            "type": "ProduceEffectType_ExamTurnDown",
+            "name": "턴 수 감소"
+        },
+        {
+            "type": "ProduceEffectType_AuditionNpcEnhance",
+            "name": "라이벌 스코어"
+        },
+        {
+            "type": "ProduceEffectType_ShopPriceUpMultiple",
+            "name": "상담의 모든 항목을 할증"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
+            "name": "상담의 스킬 카드를 할증"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
+            "name": "상담의 P드링크를 할증"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
+            "name": "상담의 스킬 카드 강화를 할증"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
+            "name": "상담의 스킬 카드 삭제를 할증"
+        },
+        {
+            "type": "ProduceEffectType_EventSchoolStaminaUp",
+            "name": "수업의 소비 체력 증가"
+        },
+        {
+            "type": "ProduceEffectType_EventSchoolStaminaDown",
+            "name": "수업의 소비 체력 감소"
+        },
+        {
+            "type": "ProduceEffectType_EventActivityProducePointUp",
+            "name": "외출 소비 P포인트 증가"
+        },
+        {
+            "type": "ProduceEffectType_EventActivityProducePointDown",
+            "name": "외출 소비 P포인트 감소"
+        },
+        {
+            "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
+            "name": "시험 전 체력 회복량 증가"
+        },
+        {
+            "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
+            "name": "시험 전 체력 회복량 감소"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardExcludeCountUp",
+            "name": "스킬 카드 제거"
+        },
+        {
+            "type": "ProduceEffectType_AuditionNpcWeaken",
+            "name": "라이벌 스코어"
+        },
+        {
+            "type": "ProduceEffectType_StarPermilUp",
+            "name": "스타성 획득량 증가"
+        },
+        {
+            "type": "ProduceEffectType_StarAddition",
+            "name": "스타성 획득"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardChangeSelect",
+            "name": "셀렉트 체인지"
+        },
+        {
+            "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+            "name": "P드링크 보유 상한 증가"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+            "name": "상담에서 스킬 카드 할인"
+        }
+    ]
+}

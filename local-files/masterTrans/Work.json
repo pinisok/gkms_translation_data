@@ -1,0 +1,17 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "WorkType_MiniLive",
+            "name": "미니 라이브"
+        },
+        {
+            "type": "WorkType_LiveStreaming",
+            "name": "라이브 생방송"
+        }
+    ]
+}

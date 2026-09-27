@@ -1,0 +1,159 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "tips-out-help-0001",
+            "title": "미디어",
+            "description": "영상 컨텐츠나 1컷 만화 같은 다양한 컨텐츠를 볼 수 있습니다"
+        },
+        {
+            "id": "tips-out-help-0002",
+            "title": "프로듀서 Lv",
+            "description": "프로듀서 레벨을 올리면 보상을 획득할 수 있는 것 외에도 다양한 요소가 개방됩니다."
+        },
+        {
+            "id": "tips-out-help-0003",
+            "title": "머니 교환소",
+            "description": "머니 교환소에서는 매일 인벤토리가 초기화됩니다. 원하는 재료가 있을 때 놓치지 말고 확인하러 가자!"
+        },
+        {
+            "id": "tips-out-help-0004",
+            "title": "미션 패스",
+            "description": "일일 미션과 주간 미션을 통해 미션 패스 Pt를 획득할 수 있으며, Pt를 모으면 다양한 보상을 획득할 수 있습니다."
+        },
+        {
+            "id": "tips-out-help-0005",
+            "title": "AP 교환소",
+            "description": "AP를 사용하여 프로듀스 보상을 올릴 수 있는 아이템 등으로 교환할 수 있습니다."
+        },
+        {
+            "id": "tips-out-world-0001",
+            "title": "하츠보시 학원",
+            "description": "정기공연에서는 아이돌과 성적 상위자가 라이브를 할 수 있습니다."
+        },
+        {
+            "id": "tips-pro-help-0001",
+            "title": "플랜",
+            "description": "등장하는 스킬 카드나 P아이템의 종류가 플랜마다 다릅니다. \n플랜의 특성을 이해하고 유리하게 추천합니다"
+        },
+        {
+            "id": "comic_0001",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0002",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0003",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0004",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0005",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0006",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0007",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0008",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0009",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0010",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0011",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0012",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0013",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0014",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0015",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0016",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0017",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0018",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0019",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0020",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0021",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0023",
+            "title": "",
+            "description": ""
+        },
+        {
+            "id": "comic_0024",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

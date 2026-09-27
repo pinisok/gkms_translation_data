@@ -1,0 +1,601 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "i_card-amao-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-amao-1-001",
+            "name": "첫사랑"
+        },
+        {
+            "id": "i_card-amao-2-000",
+            "name": "시작은 멋있게"
+        },
+        {
+            "id": "i_card-amao-3-000",
+            "name": "Fluorite"
+        },
+        {
+            "id": "i_card-amao-3-001",
+            "name": "너와 세미블루"
+        },
+        {
+            "id": "i_card-amao-3-002",
+            "name": "Feel Jewel Dream"
+        },
+        {
+            "id": "i_card-amao-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-amao-3-009",
+            "name": "눈이 녹을 때에"
+        },
+        {
+            "id": "i_card-amao-3-013",
+            "name": "미라쿠루나나우(˚∀˚)!"
+        },
+        {
+            "id": "i_card-amao-3-015",
+            "name": "봐줘"
+        },
+        {
+            "id": "i_card-amao-3-017",
+            "name": "SUGAR FLAVOR"
+        },
+        {
+            "id": "i_card-atbm-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-atbm-2-000",
+            "name": "초지일관"
+        },
+        {
+            "id": "i_card-atbm-3-000",
+            "name": "이론무장하고"
+        },
+        {
+            "id": "i_card-atbm-3-012",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-atbm-3-018",
+            "name": "크라이아이"
+        },
+        {
+            "id": "i_card-fktn-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-fktn-1-001",
+            "name": "첫 목소리"
+        },
+        {
+            "id": "i_card-fktn-2-000",
+            "name": "귀엽게♡ 시작했답니다"
+        },
+        {
+            "id": "i_card-fktn-3-000",
+            "name": "세상에서 가장 귀여운 나"
+        },
+        {
+            "id": "i_card-fktn-3-001",
+            "name": "Yellow Big Bang!"
+        },
+        {
+            "id": "i_card-fktn-3-002",
+            "name": "관국"
+        },
+        {
+            "id": "i_card-fktn-3-006",
+            "name": "White Night! White Wish!"
+        },
+        {
+            "id": "i_card-fktn-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-fktn-3-011",
+            "name": "비 갠 뒤의 아이리스"
+        },
+        {
+            "id": "i_card-fktn-3-013",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송"
+        },
+        {
+            "id": "i_card-fktn-3-016",
+            "name": "전력을 다해 가자!"
+        },
+        {
+            "id": "i_card-fktn-3-019",
+            "name": "GO MY WAY!!"
+        },
+        {
+            "id": "i_card-hmsz-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-hmsz-1-001",
+            "name": "첫 출진"
+        },
+        {
+            "id": "i_card-hmsz-2-000",
+            "name": "천천히, 한 걸음씩"
+        },
+        {
+            "id": "i_card-hmsz-3-000",
+            "name": "달 거북이"
+        },
+        {
+            "id": "i_card-hmsz-3-005",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-hmsz-3-010",
+            "name": "Star-mine"
+        },
+        {
+            "id": "i_card-hmsz-3-014",
+            "name": "Superlative"
+        },
+        {
+            "id": "i_card-hmsz-3-015",
+            "name": "ENDLESS DANCE"
+        },
+        {
+            "id": "i_card-hmsz-3-016",
+            "name": "VEIL"
+        },
+        {
+            "id": "i_card-hmsz-3-020",
+            "name": "「있잖아, 고백할게.」"
+        },
+        {
+            "id": "i_card-hrnm-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-hrnm-1-001",
+            "name": "초심"
+        },
+        {
+            "id": "i_card-hrnm-2-000",
+            "name": "『나 다움』의 시작"
+        },
+        {
+            "id": "i_card-hrnm-3-000",
+            "name": "clumsy trick"
+        },
+        {
+            "id": "i_card-hrnm-3-001",
+            "name": "너와 세미블루"
+        },
+        {
+            "id": "i_card-hrnm-3-002",
+            "name": "L.U.V"
+        },
+        {
+            "id": "i_card-hrnm-3-004",
+            "name": "어서 오세요 하츠보시 온천"
+        },
+        {
+            "id": "i_card-hrnm-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-hrnm-3-008",
+            "name": "해피 밀푀유"
+        },
+        {
+            "id": "i_card-hrnm-3-012",
+            "name": "Howling over the World"
+        },
+        {
+            "id": "i_card-hrnm-3-013",
+            "name": "36℃ U･B･U"
+        },
+        {
+            "id": "i_card-hrnm-3-017",
+            "name": "가라쿠타로드"
+        },
+        {
+            "id": "i_card-hrnm-3-018",
+            "name": "SUGAR FLAVOR"
+        },
+        {
+            "id": "i_card-hski-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-hski-1-001",
+            "name": "첫 목소리"
+        },
+        {
+            "id": "i_card-hski-2-000",
+            "name": "내가 제일!"
+        },
+        {
+            "id": "i_card-hski-3-000",
+            "name": "Fighting My Way"
+        },
+        {
+            "id": "i_card-hski-3-001",
+            "name": "Boom Boom Pow"
+        },
+        {
+            "id": "i_card-hski-3-002",
+            "name": "관국"
+        },
+        {
+            "id": "i_card-hski-3-006",
+            "name": "고금동서 식은 죽 먹기"
+        },
+        {
+            "id": "i_card-hski-3-008",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-hski-3-011",
+            "name": "벚꽃 포토그래프"
+        },
+        {
+            "id": "i_card-hski-3-012",
+            "name": "비 갠 뒤의 아이리스"
+        },
+        {
+            "id": "i_card-hski-3-015",
+            "name": "전력을 다해 가자!"
+        },
+        {
+            "id": "i_card-hski-3-017",
+            "name": "Wildest Flower"
+        },
+        {
+            "id": "i_card-hski-3-018",
+            "name": "가라쿠타로드"
+        },
+        {
+            "id": "i_card-hski-3-019",
+            "name": "GO MY WAY!!"
+        },
+        {
+            "id": "i_card-hume-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-hume-1-001",
+            "name": "첫 출진"
+        },
+        {
+            "id": "i_card-hume-2-000",
+            "name": "아이돌, 시작!"
+        },
+        {
+            "id": "i_card-hume-3-000",
+            "name": "The Rolling Riceball"
+        },
+        {
+            "id": "i_card-hume-3-005",
+            "name": "White Night! White Wish!"
+        },
+        {
+            "id": "i_card-hume-3-006",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-hume-3-009",
+            "name": "구-스-피-"
+        },
+        {
+            "id": "i_card-hume-3-012",
+            "name": "Star-mine"
+        },
+        {
+            "id": "i_card-hume-3-016",
+            "name": "ENDLESS DANCE"
+        },
+        {
+            "id": "i_card-hume-3-017",
+            "name": "새하얀 페이지와 수채화 주인공"
+        },
+        {
+            "id": "i_card-hume-3-018",
+            "name": "GO MY WAY!!"
+        },
+        {
+            "id": "i_card-jsna-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-jsna-1-001",
+            "name": "첫 출진"
+        },
+        {
+            "id": "i_card-jsna-2-000",
+            "name": "샛별"
+        },
+        {
+            "id": "i_card-jsna-3-000",
+            "name": "작은 야망"
+        },
+        {
+            "id": "i_card-jsna-3-002",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-jsna-3-003",
+            "name": "해피 밀푀유"
+        },
+        {
+            "id": "i_card-jsna-3-006",
+            "name": "Our Chant"
+        },
+        {
+            "id": "i_card-jsna-3-011",
+            "name": "Star-mine"
+        },
+        {
+            "id": "i_card-jsna-3-015",
+            "name": "적나라"
+        },
+        {
+            "id": "i_card-jsna-3-016",
+            "name": "ENDLESS DANCE"
+        },
+        {
+            "id": "i_card-jsna-3-020",
+            "name": "「있잖아, 고백할게.」"
+        },
+        {
+            "id": "i_card-kcna-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-kcna-1-001",
+            "name": "초심"
+        },
+        {
+            "id": "i_card-kcna-2-000",
+            "name": "가슴을 펴고 한 발자국씩"
+        },
+        {
+            "id": "i_card-kcna-3-000",
+            "name": "Wonder Scale"
+        },
+        {
+            "id": "i_card-kcna-3-001",
+            "name": "매일매일, 발견적 단계!"
+        },
+        {
+            "id": "i_card-kcna-3-002",
+            "name": "가장광소곡"
+        },
+        {
+            "id": "i_card-kcna-3-005",
+            "name": "어서 오세요 하츠보시 온천"
+        },
+        {
+            "id": "i_card-kcna-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-kcna-3-009",
+            "name": "눈이 녹을 때에"
+        },
+        {
+            "id": "i_card-kcna-3-012",
+            "name": "Howling over the World"
+        },
+        {
+            "id": "i_card-kcna-3-014",
+            "name": "하늘과 약속"
+        },
+        {
+            "id": "i_card-kcna-3-016",
+            "name": "미지의 펼쳐지는"
+        },
+        {
+            "id": "i_card-kllj-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-kllj-1-001",
+            "name": "초심"
+        },
+        {
+            "id": "i_card-kllj-2-000",
+            "name": "한발짝 내디딘 뒤에"
+        },
+        {
+            "id": "i_card-kllj-3-000",
+            "name": "백선"
+        },
+        {
+            "id": "i_card-kllj-3-001",
+            "name": "관국"
+        },
+        {
+            "id": "i_card-kllj-3-005",
+            "name": "White Night! White Wish!"
+        },
+        {
+            "id": "i_card-kllj-3-006",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-kllj-3-008",
+            "name": "극광"
+        },
+        {
+            "id": "i_card-kllj-3-010",
+            "name": "벚꽃 포토그래프"
+        },
+        {
+            "id": "i_card-kllj-3-012",
+            "name": "Howling over the World"
+        },
+        {
+            "id": "i_card-kllj-3-015",
+            "name": "Atmosphere"
+        },
+        {
+            "id": "i_card-kllj-3-017",
+            "name": "두근두근 이모션"
+        },
+        {
+            "id": "i_card-kllj-3-018",
+            "name": "가라쿠타로드"
+        },
+        {
+            "id": "i_card-shro-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-shro-1-001",
+            "name": "첫사랑"
+        },
+        {
+            "id": "i_card-shro-2-000",
+            "name": "가장 어울리지 않는 것"
+        },
+        {
+            "id": "i_card-shro-3-000",
+            "name": "광경"
+        },
+        {
+            "id": "i_card-shro-3-001",
+            "name": "콘트라스트"
+        },
+        {
+            "id": "i_card-shro-3-002",
+            "name": "가장광소곡"
+        },
+        {
+            "id": "i_card-shro-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-shro-3-008",
+            "name": "해피 밀푀유"
+        },
+        {
+            "id": "i_card-shro-3-012",
+            "name": "선 페이디드"
+        },
+        {
+            "id": "i_card-shro-3-014",
+            "name": "미라쿠루나나우(˚∀˚)!"
+        },
+        {
+            "id": "i_card-shro-3-016",
+            "name": "미지의 펼쳐지는"
+        },
+        {
+            "id": "i_card-shro-3-018",
+            "name": "가라쿠타로드"
+        },
+        {
+            "id": "i_card-ssmk-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-ssmk-1-001",
+            "name": "첫사랑"
+        },
+        {
+            "id": "i_card-ssmk-2-000",
+            "name": "꿈으로의 리스타트"
+        },
+        {
+            "id": "i_card-ssmk-3-000",
+            "name": "Tame-Lie-One-Step"
+        },
+        {
+            "id": "i_card-ssmk-3-001",
+            "name": "너와 세미블루"
+        },
+        {
+            "id": "i_card-ssmk-3-002",
+            "name": "숨겨진 나"
+        },
+        {
+            "id": "i_card-ssmk-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-ssmk-3-010",
+            "name": "벚꽃 포토그래프"
+        },
+        {
+            "id": "i_card-ssmk-3-012",
+            "name": "Love & Joy"
+        },
+        {
+            "id": "i_card-ssmk-3-014",
+            "name": "미라쿠루나나우(˚∀˚)!"
+        },
+        {
+            "id": "i_card-ssmk-3-017",
+            "name": "두근두근 이모션"
+        },
+        {
+            "id": "i_card-ttmr-1-000",
+            "name": "학교생활"
+        },
+        {
+            "id": "i_card-ttmr-1-001",
+            "name": "첫 목소리"
+        },
+        {
+            "id": "i_card-ttmr-2-000",
+            "name": "고독한 늑대"
+        },
+        {
+            "id": "i_card-ttmr-3-000",
+            "name": "Luna say maybe"
+        },
+        {
+            "id": "i_card-ttmr-3-001",
+            "name": "아이비"
+        },
+        {
+            "id": "i_card-ttmr-3-002",
+            "name": "가장광소곡"
+        },
+        {
+            "id": "i_card-ttmr-3-007",
+            "name": "Campus mode!!"
+        },
+        {
+            "id": "i_card-ttmr-3-009",
+            "name": "눈이 녹을 때에"
+        },
+        {
+            "id": "i_card-ttmr-3-011",
+            "name": "비 갠 뒤의 아이리스"
+        },
+        {
+            "id": "i_card-ttmr-3-015",
+            "name": "전력을 다해 가자!"
+        },
+        {
+            "id": "i_card-ttmr-3-016",
+            "name": "도대체 언제부터"
+        },
+        {
+            "id": "i_card-ttmr-3-018",
+            "name": "가라쿠타로드"
+        },
+        {
+            "id": "i_card-ttmr-3-021",
+            "name": "「있잖아, 고백할게.」"
+        }
+    ]
+}

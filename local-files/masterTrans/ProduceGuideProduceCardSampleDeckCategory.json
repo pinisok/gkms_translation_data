@@ -1,0 +1,269 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_20_CardPlayAggressive",
+            "label": "의욕을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_20_CardPlayAggressive_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_20_exam_block",
+            "label": "원기를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_35_CardPlayAggressive",
+            "label": "의욕을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_35_CardPlayAggressive_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_35_exam_block",
+            "label": "원기를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_group_35_logic_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_CardPlayAggressive",
+            "label": "의욕을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_exam_block",
+            "label": "원기를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_Review",
+            "label": "호인상을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_CardPlayAggressive",
+            "label": "의욕을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_exam_block",
+            "label": "원기를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_logic_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_Review",
+            "label": "호인상을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_20_anomaly_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_20_anomaly_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_20_Concentration",
+            "label": "강기로 바꾸는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_20_Preservation\n",
+            "label": "온존으로 바꾸는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_35_anomaly_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_35_anomaly_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_35_Concentration",
+            "label": "강기로 바꾸는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Concentration_group_35_Preservation\n",
+            "label": "온존으로 바꾸는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_20_anomaly_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_20_anomaly_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_20_FullPower",
+            "label": "전력치를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_20_Preservation",
+            "label": "온존으로 바꾸는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_35_anomaly_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_35_anomaly_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_35_FullPower",
+            "label": "전력치를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_FullPower_group_35_Preservation",
+            "label": "온존으로 바꾸는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_20_LessonBuff",
+            "label": "집중을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_20_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_20_ParameterBuff",
+            "label": "호조를 높이는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_20_sense_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_35_LessonBuff",
+            "label": "집중을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_35_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_35_parameter_buff_multiple",
+            "label": "절호조를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_35_ParameterBuff",
+            "label": "호조를 높이는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_LessonBuff_group_35_sense_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_20_LessonBuff",
+            "label": "집중을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_20_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_20_parameter_buff_multiple",
+            "label": "절호조를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_20_ParameterBuff",
+            "label": "호조를 높이는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_20_sense_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_35_LessonBuff",
+            "label": "집중을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_35_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_35_parameter_buff_multiple",
+            "label": "절호조를 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_35_ParameterBuff",
+            "label": "호조를 높이는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_ParameterBuff_group_35_sense_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_CardPlayAggressive",
+            "label": "의욕을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_logic_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_Review",
+            "label": "호인상을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_Review_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_CardPlayAggressive",
+            "label": "의욕을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_logic_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_Review",
+            "label": "호인상을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_Review_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_group_20_logic_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_group_20_Review",
+            "label": "호인상을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_group_20_Review_score",
+            "label": "스코어를 올리는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_group_35_logic_other",
+            "label": "기타 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_group_35_Review",
+            "label": "호인상을 증가시키는 스킬 카드"
+        },
+        {
+            "id": "sample_deck_beginner_Review_group_35_Review_score",
+            "label": "스코어를 올리는 스킬 카드"
+        }
+    ]
+}

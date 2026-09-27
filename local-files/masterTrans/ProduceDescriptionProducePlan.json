@@ -1,0 +1,25 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProducePlanType_Common",
+            "name": "공통"
+        },
+        {
+            "type": "ProducePlanType_Plan1",
+            "name": "【센스 전용】"
+        },
+        {
+            "type": "ProducePlanType_Plan2",
+            "name": "【로직 전용】"
+        },
+        {
+            "type": "ProducePlanType_Plan3",
+            "name": "【어노말리 전용】"
+        }
+    ]
+}

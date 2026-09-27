@@ -1,0 +1,65 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "coin_0001",
+            "recoverName": "쥬얼 80개"
+        },
+        {
+            "id": "coin_0002",
+            "recoverName": "쥬얼 360개"
+        },
+        {
+            "id": "coin_0003",
+            "recoverName": "쥬얼 600개"
+        },
+        {
+            "id": "coin_0004",
+            "recoverName": "쥬얼 1,200개"
+        },
+        {
+            "id": "coin_0005",
+            "recoverName": "쥬얼 2,500개"
+        },
+        {
+            "id": "coin_0006",
+            "recoverName": "쥬얼 4,000개"
+        },
+        {
+            "id": "coin_0007",
+            "recoverName": "쥬얼 8,200개"
+        },
+        {
+            "id": "coin_0008",
+            "recoverName": "쥬얼 12,300개"
+        },
+        {
+            "id": "coin_0009",
+            "recoverName": "쥬얼 450개"
+        },
+        {
+            "id": "coin_0010",
+            "recoverName": "쥬얼 6,000개"
+        },
+        {
+            "id": "coin_0011",
+            "recoverName": "쥬얼 12,300개"
+        },
+        {
+            "id": "coin_0012",
+            "recoverName": "쥬얼 6,000개"
+        },
+        {
+            "id": "pass_0001",
+            "recoverName": "프리미엄 미션 패스"
+        },
+        {
+            "id": "pass_0002",
+            "recoverName": "프리미엄 미션 패스"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "box-gasha-event-001",
+            "title": "한여름의 서머 라이브 페스티벌"
+        },
+        {
+            "id": "box-gasha-event-002",
+            "title": "여름밤의 대결"
+        },
+        {
+            "id": "box-gasha-event-003",
+            "title": "할로윈 광소곡"
+        },
+        {
+            "id": "box-gasha-event-004",
+            "title": "케이크가 맺어준 우정의 크리스마스"
+        },
+        {
+            "id": "box-gasha-event-005",
+            "title": "발렌타인 협주곡"
+        },
+        {
+            "id": "box-gasha-event-006",
+            "title": "토리카에바 하나마츠리"
+        },
+        {
+            "id": "box-gasha-event-007",
+            "title": "벚꽃 흩날리는 스타트라인"
+        },
+        {
+            "id": "box-gasha-event-015",
+            "title": "라이브 투어 이벤트 히로시마 편"
+        },
+        {
+            "id": "box-gasha-event-019",
+            "title": "라이브 투어 이벤트 나고야 편"
+        },
+        {
+            "id": "box-gasha-event-020",
+            "title": "라이브 투어 이벤트 특별편　GO MY WAY!!"
+        },
+        {
+            "id": "box-gasha-event-021",
+            "title": "여름바람 원피스"
+        },
+        {
+            "id": "main-story-event-001",
+            "title": "하츠보시 커뮤 이벤트 2장 아이돌들의 공동생활vol.1"
+        },
+        {
+            "id": "main-story-event-002",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-003",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-004",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-005",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-006",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-007",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-008",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-009",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "main-story-event-010",
+            "title": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "id": "story-event-001",
+            "title": "1학년 1반의 아이돌들"
+        },
+        {
+            "id": "story-event-002",
+            "title": "하츠보시 온천 ~늦가을 바람에 지다~"
+        },
+        {
+            "id": "story-event-003",
+            "title": "1학년 2반의 아이돌들"
+        },
+        {
+            "id": "story-event-004",
+            "title": "학생회의 아이돌들"
+        },
+        {
+            "id": "story-event-006",
+            "title": "반 대항 하츠보시 대운동회"
+        },
+        {
+            "id": "story-event-007",
+            "title": "사이좋은? 삼인조의 일상"
+        },
+        {
+            "id": "story-event-008",
+            "title": "3학년 1반의 일상"
+        },
+        {
+            "id": "story-event-009",
+            "title": "릴리야와 스미카의 일상"
+        },
+        {
+            "id": "story-event-010",
+            "title": "세나와 츠바메의 일상"
+        },
+        {
+            "id": "story-event-011",
+            "title": "코토네와 마오의 일상"
+        },
+        {
+            "id": "story-event-012",
+            "title": "테마리와 히로의 일상"
+        },
+        {
+            "id": "story-event-013",
+            "title": "3학년 1반의 수학여행"
+        },
+        {
+            "id": "story-event-014",
+            "title": "학생회 1학년들의 일상"
+        }
+    ]
+}

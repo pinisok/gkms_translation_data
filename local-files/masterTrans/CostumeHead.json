@@ -1,0 +1,1974 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "costume_head_amao-casl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_amao-casl-0001",
+            "name": "진짜의 나",
+            "description": "아리무라 마오의 친밀도 Lv 10 만들기"
+        },
+        {
+            "id": "costume_head_amao-cstm-0004",
+            "name": "Fluorite",
+            "description": "【Fluorite】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0016",
+            "name": "Fluorite",
+            "description": "【Fluorite】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_amao-cstm-0035",
+            "name": "Feel Jewel Dream",
+            "description": "【Feel Jewel Dream】아리무라 마오 획득"
+        },
+        {
+            "id": "costume_head_amao-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아리무라 마오를 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_amao-cstm-0061",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】아리무라 마오를 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0062",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_amao-cstm-0063",
+            "name": "관국",
+            "description": "【Fluorite】'24 축제 아리무라 마오 획득"
+        },
+        {
+            "id": "costume_head_amao-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【Fluorite】'24 할로윈 아리무라 마오를 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0092",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0093",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_amao-cstm-0120",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0121",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_amao-cstm-0129",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】아리무라 마오를 획득"
+        },
+        {
+            "id": "costume_head_amao-cstm-0130",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 재능 개화 4단계로 획득"
+        },
+        {
+            "id": "costume_head_amao-hair-0000",
+            "name": "진짜의 플로우라이트",
+            "description": "아리무라 마오의 친밀도 Lv 10 만들기"
+        },
+        {
+            "id": "costume_head_amao-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_amao-hair-0002",
+            "name": "공주님 티아라",
+            "description": "아리무라 마오의 아이돌의 길 스테이지20를 클리어"
+        },
+        {
+            "id": "costume_head_amao-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 9월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_amao-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_amao-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_amao-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 7월에서 획득 등"
+        },
+        {
+            "id": "costume_head_amao-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_amao-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_amao-hair-0014",
+            "name": "봐줘 (심플 어레인지)",
+            "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_amao-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
+            "id": "costume_head_amao-hair-0035",
+            "name": "봐줘 (포인트 컬러 어레인지)",
+            "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0063",
+            "name": "관국",
+            "description": "【이론무장하고】'26 축제 아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【이론무장하고】'26 할로윈 아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0073",
+            "name": "백금의 빛",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0106",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0107",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0145",
+            "name": "크라이아이",
+            "description": "【크라이아이】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0146",
+            "name": "크라이아이",
+            "description": "【크라이아이】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_atbm-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "수국 머리 장식(아마야 츠바메)을 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0002",
+            "name": "공주님 티아라",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 20 클리어"
+        },
+        {
+            "id": "costume_head_atbm-hair-0003",
+            "name": "둥근 안경",
+            "description": "둥근 안경(아마야 츠바메)을 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0004",
+            "name": "고양이 귀",
+            "description": "고양이 귀(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "하츠미☆액세서리(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "티어드롭 글래스(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0008",
+            "name": "개 귀",
+            "description": "개 귀(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_atbm-hair-0022",
+            "name": "크라이아이(심플 어레인지)",
+            "description": "【크라이아이】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
+            "id": "costume_head_atbm-hair-0036",
+            "name": "크라이아이(포인트 컬러 어레인지)",
+            "description": "【크라이아이】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_fktn-casl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0001",
+            "name": "세상에서 가장 귀여운 나",
+            "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수!"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0013",
+            "name": "세상에서 가장 귀여운 나",
+            "description": "【세상에서 제일 귀여운 나】 후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0027",
+            "name": "Yellow Big Bang!",
+            "description": "【Yellow Big Bang!】후지타 코토네 입수!"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0028",
+            "name": "Yellow Big Bang!",
+            "description": "【Yellow Big Bang!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0045",
+            "name": "관국",
+            "description": "【관국】후지타 코토네를 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0046",
+            "name": "관국",
+            "description": "【관국】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】후지타 코토네를 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0063",
+            "name": "축제 핫피",
+            "description": "축제 핫피 (후지타 코토네) 를 구입"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【세계 제일 귀여운 나】'24 할로윈 후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "후지타 코토네의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0073",
+            "name": "백금의 빛",
+            "description": "후지타 코토네의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0086",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0087",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "후지타 코토네의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0112",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0113",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0138",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0139",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_fktn-hair-0002",
+            "name": "공주님 티아라",
+            "description": "후지타 코토네의 아이돌 길 스테이지 20 클리어"
+        },
+        {
+            "id": "costume_head_fktn-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_fktn-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 11월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_fktn-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 2월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_fktn-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_fktn-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_fktn-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+        },
+        {
+            "id": "costume_head_fktn-hair-0012",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 (심플 어레인지)",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 3월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_fktn-hair-0032",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 (포인트 컬러 어레인지)",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 7월에서 획득"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0011",
+            "name": "달 거북이",
+            "description": "【달 거북이】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0023",
+            "name": "달 거북이",
+            "description": "【달 거북이】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0059",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0060",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0063",
+            "name": "관국",
+            "description": "【달 거북이】'25 축제 하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【달 거북이】'25 할로윈 하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0102",
+            "name": "VEIL",
+            "description": "【VEIL】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0103",
+            "name": "VEIL",
+            "description": "【VEIL】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0173",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0174",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "수국 머리 장식 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0002",
+            "name": "공주님 티아라",
+            "description": "하타야 미스즈의 아이돌 길 스테이지 20을 클리어"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0003",
+            "name": "둥근 안경",
+            "description": "라운드 안경 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0004",
+            "name": "고양이 귀",
+            "description": "네코미미 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "하츠미☆액세서리 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 9월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 1월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0021",
+            "name": "VEIL (심플 어레인지)",
+            "description": "【VEIL】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 5월에서 획득"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0029",
+            "name": "VEIL (포인트 컬러 어레인지)",
+            "description": "【VEIL】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 9월에서 획득"
+        },
+        {
+            "id": "costume_head_hmsz-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0005",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】 히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0017",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】 히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0037",
+            "name": "L.U.V",
+            "description": "【L.U.V】히메사키 리나미를 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0038",
+            "name": "L.U.V",
+            "description": "【L.U.V】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0043",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】 히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0044",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】히메사키 리나미를 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0055",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】히메사키 리나미를 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0063",
+            "name": "관국",
+            "description": "【clumsy trick】'24 축제 히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【clumsy trick】'24 할로윈 히메사키 리나미를 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "히메사키 리나미의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0073",
+            "name": "백금의 빛",
+            "description": "히메사키 리나미의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0094",
+            "name": "36℃ U･B･U",
+            "description": "【36℃ U･B･U】히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0095",
+            "name": "36℃ U･B･U",
+            "description": "【36℃ U･B･U】히메사키 리나미의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0129",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】히메사키 리나미를 획득"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0130",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 재능 개화 4단계로 획득"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0002",
+            "name": "공주님 티아라",
+            "description": "히메사키 리나미의 아이돌의 길 스테이지20를 클리어"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 7월에서 획득 등"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0033",
+            "name": "36℃ U･B･U (포인트 컬러 어레인지)",
+            "description": "【36℃ U･B･U】히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_hski-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_hski-cstm-0002",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】 하나미 사키 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0014",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】 하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-cstm-0029",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】하나미 사키 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0030",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미 사키를 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-cstm-0063",
+            "name": "관국",
+            "description": "【관국화】하나미 사키 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【Fighting My Way】'24 헐로윈 하나미 사키를 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0070",
+            "name": "고금동서 식은 죽 먹기",
+            "description": "【고금동서 식은 죽 먹기】하나미 사키를 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "하나미 사키의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "costume_head_hski-cstm-0073",
+            "name": "백금의 빛",
+            "description": "하나미 사키의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "costume_head_hski-cstm-0079",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】하나미 사키를 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0082",
+            "name": "Wildest Flower",
+            "description": "【Wildest Flower】하나미 사키 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0083",
+            "name": "Wildest Flower",
+            "description": "【Wildest Flower】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "하나미 사키의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_hski-cstm-0112",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】하나미 사키 입수"
+        },
+        {
+            "id": "costume_head_hski-cstm-0113",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하나미 사키 획득"
+        },
+        {
+            "id": "costume_head_hski-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hski-hair-0002",
+            "name": "공주님 티아라",
+            "description": "하나미 사키의 아이돌 길 스테이지 20 클리어"
+        },
+        {
+            "id": "costume_head_hski-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 8월에 획득 등"
+        },
+        {
+            "id": "costume_head_hski-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 11월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hski-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 2월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hski-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hski-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hski-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+        },
+        {
+            "id": "costume_head_hski-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 3월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hski-hair-0027",
+            "name": "Wildest Flower (포인트 컬러 어레인지)",
+            "description": "【Wildest Flower】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 7월에서 획득"
+        },
+        {
+            "id": "costume_head_hski-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_hume-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_hume-cstm-0010",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】 하나미 우메를 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0022",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】 하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0049",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】하나미 우메를 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0050",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미 우메를 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0057",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0058",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0063",
+            "name": "관국",
+            "description": "【The Rolling Riceball】'24 축제 하나미 우메를 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【The Rolling Riceball】'24 할로윈 하나미 ​​우메를 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "하나미 우메의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "costume_head_hume-cstm-0073",
+            "name": "백금의 빛",
+            "description": "하나미 우메의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "costume_head_hume-cstm-0100",
+            "name": "새하얀 페이지와 수채화 주인공",
+            "description": "【새하얀 페이지와 수채화 주인공】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0101",
+            "name": "새하얀 페이지와 수채화 주인공",
+            "description": "【새하얀 페이지와 수채화 주인공】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_hume-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0126",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0127",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hume-cstm-0138",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】하나미 우메 획득"
+        },
+        {
+            "id": "costume_head_hume-cstm-0139",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】하나미 우메의 재능 개화 4단계에서 획득"
+        },
+        {
+            "id": "costume_head_hume-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "수국 머리 장식(하나미 우메)을 구매"
+        },
+        {
+            "id": "costume_head_hume-hair-0002",
+            "name": "공주님 티아라",
+            "description": "하나미 우메의 아이돌의 길 스테이지20를 클리어"
+        },
+        {
+            "id": "costume_head_hume-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hume-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hume-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hume-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
+        },
+        {
+            "id": "costume_head_hume-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 9월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hume-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_hume-hair-0020",
+            "name": "새하얀 페이지와 수채화 주인공 (심플 어레인지)",
+            "description": "【새하얀 페이지와 수채화 주인공】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 4월에서 획득"
+        },
+        {
+            "id": "costume_head_hume-hair-0028",
+            "name": "새하얀 페이지와 수채화 주인공 (포인트 컬러 어레인지)",
+            "description": "【새하얀 페이지와 수채화 주인공】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 8월에서 획득"
+        },
+        {
+            "id": "costume_head_hume-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0012",
+            "name": "작은 야망",
+            "description": "【작은 야망】주오 세나를 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0024",
+            "name": "작은 야망",
+            "description": "【작은 야망】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】주오 세나를 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0055",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】주오 세나를 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0056",
+            "name": "해피 밀푀유",
+            "description": "【해피 밀푀유】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0063",
+            "name": "관국",
+            "description": "【작은 야망】'25 축제 주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【작은 야망】'25 할로윈 주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0077",
+            "name": "Our Chant",
+            "description": "【Our Chant】주오 세나를 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0078",
+            "name": "Our Chant",
+            "description": "【Our Chant】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0104",
+            "name": "적나라",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0105",
+            "name": "적나라",
+            "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0126",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0127",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "수국 머리 장식(주오 세나)을 구매"
+        },
+        {
+            "id": "costume_head_jsna-hair-0002",
+            "name": "공주님 티아라",
+            "description": "주오 세나의 아이돌 길 스테이지20를 클리어"
+        },
+        {
+            "id": "costume_head_jsna-hair-0003",
+            "name": "둥근 안경",
+            "description": "둥근 안경(주오 세나)을 구매"
+        },
+        {
+            "id": "costume_head_jsna-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_jsna-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_jsna-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_jsna-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_jsna-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_jsna-hair-0015",
+            "name": "적나라 (기본 메이크업)",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-hair-0017",
+            "name": "적나라 (기본 메이크업)",
+            "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
+            "id": "costume_head_jsna-hair-0026",
+            "name": "적나라 (포인트 컬러 어레인지)",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_kcna-casl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0008",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】 쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0020",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】 쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0033",
+            "name": "매일매일, 발견적 단계!",
+            "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0034",
+            "name": "매일매일, 발견적 단계!",
+            "description": "【매일매일, 발견적 단계!】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0061",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0062",
+            "name": "눈이 녹을 때에",
+            "description": "【눈이 녹을 때에】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0063",
+            "name": "관국",
+            "description": "【Wonder Scale】'24 축제 쿠라모토 치나를 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0090",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0091",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0116",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】쿠라모토 치나를 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0117",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_kcna-hair-0002",
+            "name": "공주님 티아라",
+            "description": "쿠라모토 치나의 아이돌의 길 스테이지20를 클리어"
+        },
+        {
+            "id": "costume_head_kcna-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kcna-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kcna-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kcna-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
+        },
+        {
+            "id": "costume_head_kcna-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 9월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kcna-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kcna-hair-0013",
+            "name": "하늘과 약속 (심플 어레인지)",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 4월에서 획득"
+        },
+        {
+            "id": "costume_head_kcna-hair-0034",
+            "name": "하늘과 약속 (포인트 컬러 어레인지)",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 8월에서 획득"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0007",
+            "name": "백선",
+            "description": "【백선】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0041",
+            "name": "극광",
+            "description": "【극광】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0042",
+            "name": "극광",
+            "description": "【극광】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0045",
+            "name": "관국",
+            "description": "【관국】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0046",
+            "name": "관국",
+            "description": "【관국】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0049",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0050",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0063",
+            "name": "축제 핫피",
+            "description": "축제 핫피 (카츠라기 릴리야) 를 구입"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【백선】'24 할로윈 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0098",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0099",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0116",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0117",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0133",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0134",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_kllj-hair-0002",
+            "name": "공주님 티아라",
+            "description": "카츠라기 릴리야의 아이돌 길 20 스테이지 클리어"
+        },
+        {
+            "id": "costume_head_kllj-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 9월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_kllj-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kllj-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_kllj-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 7월에서 획득 등"
+        },
+        {
+            "id": "costume_head_kllj-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kllj-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 1월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_kllj-hair-0018",
+            "name": "Atmosphere (심플 어레인지)",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-hair-0019",
+            "name": "Atmosphere (심플 어레인지)",
+            "description": "【Atmosphere】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 5월에서 획득"
+        },
+        {
+            "id": "costume_head_kllj-hair-0024",
+            "name": "Atmosphere (포인트 컬러 어레인지)",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 9월에서 획득"
+        },
+        {
+            "id": "costume_head_kllj-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_nasr-casl-0000",
+            "name": "평소의 헤어스타일",
+            "description": ""
+        },
+        {
+            "id": "costume_head_nasr-hair-0004",
+            "name": "고양이 귀",
+            "description": "고양이귀(네오 아사리)를 구매"
+        },
+        {
+            "id": "costume_head_nasr-hair-0005",
+            "name": "스퀘어 안경",
+            "description": "스퀘어 안경(네오 아사리)를 입수"
+        },
+        {
+            "id": "costume_head_nasr-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "티어드롭 글라스(네오 아사리)를 구매"
+        },
+        {
+            "id": "costume_head_shro-casl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_shro-cstm-0006",
+            "name": "광경",
+            "description": "【광경】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0031",
+            "name": "콘트라스트",
+            "description": "【콘트라스트】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0047",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】시노사와 히로를 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0048",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시노사와 히로를 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0063",
+            "name": "관국",
+            "description": "【광경】'24 축제 시노사와 히로를 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0065",
+            "name": "좀비 유니폼",
+            "description": "좀비 유니폼 (시노사와 히로) 을 구입"
+        },
+        {
+            "id": "costume_head_shro-cstm-0088",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0089",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0120",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0121",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_shro-hair-0002",
+            "name": "공주님 티아라",
+            "description": "시노사와 히로의 아이돌 길 스테이지 20 클리어"
+        },
+        {
+            "id": "costume_head_shro-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 8월에 획득 등"
+        },
+        {
+            "id": "costume_head_shro-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_shro-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_shro-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
+        },
+        {
+            "id": "costume_head_shro-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 9월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_shro-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_shro-hair-0011",
+            "name": "선 페이디드(심플 어레인지)",
+            "description": "【선 페이디드】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 4월에서 획득"
+        },
+        {
+            "id": "costume_head_shro-hair-0031",
+            "name": "선 페이디드 (포인트 컬러 어레인지)",
+            "description": "【선 페이디드】시노사와 히로를 입수"
+        },
+        {
+            "id": "costume_head_shro-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 8월에서 획득"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0009",
+            "name": "Tame-Lie-One-Step",
+            "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0039",
+            "name": "숨겨진 나",
+            "description": "【숨겨진 나】시운 스미카를 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0043",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0044",
+            "name": "너와 세미블루",
+            "description": "【너와 세미블루】 시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시운 스미카를 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0063",
+            "name": "관국",
+            "description": "【Tame-Lie-One-Step】 '24제 시운 스미카 획득"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【Tame-Lie-One-Step】'24 할로윈 시운 스미카를 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0079",
+            "name": "벚꽃 포토그래프",
+            "description": "【벚꽃 포토그래프】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0096",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0097",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0133",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0134",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0002",
+            "name": "공주님 티아라",
+            "description": "시운 스미카의 아이돌 길 스테이지 20 클리어"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 8월 에서 획득 등"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 7월에서 획득 등"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 1월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0010",
+            "name": "Love & Joy (평소의 메이크업)",
+            "description": "【Love & Joy】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 5월에서 획득"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0030",
+            "name": "Love & Joy (포인트 컬러 어레인지)",
+            "description": "【Love & Joy】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 9월에서 획득"
+        },
+        {
+            "id": "costume_head_ssmk-schl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_ttmr-casl-0000",
+            "name": "평소의 헤어스타일",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0003",
+            "name": "Luna say maybe",
+            "description": "【Luna say maybe】 츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0025",
+            "name": "아이비",
+            "description": "【아이비】 츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0047",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】츠키무라 테마리를 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0048",
+            "name": "가장광소곡",
+            "description": "【가장광소곡】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】츠키무라 테마리를 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0063",
+            "name": "관국",
+            "description": "【Luna say maybe】'24 축제 츠키무라 테마리 획득"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0065",
+            "name": "좀비 유니폼",
+            "description": "좀비 유니폼 (츠키무라 테마리) 을 구입"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0073",
+            "name": "백금의 빛",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0084",
+            "name": "대체 언제부터",
+            "description": "【대체 언제부터】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0112",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0113",
+            "name": "비 갠 뒤의 아이리스",
+            "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리의 재능 개화 4단계째에서 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0173",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0174",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0002",
+            "name": "공주님 티아라",
+            "description": "츠키무라 테마리의 아이돌 길 스테이지 20 클리어"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0003",
+            "name": "둥근 안경",
+            "description": "프리미엄 미션 패스 2024년 9월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0004",
+            "name": "고양이 귀",
+            "description": "프리미엄 미션 패스 2024년 11월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "프리미엄 미션 패스 2025년 2월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월에서 획득 가능 등"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 3월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0025",
+            "name": "대체 언제부터 (포인트 컬러 어레인지)",
+            "description": "【대체 언제부터】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 7월에서 획득"
+        }
+    ]
+}

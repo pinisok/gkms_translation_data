@@ -1,0 +1,29 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "shop_costume",
+            "name": "의상"
+        },
+        {
+            "id": "shop_jewel",
+            "name": "쥬얼"
+        },
+        {
+            "id": "shop_pack",
+            "name": "팩"
+        },
+        {
+            "id": "shop_pass",
+            "name": "패스"
+        },
+        {
+            "id": "shop_webstore",
+            "name": "외부 결제"
+        }
+    ]
+}

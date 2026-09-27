@@ -1,0 +1,1129 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "shop_costume_amao-cstm-0069_revival-1",
+            "name": "차일드 스모크 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_amao-cstm-0076",
+            "name": "히나마츠리 기모노 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_amao-cstm-0111",
+            "name": "세일러 수영복 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_amao-othr-0002-resale",
+            "name": "온천용 수영복(아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_amao-trng-0002",
+            "name": "하츠보시 학원 체육복 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_amao-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_atbm-cstm-0069",
+            "name": "차일드 스모크(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_atbm-cstm-0111",
+            "name": "세일러 수영복(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_atbm-othr-0002",
+            "name": "온천용 수영복(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_atbm-trng-0002",
+            "name": "하츠보시 학원 체육복(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_amao-hair-0001",
+            "name": "수국 꽃 머리 장식 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_costume_head_amao-hair-0003",
+            "name": "라운드 안경 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_costume_head_amao-hair-0004",
+            "name": "고양이 귀(아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_costume_head_amao-hair-0006",
+            "name": "하츠미☆악세서리(아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_costume_head_amao-hair-0007",
+            "name": "티어드롭 글래스 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0001",
+            "name": "수국 머리 꽃 장식(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0003",
+            "name": "둥근 안경(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0004",
+            "name": "고양이 귀(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0006",
+            "name": "하츠미☆액세서리(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0007",
+            "name": "티어드롭 글래스(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0008",
+            "name": "개 귀(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0001",
+            "name": "수국 꽃 머리 장식 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0003",
+            "name": "라운드 안경 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0004",
+            "name": "고양이 귀 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0006",
+            "name": "하츠미☆액세서리(후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0007",
+            "name": "티어드롭 글라스 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0008",
+            "name": "개 귀(후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0001",
+            "name": "수국 꽃 머리 장식 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0003",
+            "name": "라운드 안경 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0004",
+            "name": "네코미미 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0006",
+            "name": "하츠미☆액세서리 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0007",
+            "name": "티어드롭 글래스 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0008",
+            "name": "개 귀(하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0001",
+            "name": "수국 꽃 머리 장식 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0003",
+            "name": "라운드 안경 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0004",
+            "name": "고양이 귀(히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0006",
+            "name": "하츠미☆악세서리(히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0007",
+            "name": "티어드롭 글래스 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0001",
+            "name": "수국 꽃 머리 장식 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0003",
+            "name": "라운드 안경 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0004",
+            "name": "고양이 귀 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0006",
+            "name": "하츠미☆액세서리(하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0007",
+            "name": "티어드롭 글라스 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0008",
+            "name": "개 귀(하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hume-hair-0001",
+            "name": "수국 꽃 머리 장식 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_costume_head_hume-hair-0003",
+            "name": "라운드 안경 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_costume_head_hume-hair-0004",
+            "name": "고양이 귀(하나미 우메)"
+        },
+        {
+            "id": "shop_costume_costume_head_hume-hair-0006",
+            "name": "하츠미☆액세서리(하나미 우메)"
+        },
+        {
+            "id": "shop_costume_costume_head_hume-hair-0007",
+            "name": "티어드롭 글래스 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_costume_head_hume-hair-0008",
+            "name": "개 귀(하나미 우메)"
+        },
+        {
+            "id": "shop_costume_costume_head_jsna-hair-0001",
+            "name": "수국 꽃 머리 장식 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_costume_head_jsna-hair-0003",
+            "name": "라운드 안경 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_costume_head_jsna-hair-0004",
+            "name": "고양이 귀(주오 세나)"
+        },
+        {
+            "id": "shop_costume_costume_head_jsna-hair-0006",
+            "name": "하츠미☆액세서리(주오 세나)"
+        },
+        {
+            "id": "shop_costume_costume_head_jsna-hair-0007",
+            "name": "티어드롭 글라스 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_costume_head_jsna-hair-0008",
+            "name": "개 귀(주오 세나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0001",
+            "name": "수국 꽃 머리 장식 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0003",
+            "name": "라운드 안경 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0004",
+            "name": "고양이 귀(쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0006",
+            "name": "하츠미☆액세서리(쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0007",
+            "name": "티어드롭 글래스 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0008",
+            "name": "개 귀(쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kllj-hair-0001",
+            "name": "수국 꽃 머리 장식 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_costume_head_kllj-hair-0003",
+            "name": "라운드 안경 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_costume_head_kllj-hair-0004",
+            "name": "고양이 귀(카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_costume_head_kllj-hair-0006",
+            "name": "하츠미☆악세서리(카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_costume_head_kllj-hair-0007",
+            "name": "티어드롭 글래스 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_costume_head_nasr-hair-0004",
+            "name": "고양이귀(네오 아사리)"
+        },
+        {
+            "id": "shop_costume_costume_head_nasr-hair-0005_revival-1",
+            "name": "스퀘어 안경 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_costume_head_nasr-hair-0007",
+            "name": "티어드롭 글라스(네오 아사리)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0001",
+            "name": "수국 꽃 머리 장식 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0003",
+            "name": "라운드 안경 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0004",
+            "name": "고양이 귀(시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0006",
+            "name": "하츠미☆액세서리(시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0007",
+            "name": "티어드롭 글래스 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0008",
+            "name": "개 귀(시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0001",
+            "name": "수국 꽃 머리 장식 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0003",
+            "name": "라운드 안경 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0004",
+            "name": "고양이 귀(시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0006",
+            "name": "하츠미☆악세서리(시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0007",
+            "name": "티어드롭 글래스 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0001",
+            "name": "수국 꽃 머리 장식 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0003",
+            "name": "라운드 안경 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0004",
+            "name": "고양이 귀 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0006",
+            "name": "하츠미☆액세서리(츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0007",
+            "name": "티어드롭 글라스 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0008",
+            "name": "개 귀(츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_fktn-cstm-0063",
+            "name": "축제 핫피 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_fktn-cstm-0069_revival-1",
+            "name": "차일드 스모크 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_fktn-cstm-0111",
+            "name": "세일러 수영복 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_fktn-othr-0002-resale",
+            "name": "온천용 수영복(후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_fktn-trng-0002",
+            "name": "하츠보시 학원 체육복 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_fktn-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_hmsz-cstm-0069",
+            "name": "차일드 스모크 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-cstm-0111",
+            "name": "세일러 수영복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-othr-0002",
+            "name": "온천용 수영복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-othr-0002-resale",
+            "name": "온천용 수영복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-trng-0002",
+            "name": "하츠보시 학원 체육복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hrnm-cstm-0051",
+            "name": "후드 수영복 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_hrnm-cstm-0069_revival-1",
+            "name": "차일드 스모크 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_hrnm-cstm-0075",
+            "name": "하트 앞치마 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_hrnm-cstm-0111",
+            "name": "세일러 수영복 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_hrnm-trng-0002",
+            "name": "하츠보시 학원 체육복 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_hrnm-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_hski-cstm-0069_revival-1",
+            "name": "차일드 스모크 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-cstm-0081",
+            "name": "벚꽃 세일러 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-cstm-0111",
+            "name": "세일러 수영복 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-othr-0002-resale",
+            "name": "온천용 수영복 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-trng-0002",
+            "name": "하츠보시 학원 체육복 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hume-cstm-0067",
+            "name": "산타 케이프(하나미 우메)"
+        },
+        {
+            "id": "shop_costume_hume-cstm-0069",
+            "name": "차일드 스모크 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_hume-cstm-0069_revival-1",
+            "name": "차일드 스모크 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_hume-cstm-0111",
+            "name": "세일러 수영복 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_hume-trng-0002",
+            "name": "하츠보시 학원 체육복 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_hume-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_jsna-cstm-0069",
+            "name": "차일드 스모크 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_jsna-cstm-0069_revival-1",
+            "name": "차일드 스모크 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_jsna-cstm-0075",
+            "name": "하트 앞치마 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_jsna-cstm-0111",
+            "name": "세일러 수영복 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_jsna-othr-0002",
+            "name": "온천용 수영복 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_jsna-othr-0002-resale",
+            "name": "온천용 수영복 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_jsna-trng-0002",
+            "name": "하츠보시 학원 체육복 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_jsna-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (주오 세나)"
+        },
+        {
+            "id": "shop_costume_kcna-cstm-0069_revival-1",
+            "name": "차일드 스모크 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kcna-cstm-0076",
+            "name": "히나마츠리 기모노 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kcna-cstm-0111",
+            "name": "세일러 수영복 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kcna-cstm-0118",
+            "name": "외침을 전하는 슈트(쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kcna-trng-0002",
+            "name": "하츠보시 학원 체육복 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kcna-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0063",
+            "name": "축제 핫피 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0067",
+            "name": "산타 케이프(카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0069_revival-1",
+            "name": "차일드 스모크 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0111",
+            "name": "세일러 수영복 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0118",
+            "name": "외침을 전하는 슈트(카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-othr-0002-resale",
+            "name": "온천용 수영복(카츠라 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-trng-0002",
+            "name": "하츠보시 학원 체육복 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0069",
+            "name": "차일드 스모크 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0069_revival-1",
+            "name": "차일드 스모크 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0111",
+            "name": "세일러 수영복(네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0135",
+            "name": "티셔츠 수영복 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0135_revival-1",
+            "name": "티셔츠 수영복 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-hair-0005",
+            "name": "스퀘어 안경 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_shro-cstm-0065",
+            "name": "좀비 유니폼 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_shro-cstm-0069_revival-1",
+            "name": "차일드 스모크 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_shro-cstm-0111",
+            "name": "세일러 수영복 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_shro-othr-0002-resale",
+            "name": "온천용 수영복(시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_shro-trng-0002",
+            "name": "하츠보시 학원 체육복 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_shro-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_ssmk-cstm-0051",
+            "name": "후드 수영복 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ssmk-cstm-0069_revival-1",
+            "name": "차일드 스모크 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ssmk-cstm-0081",
+            "name": "벚꽃 세일러 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ssmk-cstm-0111",
+            "name": "세일러 수영복 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ssmk-othr-0002-resale",
+            "name": "온천용 수영복 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ssmk-trng-0002",
+            "name": "하츠보시 학원 체육복 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ssmk-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_ttmr-cstm-0065",
+            "name": "좀비 유니폼 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-cstm-0069_revival-1",
+            "name": "차일드 스모크 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-cstm-0111",
+            "name": "세일러 수영복 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-othr-0002-resale",
+            "name": "온천용 수영복(츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-trng-0002",
+            "name": "하츠보시 학원 체육복 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_jewel_item-0001",
+            "name": "쥬얼 80개"
+        },
+        {
+            "id": "shop_jewel_item-0002",
+            "name": "쥬얼 360개"
+        },
+        {
+            "id": "shop_jewel_item-0003",
+            "name": "쥬얼 600개"
+        },
+        {
+            "id": "shop_jewel_item-0004",
+            "name": "쥬얼 1,200개"
+        },
+        {
+            "id": "shop_jewel_item-0005",
+            "name": "쥬얼 2,500개"
+        },
+        {
+            "id": "shop_jewel_item-0006",
+            "name": "쥬얼 4,000개"
+        },
+        {
+            "id": "shop_jewel_item-0007",
+            "name": "쥬얼 8,200개"
+        },
+        {
+            "id": "shop_jewel_item-0008",
+            "name": "【1회 한정 특가!】쥬얼 12,300개 (6/28까지)"
+        },
+        {
+            "id": "shop_jewel_item-0009",
+            "name": "【1회 한정 특가!】쥬얼 450개 (6/28까지)"
+        },
+        {
+            "id": "shop_jewel_item-0010",
+            "name": "【1회 한정 특가!】쥬얼 6,000개 (6/28까지)"
+        },
+        {
+            "id": "shop_jewel_item-0011",
+            "name": "【투어 기념 1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0014",
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0015",
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0016",
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0017",
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0018",
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0019",
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0020",
+            "name": "【1회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0021",
+            "name": "【1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0023",
+            "name": "【1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0024",
+            "name": "【1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0025",
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0026",
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0030",
+            "name": "【1회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0032",
+            "name": "【1회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0033",
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0038",
+            "name": "【1회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0039",
+            "name": "【360° 라이브 추가 기념 1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_pack_atbm-0001",
+            "name": "【72시간 한정】프로듀스 아이돌 피스팩 (츠바메)"
+        },
+        {
+            "id": "shop_pack_hmsz-0001",
+            "name": "【72시간 한정】프로듀스 아이돌 피스팩 (미스즈)"
+        },
+        {
+            "id": "shop_pack_hume-0001",
+            "name": "【72시간 한정】프로듀스 아이돌 피스팩 (우메)"
+        },
+        {
+            "id": "shop_pack_item-0001",
+            "name": "【24기간 한정】입학 기념팩"
+        },
+        {
+            "id": "shop_pack_item-0002",
+            "name": "【14일 한정】신입 프로듀서 응원팩"
+        },
+        {
+            "id": "shop_pack_item-0003",
+            "name": "매주 지급! 하츠보시 팩"
+        },
+        {
+            "id": "shop_pack_item-0004",
+            "name": "매주 갱신! 육성 팩"
+        },
+        {
+            "id": "shop_pack_item-0005",
+            "name": "매월 갱신! 육성 팩"
+        },
+        {
+            "id": "shop_pack_item-0006",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩 (사키)"
+        },
+        {
+            "id": "shop_pack_item-0007",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(테마리)"
+        },
+        {
+            "id": "shop_pack_item-0008",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(코토네)"
+        },
+        {
+            "id": "shop_pack_item-0009",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(마오)"
+        },
+        {
+            "id": "shop_pack_item-0010",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(릴리야)"
+        },
+        {
+            "id": "shop_pack_item-0011",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(치나)"
+        },
+        {
+            "id": "shop_pack_item-0012",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(스미카)"
+        },
+        {
+            "id": "shop_pack_item-0013",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(히로)"
+        },
+        {
+            "id": "shop_pack_item-0014",
+            "name": "【72시간 한정】프로듀스 아이돌 피스 팩(리나미)"
+        },
+        {
+            "id": "shop_pack_item-0050",
+            "name": "하츠보시 운동회 개최 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-0057",
+            "name": "1.5주년 기념 아이돌 팩"
+        },
+        {
+            "id": "shop_pack_item-0058",
+            "name": "1.5주년 기념 서포트 팩"
+        },
+        {
+            "id": "shop_pack_item-0061",
+            "name": "1.5주년 기념 시즌 팩"
+        },
+        {
+            "id": "shop_pack_item-0062",
+            "name": "MOIW2025 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-0063",
+            "name": "TVCM 방영 기념 육성 실속 팩 A"
+        },
+        {
+            "id": "shop_pack_item-0064",
+            "name": "TVCM 방영 기념 육성 실속 팩 B"
+        },
+        {
+            "id": "shop_pack_item-0067",
+            "name": "2nd 애니버서리 아이돌 팩"
+        },
+        {
+            "id": "shop_pack_item-0068",
+            "name": "2nd 애니버서리 서포트 팩"
+        },
+        {
+            "id": "shop_pack_item-0069",
+            "name": "2nd 애니버서리 라이브 투어 SSR P아이돌 확정 팩"
+        },
+        {
+            "id": "shop_pack_item-0071",
+            "name": "The 2nd Period H.I.F 선발시험 개최 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-100dl",
+            "name": "[100만 DL 기념] 육성 팩 (6/28까지)"
+        },
+        {
+            "id": "shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
+            "name": "The 1st Period Harmony Star 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-1stPeriodSpotlightStar-selection-ticket",
+            "name": "The 1st Period Spotlight Star 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-300dl-selection-ticket-pack",
+            "name": "300만 DL 기념팩"
+        },
+        {
+            "id": "shop_pack_item-66",
+            "name": "2nd 애니버서리 전야제 팩"
+        },
+        {
+            "id": "shop_pack_item-aniversary-selection-ticket",
+            "name": "1st 애니버서리 전야제 팩"
+        },
+        {
+            "id": "shop_pack_item-childsmock-01",
+            "name": "[100만 DL 기념] 차일드 스모크 팩 A (6/28까지)"
+        },
+        {
+            "id": "shop_pack_item-childsmock-02",
+            "name": "[100만 DL 기념] 차일드 스모크 팩 B (6/28까지)"
+        },
+        {
+            "id": "shop_pack_item-childsmock-03",
+            "name": "[100만 DL 기념] 차일드 스모크 팩 C (6/28까지)"
+        },
+        {
+            "id": "shop_pack_item-daily-AP-0001",
+            "name": "매일 갱신!AP팩"
+        },
+        {
+            "id": "shop_pack_item-first-live_001",
+            "name": "첫 목소리 공연 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-first-live_002",
+            "name": "초심 공연 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-first-live_003",
+            "name": "첫사랑 공연 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-freshman-support-01",
+            "name": "신입생 응원! SSR P아이돌 확정 가샤 & 특훈팩"
+        },
+        {
+            "id": "shop_pack_item-half-aniversary-selection-ticket",
+            "name": "반주년 전야제 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-monthly-0002",
+            "name": "매월 갱신! 육성 팩"
+        },
+        {
+            "id": "shop_pack_item-monthly-0002_re01",
+            "name": "매월 갱신! 육성 팩"
+        },
+        {
+            "id": "shop_pack_item-newyear_2500_01",
+            "name": "복주머니 팩2025은"
+        },
+        {
+            "id": "shop_pack_item-newyear_2500_02",
+            "name": "복주머니 팩 2026 은"
+        },
+        {
+            "id": "shop_pack_item-newyear_5000_01",
+            "name": "복주머니 팩2025금"
+        },
+        {
+            "id": "shop_pack_item-newyear_5000_02",
+            "name": "복주머니 팩 2026 금"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-amao",
+            "name": "온천용 수영복(아리무라 마오)"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-fktn",
+            "name": "온천용 수영복(후지타 코토네)"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-hski",
+            "name": "온천용 수영복 (하나미 사키)"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-kllj",
+            "name": "온천용 수영복(카츠라 릴리야)"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-shro",
+            "name": "온천용 수영복(시노사와 히로)"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-ssmk",
+            "name": "온천용 수영복 (시운 스미카)"
+        },
+        {
+            "id": "shop_pack_item-onsen-costume-ttmr",
+            "name": "온천용 수영복(츠키무라 테마리)"
+        },
+        {
+            "id": "shop_pack_item-pre1.5anniversary-selection-ticket",
+            "name": "1.5th 애니버서리 전야제 팩"
+        },
+        {
+            "id": "shop_pack_item-weekly-0002",
+            "name": "매주 갱신! 육성 팩"
+        },
+        {
+            "id": "shop_pack_jsna-0001",
+            "name": "【72시간 한정】프로듀스 아이돌피스팩(세나)"
+        },
+        {
+            "id": "shop_pass_item-0001",
+            "name": "프리미엄 미션 패스 2024년 5월"
+        },
+        {
+            "id": "shop_pass_item-0002",
+            "name": "프리미엄 미션 패스 2024년 6월"
+        },
+        {
+            "id": "shop_pass_item-0003",
+            "name": "프리미엄 미션 패스 2024년 7월"
+        },
+        {
+            "id": "shop_pass_item-0004",
+            "name": "프리미엄 미션 패스 2024년 8월"
+        },
+        {
+            "id": "shop_pass_item-0005",
+            "name": "프리미엄 미션 패스 2024년 9월"
+        },
+        {
+            "id": "shop_pass_item-0006",
+            "name": "프리미엄 미션 패스 2024년 10월"
+        },
+        {
+            "id": "shop_pass_item-0007",
+            "name": "프리미엄 미션 패스 2024년 11월"
+        },
+        {
+            "id": "shop_pass_item-0008",
+            "name": "프리미엄 미션 패스 2024년 12월"
+        },
+        {
+            "id": "shop_pass_item-0009",
+            "name": "프리미엄 미션 패스 2025년 1월"
+        },
+        {
+            "id": "shop_pass_item-0010",
+            "name": "프리미엄 미션 패스 2025년 2월"
+        },
+        {
+            "id": "shop_pass_item-0011",
+            "name": "프리미엄 미션 패스 2025년 3월"
+        },
+        {
+            "id": "shop_pass_item-0012",
+            "name": "프리미엄 미션 패스 2025년 4월"
+        },
+        {
+            "id": "shop_pass_item-0013",
+            "name": "프리미엄 미션 패스 2025년 5월"
+        },
+        {
+            "id": "shop_pass_item-0014",
+            "name": "프리미엄 미션 패스 2025년 6월"
+        },
+        {
+            "id": "shop_pass_item-0015",
+            "name": "프리미엄 미션 패스 2025년 7월"
+        },
+        {
+            "id": "shop_pass_item-0016",
+            "name": "프리미엄 미션 패스 2025년 8월"
+        },
+        {
+            "id": "shop_pass_item-0017",
+            "name": "프리미엄 미션 패스 2025년 9월"
+        },
+        {
+            "id": "shop_pass_item-0018",
+            "name": "프리미엄 미션 패스 2025년 10월"
+        },
+        {
+            "id": "shop_pass_item-0019",
+            "name": "프리미엄 미션 패스 2025년 11월"
+        },
+        {
+            "id": "shop_pass_item-0020",
+            "name": "프리미엄 미션 패스 2025년 12월"
+        },
+        {
+            "id": "shop_pass_item-0021",
+            "name": "프리미엄 미션 패스 2026년 1월"
+        },
+        {
+            "id": "shop_pass_item-0022",
+            "name": "프리미엄 미션 패스 2026년 2월"
+        },
+        {
+            "id": "shop_pass_item-0023",
+            "name": "프리미엄 미션 패스 2026년 3월"
+        },
+        {
+            "id": "shop_pass_item-0024",
+            "name": "프리미엄 미션 패스 2026년 4월"
+        },
+        {
+            "id": "shop_pass_item-0025",
+            "name": "프리미엄 미션 패스 2026년 5월"
+        },
+        {
+            "id": "shop_pass_item-0026",
+            "name": "프리미엄 미션 패스 2026년 6월"
+        },
+        {
+            "id": "shop_pass_item-0027",
+            "name": "프리미엄 미션 패스 2026년 7월"
+        },
+        {
+            "id": "shop_pass_item-0028",
+            "name": "프리미엄 미션 패스 2026년 8월"
+        },
+        {
+            "id": "shop_pass_item-0029",
+            "name": "프리미엄 미션 패스 2026년 9월"
+        }
+    ]
+}

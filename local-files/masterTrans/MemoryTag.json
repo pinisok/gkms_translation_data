@@ -1,0 +1,105 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "memory_tag_01",
+            "defaultName": "보컬"
+        },
+        {
+            "id": "memory_tag_02",
+            "defaultName": "댄스"
+        },
+        {
+            "id": "memory_tag_03",
+            "defaultName": "비주얼"
+        },
+        {
+            "id": "memory_tag_04",
+            "defaultName": "태그 1"
+        },
+        {
+            "id": "memory_tag_05",
+            "defaultName": "태그 2"
+        },
+        {
+            "id": "memory_tag_06",
+            "defaultName": "태그 3"
+        },
+        {
+            "id": "memory_tag_07",
+            "defaultName": "태그 4"
+        },
+        {
+            "id": "memory_tag_08",
+            "defaultName": "센스"
+        },
+        {
+            "id": "memory_tag_09",
+            "defaultName": "로직"
+        },
+        {
+            "id": "memory_tag_10",
+            "defaultName": "체력"
+        },
+        {
+            "id": "memory_tag_11",
+            "defaultName": "P포인트"
+        },
+        {
+            "id": "memory_tag_12",
+            "defaultName": "콘테스트"
+        },
+        {
+            "id": "memory_tag_13",
+            "defaultName": "프로듀스"
+        },
+        {
+            "id": "memory_tag_14",
+            "defaultName": "호조"
+        },
+        {
+            "id": "memory_tag_15",
+            "defaultName": "집중"
+        },
+        {
+            "id": "memory_tag_16",
+            "defaultName": "호인상"
+        },
+        {
+            "id": "memory_tag_17",
+            "defaultName": "의욕"
+        },
+        {
+            "id": "memory_tag_18",
+            "defaultName": "원기"
+        },
+        {
+            "id": "memory_tag_19",
+            "defaultName": "소비 체력 감소"
+        },
+        {
+            "id": "memory_tag_20",
+            "defaultName": "어노말리"
+        },
+        {
+            "id": "memory_tag_21",
+            "defaultName": "전력"
+        },
+        {
+            "id": "memory_tag_22",
+            "defaultName": "강기"
+        },
+        {
+            "id": "memory_tag_23",
+            "defaultName": "온존"
+        },
+        {
+            "id": "memory_tag_24",
+            "defaultName": "성장효과"
+        }
+    ]
+}

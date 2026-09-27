@@ -1,0 +1,134 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "characterId"
+        ]
+    },
+    "data": [
+        {
+            "characterId": "amao",
+            "name": "아리무라 마오",
+            "regexp": "아마야$"
+        },
+        {
+            "characterId": "andk",
+            "name": "아오이 나데시코",
+            "regexp": "나데시코"
+        },
+        {
+            "characterId": "atbm",
+            "name": "아마야 츠바메",
+            "regexp": "츠바메$"
+        },
+        {
+            "characterId": "fktn",
+            "name": "후지타 코토네",
+            "regexp": "코토네$"
+        },
+        {
+            "characterId": "gkgt",
+            "name": "고쿠게츠 학원",
+            "regexp": "고쿠게츠 학원"
+        },
+        {
+            "characterId": "hmsz",
+            "name": "하타야 미스즈",
+            "regexp": "미스즈$"
+        },
+        {
+            "characterId": "hrnm",
+            "name": "히메사키 리나미",
+            "regexp": "리나미$"
+        },
+        {
+            "characterId": "hski",
+            "name": "하나미 사키",
+            "regexp": "사키$"
+        },
+        {
+            "characterId": "hume",
+            "name": "하나미 우메",
+            "regexp": "우메$"
+        },
+        {
+            "characterId": "jkno",
+            "name": "주오 쿠니오",
+            "regexp": "쿠니오"
+        },
+        {
+            "characterId": "jsna",
+            "name": "주오 세나",
+            "regexp": "세나$"
+        },
+        {
+            "characterId": "kcna",
+            "name": "쿠라모토 치나",
+            "regexp": "치나$"
+        },
+        {
+            "characterId": "kllj",
+            "name": "카츠라기 릴리야",
+            "regexp": "릴리야$"
+        },
+        {
+            "characterId": "krnh",
+            "name": "카야 린하",
+            "regexp": "린하$"
+        },
+        {
+            "characterId": "ktko",
+            "name": "쿠로이 타카오",
+            "regexp": "타카오"
+        },
+        {
+            "characterId": "myu0",
+            "name": "마시로 유우",
+            "regexp": "유우"
+        },
+        {
+            "characterId": "nasr",
+            "name": "네오 아사리",
+            "regexp": "아사리 선생"
+        },
+        {
+            "characterId": "sgka",
+            "name": "시라쿠사 겟카",
+            "regexp": "겟카"
+        },
+        {
+            "characterId": "shro",
+            "name": "시노사와 히로",
+            "regexp": "히로$"
+        },
+        {
+            "characterId": "ssmk",
+            "name": "시운 스미카",
+            "regexp": "스미카$"
+        },
+        {
+            "characterId": "sson",
+            "name": "시라쿠사 시온",
+            "regexp": "시온"
+        },
+        {
+            "characterId": "trda",
+            "name": "댄스 트레이너",
+            "regexp": "댄스 트레이너"
+        },
+        {
+            "characterId": "trvi",
+            "name": "비주얼 트레이너",
+            "regexp": "비주얼 트레이너"
+        },
+        {
+            "characterId": "trvo",
+            "name": "보컬 트레이너",
+            "regexp": "보컬 트레이너"
+        },
+        {
+            "characterId": "ttmr",
+            "name": "츠키무라 테마리",
+            "regexp": "테마리$"
+        }
+    ]
+}
