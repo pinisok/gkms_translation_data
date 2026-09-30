@@ -11,6 +11,15 @@
         {
             "tutorialType": "TutorialType_GameStart",
             "idolCardId": "",
+            "step": 6,
+            "subStep": 1,
+            "texts": [
+                "레슨 클리어를 축하합니다! \n레슨 목표를 달성하면 \n보상을 획득할 수 있어요!"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
@@ -28,15 +37,6 @@
             "step": 3,
             "subStep": 1,
             "texts": []
-        },
-        {
-            "tutorialType": "TutorialType_GameStart",
-            "idolCardId": "",
-            "step": 6,
-            "subStep": 1,
-            "texts": [
-                "레슨 클리어를 축하합니다! \n레슨 목표를 달성하면 \n보상을 획득할 수 있어요!"
-            ]
         },
         {
             "tutorialType": "TutorialType_GameStart",

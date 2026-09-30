@@ -61,6 +61,11 @@
             "description": "뽑기"
         },
         {
+            "id": "box-gasha-event-022_box_01_button",
+            "name": "引く",
+            "description": "引く"
+        },
+        {
             "id": "coin_gasha_button-1-001",
             "name": "1회 뽑기",
             "description": "1회 뽑기"

@@ -66,6 +66,10 @@
             "name": "티어드롭 글래스 (아리무라 마오)"
         },
         {
+            "id": "shop_costume_costume_head_amao-hair-0008",
+            "name": "イヌミミ（有村麻央）"
+        },
+        {
             "id": "shop_costume_costume_head_atbm-hair-0001",
             "name": "수국 머리 꽃 장식(아마야 츠바메)"
         },
@@ -156,6 +160,10 @@
         {
             "id": "shop_costume_costume_head_hrnm-hair-0007",
             "name": "티어드롭 글래스 (히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0008",
+            "name": "イヌミミ（姫崎莉波）"
         },
         {
             "id": "shop_costume_costume_head_hski-hair-0001",
@@ -274,6 +282,10 @@
             "name": "티어드롭 글래스 (카츠라기 릴리야)"
         },
         {
+            "id": "shop_costume_costume_head_kllj-hair-0008",
+            "name": "イヌミミ（葛城リーリヤ）"
+        },
+        {
             "id": "shop_costume_costume_head_nasr-hair-0004",
             "name": "고양이귀(네오 아사리)"
         },
@@ -328,6 +340,10 @@
         {
             "id": "shop_costume_costume_head_ssmk-hair-0007",
             "name": "티어드롭 글래스 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0008",
+            "name": "イヌミミ（紫雲清夏）"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -1124,6 +1140,10 @@
         {
             "id": "shop_pass_item-0029",
             "name": "프리미엄 미션 패스 2026년 9월"
+        },
+        {
+            "id": "shop_pass_item-0030",
+            "name": "プレミアムミッションパス 2026年10月"
         }
     ]
 }

@@ -13,6 +13,42 @@
     },
     "data": [
         {
+            "id": "Description_LessonCountAdd_CountSection",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "("
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_Exam",
+                    "examDescriptionType": "ExamDescriptionType_CustomizeEffectCount",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ""
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "번)"
+                }
+            ],
+            "name": ""
+        },
+        {
             "id": "Convert_001",
             "produceDescriptions": [],
             "name": "레슨"
@@ -71,42 +107,6 @@
             "id": "Convert_StepLessonType_VocalLesson",
             "produceDescriptions": [],
             "name": "【보컬 레슨·보컬 턴일 때】"
-        },
-        {
-            "id": "Description_LessonCountAdd_CountSection",
-            "produceDescriptions": [
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "("
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_Exam",
-                    "examDescriptionType": "ExamDescriptionType_CustomizeEffectCount",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": ""
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "번)"
-                }
-            ],
-            "name": ""
         },
         {
             "id": "Description_ProduceCardIsInitial",
