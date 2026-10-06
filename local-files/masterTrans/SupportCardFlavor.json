@@ -1194,17 +1194,17 @@
         {
             "supportCardId": "s_card-2-0081",
             "number": 1,
-            "text": "さあ、姫。お手をどうぞ。"
+            "text": "자, 공주님. 손을 주시겠어요?"
         },
         {
             "supportCardId": "s_card-2-0081",
             "number": 2,
-            "text": "は、はい、お手柔らかに……！"
+            "text": "네, 네, 살살 부탁드려요……!"
         },
         {
             "supportCardId": "s_card-2-0081",
             "number": 3,
-            "text": "お手柔らかにはちょっと違うかなぁ……"
+            "text": "살살 부탁한다는 건 좀 아닌 것 같은데……"
         },
         {
             "supportCardId": "s_card-3-0000",
@@ -2879,17 +2879,17 @@
         {
             "supportCardId": "s_card-3-0111",
             "number": 1,
-            "text": "う～ん……どれにしようかなぁ……"
+            "text": "으~음……뭘로 할까……"
         },
         {
             "supportCardId": "s_card-3-0111",
             "number": 2,
-            "text": "咲季っち、これ似合うんじゃない？"
+            "text": "사키치, 이거 잘 어울리지 않아?"
         },
         {
             "supportCardId": "s_card-3-0111",
             "number": 3,
-            "text": "こ、こら！\n勝手につけるのはやめなさい！"
+            "text": "자, 잠깐!\n멋대로 씌우지 마!"
         }
     ]
 }

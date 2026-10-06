@@ -1511,10 +1511,10 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率中"
+                    "text": " / 확률 중"
                 }
             ],
-            "name": "冬のお姫様と王子様"
+            "name": "겨울의 공주님과 왕자님"
         },
         {
             "id": "s_card-3-0000",
@@ -3303,10 +3303,10 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率大"
+                    "text": " / 확률 대"
                 }
             ],
-            "name": "小悪魔になっちゃえ♪"
+            "name": "소악마가 되어 버려♪"
         }
     ]
 }

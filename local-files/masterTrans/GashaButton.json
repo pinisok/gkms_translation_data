@@ -75,8 +75,8 @@
         {
             "id": "gasha_button_merge-ssr-01020",
             "order": 1,
-            "name": "有償10回ガシャ",
-            "description": "有償10回ガシャ"
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
         },
         {
             "id": "gasha_button-001-01",
@@ -333,8 +333,8 @@
         {
             "id": "gasha_button-01020-wednesday-001-ticket-01",
             "order": 1,
-            "name": "チケットで引く",
-            "description": "チケットで引く"
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
         },
         {
             "id": "gasha_button-640-fes",

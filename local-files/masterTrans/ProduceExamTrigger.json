@@ -2166,7 +2166,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード使用後、手札の"
+                    "text": "스킬 카드 사용 후, 손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2178,7 +2178,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2190,7 +2190,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -2204,7 +2204,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2216,7 +2216,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2228,7 +2228,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、使用可"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -2242,7 +2242,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2254,7 +2254,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2266,7 +2266,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ]
         },
@@ -22281,7 +22281,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン終了時、手札の"
+                    "text": "턴 종료 시, 손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -22293,7 +22293,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22305,7 +22305,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -22319,7 +22319,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -22331,7 +22331,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22343,7 +22343,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、使用可"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22357,7 +22357,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -22369,7 +22369,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22381,7 +22381,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ]
         },
@@ -27861,7 +27861,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -27873,7 +27873,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27885,7 +27885,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、スキルカードを2回使用するごとに、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, 스킬 카드를 2회 사용할 때마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -27899,7 +27899,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -27911,7 +27911,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27923,7 +27923,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、使用可"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27937,7 +27937,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -27949,7 +27949,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27961,7 +27961,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ]
         },
@@ -28254,7 +28254,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamFullPower",
-                    "text": "全力"
+                    "text": "전력 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28266,7 +28266,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカードを2回使用するごとに、"
+                    "text": "효과의 스킬 카드를 2회 사용할 때마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -28280,7 +28280,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "の場合、使用可"
+                    "text": "일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -28294,7 +28294,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "の場合、"
+                    "text": "일 때, "
                 }
             ]
         },
@@ -47839,7 +47839,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -47851,7 +47851,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47863,7 +47863,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -47877,7 +47877,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -47889,7 +47889,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47901,7 +47901,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、使用可"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -47915,7 +47915,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "手札の"
+                    "text": "손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -47927,7 +47927,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-00-acc-0_002",
-                    "text": "眠気"
+                    "text": "졸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47939,7 +47939,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>1枚以上</nobr>の場合、"
+                    "text": "이 <nobr>1장 이상</nobr>일 때, "
                 }
             ]
         },
