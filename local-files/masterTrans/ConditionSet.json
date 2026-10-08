@@ -8155,47 +8155,47 @@
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "12月26日開始"
+            "description": "12월26일 시작"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "PLv9以上のユーザー"
+            "description": "PLv9 이상의 유저"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "N.I.A未開放"
+            "description": "N.I.A 미해금"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "既存の条件"
+            "description": "기존 조건"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "12月26日11時未ログイン30日以上"
+            "description": "12월26일11시 기준 미 로그인 30일 이상"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "P課題35達成か「N.I.A」に挑戦できる"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전할 수 있음"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "既存の条件"
+            "description": "기존 조건"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-03",
-            "description": "12月26日11時未ログイン30日未満ユーザー"
+            "description": "12월26일11시 기준 미 로그인 30일 미만 유저"
         },
         {
             "id": "cd-comeback-unlock_open-03",
-            "description": "既存の条件"
+            "description": "기존 조건"
         },
         {
             "id": "cd-comeback-unlock_open-03",
@@ -8203,23 +8203,23 @@
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "12月26日開始"
+            "description": "12월26일 시작"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "PLv9未満のユーザー"
+            "description": "PLv9 미만의 유저"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "N.I.A未開放"
+            "description": "N.I.A 미해금"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "既存の条件"
+            "description": "기존 조건"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-05",
@@ -10679,11 +10679,11 @@
         },
         {
             "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
-            "description": "プロデューサーLv50以上で解放"
+            "description": "프로듀서 Lv50 이상에서 해금"
         },
         {
             "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
-            "description": "いずれかのアイドルの親愛度Lv10で解放"
+            "description": "어떤 아이돌의 친애도 Lv10 에서 해금"
         },
         {
             "id": "cd-half-anniversary-2024",
@@ -13799,11 +13799,11 @@
         },
         {
             "id": "cd-pro_produce-view_open",
-            "description": "いずれかのアイドルの親愛度Lvを8にする"
+            "description": "어떤 아이돌의 친애도 Lv을 8로 올리기"
         },
         {
             "id": "cd-pro_produce-view_open",
-            "description": "初星課題55達成で開放"
+            "description": "하츠보시 과제 55 달성으로 해금"
         },
         {
             "id": "cd-produce_group-002-a-amao",
