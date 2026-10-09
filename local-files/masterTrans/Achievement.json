@@ -1536,6 +1536,36 @@
             "description": "【GO MY WAY!!】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hski-3-022-01",
+            "name": "스위트 트랩♡",
+            "description": "【Agitato】하나미 사키의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-02",
+            "name": "Agitato",
+            "description": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-03",
+            "name": "큰 그릇을 만들어 봐요",
+            "description": "【Agitato】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-04",
+            "name": "Agitato +",
+            "description": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-05",
+            "name": "Agitato ++",
+            "description": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-06",
+            "name": "Agitato +++",
+            "description": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hume-2-000-01",
             "name": "타도 언니",
             "description": "【아이돌, 시작!】하나미 우메의 프로듀스로 최종 시험에 합격"

@@ -6698,6 +6698,38 @@
             "name": "스킬 카드 「매혹적인 시선」 을 획득하고 프로듀스를 클리어하자"
         },
         {
+            "id": "mission-research-event-009-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-009-mission_10",
+            "name": "스킬 카드 「천진난만」을 획득하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-009-mission_11",
+            "name": "스킬 카드 「익사이트」를 획득하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-009-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-009-mission_2",
+            "name": "플랜: 로직 프로듀스 아이돌로 최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-research-event-009-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+        },
+        {
+            "id": "mission-research-event-009-mission_8",
+            "name": "스킬 카드 「국민적 아이돌」을 획득하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-009-mission_9",
+            "name": "스킬 카드 「매혹적인 시선」을 획득하고 프로듀스를 클리어하자"
+        },
+        {
             "id": "mission-story-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -8964,6 +8996,30 @@
         {
             "id": "achieve-i_card-hski-3-019-06",
             "name": "【GO MY WAY!!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-01",
+            "name": "【Agitato】하나미 사키의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-02",
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-03",
+            "name": "【Agitato】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-04",
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-05",
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-022-06",
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-2-000-01",

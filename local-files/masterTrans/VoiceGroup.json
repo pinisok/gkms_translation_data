@@ -6607,6 +6607,66 @@
             "title": "옷 갈아입기②(수영복)"
         },
         {
+            "id": "voice_group-cidol-hski-3-022_home",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022_home",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022_home",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-detail",
+            "voiceAssetId": "sud_vo_system_hski-cstm-0179_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-detail",
+            "voiceAssetId": "sud_vo_system_hski-cstm-0179_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hski-3-022-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hski-3-022_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-hume-1-000-detail",
             "voiceAssetId": "sud_vo_system_hume-schl-0000_01",
             "title": "옷 갈아입기①"
@@ -15455,6 +15515,16 @@
             "id": "voice_group-hski-cstm-0176-cmmn",
             "voiceAssetId": "sud_vo_system_hski-cstm-0176_02",
             "title": "「있잖아, 고백할게.」"
+        },
+        {
+            "id": "voice_group-hski-cstm-0179-cmmn",
+            "voiceAssetId": "sud_vo_system_hski-cstm-0179_01",
+            "title": "Agitato"
+        },
+        {
+            "id": "voice_group-hski-cstm-0179-cmmn",
+            "voiceAssetId": "sud_vo_system_hski-cstm-0179_02",
+            "title": "Agitato"
         },
         {
             "id": "voice_group-hski-othr-0002-cmmn",

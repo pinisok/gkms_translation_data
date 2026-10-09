@@ -187,6 +187,11 @@
             "title": "스킬 카드(SSR) 획득 시 파라미터 상승"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000-0008_0000",
+            "order": 44,
+            "title": "스킬 카드 획득 시 보유 중인 의욕 스킬 카드가 8장 이상일 때 파라미터 상승"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_full_power-000-0008_0000",
             "order": 40,
             "title": "스킬 카드 획득 시 보유 중인 전력 스킬 카드가 8장 이상일 때 파라미터 상승"

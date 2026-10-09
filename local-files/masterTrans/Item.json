@@ -888,6 +888,12 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-medal-research-event-009",
+            "name": "세미나 너구리",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-medal-story-event-001",
             "name": "나카요시 포퍼",
             "description": "이벤트 교환소에서 다양한 보상으로 교환 가능",
@@ -1408,6 +1414,12 @@
             "name": "[GO MY WAY!!] 하나미 사키의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hski-3-022",
+            "name": "[Agitato] 하나미 사키의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_hume-1-000",
@@ -2127,6 +2139,12 @@
             "id": "item-research-event-008",
             "name": "아사리 선생님 인감",
             "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-009",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 어빌리티 재추첨에 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {

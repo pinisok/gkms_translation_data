@@ -373,6 +373,12 @@
             "description": "10회 가챠"
         },
         {
+            "id": "gasha_button-free-ssr-anotheridol-01",
+            "order": 1,
+            "name": "1회 가챠",
+            "description": "1회 가챠"
+        },
+        {
             "id": "gasha_button-gasha-00970-stepup-001-01-003",
             "order": 1,
             "name": "스텝 1 3회",

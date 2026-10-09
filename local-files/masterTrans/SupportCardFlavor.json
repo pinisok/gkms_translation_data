@@ -1207,6 +1207,21 @@
             "text": "살살 부탁한다는 건 좀 아닌 것 같은데……"
         },
         {
+            "supportCardId": "s_card-2-0082",
+            "number": 1,
+            "text": "흐흥흐~응♪\n완성, 마오의 핼러윈 의상."
+        },
+        {
+            "supportCardId": "s_card-2-0082",
+            "number": 2,
+            "text": "저도 다 만들었어요.\n이제 가짜 피를 쓱쓱 바르면……"
+        },
+        {
+            "supportCardId": "s_card-2-0082",
+            "number": 3,
+            "text": "후후.\n우메쨩이 좋아해 주면 좋겠다."
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "자, 한 입 줄게!"
@@ -2890,6 +2905,21 @@
             "supportCardId": "s_card-3-0111",
             "number": 3,
             "text": "자, 잠깐!\n멋대로 씌우지 마!"
+        },
+        {
+            "supportCardId": "s_card-3-0112",
+            "number": 1,
+            "text": "이거, 늘 먹던\n그 호박이야?"
+        },
+        {
+            "supportCardId": "s_card-3-0112",
+            "number": 2,
+            "text": "응, 모양이 재미있지?"
+        },
+        {
+            "supportCardId": "s_card-3-0112",
+            "number": 3,
+            "text": "배가 고파지네……"
         }
     ]
 }
