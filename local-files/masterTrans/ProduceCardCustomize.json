@@ -1137,6 +1137,46 @@
             "description": "호조 추가"
         },
         {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_108-a-01",
+            "customizeCount": 1,
+            "description": "집중 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_108-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_108-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_108-c-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_113-a-01",
+            "customizeCount": 1,
+            "description": "호조 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_113-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_113-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-2_113-c-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
             "id": "p_card_custom-wrapper-p_card-01-act-3_184-a-01",
             "customizeCount": 1,
             "description": ""
@@ -1155,6 +1195,56 @@
             "id": "p_card_custom-wrapper-p_card-01-act-3_185-b-01",
             "customizeCount": 1,
             "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_026-a-01",
+            "customizeCount": 1,
+            "description": "파라미터 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_026-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_026-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_026-b-01",
+            "customizeCount": 3,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_026-c-01",
+            "customizeCount": 1,
+            "description": "호조 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_091-a-01",
+            "customizeCount": 1,
+            "description": "파라미터 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_091-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_091-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_091-b-01",
+            "customizeCount": 3,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-men-1_091-c-01",
+            "customizeCount": 1,
+            "description": "집중 추가"
         },
         {
             "id": "p_card_custom-wrapper-p_card-01-men-2_098-a-01",
@@ -1327,6 +1417,46 @@
             "description": ""
         },
         {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_044-a-01",
+            "customizeCount": 1,
+            "description": "의욕 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_044-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_044-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_044-c-01",
+            "customizeCount": 1,
+            "description": "호인상 당 파라미터 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_116-a-01",
+            "customizeCount": 1,
+            "description": "의욕 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_116-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_116-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-2_116-c-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
             "id": "p_card_custom-wrapper-p_card-02-act-3_186-a-01",
             "customizeCount": 1,
             "description": "원기 추가"
@@ -1370,6 +1500,56 @@
             "id": "p_card_custom-wrapper-p_card-02-men-1_076-c-01",
             "customizeCount": 1,
             "description": "레슨 중 1회\\n제한 제거"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_093-a-01",
+            "customizeCount": 1,
+            "description": "의욕 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_093-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_093-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_093-b-01",
+            "customizeCount": 3,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_093-c-01",
+            "customizeCount": 1,
+            "description": "호인상 당 파라미터 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_094-a-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_094-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_094-b-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_094-b-01",
+            "customizeCount": 3,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-men-1_094-c-01",
+            "customizeCount": 1,
+            "description": "원기 당 파라미터 추가"
         },
         {
             "id": "p_card_custom-wrapper-p_card-02-men-2_100-a-01",
@@ -1583,6 +1763,51 @@
         },
         {
             "id": "p_card_custom-wrapper-p_card-03-act-2_106-c-01",
+            "customizeCount": 1,
+            "description": "레슨 중 1회\\n제한 제거"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_118-a-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_118-a-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_118-b-01",
+            "customizeCount": 1,
+            "description": "성장 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_118-c-01",
+            "customizeCount": 1,
+            "description": "보류 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_120-a-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_120-a-01",
+            "customizeCount": 2,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_120-b-01",
+            "customizeCount": 1,
+            "description": "성장 추가"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_120-b-01",
+            "customizeCount": 2,
+            "description": "성장+"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-2_120-c-01",
             "customizeCount": 1,
             "description": "레슨 중 1회\\n제한 제거"
         },

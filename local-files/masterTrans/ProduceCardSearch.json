@@ -3793,6 +3793,36 @@
             ]
         },
         {
+            "id": "p_card_search-target-p_card-01-act-2_108-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-01-act-2_108",
+                    "text": "재시동"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-01-act-2_113-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-01-act-2_113",
+                    "text": "충동"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-target-p_card-01-ido-3_213",
             "produceDescriptions": [
                 {
@@ -3853,6 +3883,21 @@
             ]
         },
         {
+            "id": "p_card_search-target-p_card-01-men-1_026-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-01-men-1_026",
+                    "text": "경쟁 원리"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-target-p_card-01-men-1_034-for_hif_memory",
             "produceDescriptions": [
                 {
@@ -3864,6 +3909,21 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-men-1_034",
                     "text": "한숨"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-01-men-1_091-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-01-men-1_091",
+                    "text": "안정감"
                 }
             ]
         },
@@ -4153,6 +4213,21 @@
             ]
         },
         {
+            "id": "p_card_search-target-p_card-02-act-2_044-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-02-act-2_044",
+                    "text": "천사의 미소"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-target-p_card-02-act-2_045-for_hif_memory",
             "produceDescriptions": [
                 {
@@ -4239,6 +4314,21 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-2_062",
                     "text": "반짝반짝 색종이 "
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-02-act-2_116-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-02-act-2_116",
+                    "text": "신나는 스킵"
                 }
             ]
         },
@@ -4389,6 +4479,36 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_076",
                     "text": "이미지 체인지"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-02-men-1_093-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-02-men-1_093",
+                    "text": "메이크업"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-02-men-1_094-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-02-men-1_094",
+                    "text": "로맨틱"
                 }
             ]
         },
@@ -4884,6 +5004,36 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-2_106",
                     "text": "안단테"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-03-act-2_118-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-03-act-2_118",
+                    "text": "러시"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-target-p_card-03-act-2_120-for_hif_memory",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-03-act-2_120",
+                    "text": "부스트"
                 }
             ]
         },

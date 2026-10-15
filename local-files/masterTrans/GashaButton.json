@@ -355,6 +355,12 @@
             "description": "무제한 가챠"
         },
         {
+            "id": "gasha_button-free-1-01",
+            "order": 1,
+            "name": "무료 1회 가챠",
+            "description": "무료 1회"
+        },
+        {
             "id": "gasha_button-free-10-01",
             "order": 1,
             "name": "10회 가챠",
