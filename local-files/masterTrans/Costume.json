@@ -156,6 +156,11 @@
             "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 재능 개화 4단계 달성"
         },
         {
+            "id": "amao-cstm-0122",
+            "name": "최강의 스마일 스커트",
+            "description": "최강의 스마일 스커트(아리무라 마오) 구매"
+        },
+        {
             "id": "amao-cstm-0125",
             "name": "전력을 다해 가자!",
             "description": "【Fluorite】'25 전력을 다해 가자! 아리무라 마오 입수"
@@ -324,6 +329,11 @@
             "id": "atbm-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【이론무장하고】'26 애니메이트 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【이론무장하고】'26 미라쿠루나나우(˚∀˚)! 아마야 츠바메 입수"
         },
         {
             "id": "atbm-cstm-0128",
@@ -1636,6 +1646,16 @@
             "description": "【작은 야망】'26 GO MY WAY!! 주오 세나 입수"
         },
         {
+            "id": "jsna-cstm-0169",
+            "name": "Roar",
+            "description": "【Roar】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0170",
+            "name": "Roar",
+            "description": "【Roar】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
             "id": "jsna-cstm-0175",
             "name": "「있잖아, 고백할게.」(원피스)",
             "description": "【「있잖아, 고백할게.」】주오 세나 입수"
@@ -2309,6 +2329,11 @@
             "id": "shro-cstm-0121",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "shro-cstm-0122",
+            "name": "최강의 스마일 스커트",
+            "description": "최강의 스마일 스커트(시노사와 히로) 구매"
         },
         {
             "id": "shro-cstm-0125",

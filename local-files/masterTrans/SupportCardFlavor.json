@@ -847,6 +847,21 @@
             "text": "아직 부족하다! 시노사와아!"
         },
         {
+            "supportCardId": "s_card-2-0057",
+            "number": 1,
+            "text": "이런 데서 자면 감기 걸려."
+        },
+        {
+            "supportCardId": "s_card-2-0057",
+            "number": 2,
+            "text": "새근……새근…………"
+        },
+        {
+            "supportCardId": "s_card-2-0057",
+            "number": 3,
+            "text": "후후, 정말 낮잠을 좋아하는구나."
+        },
+        {
             "supportCardId": "s_card-2-0058",
             "number": 1,
             "text": "요전에-, 기숙사에서 벌레가 나와서……\n구제하느라 고생했단 말이에요-!"
@@ -2920,6 +2935,21 @@
             "supportCardId": "s_card-3-0112",
             "number": 3,
             "text": "배가 고파지네……"
+        },
+        {
+            "supportCardId": "s_card-3-0113",
+            "number": 1,
+            "text": "이거, 같이 가실래요……?"
+        },
+        {
+            "supportCardId": "s_card-3-0113",
+            "number": 2,
+            "text": "네!? 수족관 티켓……!?\n그, 그러니까 데이트……!?"
+        },
+        {
+            "supportCardId": "s_card-3-0113",
+            "number": 3,
+            "text": "데, 데이트으!?"
         }
     ]
 }

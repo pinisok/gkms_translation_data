@@ -4646,6 +4646,106 @@
             "name": "5일차 미션을 모두 클리어"
         },
         {
+            "id": "mission-highscorerush-event-016-mission_11",
+            "name": "최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_12",
+            "name": "주오 세나의 비주얼을 1000 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_13",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_14",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_16",
+            "name": "1일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_21",
+            "name": "최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_22",
+            "name": "츠키무라 테마리의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_23",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_24",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_26",
+            "name": "2일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_31",
+            "name": "최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_32",
+            "name": "주오 세나의 프로듀스로 최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_33",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_34",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_36",
+            "name": "3일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_41",
+            "name": "최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_42",
+            "name": "주오 세나의 프로듀스로 최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_43",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_44",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_46",
+            "name": "4일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_51",
+            "name": "최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_52",
+            "name": "주오 세나의 프로듀스로 최종시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_53",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_54",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-016-mission_56",
+            "name": "5일차 미션을 모두 클리어"
+        },
+        {
             "id": "mission-main-story-event-001-mission_11",
             "name": "AP를 {threshold} 소모하자"
         },
@@ -9500,6 +9600,30 @@
         {
             "id": "achieve-i_card-jsna-3-020-06",
             "name": "【「있잖아, 고백할게.」】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-01",
+            "name": "【Roar】주오 세나의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-02",
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-03",
+            "name": "【Roar】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-04",
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-05",
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-06",
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-kcna-2-000-04",

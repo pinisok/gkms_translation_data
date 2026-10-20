@@ -2166,6 +2166,36 @@
             "description": "【「있잖아, 고백할게.」】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-jsna-3-021-01",
+            "name": "사냥감은 너",
+            "description": "【Roar】주오 세나의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-02",
+            "name": "Roar",
+            "description": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-03",
+            "name": "주오 세나의 레갈리아",
+            "description": "【Roar】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-04",
+            "name": "Roar +",
+            "description": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-05",
+            "name": "Roar ++",
+            "description": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-021-06",
+            "name": "Roar +++",
+            "description": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kcna-2-000-04",
             "name": "가슴을 펴고 한 발자국씩+",
             "description": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"

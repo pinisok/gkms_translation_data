@@ -18,6 +18,10 @@
             "name": "세일러 수영복 (아리무라 마오)"
         },
         {
+            "id": "shop_costume_amao-cstm-0122",
+            "name": "최강의 스마일 스커트(아리무라 마오)"
+        },
+        {
             "id": "shop_costume_amao-othr-0002-resale",
             "name": "온천용 수영복(아리무라 마오)"
         },
@@ -612,6 +616,10 @@
         {
             "id": "shop_costume_shro-cstm-0111",
             "name": "세일러 수영복 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_shro-cstm-0122",
+            "name": "최강의 스마일 스커트(시노사와 히로)"
         },
         {
             "id": "shop_costume_shro-othr-0002-resale",
