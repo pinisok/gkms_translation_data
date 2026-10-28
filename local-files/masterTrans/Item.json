@@ -618,6 +618,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-wednesday-261104",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-wednesday-fainal-26-001-1",
             "name": "사키의 특별 티켓",
             "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
@@ -906,6 +912,12 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-medal-research-event-010",
+            "name": "세미나 너구리",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-medal-story-event-001",
             "name": "나카요시 포퍼",
             "description": "이벤트 교환소에서 다양한 보상으로 교환 가능",
@@ -1124,6 +1136,12 @@
         {
             "id": "item-piece-idol_atbm-3-012",
             "name": "[Campus mode!!] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-015",
+            "name": "[가라쿠타로드] 아마야 츠바메의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -2010,6 +2028,12 @@
             "acquisitionRouteDescription": "도전 과제 등"
         },
         {
+            "id": "item-primastellamaterial-idol_atbm-001",
+            "name": "츠바메의 샛별의 빛",
+            "description": "아마야 츠바메의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
             "id": "item-primastellamaterial-idol_fktn-001",
             "name": "코토네의 샛별의 빛",
             "description": "후지타 코토네의 『샛별』 해금에 사용하는 아이템",
@@ -2161,6 +2185,12 @@
         },
         {
             "id": "item-research-event-009",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 어빌리티 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-010",
             "name": "아사리 선생님 인감",
             "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 어빌리티 재추첨에 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"

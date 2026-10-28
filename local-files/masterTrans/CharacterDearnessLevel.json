@@ -327,6 +327,56 @@
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
+            "characterId": "atbm",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
             "characterId": "fktn",
             "dearnessLevel": 1,
             "produceConditionDescription": ""

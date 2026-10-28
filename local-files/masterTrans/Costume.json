@@ -336,9 +336,24 @@
             "description": "【이론무장하고】'26 미라쿠루나나우(˚∀˚)! 아마야 츠바메 입수"
         },
         {
+            "id": "atbm-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【이론무장하고】'26 전력을 다해 가자! 아마야 츠바메 입수"
+        },
+        {
             "id": "atbm-cstm-0128",
             "name": "ENDLESS DANCE",
             "description": "【이론무장하고】'26ENDLESS DANCE 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】아마야 츠바메의 재능 개화 4단계 달성"
         },
         {
             "id": "atbm-cstm-0140",
@@ -554,6 +569,11 @@
             "id": "fktn-cstm-0124",
             "name": "전력을 다해 가자!",
             "description": "【전력을 다해 가자!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0125",
+            "name": "전력 응원",
+            "description": "전력 응원(후지타 코토네) 구매하기"
         },
         {
             "id": "fktn-cstm-0128",
@@ -2794,6 +2814,11 @@
             "id": "ttmr-cstm-0124",
             "name": "전력을 다해 가자!",
             "description": "【전력을 다해 가자!】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ttmr-cstm-0125",
+            "name": "전력 응원",
+            "description": "전력 응원(츠키무라 테마리) 구매하기"
         },
         {
             "id": "ttmr-cstm-0128",

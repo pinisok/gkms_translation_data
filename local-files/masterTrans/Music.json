@@ -430,12 +430,28 @@
             "arranger": "YUC'e"
         },
         {
+            "id": "music-all-atbm-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
             "id": "music-all-atbm-014",
             "title": "ENDLESS DANCE",
             "displayTitle": "ENDLESS DANCE",
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-atbm-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-atbm-017",

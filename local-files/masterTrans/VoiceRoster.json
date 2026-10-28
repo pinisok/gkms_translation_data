@@ -688,6 +688,26 @@
         },
         {
             "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_final_result-01",
+            "title": "본선 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_final_result-02",
+            "title": "본선 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_final_result-03",
+            "title": "본선 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_final_result-04",
+            "title": "본선 프로듀스 결과 (불합격)"
+        },
+        {
+            "characterId": "atbm",
             "assetId": "sud_vo_system_atbm_home_birthday-01",
             "title": "홈 (2024생일)"
         },
@@ -815,6 +835,21 @@
             "characterId": "atbm",
             "assetId": "sud_vo_system_atbm_home_cmmn-25",
             "title": "메인 로비⑯"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-26",
+            "title": "친애도 TOP (친애도 Lv37) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-27",
+            "title": "친애도 TOP (친애도 Lv37) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-28",
+            "title": "친애도 TOP (친애도 Lv37) ③"
         },
         {
             "characterId": "atbm",
@@ -1185,6 +1220,121 @@
             "characterId": "atbm",
             "assetId": "sud_vo_system_atbm_produce_schedule-28",
             "title": "옥상③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-29",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-30",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-31",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-32",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-33",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-34",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-35",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-36",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-37",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-38",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-39",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-40",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-41",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-42",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-43",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-44",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-45",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-46",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-47",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_selection_result-01",
+            "title": "선발시험 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_selection_result-02",
+            "title": "선발시험 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_selection_result-03",
+            "title": "선발시험 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_selection_result-04",
+            "title": "선발시험 프로듀스 결과 (불합격)"
         },
         {
             "characterId": "atbm",

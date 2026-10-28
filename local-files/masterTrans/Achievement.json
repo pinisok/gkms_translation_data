@@ -366,6 +366,36 @@
             "description": "【Campus mode!!】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-atbm-3-015-01",
+            "name": "결과로서의 지금",
+            "description": "【가라쿠타로드】아마야 츠바메의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-02",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-03",
+            "name": "즐기고 오겠다, 프로듀서!",
+            "description": "【가라쿠타로드】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-04",
+            "name": "가라쿠타로드 +",
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-05",
+            "name": "가라쿠타로드 ++",
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-06",
+            "name": "가라쿠타로드 +++",
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-atbm-3-018-01",
             "name": "별을 흩어라",
             "description": "【크라이아이】아마야 츠바메의 프로듀스로 최종시험에 합격"
@@ -4211,6 +4241,11 @@
             "description": "아마야 츠바메로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-atbm-000-2",
+            "name": "영원히 내 것이다",
+            "description": "아마야 츠바메로 True End : H.I.F 보기"
+        },
+        {
             "id": "achieve-p_idol-atbm-001",
             "name": "네놈이 없으면, 나는",
             "description": "아마야 츠바메의 프로듀스에서 스킬 카드를 {threshold}회 사용함."
@@ -4324,6 +4359,16 @@
             "id": "achieve-p_idol-atbm-024",
             "name": "마음에 불을 밝히고",
             "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-025",
+            "name": "줄곧 바라던 칭호",
+            "description": "아마야 츠바메로 H.I.F 최종시험에 합격해 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-026",
+            "name": "별에 닿기까지의 거리",
+            "description": "아마야 츠바메로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-atbm-027",

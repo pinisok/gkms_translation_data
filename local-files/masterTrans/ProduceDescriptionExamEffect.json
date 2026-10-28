@@ -330,6 +330,14 @@
             "name": "호인상 강화"
         },
         {
+            "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
+            "name": "열의 연장"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
+            "name": "발동 예약"
+        },
+        {
             "type": "ProduceExamEffectType_ExamReviewCountAdd",
             "name": "호인상 추가 발동"
         },

@@ -211,6 +211,16 @@
             "description": "아마야 츠바메의 아이돌 길 스테이지 25 클리어"
         },
         {
+            "id": "costume_head_atbm-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】아마야 츠바메 획득"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_atbm-cstm-0145",
             "name": "크라이아이",
             "description": "【크라이아이】아마야 츠바메 입수"
@@ -448,7 +458,7 @@
         {
             "id": "costume_head_fktn-hair-0009",
             "name": "큼직한 리본",
-            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0012",
@@ -469,6 +479,11 @@
             "id": "costume_head_fktn-hair-0038",
             "name": "잠행용 안경",
             "description": "프리미엄 미션 패스 2026년 7월에서 획득"
+        },
+        {
+            "id": "costume_head_fktn-hair-0039",
+            "name": "쫑긋 리본",
+            "description": "프리미엄 미션 패스 2026년 11월에서 획득 가능"
         },
         {
             "id": "costume_head_hmsz-cstm-0011",
@@ -923,7 +938,7 @@
         {
             "id": "costume_head_hski-hair-0009",
             "name": "큼직한 리본",
-            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hski-hair-0023",
@@ -939,6 +954,11 @@
             "id": "costume_head_hski-hair-0038",
             "name": "잠행용 안경",
             "description": "프리미엄 미션 패스 2026년 7월에서 획득"
+        },
+        {
+            "id": "costume_head_hski-hair-0039",
+            "name": "쫑긋 리본",
+            "description": "프리미엄 미션 패스 2026년 11월에서 획득 가능"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -2078,7 +2098,7 @@
         {
             "id": "costume_head_ttmr-hair-0009",
             "name": "큼직한 리본",
-            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_ttmr-hair-0023",
@@ -2094,6 +2114,11 @@
             "id": "costume_head_ttmr-hair-0038",
             "name": "잠행용 안경",
             "description": "프리미엄 미션 패스 2026년 7월에서 획득"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0039",
+            "name": "쫑긋 리본",
+            "description": "프리미엄 미션 패스 2026년 11월에서 획득 가능"
         }
     ]
 }
