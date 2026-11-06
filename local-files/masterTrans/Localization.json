@@ -59,11 +59,11 @@
         },
         {
             "id": "high_score_event.event_info.caution_exam_effect",
-            "description": "※一部のプランのアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n※プロデュース「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません"
+            "description": "※일부 플랜의 아이돌로 플레이하면 등장하는 스킬 카드, P아이템, P드링크는 일반 프로듀스와 동일합니다\n※프로듀스 「Hatsuboshi IDOL FESTIVAL」의 「선발시험」에서는 이벤트 P아이템 및 P아이템이 등장하지 않습니다"
         },
         {
             "id": "high_score_event.event_info.caution_plan",
-            "description": "※一部のプランのアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n※プロデュース「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません"
+            "description": "※일부 플랜의 아이돌로 플레이하면 등장하는 스킬 카드, P아이템, P드링크는 일반 프로듀스와 동일합니다\n※프로듀스 「Hatsuboshi IDOL FESTIVAL」의 「선발시험」에서는 이벤트 P아이템 및 P아이템이 등장하지 않습니다"
         },
         {
             "id": "high_score_event.top.adv.title_label",
