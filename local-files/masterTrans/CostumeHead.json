@@ -546,6 +546,16 @@
             "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_hmsz-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하타야 미스즈 획득"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0173",
             "name": "「있잖아, 고백할게.」",
             "description": "【「있잖아, 고백할게.」】하타야 미스즈 입수"
@@ -1394,6 +1404,16 @@
             "id": "costume_head_kcna-cstm-0132",
             "name": "미지의 펼쳐지는",
             "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】쿠라모토 치나 획득"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】쿠라모토 치나의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_kcna-cstm-0181",

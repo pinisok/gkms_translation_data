@@ -771,6 +771,16 @@
             "description": "【ENDLESS DANCE】하타야 미스즈 입수"
         },
         {
+            "id": "hmsz-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하타야 미스즈 획득"
+        },
+        {
+            "id": "hmsz-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
             "id": "hmsz-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【츠키노카메】'26 GO MY WAY!! 하타야 미스즈 입수"
@@ -1884,6 +1894,16 @@
             "id": "kcna-cstm-0132",
             "name": "미지의 펼쳐지는",
             "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kcna-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】쿠라모토 치나 획득"
+        },
+        {
+            "id": "kcna-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】쿠라모토 치나의 재능 개화 4단계 달성"
         },
         {
             "id": "kcna-cstm-0140",

@@ -722,6 +722,18 @@
             "name": "이벤트 개요"
         },
         {
+            "helpCategoryId": "help-loginbonus",
+            "id": "loginbonus-loginbonus",
+            "order": 1,
+            "name": "로그인 보너스"
+        },
+        {
+            "helpCategoryId": "help-loginbonus",
+            "id": "loginbonus-select-loginbonus",
+            "order": 2,
+            "name": "선택형 로그인 보너스"
+        },
+        {
             "helpCategoryId": "help-main-story-event",
             "id": "help-main-story-event-bonus",
             "order": 4,

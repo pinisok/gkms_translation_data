@@ -133,6 +133,12 @@
             "texts": []
         },
         {
+            "id": "help-loginbonus",
+            "order": 100,
+            "name": "로그인 보너스",
+            "texts": []
+        },
+        {
             "id": "help-main-story-event",
             "order": 23,
             "name": "하츠보시 커뮤 이벤트",

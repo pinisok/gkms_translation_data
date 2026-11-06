@@ -361,6 +361,18 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-01055-ticket-001",
+            "order": 1,
+            "name": "SSR P아이돌 확정 티켓으로 뽑기",
+            "description": "SSR P아이돌 확정 티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-01055-ticket-002",
+            "order": 1,
+            "name": "SSR P아이돌 출현율 10배 티켓으로 뽑기",
+            "description": "SSR P아이돌 출현율 10배 티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-640-fes",
             "order": 1,
             "name": "5회 가챠",

@@ -114,6 +114,10 @@
             "description": "{0}으로 해제"
         },
         {
+            "id": "login_bonus.selectable.cancel_sheet.description",
+            "description": "'나중에 선택'을 선택하면 【홈＞선물＞선택형 로그인 보너스】에서 받을 수 있습니다.\\n\\n지금은 선택하지 않고 홈으로 이동하시겠습니까?\n\\n<color=#u:Strong>※수령 기한: {0}까지\\n※수령 기한이 지난 후 로그인 보너스 진행 기간 중 다시 로그인하면 『SSR P아이돌 1명 확정! 가챠 티켓』이 자동으로 「선물」에 지급됩니다</color>"
+        },
+        {
             "id": "memory.inherit.select_produce_card.before_select.message",
             "description": "교체할 스킬 카드를 선택해 주세요"
         },

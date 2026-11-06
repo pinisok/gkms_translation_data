@@ -4457,6 +4457,66 @@
             "title": "프로듀스④"
         },
         {
+            "id": "voice_group-cidol-hmsz-3-018_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0136_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0136_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-018-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-hmsz-3-019_home",
             "voiceAssetId": "sud_vo_system_cidol-hmsz-3-019_home_cmmn-01",
             "title": "홈①"
@@ -9977,6 +10037,66 @@
             "title": "프로듀스④"
         },
         {
+            "id": "voice_group-cidol-kcna-3-019_home",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019_home",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019_home",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-detail",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-detail",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-detail",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-detail",
+            "voiceAssetId": "sud_vo_system_kcna-cstm-0136_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-detail",
+            "voiceAssetId": "sud_vo_system_kcna-cstm-0136_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-kcna-3-019-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-kcna-3-020_home",
             "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-01",
             "title": "홈①"
@@ -15047,6 +15167,16 @@
             "title": "ENDLESS DANCE"
         },
         {
+            "id": "voice_group-hmsz-cstm-0136-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0136_01",
+            "title": "가라쿠타로드"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0136-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0136_02",
+            "title": "가라쿠타로드"
+        },
+        {
             "id": "voice_group-hmsz-cstm-0140-cmmn",
             "voiceAssetId": "sud_vo_system_hmsz-cstm-0140_01",
             "title": "GO MY WAY!!"
@@ -16765,6 +16895,16 @@
             "id": "voice_group-kcna-cstm-0131-cmmn",
             "voiceAssetId": "sud_vo_system_kcna-cstm-0131_02",
             "title": "미지의 펼쳐지는"
+        },
+        {
+            "id": "voice_group-kcna-cstm-0136-cmmn",
+            "voiceAssetId": "sud_vo_system_kcna-cstm-0136_01",
+            "title": "가라쿠타로드"
+        },
+        {
+            "id": "voice_group-kcna-cstm-0136-cmmn",
+            "voiceAssetId": "sud_vo_system_kcna-cstm-0136_02",
+            "title": "가라쿠타로드"
         },
         {
             "id": "voice_group-kcna-cstm-0140-cmmn",

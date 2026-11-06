@@ -2950,6 +2950,21 @@
             "supportCardId": "s_card-3-0113",
             "number": 3,
             "text": "데, 데이트으!?"
+        },
+        {
+            "supportCardId": "s_card-3-0114",
+            "number": 1,
+            "text": "만화책 잔뜩 가져왔어!!"
+        },
+        {
+            "supportCardId": "s_card-3-0114",
+            "number": 2,
+            "text": "이 주인공……\n쿠라모토 씨를 닮지 않았나요?"
+        },
+        {
+            "supportCardId": "s_card-3-0114",
+            "number": 3,
+            "text": "그런 과감한 대사는,\n못 하겠어요~~!"
         }
     ]
 }
