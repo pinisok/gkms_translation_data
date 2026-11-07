@@ -998,6 +998,10 @@
             "description": ""
         },
         {
+            "id": "cd_draw_gasha-01057-ssr-idol-001",
+            "description": ""
+        },
+        {
             "id": "cd_event_release_mission",
             "description": ""
         },
@@ -19323,6 +19327,14 @@
         },
         {
             "id": "cd-view_home-banner-gasha-01050-ssr-anotheridol-jsna-001",
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-gasha-01057-ssr-idol-001",
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-gasha-01057-ssr-idol-001",
             "description": ""
         },
         {
