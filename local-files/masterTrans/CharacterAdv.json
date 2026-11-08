@@ -31,6 +31,11 @@
             "regexp": "고쿠게츠 학원"
         },
         {
+            "characterId": "hkne",
+            "name": "히와타리 카나에",
+            "regexp": "카나에$"
+        },
+        {
             "characterId": "hmsz",
             "name": "하타야 미스즈",
             "regexp": "미스즈$"

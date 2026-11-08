@@ -2965,6 +2965,21 @@
             "supportCardId": "s_card-3-0114",
             "number": 3,
             "text": "그런 과감한 대사는,\n못 하겠어요~~!"
+        },
+        {
+            "supportCardId": "s_card-3-0122",
+            "number": 1,
+            "text": "보세요, 카나에. 하츠보시 학원 입학식 때,\n저, 무척 긴장하고 있네요."
+        },
+        {
+            "supportCardId": "s_card-3-0122",
+            "number": 2,
+            "text": "이제는 이렇게나 당당해지셨네요.\n정말 자랑스럽기 그지없어요."
+        },
+        {
+            "supportCardId": "s_card-3-0122",
+            "number": 3,
+            "text": "후후, 카나에 덕분이기도 해요."
         }
     ]
 }

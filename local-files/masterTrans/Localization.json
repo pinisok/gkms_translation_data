@@ -30,8 +30,16 @@
             "description": "※커스터마이즈는 특별 지도에서 할 수 있습니다"
         },
         {
+            "id": "card.sort.research_event_consumption_item_bonus",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트 보너스"
+        },
+        {
+            "id": "card.sort.story_event_point_bonus",
+            "description": "히와타리 카나에 에피소드0 이벤트 보너스"
+        },
+        {
             "id": "common.story_event_point",
-            "description": "아사리 선생님의 프로듀스 세미나"
+            "description": "이벤트 Pt"
         },
         {
             "id": "competition.rehearsal_battle_confirm.label.description",
@@ -368,6 +376,10 @@
         {
             "id": "story.idol.others.birthday",
             "description": "기타"
+        },
+        {
+            "id": "story.story_event.section.main_story_condition_lock_text",
+            "description": "미션 Pt 획득 시 해금"
         },
         {
             "id": "story.story_event.section.normal_condition_lock_text",

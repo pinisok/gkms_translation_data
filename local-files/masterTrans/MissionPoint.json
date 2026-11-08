@@ -148,6 +148,10 @@
         {
             "id": "mission-weekly-point",
             "name": "주간 Pt"
+        },
+        {
+            "id": "story-character-introduction-001_point",
+            "name": "미션 Pt"
         }
     ]
 }

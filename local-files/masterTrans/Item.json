@@ -918,6 +918,12 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-medal-story-character-introduction-001",
+            "name": "함께 달려온 나날",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-medal-story-event-001",
             "name": "나카요시 포퍼",
             "description": "이벤트 교환소에서 다양한 보상으로 교환 가능",
@@ -2266,6 +2272,12 @@
             "name": "프로듀스 응원 서포트 셀렉션 티켓",
             "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
             "acquisitionRouteDescription": "H.I.F 도전 1,500만 회 돌파 기념! 프로듀스 응원 코인 가챠"
+        },
+        {
+            "id": "item-selection-ticket-009",
+            "name": "2.5th 애니버서리 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
         },
         {
             "id": "item-staminaregen-1",
