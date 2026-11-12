@@ -82,6 +82,12 @@
             "name": "스킬 카드 스위치",
             "description": "「스킬 카드 스위치」 기능 해방",
             "routeDescription": "프로듀스에서 확인 가능"
+        },
+        {
+            "tutorialType": 400,
+            "name": "　",
+            "description": "　",
+            "routeDescription": "　"
         }
     ]
 }

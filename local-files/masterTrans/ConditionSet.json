@@ -6354,6 +6354,10 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_1112-1100",
+            "description": ""
+        },
+        {
             "id": "cd_time_26_1201_1100_27_0101_1000",
             "description": ""
         },
@@ -6363,6 +6367,10 @@
         },
         {
             "id": "cd_time_27_0301-1100",
+            "description": ""
+        },
+        {
+            "id": "cd_time_27_0501",
             "description": ""
         },
         {
@@ -7767,6 +7775,14 @@
         },
         {
             "id": "cd-achievement_clear-achieve-p_idol-ttmr-005",
+            "description": ""
+        },
+        {
+            "id": "cd-achievement-tops-lock-20261016",
+            "description": ""
+        },
+        {
+            "id": "cd-achievement-tops-lock-20261215",
             "description": ""
         },
         {
@@ -20491,6 +20507,10 @@
         },
         {
             "id": "cd-view-story-hski-02",
+            "description": ""
+        },
+        {
+            "id": "cd-view-tops_time",
             "description": ""
         },
         {
