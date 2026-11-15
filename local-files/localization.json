@@ -955,7 +955,7 @@
     "produce.audition.config_description_with_force_clear": "라이벌과 퍼포먼스로 대결합니다.\n 3위 이내, 혹은 지정 스코어 이상으로 시험 합격이 됩니다.",
     "produce.audition.config_title": "{0}의 심사 기준",
     "produce.sheet.drink_max.title": "P 드링크 보유 상한",
-    "produce.sheet.drink_max.description": "P 드링크 소지 수가 상한에 달했습니다.\n 유지할 드링크를 3개를 선택해 주세요.",
+    "produce.sheet.drink_max.description": "P 드링크 소지 수가 상한에 달했습니다.\n 유지할 드링크를 {0}개를 선택해 주세요.",
     "produce.sheet.drink_max.button": "남기기",
     "produce.sheet.drink_max.get_drink": "받은 드링크",
     "produce.sheet.drink_max.has_drink": "보유한 드링크",
