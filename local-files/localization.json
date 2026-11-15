@@ -6488,5 +6488,11 @@
     "memory_remake.battle_prepare.rival_sheet.title": "상대 스킬 카드 정보",
     "memory_remake.battle_prepare.rival_sheet.empty": "선택된 카드가 없습니다",
     "memory_remake.battle.label.rival": "상대",
-    "memory_remake.animation.view.title": "메모리 리메이크 완료"
+    "memory_remake.animation.view.title": "메모리 리메이크 완료",
+    "refine.retire.title": "리타이어 확인",
+    "refine.retire.description": "리타이어 하시겠습니까?",
+    "refine.retire.ok": "리타이어",
+    "refine.exam_mission_detail.title": "미션 확인",
+    "exam.fusion.bundle_detail.button.detail": "상세",
+    "exam.fusion.effect_detail.title": "상세"
 }
