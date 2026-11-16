@@ -194,6 +194,10 @@
             "name": "STEP3 전 아이돌 등장 기념 패널 미션"
         },
         {
+            "id": "panel_mission-event-012",
+            "name": "みんなでメイドになろう!パネルミッション"
+        },
+        {
             "id": "panel_mission-event-niv",
             "name": "주오 쿠니오의 챌린지 미션 ~A+로 가는 길~"
         },

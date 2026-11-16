@@ -123,7 +123,7 @@
         },
         {
             "id": "login_bonus.selectable.cancel_sheet.description",
-            "description": "'나중에 선택'을 선택하면 【홈＞선물＞선택형 로그인 보너스】에서 받을 수 있습니다.\\n\\n지금은 선택하지 않고 홈으로 이동하시겠습니까?\n\\n<color=#u:Strong>※수령 기한: {0}까지\\n※수령 기한이 지난 후 로그인 보너스 진행 기간 중 다시 로그인하면 『SSR P아이돌 1명 확정! 가챠 티켓』이 자동으로 「선물」에 지급됩니다</color>"
+            "description": "あとで選ぶを選択した場合、【ホーム＞プレゼント＞選べるログボ】より受け取りが可能です。\\n\\n今は選ばずにホームに移動しますか？\n\\n<color=#u:Strong>※受取期限：{0}まで\\n※受取期限を過ぎた場合、ログインボーナス開催期間中に再度ログインすると『SSR Pアイドル2人確定！ガシャチケット』が自動で「プレゼント」に送られます</color>"
         },
         {
             "id": "memory.inherit.select_produce_card.before_select.message",
@@ -264,6 +264,10 @@
         {
             "id": "produce.sheet.drink_max.description",
             "description": "P 드링크 소지 수가 상한에 달했습니다.\\n보관할 드링크를 선택해 주세요."
+        },
+        {
+            "id": "producer_ranking.character_detail_sheet.tower_no_layers",
+            "description": "今後追加を予定しております"
         },
         {
             "id": "producer_ranking.character_reward.description",
