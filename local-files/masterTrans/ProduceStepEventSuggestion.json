@@ -2808,7 +2808,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最大体力の10%分回復\n100%の確率でスキルカードを1つ選択して"
+                    "text": "최대 체력의 10%만큼 회복\n100% 확률로 스킬 카드를 1개 선택해 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2818,7 +2818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2828,7 +2828,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\n確率が減少して再度、挑戦可能"
+                    "text": "\n확률이 감소한 상태로 재도전 가능"
                 }
             ]
         },
@@ -2928,7 +2928,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "何もせずプロデュースに戻る"
+                    "text": "아무것도 하지 않고 프로듀스로 돌아가기"
                 }
             ]
         },
@@ -3008,7 +3008,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最大体力の10%分回復\n70%の確率で成功しスキルカードを1つ選択して"
+                    "text": "최대 체력의 10%만큼 회복\n70% 확률로 성공하여 스킬 카드를 1개 선택해 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3018,7 +3018,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3028,7 +3028,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\n30%の確率で失敗し何も起きない"
+                    "text": "\n30% 확률로 실패하여 아무 일도 일어나지 않음"
                 }
             ]
         },
@@ -3128,7 +3128,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "何もせずプロデュースに戻る"
+                    "text": "아무것도 하지 않고 프로듀스로 돌아가기"
                 }
             ]
         },
@@ -3188,7 +3188,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最大体力の40%分回復\n100%の確率で成功しスキルカード（高確率でSSR）を選択して獲得\n確率が減少して再度、挑戦可能"
+                    "text": "최대 체력의 40%만큼 회복\n100% 확률로 성공하여 스킬 카드(높은 확률로 SSR)를 선택해 획득\n확률이 감소한 상태로 재도전 가능"
                 }
             ]
         },
@@ -3248,7 +3248,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "何もせずプロデュースに戻る"
+                    "text": "아무것도 하지 않고 프로듀스로 돌아가기"
                 }
             ]
         },
@@ -3308,7 +3308,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最大体力の40%分回復\n70%の確率で成功しスキルカード（高確率でSSR）を選択して獲得\n30%の確率で失敗しトラブルカード「眠気」を獲得"
+                    "text": "최대 체력의 40%만큼 회복\n70% 확률로 성공하여 스킬 카드(높은 확률로 SSR)를 선택해 획득\n30% 확률로 실패하여 트러블 카드 「졸음」 획득"
                 }
             ]
         },
@@ -3368,7 +3368,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "何もせずプロデュースに戻る"
+                    "text": "아무것도 하지 않고 프로듀스로 돌아가기"
                 }
             ]
         },

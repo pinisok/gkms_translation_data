@@ -2863,7 +2863,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2883,7 +2883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2903,7 +2903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2932,7 +2932,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2962,7 +2962,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_00-3-001-0",
-                    "text": "はつぼしブローチ"
+                    "text": "하츠보시 브로치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2972,7 +2972,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\nボーカル上昇+"
+                    "text": "를 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2992,7 +2992,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3012,7 +3012,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3037,7 +3037,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3067,7 +3067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_00-3-001-0",
-                    "text": "はつぼしブローチ"
+                    "text": "하츠보시 브로치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3077,7 +3077,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\nボーカル上昇+"
+                    "text": "를 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3097,7 +3097,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3117,7 +3117,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3142,7 +3142,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3172,7 +3172,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_00-3-001-0",
-                    "text": "はつぼしブローチ"
+                    "text": "하츠보시 브로치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3182,7 +3182,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\nボーカル上昇+"
+                    "text": "를 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3202,7 +3202,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3222,7 +3222,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3247,7 +3247,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3277,7 +3277,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_00-3-001-0",
-                    "text": "はつぼしブローチ"
+                    "text": "하츠보시 브로치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3287,7 +3287,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\nボーカル上昇+"
+                    "text": "를 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3307,7 +3307,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3327,7 +3327,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3408,7 +3408,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3433,7 +3433,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特定のPドリンクを選択して獲得"
+                    "text": "특정 P드링크를 선택해서 획득"
                 }
             ]
         },
@@ -3448,7 +3448,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードを選択して"
+                    "text": "스킬 카드를 선택하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3458,7 +3458,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -3485,7 +3485,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特定のPドリンクを選択して獲得"
+                    "text": "특정 P드링크를 선택해서 획득"
                 }
             ]
         },
@@ -3500,7 +3500,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特定のPドリンクを選択して獲得"
+                    "text": "특정 P드링크를 선택해서 획득"
                 }
             ]
         },
@@ -16811,7 +16811,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16831,7 +16831,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16851,7 +16851,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16871,7 +16871,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\n未定義のパターン(Type: ProduceReward, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 0, PickCountMax: 0, EffectValueMin: 1, EffectValueMax: 1, ProduceRewardSetID: p_rd-card_set-legend-produce_006-all)"
+                    "text": "\n을(를) 선택해 획득\n정의되지 않은 패턴(Type: ProduceReward, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 0, PickCountMax: 0, EffectValueMin: 1, EffectValueMax: 1, ProduceRewardSetID: p_rd-card_set-legend-produce_006-all)"
                 }
             ]
         },
@@ -16886,7 +16886,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16906,7 +16906,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16926,7 +16926,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16946,7 +16946,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\n未定義のパターン(Type: ProduceReward, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 0, PickCountMax: 0, EffectValueMin: 1, EffectValueMax: 1, ProduceRewardSetID: p_rd-card_set-legend-produce_006-all)"
+                    "text": "\n을(를) 선택해 획득\n정의되지 않은 패턴(Type: ProduceReward, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 0, PickCountMax: 0, EffectValueMin: 1, EffectValueMax: 1, ProduceRewardSetID: p_rd-card_set-legend-produce_006-all)"
                 }
             ]
         },
@@ -16961,7 +16961,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -16981,7 +16981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -17001,7 +17001,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -17021,7 +17021,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\n未定義のパターン(Type: ProduceReward, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 0, PickCountMax: 0, EffectValueMin: 1, EffectValueMax: 1, ProduceRewardSetID: p_rd-card_set-legend-produce_006-all)"
+                    "text": "\n을(를) 선택해 획득\n정의되지 않은 패턴(Type: ProduceReward, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 0, PickCountMax: 0, EffectValueMin: 1, EffectValueMax: 1, ProduceRewardSetID: p_rd-card_set-legend-produce_006-all)"
                 }
             ]
         },
@@ -18840,7 +18840,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18860,7 +18860,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18880,7 +18880,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18905,7 +18905,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18925,7 +18925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18945,7 +18945,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18970,7 +18970,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18990,7 +18990,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19010,7 +19010,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19035,7 +19035,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19055,7 +19055,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19075,7 +19075,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19100,7 +19100,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19120,7 +19120,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\nボーカル上昇+"
+                    "text": "\n을(를) 선택해 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19140,7 +19140,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19160,7 +19160,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19185,7 +19185,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19205,7 +19205,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\nボーカル上昇+"
+                    "text": "\n을(를) 선택해 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19225,7 +19225,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19245,7 +19245,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19270,7 +19270,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19290,7 +19290,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\nボーカル上昇+"
+                    "text": "\n을(를) 선택해 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19310,7 +19310,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19330,7 +19330,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19355,7 +19355,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19375,7 +19375,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nを選択して獲得\nボーカル上昇+"
+                    "text": "\n을(를) 선택해 획득\n보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19395,7 +19395,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nダンス上昇+"
+                    "text": "\n댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19415,7 +19415,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\nビジュアル上昇+"
+                    "text": "\n비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -116497,7 +116497,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ビジュアル上昇+"
+                    "text": "비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -116522,7 +116522,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pポイント+"
+                    "text": "P포인트 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -120697,7 +120697,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_01-2-137-0",
-                    "text": "お掃除の成果"
+                    "text": "청소의 성과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -120707,7 +120707,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得"
+                    "text": "를 획득"
                 }
             ]
         },
@@ -120722,7 +120722,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ビジュアル上昇+"
+                    "text": "비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -129412,7 +129412,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_01-3-356-0",
-                    "text": "お嬢様おでかけセット"
+                    "text": "아가씨 외출 세트"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -129422,7 +129422,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得"
+                    "text": "를 획득"
                 }
             ]
         },
@@ -129437,7 +129437,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ボーカル上昇+"
+                    "text": "보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -129462,7 +129462,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードを選択して"
+                    "text": "스킬 카드를 선택하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -129472,7 +129472,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },

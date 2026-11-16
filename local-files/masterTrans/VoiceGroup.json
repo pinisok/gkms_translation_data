@@ -3629,82 +3629,82 @@
         {
             "id": "voice_group-cidol-hkne-1-000-detail",
             "voiceAssetId": "sud_vo_system_hkne-othr-0004_01",
-            "title": "着替え①"
+            "title": "옷 갈아입기①"
         },
         {
             "id": "voice_group-cidol-hkne-1-000-detail",
             "voiceAssetId": "sud_vo_system_hkne-othr-0004_02",
-            "title": "着替え②"
+            "title": "옷 갈아입기②"
         },
         {
             "id": "voice_group-cidol-hkne-2-000-detail",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0000_01",
-            "title": "着替え①"
+            "title": "옷 갈아입기①"
         },
         {
             "id": "voice_group-cidol-hkne-2-000-detail",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0000_02",
-            "title": "着替え②"
+            "title": "옷 갈아입기②"
         },
         {
             "id": "voice_group-cidol-hkne-3-000_home",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-01",
-            "title": "ホーム①"
+            "title": "홈①"
         },
         {
             "id": "voice_group-cidol-hkne-3-000_home",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-02",
-            "title": "ホーム②"
+            "title": "홈②"
         },
         {
             "id": "voice_group-cidol-hkne-3-000_home",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-03",
-            "title": "ホーム③"
+            "title": "홈③"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-detail",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-01",
-            "title": "ホーム①"
+            "title": "홈①"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-detail",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-02",
-            "title": "ホーム②"
+            "title": "홈②"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-detail",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-03",
-            "title": "ホーム③"
+            "title": "홈③"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-detail",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0108_01",
-            "title": "着替え①"
+            "title": "옷 갈아입기①"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-detail",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0108_02",
-            "title": "着替え②"
+            "title": "옷 갈아입기②"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-01",
-            "title": "プロデュース①"
+            "title": "프로듀스①"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-02",
-            "title": "プロデュース②"
+            "title": "프로듀스②"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-03",
-            "title": "プロデュース③"
+            "title": "프로듀스③"
         },
         {
             "id": "voice_group-cidol-hkne-3-000-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-04",
-            "title": "プロデュース④"
+            "title": "프로듀스④"
         },
         {
             "id": "voice_group-cidol-hmsz-1-000-detail",
@@ -15009,92 +15009,92 @@
         {
             "id": "voice_group-hkne-cstm-0000-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0000_01",
-            "title": "初（はじめ）"
+            "title": "하지메"
         },
         {
             "id": "voice_group-hkne-cstm-0000-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0000_02",
-            "title": "初（はじめ）"
+            "title": "하지메"
         },
         {
             "id": "voice_group-hkne-cstm-0069-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0069_01",
-            "title": "チャイルドスモック"
+            "title": "차일드 스모크"
         },
         {
             "id": "voice_group-hkne-cstm-0069-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0069_02",
-            "title": "チャイルドスモック"
+            "title": "차일드 스모크"
         },
         {
             "id": "voice_group-hkne-cstm-0108-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0108_01",
-            "title": "メタモルフォーゼ"
+            "title": "메타모르포제"
         },
         {
             "id": "voice_group-hkne-cstm-0108-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0108_02",
-            "title": "メタモルフォーゼ"
+            "title": "메타모르포제"
         },
         {
             "id": "voice_group-hkne-cstm-0111-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0111_01",
-            "title": "セーラーミズギ"
+            "title": "세일러 수영복"
         },
         {
             "id": "voice_group-hkne-cstm-0111-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-cstm-0111_02",
-            "title": "セーラーミズギ"
+            "title": "세일러 수영복"
         },
         {
             "id": "voice_group-hkne-othr-0002-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-othr-0002_01",
-            "title": "温泉用水着"
+            "title": "온천용 수영복"
         },
         {
             "id": "voice_group-hkne-othr-0002-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-othr-0002_02",
-            "title": "温泉用水着"
+            "title": "온천용 수영복"
         },
         {
             "id": "voice_group-hkne-othr-0004-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-othr-0004_01",
-            "title": "倉本家のお給仕服"
+            "title": "쿠라모토 가문의 메이드복"
         },
         {
             "id": "voice_group-hkne-othr-0004-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-othr-0004_02",
-            "title": "倉本家のお給仕服"
+            "title": "쿠라모토 가문의 메이드복"
         },
         {
             "id": "voice_group-hkne-schl-0000-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-schl-0000_01",
-            "title": "初星学園制服"
+            "title": "하츠보시 학원 교복"
         },
         {
             "id": "voice_group-hkne-schl-0000-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-schl-0000_02",
-            "title": "初星学園制服"
+            "title": "하츠보시 학원 교복"
         },
         {
             "id": "voice_group-hkne-trng-0000-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-trng-0000_01",
-            "title": "レッスンウェア"
+            "title": "레슨웨어"
         },
         {
             "id": "voice_group-hkne-trng-0000-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-trng-0000_02",
-            "title": "レッスンウェア"
+            "title": "레슨웨어"
         },
         {
             "id": "voice_group-hkne-trng-0002-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-trng-0002_01",
-            "title": "初星学園体操服"
+            "title": "하츠보시 학원 체육복"
         },
         {
             "id": "voice_group-hkne-trng-0002-cmmn",
             "voiceAssetId": "sud_vo_system_hkne-trng-0002_02",
-            "title": "初星学園体操服"
+            "title": "하츠보시 학원 체육복"
         },
         {
             "id": "voice_group-hmsz-casl-0002-cmmn",

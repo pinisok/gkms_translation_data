@@ -697,63 +697,63 @@
         },
         {
             "id": "achieve-i_card-hkne-2-000-01",
-            "name": "忠義を胸に",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで最終試験に合格"
+            "name": "충의를 가슴에",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hkne-2-000-02",
-            "name": "憧れを抱いて一歩ずつ",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-2-000-03",
-            "name": "いつの日か、同じ景色を",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "언젠가, 같은 풍경을",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-hkne-2-000-04",
-            "name": "憧れを抱いて一歩ずつ +",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩+",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-2-000-05",
-            "name": "憧れを抱いて一歩ずつ ++",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩++",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-2-000-06",
-            "name": "憧れを抱いて一歩ずつ +++",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩+++",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-3-000-01",
-            "name": "柔らかな光の中で",
-            "description": "【メタモルフォーゼ】氷渡 香名江のプロデュースで最終試験に合格"
+            "name": "부드러운 빛 속에서",
+            "description": "【메타모르포제】히와타리 카나에의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hkne-3-000-02",
-            "name": "メタモルフォーゼ",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제",
+            "description": "【메타모르포제】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-3-000-03",
-            "name": "アイドルとしての新しい私",
-            "description": "【メタモルフォーゼ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "아이돌로서의 새로운 나",
+            "description": "【메타모르포제】히와타리 카나에의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-hkne-3-000-04",
-            "name": "メタモルフォーゼ +",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제+",
+            "description": "【메타모르포제】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-3-000-05",
-            "name": "メタモルフォーゼ ++",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제++",
+            "description": "【메타모르포제】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hkne-3-000-06",
-            "name": "メタモルフォーゼ +++",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제+++",
+            "description": "【메타모르포제】히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hmsz-2-000-01",
@@ -3862,8 +3862,8 @@
         },
         {
             "id": "achieve-m_hkne-001",
-            "name": "マスターアチーブメント",
-            "description": "氷渡 香名江のアチーブメントの★を{threshold}個獲得"
+            "name": "마스터 업적",
+            "description": "히와타리 카나에의 업적의 ★을 {threshold}개 획득"
         },
         {
             "id": "achieve-m_hmsz-001",
@@ -4357,48 +4357,48 @@
         },
         {
             "id": "achieve-p_idol-amao-030",
-            "name": "麻央を彩る衣装たち",
-            "description": "有村 麻央の衣装を合計{threshold}種類入手"
+            "name": "마오를 빛내는 의상들",
+            "description": "아리무라 마오의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-amao-031",
-            "name": "麻央を魅せるアレンジ",
-            "description": "有村 麻央の髪型を合計{threshold}種類入手"
+            "name": "마오의 매력을 살리는 스타일링",
+            "description": "아리무라 마오의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-amao-033",
-            "name": "ボクらしい曲",
-            "description": "有村 麻央の楽曲を合計{threshold}曲解放"
+            "name": "나다운 곡",
+            "description": "아리무라 마오의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-amao-034",
-            "name": "目指す場所はひとつだけ",
-            "description": "有村 麻央のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "목표는 오직 한 곳",
+            "description": "아리무라 마오의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-amao-035",
-            "name": "可愛いもカッコイイも",
-            "description": "有村 麻央のPアイドルを合計{threshold}種類入手"
+            "name": "귀여움도 멋짐도",
+            "description": "아리무라 마오의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-amao-036",
-            "name": "王子様の舞台",
-            "description": "有村 麻央のTrueライブを{threshold}種類見る"
+            "name": "왕자님의 무대",
+            "description": "아리무라 마오의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-amao-037",
-            "name": "ボクの仕事を観てください",
-            "description": "有村 麻央でお仕事を合計{threshold}時間"
+            "name": "제가 일하는 모습을 봐 주세요",
+            "description": "아리무라 마오로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-amao-038",
-            "name": "ファインダー越しの麻央",
-            "description": "有村 麻央で{threshold}枚撮影"
+            "name": "파인더 너머의 마오",
+            "description": "아리무라 마오로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-amao-039",
-            "name": "幾多の舞台に立って",
-            "description": "有村 麻央で{threshold}回コンテストに挑戦"
+            "name": "수많은 무대에 서서",
+            "description": "아리무라 마오로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-atbm-000",
@@ -4547,48 +4547,48 @@
         },
         {
             "id": "achieve-p_idol-atbm-030",
-            "name": "燕を彩る衣装たち",
-            "description": "雨夜 燕の衣装を合計{threshold}種類入手"
+            "name": "츠바메를 빛내는 의상들",
+            "description": "아마야 츠바메의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-atbm-031",
-            "name": "燕を魅せるアレンジ",
-            "description": "雨夜 燕の髪型を合計{threshold}種類入手"
+            "name": "츠바메의 매력을 살리는 스타일링",
+            "description": "아마야 츠바메의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-atbm-033",
-            "name": "想いを込めた歌",
-            "description": "雨夜 燕の楽曲を合計{threshold}曲解放"
+            "name": "마음을 담은 노래",
+            "description": "아마야 츠바메의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-atbm-034",
-            "name": "頂は譲らない",
-            "description": "雨夜 燕のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "정상은 양보할 수 없어",
+            "description": "아마야 츠바메의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-atbm-035",
-            "name": "私の在り方",
-            "description": "雨夜 燕のPアイドルを合計{threshold}種類入手"
+            "name": "내가 살아가는 방식",
+            "description": "아마야 츠바메의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-atbm-036",
-            "name": "理想の体現",
-            "description": "雨夜 燕のTrueライブを{threshold}種類見る"
+            "name": "이상의 실현",
+            "description": "아마야 츠바메의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-atbm-037",
-            "name": "どんな仕事もこなしてみせる",
-            "description": "雨夜 燕でお仕事を合計{threshold}時間"
+            "name": "어떤 일이든 반드시 해내겠어",
+            "description": "아마야 츠바메로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-atbm-038",
-            "name": "ファインダー越しの燕",
-            "description": "雨夜 燕で{threshold}枚撮影"
+            "name": "파인더 너머의 츠바메",
+            "description": "아마야 츠바메로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-atbm-039",
-            "name": "百錬成鋼",
-            "description": "雨夜 燕で{threshold}回コンテストに挑戦"
+            "name": "백련성강",
+            "description": "아마야 츠바메로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -5012,213 +5012,213 @@
         },
         {
             "id": "achieve-p_idol-fktn-030",
-            "name": "ことねを彩る衣装たち",
-            "description": "藤田 ことねの衣装を合計{threshold}種類入手"
+            "name": "코토네를 빛내는 의상들",
+            "description": "후지타 코토네의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-fktn-031",
-            "name": "ことねを魅せるアレンジ",
-            "description": "藤田 ことねの髪型を合計{threshold}種類入手"
+            "name": "코토네의 매력을 살리는 스타일링",
+            "description": "후지타 코토네의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-fktn-033",
-            "name": "あたしのための曲",
-            "description": "藤田 ことねの楽曲を合計{threshold}曲解放"
+            "name": "나를 위한 곡",
+            "description": "후지타 코토네의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-fktn-034",
-            "name": "賞賛はあたしのもの♡",
-            "description": "藤田 ことねのプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "찬사는 내 거♡",
+            "description": "후지타 코토네의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-fktn-035",
-            "name": "かわいいは無限大",
-            "description": "藤田 ことねのPアイドルを合計{threshold}種類入手"
+            "name": "귀여움은 무한대",
+            "description": "후지타 코토네의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-fktn-036",
-            "name": "大好きがいっぱい",
-            "description": "藤田 ことねのTrueライブを{threshold}種類見る"
+            "name": "좋아하는 마음이 한가득",
+            "description": "후지타 코토네의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-fktn-037",
-            "name": "お仕事、だ～いすきっ♡",
-            "description": "藤田 ことねでお仕事を合計{threshold}時間"
+            "name": "일하는 게 너~무 좋아♡",
+            "description": "후지타 코토네로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-fktn-038",
-            "name": "ファインダー越しのことね",
-            "description": "藤田 ことねで{threshold}枚撮影"
+            "name": "파인더 너머의 코토네",
+            "description": "후지타 코토네로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-fktn-039",
-            "name": "勝っても負けてもかわいい！",
-            "description": "藤田 ことねで{threshold}回コンテストに挑戦"
+            "name": "이겨도 져도 귀여워!",
+            "description": "후지타 코토네로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-hkne-000",
-            "name": "ふたつの夢",
-            "description": "氷渡 香名江でTrue Endをみる"
+            "name": "두 가지 꿈",
+            "description": "히와타리 카나에로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-hkne-001",
-            "name": "アイドルという認識",
-            "description": "氷渡 香名江のプロデュースでスキルカードを{threshold}回使用"
+            "name": "아이돌이라는 자각",
+            "description": "히와타리 카나에의 프로듀스로 스킬 카드를 {threshold}회 사용"
         },
         {
             "id": "achieve-p_idol-hkne-002",
-            "name": "減点なしのパフォーマンス",
-            "description": "氷渡 香名江でレッスンを{threshold}回クリア"
+            "name": "감점 없는 퍼포먼스",
+            "description": "히와타리 카나에로 레슨을 {threshold}회 클리어"
         },
         {
             "id": "achieve-p_idol-hkne-003",
-            "name": "『魅』せる動き",
-            "description": "氷渡 香名江でSPレッスンを{threshold}回クリア"
+            "name": "『매력』을 드러내는 움직임",
+            "description": "히와타리 카나에로 SP 레슨을 {threshold}회 클리어"
         },
         {
             "id": "achieve-p_idol-hkne-004",
-            "name": "すべてはお嬢様のため",
-            "description": "氷渡 香名江で最終試験に合格して評価B以上を{threshold}回獲得"
+            "name": "모든 것은 아가씨를 위해",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 B 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-005",
-            "name": "光の当たった私",
-            "description": "氷渡 香名江で最終試験に合格して評価A以上を{threshold}回獲得"
+            "name": "빛을 받은 나",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 A 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-006",
-            "name": "新しい旅路の始まり",
-            "description": "氷渡 香名江で最終試験に合格して評価S以上を{threshold}回獲得"
+            "name": "새로운 여정의 시작",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 S 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-007",
-            "name": "影と光の狭間で",
-            "description": "氷渡 香名江のプロデュースを{threshold}回完了"
+            "name": "그림자와 빛 사이에서",
+            "description": "히와타리 카나에의 프로듀스를 {threshold}회 완료"
         },
         {
             "id": "achieve-p_idol-hkne-008",
-            "name": "憧れのその先へ",
-            "description": "氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경 그 너머로",
+            "description": "히와타리 카나에의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-p_idol-hkne-009",
-            "name": "夢に向かって",
-            "description": "氷渡 香名江のプロデュースで最終試験に{threshold}回合格"
+            "name": "꿈을 향해",
+            "description": "히와타리 카나에의 프로듀스로 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-hkne-010",
-            "name": "夢と想いを抱いて",
-            "description": "氷渡 香名江のファンを{threshold}人獲得"
+            "name": "꿈과 마음을 품고",
+            "description": "히와타리 카나에의 팬 {threshold}명 획득"
         },
         {
             "id": "achieve-p_idol-hkne-011",
-            "name": "あなた様と共に",
-            "description": "氷渡 香名江の親愛度Lvを{threshold}にする"
+            "name": "당신과 함께",
+            "description": "히와타리 카나에의 친애도 Lv {threshold} 달성"
         },
         {
             "id": "achieve-p_idol-hkne-012",
-            "name": "アイドルの資質",
-            "description": "氷渡 香名江でプロデュース評価を合計{threshold}獲得"
+            "name": "아이돌의 자질",
+            "description": "히와타리 카나에로 프로듀스 평가 총 {threshold} 획득"
         },
         {
             "id": "achieve-p_idol-hkne-013",
-            "name": "従者の心得",
-            "description": "氷渡 香名江のプロデュースでスキルカードを{threshold}回強化"
+            "name": "시종의 마음가짐",
+            "description": "히와타리 카나에의 프로듀스로 스킬 카드 {threshold}회 강화"
         },
         {
             "id": "achieve-p_idol-hkne-014",
-            "name": "メイドであり、アイドル",
-            "description": "氷渡 香名江のビジュアルを1000以上に育成してプロデュースを完了"
+            "name": "메이드이자 아이돌",
+            "description": "히와타리 카나에의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
         },
         {
             "id": "achieve-p_idol-hkne-015",
-            "name": "「アイドルへの道」氷渡香名江",
-            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+            "name": "「아이돌의 길」히와타리 카나에",
+            "description": "「아이돌의 길」에서 클리어 조건의 ★을 {threshold}개 획득"
         },
         {
             "id": "achieve-p_idol-hkne-016",
-            "name": "輝きも近侍も欲張って",
-            "description": "氷渡 香名江で最終試験に合格して評価S+以上を{threshold}回獲得"
+            "name": "빛나는 일도 모시는 일도 욕심내서",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 S+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-017",
-            "name": "氷渡香名江マスター",
-            "description": "氷渡 香名江の定期公演『初』難易度：マスターで最終試験1位を獲得"
+            "name": "히와타리 카나에 마스터",
+            "description": "히와타리 카나에의 정기 공연 『하지메』 난이도: 마스터에서 최종시험 1위 획득"
         },
         {
             "id": "achieve-p_idol-hkne-018",
-            "name": "夢への道筋",
-            "description": "プロデュースで特別指導を{threshold}回選択"
+            "name": "꿈으로 향하는 길",
+            "description": "프로듀스에서 특별 지도를 {threshold}회 선택"
         },
         {
             "id": "achieve-p_idol-hkne-020",
-            "name": "ステージのおもてなし",
-            "description": "氷渡 香名江で最終試験に合格して評価SS以上を{threshold}回獲得"
+            "name": "무대에서 전하는 환대",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 SS 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-021",
-            "name": "光の下で、咲きます",
-            "description": "氷渡 香名江で最終試験に合格して評価SS+以上を{threshold}回獲得"
+            "name": "빛 아래에서, 피어나겠습니다",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 SS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-023",
-            "name": "噂の才媛",
-            "description": "氷渡 香名江で最終試験に合格して評価SSS以上を{threshold}回獲得"
+            "name": "소문의 재원",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-024",
-            "name": "私というアイドル",
-            "description": "氷渡 香名江で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+            "name": "나라는 아이돌",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-027",
-            "name": "主役の心得",
-            "description": "氷渡 香名江で最終試験に合格して評価S4以上を{threshold}回獲得"
+            "name": "주인공의 마음가짐",
+            "description": "히와타리 카나에로 최종시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hkne-030",
-            "name": "香名江を彩る衣装たち",
-            "description": "氷渡 香名江の衣装を合計{threshold}種類入手"
+            "name": "카나에를 빛내는 의상들",
+            "description": "히와타리 카나에의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hkne-031",
-            "name": "香名江を魅せるアレンジ",
-            "description": "氷渡 香名江の髪型を合計{threshold}種類入手"
+            "name": "카나에의 매력을 살리는 스타일링",
+            "description": "히와타리 카나에의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hkne-033",
-            "name": "私のための歌",
-            "description": "氷渡 香名江の楽曲を合計{threshold}曲解放"
+            "name": "나를 위한 노래",
+            "description": "히와타리 카나에의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-hkne-034",
-            "name": "お嬢様に恥じない戦いを",
-            "description": "氷渡 香名江のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "아가씨께 부끄럽지 않은 승부를",
+            "description": "히와타리 카나에의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-hkne-035",
-            "name": "新しい私との出会い",
-            "description": "氷渡 香名江のPアイドルを合計{threshold}種類入手"
+            "name": "새로운 나와의 만남",
+            "description": "히와타리 카나에의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hkne-036",
-            "name": "たくさんの光の海",
-            "description": "氷渡 香名江のTrueライブを{threshold}種類見る"
+            "name": "수많은 빛이 이루는 바다",
+            "description": "히와타리 카나에의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-hkne-037",
-            "name": "私の務めを果たします",
-            "description": "氷渡 香名江でお仕事を合計{threshold}時間"
+            "name": "제 소임을 다하겠습니다",
+            "description": "히와타리 카나에로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-hkne-038",
-            "name": "ファインダー越しの香名江",
-            "description": "氷渡 香名江で{threshold}枚撮影"
+            "name": "파인더 너머의 카나에",
+            "description": "히와타리 카나에로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-hkne-039",
-            "name": "知見を活かして",
-            "description": "氷渡 香名江で{threshold}回コンテストに挑戦"
+            "name": "지식과 경험을 살려",
+            "description": "히와타리 카나에로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-hmsz-000",
@@ -5367,48 +5367,48 @@
         },
         {
             "id": "achieve-p_idol-hmsz-030",
-            "name": "美鈴を彩る衣装たち",
-            "description": "秦谷 美鈴の衣装を合計{threshold}種類入手"
+            "name": "미스즈를 빛내는 의상들",
+            "description": "하타야 미스즈의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hmsz-031",
-            "name": "美鈴を魅せるアレンジ",
-            "description": "秦谷 美鈴の髪型を合計{threshold}種類入手"
+            "name": "미스즈의 매력을 살리는 스타일링",
+            "description": "하타야 미스즈의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hmsz-033",
-            "name": "わたしが望むままの歌",
-            "description": "秦谷 美鈴の楽曲を合計{threshold}曲解放"
+            "name": "내가 원하는 대로 부르는 노래",
+            "description": "하타야 미스즈의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-hmsz-034",
-            "name": "わたしが上です",
-            "description": "秦谷 美鈴のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "제가 한 수 위예요",
+            "description": "하타야 미스즈의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-hmsz-035",
-            "name": "深まる夜空",
-            "description": "秦谷 美鈴のPアイドルを合計{threshold}種類入手"
+            "name": "깊어지는 밤하늘",
+            "description": "하타야 미스즈의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hmsz-036",
-            "name": "順調な啓蒙活動",
-            "description": "秦谷 美鈴のTrueライブを{threshold}種類見る"
+            "name": "순조로운 계몽 활동",
+            "description": "하타야 미스즈의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-hmsz-037",
-            "name": "お仕事はほどほどに",
-            "description": "秦谷 美鈴でお仕事を合計{threshold}時間"
+            "name": "일은 적당히",
+            "description": "하타야 미스즈로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-hmsz-038",
-            "name": "ファインダー越しの美鈴",
-            "description": "秦谷 美鈴で{threshold}枚撮影"
+            "name": "파인더 너머의 미스즈",
+            "description": "하타야 미스즈로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-hmsz-039",
-            "name": "頂への足がかり",
-            "description": "秦谷 美鈴で{threshold}回コンテストに挑戦"
+            "name": "정상을 향한 발판",
+            "description": "하타야 미스즈로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-hrnm-000",
@@ -5562,48 +5562,48 @@
         },
         {
             "id": "achieve-p_idol-hrnm-030",
-            "name": "莉波を彩る衣装たち",
-            "description": "姫崎 莉波の衣装を合計{threshold}種類入手"
+            "name": "리나미를 빛내는 의상들",
+            "description": "히메사키 리나미의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hrnm-031",
-            "name": "莉波を魅せるアレンジ",
-            "description": "姫崎 莉波の髪型を合計{threshold}種類入手"
+            "name": "리나미의 매력을 살리는 스타일링",
+            "description": "히메사키 리나미의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hrnm-033",
-            "name": "私の気持ちの結晶たち",
-            "description": "姫崎 莉波の楽曲を合計{threshold}曲解放"
+            "name": "내 마음의 결정체들",
+            "description": "히메사키 리나미의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-hrnm-034",
-            "name": "諦めずに何度でも",
-            "description": "姫崎 莉波のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "포기하지 않고 몇 번이든",
+            "description": "히메사키 리나미의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-hrnm-035",
-            "name": "引き出された素質",
-            "description": "姫崎 莉波のPアイドルを合計{threshold}種類入手"
+            "name": "꽃피운 소질",
+            "description": "히메사키 리나미의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hrnm-036",
-            "name": "お姉さんのステージ",
-            "description": "姫崎 莉波のTrueライブを{threshold}種類見る"
+            "name": "누나의 무대",
+            "description": "히메사키 리나미의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-hrnm-037",
-            "name": "お仕事、一生懸命頑張るね",
-            "description": "姫崎 莉波でお仕事を合計{threshold}時間"
+            "name": "일, 최선을 다할게",
+            "description": "히메사키 리나미로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-hrnm-038",
-            "name": "ファインダー越しの莉波",
-            "description": "姫崎 莉波で{threshold}枚撮影"
+            "name": "파인더 너머의 리나미",
+            "description": "히메사키 리나미로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-hrnm-039",
-            "name": "挑戦を自信に変えて",
-            "description": "姫崎 莉波で{threshold}回コンテストに挑戦"
+            "name": "도전을 자신감으로 바꿔",
+            "description": "히메사키 리나미로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-hski-000",
@@ -5757,48 +5757,48 @@
         },
         {
             "id": "achieve-p_idol-hski-030",
-            "name": "咲季を彩る衣装たち",
-            "description": "花海 咲季の衣装を合計{threshold}種類入手"
+            "name": "사키를 빛내는 의상들",
+            "description": "하나미 사키의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hski-031",
-            "name": "咲季を魅せるアレンジ",
-            "description": "花海 咲季の髪型を合計{threshold}種類入手"
+            "name": "사키의 매력을 살리는 스타일링",
+            "description": "하나미 사키의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hski-033",
-            "name": "共に戦い抜いた楽曲たち",
-            "description": "花海 咲季の楽曲を合計{threshold}曲解放"
+            "name": "함께 끝까지 싸워 온 곡들",
+            "description": "하나미 사키의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-hski-034",
-            "name": "目指すは頂点のみ！",
-            "description": "花海 咲季のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "목표는 오직 정점!",
+            "description": "하나미 사키의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-hski-035",
-            "name": "手札の多さが武器",
-            "description": "花海 咲季のPアイドルを合計{threshold}種類入手"
+            "name": "다양한 패가 곧 무기",
+            "description": "하나미 사키의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hski-036",
-            "name": "熱く優しい炎",
-            "description": "花海 咲季のTrueライブを{threshold}種類見る"
+            "name": "뜨겁고도 다정한 불꽃",
+            "description": "하나미 사키의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-hski-037",
-            "name": "どんな仕事も任せなさい！",
-            "description": "花海 咲季でお仕事を合計{threshold}時間"
+            "name": "어떤 일이든 맡겨!",
+            "description": "하나미 사키로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-hski-038",
-            "name": "ファインダー越しの咲季",
-            "description": "花海 咲季で{threshold}枚撮影"
+            "name": "파인더 너머의 사키",
+            "description": "하나미 사키로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-hski-039",
-            "name": "闘いの数だけ強く",
-            "description": "花海 咲季で{threshold}回コンテストに挑戦"
+            "name": "싸운 만큼 강해져",
+            "description": "하나미 사키로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-hume-000",
@@ -5947,48 +5947,48 @@
         },
         {
             "id": "achieve-p_idol-hume-030",
-            "name": "佑芽を彩る衣装たち",
-            "description": "花海 佑芽の衣装を合計{threshold}種類入手"
+            "name": "우메를 빛내는 의상들",
+            "description": "하나미 우메의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hume-031",
-            "name": "佑芽を魅せるアレンジ",
-            "description": "花海 佑芽の髪型を合計{threshold}種類入手"
+            "name": "우메의 매력을 살리는 스타일링",
+            "description": "하나미 우메의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hume-033",
-            "name": "仲良しな友達がいっぱい！",
-            "description": "花海 佑芽の楽曲を合計{threshold}曲解放"
+            "name": "친한 친구가 한가득!",
+            "description": "하나미 우메의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-hume-034",
-            "name": "誰にも負けない！",
-            "description": "花海 佑芽のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "누구에게도 지지 않아!",
+            "description": "하나미 우메의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-hume-035",
-            "name": "アイドル博士",
-            "description": "花海 佑芽のPアイドルを合計{threshold}種類入手"
+            "name": "아이돌 박사",
+            "description": "하나미 우메의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-hume-036",
-            "name": "バチバチでわくわく！",
-            "description": "花海 佑芽のTrueライブを{threshold}種類見る"
+            "name": "불꽃 튀어서 두근두근!",
+            "description": "하나미 우메의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-hume-037",
-            "name": "お仕事がんばるぞぉ～！",
-            "description": "花海 佑芽でお仕事を合計{threshold}時間"
+            "name": "일도 열심히 하자~!",
+            "description": "하나미 우메로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-hume-038",
-            "name": "ファインダー越しの佑芽",
-            "description": "花海 佑芽で{threshold}枚撮影"
+            "name": "파인더 너머의 우메",
+            "description": "하나미 우메로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-hume-039",
-            "name": "わくわくの腕試し",
-            "description": "花海 佑芽で{threshold}回コンテストに挑戦"
+            "name": "두근두근 실력 시험",
+            "description": "하나미 우메로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -6142,48 +6142,48 @@
         },
         {
             "id": "achieve-p_idol-jsna-030",
-            "name": "星南を彩る衣装たち",
-            "description": "十王 星南の衣装を合計{threshold}種類入手"
+            "name": "세나를 빛내는 의상들",
+            "description": "주오 세나의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-jsna-031",
-            "name": "星南を魅せるアレンジ",
-            "description": "十王 星南の髪型を合計{threshold}種類入手"
+            "name": "세나의 매력을 살리는 스타일링",
+            "description": "주오 세나의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-jsna-033",
-            "name": "特別な楽曲たち",
-            "description": "十王 星南の楽曲を合計{threshold}曲解放"
+            "name": "특별한 곡들",
+            "description": "주오 세나의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-jsna-034",
-            "name": "頂点は私のもの",
-            "description": "十王 星南のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "정점은 내 것",
+            "description": "주오 세나의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-jsna-035",
-            "name": "輝きを増す星",
-            "description": "十王 星南のPアイドルを合計{threshold}種類入手"
+            "name": "더욱 빛나는 별",
+            "description": "주오 세나의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-jsna-036",
-            "name": "物語の1ページ",
-            "description": "十王 星南のTrueライブを{threshold}種類見る"
+            "name": "이야기의 1페이지",
+            "description": "주오 세나의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-jsna-037",
-            "name": "やりがいのある仕事ね",
-            "description": "十王 星南でお仕事を合計{threshold}時間"
+            "name": "보람 있는 일이네",
+            "description": "주오 세나로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-jsna-038",
-            "name": "ファインダー越しの星南",
-            "description": "十王 星南で{threshold}枚撮影"
+            "name": "파인더 너머의 세나",
+            "description": "주오 세나로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-jsna-039",
-            "name": "一戦一戦を糧に",
-            "description": "十王 星南で{threshold}回コンテストに挑戦"
+            "name": "한 번 한 번의 승부를 밑거름으로",
+            "description": "주오 세나로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-kcna-000",
@@ -6332,48 +6332,48 @@
         },
         {
             "id": "achieve-p_idol-kcna-030",
-            "name": "千奈を彩る衣装たち",
-            "description": "倉本 千奈の衣装を合計{threshold}種類入手"
+            "name": "치나를 빛내는 의상들",
+            "description": "쿠라모토 치나의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-kcna-031",
-            "name": "千奈を魅せるアレンジ",
-            "description": "倉本 千奈の髪型を合計{threshold}種類入手"
+            "name": "치나의 매력을 살리는 스타일링",
+            "description": "쿠라모토 치나의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-kcna-033",
-            "name": "かけがえのない楽曲たち",
-            "description": "倉本 千奈の楽曲を合計{threshold}曲解放"
+            "name": "무엇과도 바꿀 수 없는 곡들",
+            "description": "쿠라모토 치나의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-kcna-034",
-            "name": "期待を背負って",
-            "description": "倉本 千奈のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "기대를 짊어지고",
+            "description": "쿠라모토 치나의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-kcna-035",
-            "name": "大きな成長の証",
-            "description": "倉本 千奈のPアイドルを合計{threshold}種類入手"
+            "name": "크게 성장했다는 증거",
+            "description": "쿠라모토 치나의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-kcna-036",
-            "name": "あたたかなひだまり",
-            "description": "倉本 千奈のTrueライブを{threshold}種類見る"
+            "name": "따스한 양지",
+            "description": "쿠라모토 치나의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-kcna-037",
-            "name": "お仕事はやり遂げますわ！",
-            "description": "倉本 千奈でお仕事を合計{threshold}時間"
+            "name": "일은 끝까지 해내겠어요!",
+            "description": "쿠라모토 치나로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-kcna-038",
-            "name": "ファインダー越しの千奈",
-            "description": "倉本 千奈で{threshold}枚撮影"
+            "name": "파인더 너머의 치나",
+            "description": "쿠라모토 치나로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-kcna-039",
-            "name": "転んでも前進！",
-            "description": "倉本 千奈で{threshold}回コンテストに挑戦"
+            "name": "넘어져도 앞으로!",
+            "description": "쿠라모토 치나로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-kllj-000",
@@ -6522,48 +6522,48 @@
         },
         {
             "id": "achieve-p_idol-kllj-030",
-            "name": "リーリヤを彩る衣装たち",
-            "description": "葛城 リーリヤの衣装を合計{threshold}種類入手"
+            "name": "릴리야를 빛내는 의상들",
+            "description": "카츠라기 릴리야의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-kllj-031",
-            "name": "リーリヤを魅せるアレンジ",
-            "description": "葛城 リーリヤの髪型を合計{threshold}種類入手"
+            "name": "릴리야의 매력을 살리는 스타일링",
+            "description": "카츠라기 릴리야의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-kllj-033",
-            "name": "一途に紡いできた曲",
-            "description": "葛城 リーリヤの楽曲を合計{threshold}曲解放"
+            "name": "한결같이 엮어 온 곡",
+            "description": "카츠라기 릴리야의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-kllj-034",
-            "name": "戦いはこれから",
-            "description": "葛城 リーリヤのプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "승부는 이제부터",
+            "description": "카츠라기 릴리야의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-kllj-035",
-            "name": "身に付けた能力",
-            "description": "葛城 リーリヤのPアイドルを合計{threshold}種類入手"
+            "name": "갈고닦은 능력",
+            "description": "카츠라기 릴리야의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-kllj-036",
-            "name": "惹き込まれる世界観",
-            "description": "葛城 リーリヤのTrueライブを{threshold}種類見る"
+            "name": "빠져드는 세계관",
+            "description": "카츠라기 릴리야의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-kllj-037",
-            "name": "お仕事、がんばります！",
-            "description": "葛城 リーリヤでお仕事を合計{threshold}時間"
+            "name": "일, 열심히 할게요!",
+            "description": "카츠라기 릴리야로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-kllj-038",
-            "name": "ファインダー越しのリーリヤ",
-            "description": "葛城 リーリヤで{threshold}枚撮影"
+            "name": "파인더 너머의 릴리야",
+            "description": "카츠라기 릴리야로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-kllj-039",
-            "name": "挑んだ数だけ力になる",
-            "description": "葛城 リーリヤで{threshold}回コンテストに挑戦"
+            "name": "도전한 만큼 힘이 돼",
+            "description": "카츠라기 릴리야로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -6717,48 +6717,48 @@
         },
         {
             "id": "achieve-p_idol-shro-030",
-            "name": "広を彩る衣装たち",
-            "description": "篠澤 広の衣装を合計{threshold}種類入手"
+            "name": "히로를 빛내는 의상들",
+            "description": "시노사와 히로의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-shro-031",
-            "name": "広を魅せるアレンジ",
-            "description": "篠澤 広の髪型を合計{threshold}種類入手"
+            "name": "히로의 매력을 살리는 스타일링",
+            "description": "시노사와 히로의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-shro-033",
-            "name": "乗り越えてきた試練",
-            "description": "篠澤 広の楽曲を合計{threshold}曲解放"
+            "name": "극복해 온 시련",
+            "description": "시노사와 히로의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-shro-034",
-            "name": "勝利のため息",
-            "description": "篠澤 広のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "승리의 한숨",
+            "description": "시노사와 히로의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-shro-035",
-            "name": "広がる可能性",
-            "description": "篠澤 広のPアイドルを合計{threshold}種類入手"
+            "name": "넓어지는 가능성",
+            "description": "시노사와 히로의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-shro-036",
-            "name": "女神様の灼熱",
-            "description": "篠澤 広のTrueライブを{threshold}種類見る"
+            "name": "여신님의 작열",
+            "description": "시노사와 히로의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-shro-037",
-            "name": "お仕事って楽しい、ね",
-            "description": "篠澤 広でお仕事を合計{threshold}時間"
+            "name": "일하는 건 즐거워, 그치",
+            "description": "시노사와 히로로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-shro-038",
-            "name": "ファインダー越しの広",
-            "description": "篠澤 広で{threshold}枚撮影"
+            "name": "파인더 너머의 히로",
+            "description": "시노사와 히로로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-shro-039",
-            "name": "たのしい挑戦",
-            "description": "篠澤 広で{threshold}回コンテストに挑戦"
+            "name": "즐거운 도전",
+            "description": "시노사와 히로로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-ssmk-000",
@@ -6907,48 +6907,48 @@
         },
         {
             "id": "achieve-p_idol-ssmk-030",
-            "name": "清夏を彩る衣装たち",
-            "description": "紫雲 清夏の衣装を合計{threshold}種類入手"
+            "name": "스미카를 빛내는 의상들",
+            "description": "시운 스미카의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-ssmk-031",
-            "name": "清夏を魅せるアレンジ",
-            "description": "紫雲 清夏の髪型を合計{threshold}種類入手"
+            "name": "스미카의 매력을 살리는 스타일링",
+            "description": "시운 스미카의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-ssmk-033",
-            "name": "あたしの成長の証",
-            "description": "紫雲 清夏の楽曲を合計{threshold}曲解放"
+            "name": "내가 성장했다는 증거",
+            "description": "시운 스미카의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-ssmk-034",
-            "name": "もっと強く！",
-            "description": "紫雲 清夏のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "더 강하게!",
+            "description": "시운 스미카의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-ssmk-035",
-            "name": "嘘を本当に変えて",
-            "description": "紫雲 清夏のPアイドルを合計{threshold}種類入手"
+            "name": "거짓을 진실로 바꿔",
+            "description": "시운 스미카의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-ssmk-036",
-            "name": "崩れない幻想",
-            "description": "紫雲 清夏のTrueライブを{threshold}種類見る"
+            "name": "무너지지 않는 환상",
+            "description": "시운 스미카의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-ssmk-037",
-            "name": "仕事も楽しも～♪",
-            "description": "紫雲 清夏でお仕事を合計{threshold}時間"
+            "name": "일도 즐기자~♪",
+            "description": "시운 스미카로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-ssmk-038",
-            "name": "ファインダー越しの清夏",
-            "description": "紫雲 清夏で{threshold}枚撮影"
+            "name": "파인더 너머의 스미카",
+            "description": "시운 스미카로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-ssmk-039",
-            "name": "挑戦の足跡",
-            "description": "紫雲 清夏で{threshold}回コンテストに挑戦"
+            "name": "도전의 발자취",
+            "description": "시운 스미카로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -7102,48 +7102,48 @@
         },
         {
             "id": "achieve-p_idol-ttmr-030",
-            "name": "手毬を彩る衣装たち",
-            "description": "月村 手毬の衣装を合計{threshold}種類入手"
+            "name": "테마리를 빛내는 의상들",
+            "description": "츠키무라 테마리의 의상을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-ttmr-031",
-            "name": "手毬を魅せるアレンジ",
-            "description": "月村 手毬の髪型を合計{threshold}種類入手"
+            "name": "테마리의 매력을 살리는 스타일링",
+            "description": "츠키무라 테마리의 헤어스타일을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-ttmr-033",
-            "name": "私の持ち歌",
-            "description": "月村 手毬の楽曲を合計{threshold}曲解放"
+            "name": "나의 레퍼토리",
+            "description": "츠키무라 테마리의 악곡을 총 {threshold}곡 해금"
         },
         {
             "id": "achieve-p_idol-ttmr-034",
-            "name": "圧倒してこそ",
-            "description": "月村 手毬のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+            "name": "압도해야 의미가 있어",
+            "description": "츠키무라 테마리의 프로듀서 랭킹에서 2000위 이내로 {threshold}시즌 입상"
         },
         {
             "id": "achieve-p_idol-ttmr-035",
-            "name": "高く飛び続ける翼",
-            "description": "月村 手毬のPアイドルを合計{threshold}種類入手"
+            "name": "계속 높이 나는 날개",
+            "description": "츠키무라 테마리의 P아이돌을 총 {threshold}종류 획득"
         },
         {
             "id": "achieve-p_idol-ttmr-036",
-            "name": "正真正銘の思い",
-            "description": "月村 手毬のTrueライブを{threshold}種類見る"
+            "name": "거짓 없는 마음",
+            "description": "츠키무라 테마리의 True 라이브를 {threshold}종류 보기"
         },
         {
             "id": "achieve-p_idol-ttmr-037",
-            "name": "良い仕事をしました",
-            "description": "月村 手毬でお仕事を合計{threshold}時間"
+            "name": "일 잘하고 왔어요",
+            "description": "츠키무라 테마리로 업무를 총 {threshold}시간"
         },
         {
             "id": "achieve-p_idol-ttmr-038",
-            "name": "ファインダー越しの手毬",
-            "description": "月村 手毬で{threshold}枚撮影"
+            "name": "파인더 너머의 테마리",
+            "description": "츠키무라 테마리로 {threshold}장 촬영"
         },
         {
             "id": "achieve-p_idol-ttmr-039",
-            "name": "腕が鳴る闘い",
-            "description": "月村 手毬で{threshold}回コンテストに挑戦"
+            "name": "실력을 발휘하고 싶은 승부",
+            "description": "츠키무라 테마리로 콘테스트에 {threshold}회 도전"
         },
         {
             "id": "achievement_char_hume-024",

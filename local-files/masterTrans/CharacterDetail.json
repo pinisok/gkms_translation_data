@@ -257,7 +257,7 @@
             "characterId": "hkne",
             "type": "CharacterDetailType_Grade",
             "order": 1,
-            "content": "1年生"
+            "content": "1학년"
         },
         {
             "characterId": "hkne",
@@ -287,13 +287,13 @@
             "characterId": "hkne",
             "type": "CharacterDetailType_ZodiacSign",
             "order": 6,
-            "content": "しし座"
+            "content": "사자자리"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "安倍 彩野夏"
+            "content": "아베 아야노카"
         },
         {
             "characterId": "hkne",
@@ -305,31 +305,31 @@
             "characterId": "hkne",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "8月20日"
+            "content": "8월20일"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_DominantHand",
             "order": 10,
-            "content": "右"
+            "content": "오른손"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_Birthplace",
             "order": 11,
-            "content": "静岡県"
+            "content": "시즈오카현"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_SpecialSkill",
             "order": 12,
-            "content": "家事全般、護身術、歴史の雑学"
+            "content": "집안일 전반, 호신술, 역사 상식"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_Hobby",
             "order": 13,
-            "content": "主のお世話、「倉本千奈ファンクラブ」の運営"
+            "content": "주인님 시중들기, 「쿠라모토 치나 팬클럽」 운영"
         },
         {
             "characterId": "hmsz",

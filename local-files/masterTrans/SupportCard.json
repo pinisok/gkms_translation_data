@@ -231,10 +231,10 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率小"
+                    "text": " / 확률 소"
                 }
             ],
-            "name": "お仕え前の準備運動"
+            "name": "시중들기 전 준비 운동"
         },
         {
             "id": "s_card-2-0000",
@@ -1575,10 +1575,10 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率中"
+                    "text": " / 확률 중"
                 }
             ],
-            "name": "どたばた、おそうじ"
+            "name": "우당탕탕, 청소"
         },
         {
             "id": "s_card-3-0000",
@@ -3431,10 +3431,10 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "text": "/ 確率大"
+                    "text": " / 확률 대"
                 }
             ],
-            "name": "お嬢様、失礼いたします"
+            "name": "아가씨, 실례하겠습니다"
         },
         {
             "id": "s_card-3-0122",

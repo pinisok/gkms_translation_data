@@ -13521,7 +13521,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_MentalSkillCard",
-                    "text": "メンタルスキルカード"
+                    "text": "멘탈 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13533,7 +13533,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "使用後、"
+                    "text": "사용 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13545,7 +13545,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "好調"
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13557,7 +13557,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>8ターン以上</nobr>の場合、"
+                    "text": "가 <nobr>8턴 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -13571,7 +13571,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "好調"
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13583,7 +13583,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>8ターン以上</nobr>の場合、使用可"
+                    "text": "가 <nobr>8턴 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -13597,7 +13597,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "好調"
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13609,7 +13609,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>8ターン以上</nobr>の場合、"
+                    "text": "가 <nobr>8턴 이상</nobr>일 때, "
                 }
             ]
         },

@@ -63,20 +63,20 @@
         {
             "characterId": "hkne",
             "number": 1,
-            "title": "自分の魅せ方",
-            "description": "ダンス300以上"
+            "title": "나의 매력을 보여주는 법",
+            "description": "댄스300 이상"
         },
         {
             "characterId": "hkne",
             "number": 2,
-            "title": "夢を見る力",
-            "description": "ボーカル450以上"
+            "title": "꿈꾸는 힘",
+            "description": "보컬 450 이상"
         },
         {
             "characterId": "hkne",
             "number": 3,
-            "title": "光の下へ",
-            "description": "ビジュアル1000以上"
+            "title": "빛 아래로",
+            "description": "비주얼 1000 이상"
         },
         {
             "characterId": "hmsz",

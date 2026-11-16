@@ -1207,11 +1207,11 @@
         },
         {
             "id": "cd_gasha_have_ticket_item-gashaticket-selectloginbonus-26-1116-1",
-            "description": "選べるログボ：SSRPアイドル2人確定"
+            "description": "선택형 로그인 보너스: SSR P아이돌 2명 확정"
         },
         {
             "id": "cd_gasha_have_ticket_item-gashaticket-selectloginbonus-26-1116-2",
-            "description": "選べるログボ：SSRPアイドル20％"
+            "description": "선택형 로그인 보너스: SSR P아이돌 20％"
         },
         {
             "id": "cd_gasha_have_ticket_item-gashaticket-ssr-fix_7",
@@ -8763,7 +8763,7 @@
         },
         {
             "id": "cd-character_produce_play_count-1-hkne",
-            "description": "プロデュースを開始する"
+            "description": "프로듀스를 시작하기"
         },
         {
             "id": "cd-character_produce_play_count-1-hmsz",
@@ -9543,7 +9543,7 @@
         },
         {
             "id": "cd-dearness_level-hkne-01",
-            "description": "氷渡 香名江の親愛度Lvを1にする"
+            "description": "히와타리 카나에의 친애도 Lv 1 도달"
         },
         {
             "id": "cd-dearness_level-hkne-01-03",
@@ -9551,27 +9551,27 @@
         },
         {
             "id": "cd-dearness_level-hkne-02",
-            "description": "氷渡 香名江の親愛度Lvを2にする"
+            "description": "히와타리 카나에의 친애도 Lv 2 도달"
         },
         {
             "id": "cd-dearness_level-hkne-02-03",
-            "description": "氷渡 香名江の親愛度Lvを2か3にする"
+            "description": "히와타리 카나에의 친애도 Lv 2 또는 3 도달"
         },
         {
             "id": "cd-dearness_level-hkne-02-03",
-            "description": "氷渡 香名江の親愛度Lvを2か3にする"
+            "description": "히와타리 카나에의 친애도 Lv 2 또는 3 도달"
         },
         {
             "id": "cd-dearness_level-hkne-03",
-            "description": "氷渡 香名江の親愛度Lvを3にする"
+            "description": "히와타리 카나에의 친애도 Lv 3 도달"
         },
         {
             "id": "cd-dearness_level-hkne-03-04",
-            "description": "氷渡 香名江の親愛度Lvを3か4にする"
+            "description": "히와타리 카나에의 친애도 Lv 3 또는 4 도달"
         },
         {
             "id": "cd-dearness_level-hkne-03-04",
-            "description": "氷渡 香名江の親愛度Lvを3か4にする"
+            "description": "히와타리 카나에의 친애도 Lv 3 또는 4 도달"
         },
         {
             "id": "cd-dearness_level-hkne-03-05",
@@ -9579,19 +9579,19 @@
         },
         {
             "id": "cd-dearness_level-hkne-04",
-            "description": "氷渡 香名江の親愛度Lvを4にする"
+            "description": "히와타리 카나에의 친애도 Lv 4 도달"
         },
         {
             "id": "cd-dearness_level-hkne-04-05",
-            "description": "氷渡 香名江の親愛度Lvを4か5にする"
+            "description": "히와타리 카나에의 친애도 Lv 4 또는 5 도달"
         },
         {
             "id": "cd-dearness_level-hkne-04-05",
-            "description": "氷渡 香名江の親愛度Lvを4か5にする"
+            "description": "히와타리 카나에의 친애도 Lv 4 또는 5 도달"
         },
         {
             "id": "cd-dearness_level-hkne-05",
-            "description": "氷渡 香名江の親愛度Lvを5にする"
+            "description": "히와타리 카나에의 친애도 Lv 5 도달"
         },
         {
             "id": "cd-dearness_level-hkne-05-06",
@@ -9599,11 +9599,11 @@
         },
         {
             "id": "cd-dearness_level-hkne-05-06",
-            "description": "氷渡 香名江の親愛度Lvを5か6にする"
+            "description": "히와타리 카나에의 친애도 Lv 5 또는 6 도달"
         },
         {
             "id": "cd-dearness_level-hkne-06",
-            "description": "氷渡 香名江の親愛度Lvを6にする"
+            "description": "히와타리 카나에의 친애도 Lv 6 도달"
         },
         {
             "id": "cd-dearness_level-hkne-06-08",
@@ -9611,11 +9611,11 @@
         },
         {
             "id": "cd-dearness_level-hkne-06-08",
-            "description": "氷渡 香名江の親愛度Lvを6か7か8にする"
+            "description": "히와타리 카나에의 친애도 Lv 6 또는 7 또는 8 도달"
         },
         {
             "id": "cd-dearness_level-hkne-07",
-            "description": "氷渡 香名江の親愛度Lvを7にする"
+            "description": "히와타리 카나에의 친애도 Lv 7 도달"
         },
         {
             "id": "cd-dearness_level-hkne-07-09",
@@ -9623,15 +9623,15 @@
         },
         {
             "id": "cd-dearness_level-hkne-08",
-            "description": "氷渡 香名江の親愛度Lvを8にする"
+            "description": "히와타리 카나에의 친애도 Lv 8 도달"
         },
         {
             "id": "cd-dearness_level-hkne-09",
-            "description": "氷渡 香名江の親愛度Lvを9にする"
+            "description": "히와타리 카나에의 친애도 Lv 9 도달"
         },
         {
             "id": "cd-dearness_level-hkne-10",
-            "description": "氷渡 香名江の親愛度Lvを10にする"
+            "description": "히와타리 카나에의 친애도 Lv 10 도달"
         },
         {
             "id": "cd-dearness_level-hmsz-01",
@@ -11067,7 +11067,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_hkne-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친애도 Lv 20 도달 시"
         },
         {
             "id": "cd-dearness_normal-mission_hkne-0001",

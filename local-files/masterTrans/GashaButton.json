@@ -51,8 +51,8 @@
         {
             "id": "gasha_button_01070-ssr-idol-001",
             "order": 1,
-            "name": "有償10回ガシャ",
-            "description": "有償10回ガシャ"
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
         },
         {
             "id": "gasha_button_animate-ssr-00630",
@@ -63,8 +63,8 @@
         {
             "id": "gasha_button_item-gachaticket-2.5th-anniv-10-001",
             "order": 1,
-            "name": "2.5th アニバーサリー10連ガシャチケットで引く",
-            "description": "10回ガシャ"
+            "name": "2.5th 애니버서리 10연 가챠 티켓으로 뽑기",
+            "description": "10회 가챠"
         },
         {
             "id": "gasha_button_merge-ssr-00530",
@@ -399,32 +399,32 @@
         {
             "id": "gasha_button-01070-ssr-idol-002",
             "order": 1,
-            "name": "2.5th アニバーサリーシーズン限定入り SSR Pアイドル確定ガシャチケットで引く",
-            "description": "2.5th アニバーサリーシーズン限定入り SSR Pアイドル確定ガシャチケットで引く"
+            "name": "2.5th 애니버서리 시즌 한정 포함 SSR P아이돌 확정 가챠 티켓으로 뽑기",
+            "description": "2.5th 애니버서리 시즌 한정 포함 SSR P아이돌 확정 가챠 티켓으로 뽑기"
         },
         {
             "id": "gasha_button-01070-ssr-support-002",
             "order": 1,
-            "name": "2.5th アニバーサリーシーズン限定入り SSR サポートカード確定ガシャチケットで引く",
-            "description": "2.5th アニバーサリーシーズン限定入り SSR サポートカード確定ガシャチケットで引く"
+            "name": "2.5th 애니버서리 시즌 한정 포함 SSR 서포트 카드 확정 가챠 티켓으로 뽑기",
+            "description": "2.5th 애니버서리 시즌 한정 포함 SSR 서포트 카드 확정 가챠 티켓으로 뽑기"
         },
         {
             "id": "gasha_button-01070-ticket-001",
             "order": 1,
-            "name": "SSR Pアイドル2人確定！2連ガシャチケットで引く",
-            "description": "SSR Pアイドル2人確定！2連ガシャチケットで引く"
+            "name": "SSR P아이돌 2명 확정! 2연 가챠 티켓으로 뽑기",
+            "description": "SSR P아이돌 2명 확정! 2연 가챠 티켓으로 뽑기"
         },
         {
             "id": "gasha_button-01070-ticket-002",
             "order": 1,
-            "name": "SSR Pアイドル出現率10倍！10連ガシャチケットで引く",
-            "description": "SSR Pアイドル出現率10倍！10連ガシャチケットで引く"
+            "name": "SSR P아이돌 출현율 10배! 10연 가챠 티켓으로 뽑기",
+            "description": "SSR P아이돌 출현율 10배! 10연 가챠 티켓으로 뽑기"
         },
         {
             "id": "gasha_button-01070-wednesday-001",
             "order": 1,
-            "name": "チケットで引く",
-            "description": "チケットで引く"
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
         },
         {
             "id": "gasha_button-640-fes",

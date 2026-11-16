@@ -307,9 +307,9 @@
         },
         {
             "id": "item-exchange-campaign-medal-2026kne-001",
-            "name": "氷渡香名江登場記念＆2.5th アニバーサリーキャンペーン交換券",
-            "description": "イベント交換所で様々な報酬と交換できるアイテム",
-            "acquisitionRouteDescription": "プロデュース"
+            "name": "히와타리 카나에 등장 기념＆2.5th 애니버서리 캠페인 교환권",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스"
         },
         {
             "id": "item-friend_coin",
@@ -367,20 +367,20 @@
         },
         {
             "id": "item-gacha-ticket-2.5th-anniv-ssr-idolcard",
-            "name": "2.5th アニバーサリーシーズン限定入り SSR Pアイドル確定ガシャチケット",
-            "description": "2.5th アニバーサリーシーズン限定入り SSR Pアイドル確定チケットガシャで使用するチケット",
+            "name": "2.5th 애니버서리 시즌 한정 포함 SSR P아이돌 확정 가챠 티켓",
+            "description": "2.5th 애니버서리 시즌 한정 포함 SSR P아이돌 확정 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
             "id": "item-gacha-ticket-2.5th-anniv-ssr-supportcard",
-            "name": "2.5th アニバーサリーシーズン限定入り SSR サポートカード確定ガシャチケット",
-            "description": "2.5th アニバーサリーシーズン限定入り SSR サポートカード確定チケットガシャで使用するチケット",
-            "acquisitionRouteDescription": "イベント交換所"
+            "name": "2.5th 애니버서리 시즌 한정 포함 SSR 서포트 카드 확정 가챠 티켓",
+            "description": "2.5th 애니버서리 시즌 한정 포함 SSR 서포트 카드 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": "이벤트 교환소"
         },
         {
             "id": "item-gachaticket-2.5th-anniv-10-001",
-            "name": "2.5th アニバーサリー10連ガシャチケット",
-            "description": "2.5th アニバーサリー10連チケットガシャで使用するチケット",
+            "name": "2.5th 애니버서리 10연 가챠 티켓",
+            "description": "2.5th 애니버서리 10연 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -505,8 +505,8 @@
         },
         {
             "id": "item-gashaticket-new-wednesday-26-1118-1",
-            "name": "学マ水曜日ガシャチケット",
-            "description": "学マ水曜日ガシャで使用するチケット",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -1261,21 +1261,21 @@
         },
         {
             "id": "item-piece-idol_hkne-1-000",
-            "name": "[学園生活]氷渡香名江のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[학교생활] 히와타리 카나에의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_hkne-2-000",
-            "name": "[憧れを抱いて一歩ずつ]氷渡香名江のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[동경을 품고 한 걸음씩] 히와타리 카나에의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_hkne-3-000",
-            "name": "[メタモルフォーゼ]氷渡香名江のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[메타모르포제] 히와타리 카나에의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_hmsz-1-000",
@@ -2275,14 +2275,14 @@
         },
         {
             "id": "item-selectgashaticket-gasha-01070-ticket-001",
-            "name": "SSR Pアイドル2人確定！2連ガシャチケット",
-            "description": "SSR Pアイドル2人確定！2連ガシャで使用するチケット",
+            "name": "SSR P아이돌 2명 확정! 2연 가챠 티켓",
+            "description": "SSR P아이돌 2명 확정! 2연 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
             "id": "item-selectgashaticket-gasha-01070-ticket-002",
-            "name": "SSR Pアイドル出現率10倍！10連ガシャチケット",
-            "description": "SSR Pアイドル出現率10倍！10連ガシャで使用するチケット",
+            "name": "SSR P아이돌 출현율 10배! 10연 가챠 티켓",
+            "description": "SSR P아이돌 출현율 10배! 10연 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {

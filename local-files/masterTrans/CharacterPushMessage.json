@@ -284,92 +284,92 @@
             "characterId": "hkne",
             "type": "PushType_ApFull",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "疲れは取れましたか？　\nお嬢様の後で結構ですので、\nレッスンをお願いいたします"
+            "title": "히와타리 카나에",
+            "message": "피로는 풀리셨나요?　\n아가씨 다음이어도 괜찮으니,\n레슨을 부탁드립니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_ApFull",
             "number": 2,
-            "title": "氷渡 香名江",
-            "message": "体調は万全です。\nそろそろレッスンを、\nよろしくお願いいたします"
+            "title": "히와타리 카나에",
+            "message": "몸 상태는 최상입니다.\n슬슬 레슨을,\n잘 부탁드립니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_MoneyFull",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "マニーを受け取れるようです。\n一緒に取りに参りましょう"
+            "title": "히와타리 카나에",
+            "message": "머니를 받을 수 있는 모양입니다.\n함께 받으러 가시죠"
         },
         {
             "characterId": "hkne",
             "type": "PushType_MoneyFull",
             "number": 2,
-            "title": "氷渡 香名江",
-            "message": "マニーの受け取りを\n忘れているようですね\n早めのお受け取りをお願いいたします"
+            "title": "히와타리 카나에",
+            "message": "머니 수령을\n잊으신 것 같군요\n서둘러 수령해 주시기 바랍니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_DailyMission",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "……今日のミッションが\n終わっていないようですが？\n早めのご対応をおすすめいたします"
+            "title": "히와타리 카나에",
+            "message": "……오늘 미션이\n아직 끝나지 않은 것 같습니다만?\n서둘러 완료하시기를 권합니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_Login",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "……その、戻ってきてください"
+            "title": "히와타리 카나에",
+            "message": "……저기, 돌아와 주세요"
         },
         {
             "characterId": "hkne",
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "本日のコンテストが、\nまだ未参加となっております。\n早めに参加いたしましょう"
+            "title": "히와타리 카나에",
+            "message": "오늘 콘테스트에,\n아직 참가하지 않으셨습니다.\n서둘러 참가하시죠"
         },
         {
             "characterId": "hkne",
             "type": "PushType_WorkMiniLiveFinish",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "と、とても緊張しましたが、\n私なりに\n良いミニライブにできたかと……"
+            "title": "히와타리 카나에",
+            "message": "무, 무척 긴장했지만,\n제 나름대로\n괜찮은 미니 라이브를 해낸 것 같습니다……"
         },
         {
             "characterId": "hkne",
             "type": "PushType_WorkMiniLiveFinish",
             "number": 2,
-            "title": "氷渡 香名江",
-            "message": "ミニライブ、終了いたしました。\nすぐにでも振り返りを行いたいので、\nお付き合い願います"
+            "title": "히와타리 카나에",
+            "message": "미니 라이브가 끝났습니다.\n바로 돌아보며 점검하고 싶으니,\n함께해 주시기 바랍니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_WorkMiniLiveFinish",
             "number": 3,
-            "title": "氷渡 香名江",
-            "message": "ミニライブが終わりましたので、\n報酬の受け取りをお願いいたします"
+            "title": "히와타리 카나에",
+            "message": "미니 라이브가 끝났으니,\n보수를 수령해 주시기 바랍니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_WorkLiveStreamingFinish",
             "number": 1,
-            "title": "氷渡 香名江",
-            "message": "配信を終えましたので、\nまずは報酬の受け取りを。\nその後、反省会をお願いいたします"
+            "title": "히와타리 카나에",
+            "message": "방송이 끝났으니,\n우선 보수부터 받아 주십시오.\n그다음에는 반성회를 부탁드립니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_WorkLiveStreamingFinish",
             "number": 2,
-            "title": "氷渡 香名江",
-            "message": "その……\nいろいろと戸惑いましたが、\n配信、楽しかったです"
+            "title": "히와타리 카나에",
+            "message": "저기……\n여러모로 당황했지만,\n방송, 즐거웠습니다"
         },
         {
             "characterId": "hkne",
             "type": "PushType_WorkLiveStreamingFinish",
             "number": 3,
-            "title": "氷渡 香名江",
-            "message": "配信、終了いたしました。\nこのような活動を、\nいつかお嬢様と……！"
+            "title": "히와타리 카나에",
+            "message": "방송이 끝났습니다.\n이런 활동을,\n언젠가 아가씨와 함께……!"
         },
         {
             "characterId": "hmsz",

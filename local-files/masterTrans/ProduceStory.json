@@ -1519,233 +1519,233 @@
         },
         {
             "id": "p_story-001-hkne-after-audition-final-failure-01",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-final-normal-01",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-final-normal-02",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-final-normal-03",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-final-normal-04",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-after-audition-mid-failure-01",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-after-audition-mid-normal-01",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-mid-normal-02",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-mid-normal-03",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-after-audition-mid-normal-04",
-            "title": "試験の結果は…",
+            "title": "시험 결과는…",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-after-step-1-normal-01",
-            "title": "気になる様子",
+            "title": "신경 쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 모든 파라미터를 심사 기준의 80% 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hkne-after-step-1-normal-02",
-            "title": "気になる様子",
+            "title": "신경 쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 모든 파라미터를 심사 기준의 50% 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hkne-after-step-1-normal-03",
-            "title": "気になる様子",
+            "title": "신경 쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-after-step-2-normal-01",
-            "title": "気になる様子",
+            "title": "신경 쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 모든 파라미터를 심사 기준의 80% 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hkne-after-step-2-normal-02",
-            "title": "気になる様子",
+            "title": "신경 쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 모든 파라미터를 심사 기준의 50% 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hkne-after-step-2-normal-03",
-            "title": "気になる様子",
+            "title": "신경 쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-before-audition-final-normal-01",
-            "title": "いざ！ 最終試験へ",
+            "title": "가자! 최종시험에",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-before-audition-mid-normal-01",
-            "title": "いざ！ 中間試験へ",
+            "title": "가자! 중간시험에",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-ending-normal-01",
-            "title": "【A End】踏み出したその先で",
+            "title": "【A End】한 걸음 내디딘 그 너머에서",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-ending-normal-02",
-            "title": "【B End】アイドルとしての",
+            "title": "【B End】아이돌로서의",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hkne-ending-normal-03",
-            "title": "【C End】頂戴したいお言葉",
+            "title": "【C End】듣고 싶은 말씀",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종시험에 합격한다"
             ]
         },
         {
             "id": "p_story-001-hkne-ending-normal-04",
-            "title": "【D End】走り出した道",
+            "title": "【D End】달리기 시작한 길",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-hkne-ending-normal-05",
-            "title": "【E End】従者としての選択",
+            "title": "【E End】시종으로서의 선택",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-hkne-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「メイドであり、アイドル」を獲得する",
-                "アチーブメント「あなた様と共に」を獲得する",
-                "アチーブメント「減点なしのパフォーマンス」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「메이드이자 아이돌」을 획득한다",
+                "업적 「당신과 함께」를 획득한다",
+                "업적 「감점 없는 퍼포먼스」를 획득한다"
             ]
         },
         {
             "id": "p_story-001-hkne-fb-01",
-            "title": "千里の道も一歩から",
+            "title": "천 리 길도 한 걸음부터",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-fb-02",
-            "title": "アイドルを目指して",
+            "title": "아이돌을 목표로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-fb-03",
-            "title": "星に向かって咲く花に",
+            "title": "별을 향해 피어나는 꽃으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-opening-normal-01",
-            "title": "プロデュース開始！",
+            "title": "프로듀스 시작!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-001-hkne-opening-normal-02",
-            "title": "氷渡香名江、始動！",
+            "title": "히와타리 카나에, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 시작한다"
             ]
         },
         {
             "id": "p_story-001-hkne-opening-normal-03",
-            "title": "氷渡香名江、始動！",
+            "title": "히와타리 카나에, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 시작한다"
             ]
         },
         {
             "id": "p_story-001-hkne-opening-normal-04",
-            "title": "氷渡香名江、始動！",
+            "title": "히와타리 카나에, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hkne-opening-normal-05",
-            "title": "氷渡香名江、始動！",
+            "title": "히와타리 카나에, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hkne-opening-true-01",
-            "title": "もっと夢へ近づくために",
+            "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "香名江のTrue Endをみる"
+                "카나에의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hkne-opening-true-02",
-            "title": "もっと夢へ近づくために",
+            "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "香名江のTrue Endをみる"
+                "카나에의 True End를 본다"
             ]
         },
         {
@@ -5465,167 +5465,167 @@
         },
         {
             "id": "p_story-event-001_hkne_activity_001",
-            "title": "利き紅茶",
+            "title": "홍차 맛 알아맞히기",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_002",
-            "title": "気になるアイドルは？",
+            "title": "관심 가는 아이돌은?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_003",
-            "title": "噂のメイド喫茶",
+            "title": "소문의 메이드 카페",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_004",
-            "title": "今夜のお料理は？",
+            "title": "오늘 저녁 요리는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_005",
-            "title": "そのホンどんな本？",
+            "title": "그 책은 무슨 책?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_006",
-            "title": "尋問ティータイム",
+            "title": "심문 티타임",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_007",
-            "title": "お嬢様チョイス",
+            "title": "아가씨의 선택",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_008",
-            "title": "衣装はこちら！",
+            "title": "의상은 이쪽!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_009",
-            "title": "休日の過ごし方講座",
+            "title": "휴일을 보내는 방법 강좌",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_010",
-            "title": "お悩みカラオケルーム",
+            "title": "고민 상담 노래방",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_011",
-            "title": "ふたりはいつも一緒",
+            "title": "두 사람은 언제나 함께",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_012",
-            "title": "個性派アイドル",
+            "title": "개성파 아이돌",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_013",
-            "title": "肩たたきの真相",
+            "title": "어깨 두드리기의 진상",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_014",
-            "title": "近侍の務め",
+            "title": "곁에서 모시는 이의 임무",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_015",
-            "title": "強制息抜きデー",
+            "title": "강제 휴식 데이",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_016",
-            "title": "まずはお話しから",
+            "title": "우선 대화부터",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_017-01",
-            "title": "幻のメロンパン",
+            "title": "환상의 멜론빵",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_017-02",
-            "title": "幻のメロンパン",
+            "title": "환상의 멜론빵",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_018-01",
-            "title": "氷渡の一手",
+            "title": "히와타리의 한 수",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_018-02",
-            "title": "氷渡の一手",
+            "title": "히와타리의 한 수",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_019",
-            "title": "息抜きピクニック",
+            "title": "쉬어 가는 피크닉",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_activity_020",
-            "title": "身だしなみ注意！",
+            "title": "몸가짐 주의!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_001",
-            "title": "現場ならではの知識",
+            "title": "현장에서만 배울 수 있는 지식",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_002",
-            "title": "ふたりの信頼関係は？",
+            "title": "두 사람의 신뢰 관계는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_003",
-            "title": "サポートは重要！",
+            "title": "서포트는 중요해!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_004",
-            "title": "香名江の強み",
+            "title": "카나에의 강점",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_005",
-            "title": "推し法被はいつから？",
+            "title": "최애 핫피는 언제부터?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_006",
-            "title": "オンエアはどれ？",
+            "title": "방송에 나오는 건 어느 쪽?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_007",
-            "title": "SPってなに？",
+            "title": "SP가 뭐야?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_008",
-            "title": "アンコール！",
+            "title": "앙코르!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_009",
-            "title": "入浴時間は重要です！",
+            "title": "목욕 시간은 중요해요!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_010",
-            "title": "ふたりのプロデュース",
+            "title": "두 사람의 프로듀스",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-001_hkne_school_011",
-            "title": "香名江のレッスン",
+            "title": "카나에의 레슨",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -13980,17 +13980,17 @@
         },
         {
             "id": "p_story-i_card-hkne-3-000-01",
-            "title": "メタモルフォーゼ 1話",
+            "title": "메타모르포제 1화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-i_card-hkne-3-000-02",
-            "title": "メタモルフォーゼ 2話",
+            "title": "메타모르포제 2화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-i_card-hkne-3-000-03",
-            "title": "メタモルフォーゼ 3話",
+            "title": "메타모르포제 3화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -15625,12 +15625,12 @@
         },
         {
             "id": "p_story-s_card-1-0013-01",
-            "title": "隣を走ってくれたから",
+            "title": "곁에서 함께 달려 줬으니까",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-1-0013-02",
-            "title": "今日もがんばりましょう♪",
+            "title": "오늘도 힘내요♪",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -16465,12 +16465,12 @@
         },
         {
             "id": "p_story-s_card-2-0084-01",
-            "title": "千奈流お掃除",
+            "title": "치나식 청소",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-2-0084-02",
-            "title": "メイドの極意とは！？",
+            "title": "메이드의 비결은!?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -18200,17 +18200,17 @@
         },
         {
             "id": "p_story-s_card-3-0115-01",
-            "title": "特大ハンバーガーに挑戦",
+            "title": "초대형 햄버거에 도전",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0115-02",
-            "title": "お揃いハンバーガー",
+            "title": "똑같은 햄버거",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0115-03",
-            "title": "ここは高級レストラン？",
+            "title": "여긴 고급 레스토랑?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -18395,52 +18395,52 @@
         },
         {
             "id": "story-dearness-hkne-001",
-            "title": "1話",
+            "title": "1화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-002",
-            "title": "2話",
+            "title": "2화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-003",
-            "title": "3話",
+            "title": "3화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-004",
-            "title": "4話",
+            "title": "4화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-005",
-            "title": "5話",
+            "title": "5화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-006",
-            "title": "6話",
+            "title": "6화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-007",
-            "title": "7話",
+            "title": "7화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-008",
-            "title": "8話",
+            "title": "8화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-009",
-            "title": "9話",
+            "title": "9화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "story-dearness-hkne-010",
-            "title": "10話",
+            "title": "10화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
