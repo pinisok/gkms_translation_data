@@ -31,11 +31,11 @@
         },
         {
             "id": "card.sort.research_event_consumption_item_bonus",
-            "description": "아사리 선생님의 프로듀스 세미나 이벤트 보너스"
+            "description": "이벤트 보너스"
         },
         {
             "id": "card.sort.story_event_point_bonus",
-            "description": "히와타리 카나에 에피소드0 이벤트 보너스"
+            "description": "이벤트 보너스"
         },
         {
             "id": "common.story_event_point",
@@ -376,6 +376,18 @@
         {
             "id": "startup.gasha_point_expire_sheet.bottom_message",
             "description": "이 교환 Pt를 획득 가능한 가챠"
+        },
+        {
+            "id": "story_event.story_reward",
+            "description": "시나리오 이벤트 커뮤"
+        },
+        {
+            "id": "story_event.unit_story.unlock_item.complete_prefix_label",
+            "description": "커뮤 해방 책갈피를 모두 획득했습니다"
+        },
+        {
+            "id": "story_event.unit_story.unlock_item.prefix_label",
+            "description": "커뮤 해방 책갈피까지"
         },
         {
             "id": "story.idol.others.birthday",

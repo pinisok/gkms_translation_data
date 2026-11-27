@@ -7418,6 +7418,30 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-unit-event-001-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-unit-event-001-mission_2",
+            "name": "최종시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-unit-event-001-mission_3",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-unit-event-001-mission_4",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+        },
+        {
+            "id": "mission-unit-event-001-mission_5",
+            "name": "P드링크를 {threshold}번 사용하자"
+        },
+        {
+            "id": "mission-unit-event-001-mission_6",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-weekly-competitionplaycount-1",
             "name": "링크 콘테스트에 {threshold}번 도전하자"
         },
@@ -8354,6 +8378,30 @@
             "name": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-amao-3-023-01",
+            "name": "【언밸런스】아리무라 마오의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-02",
+            "name": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-03",
+            "name": "【언밸런스】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-04",
+            "name": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-05",
+            "name": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-06",
+            "name": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-atbm-2-000-01",
             "name": "【초지일관】아마야 츠바메의 프로듀스로 최종 시험에 합격"
         },
@@ -8472,6 +8520,30 @@
         {
             "id": "achieve-i_card-atbm-3-018-06",
             "name": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-01",
+            "name": "【언밸런스】아마야 츠바메의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-02",
+            "name": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-03",
+            "name": "【언밸런스】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-04",
+            "name": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-05",
+            "name": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-06",
+            "name": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",

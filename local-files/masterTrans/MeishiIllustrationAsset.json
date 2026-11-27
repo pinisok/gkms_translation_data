@@ -2722,6 +2722,10 @@
             "name": "명함 파츠 「아이돌의 길」"
         },
         {
+            "id": "jsna-birthday-stream-logo-001",
+            "name": "주오 세나 생일 2026"
+        },
+        {
             "id": "kcna-birthday-stream-logo-001",
             "name": "쿠라모토 치나 생일 2026"
         },
@@ -3340,6 +3344,10 @@
         {
             "id": "sd-jsna-02",
             "name": "명함 파츠\n주오 세나(메이드복)"
+        },
+        {
+            "id": "sd-kaigou-01",
+            "name": "언밸런스 괴굉"
         },
         {
             "id": "sd-kcna-01",

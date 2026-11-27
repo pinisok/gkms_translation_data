@@ -1110,6 +1110,10 @@
             "name": "투어 이벤트 미션 006"
         },
         {
+            "id": "mission-group-unit-event-001",
+            "name": "괴굉"
+        },
+        {
             "id": "panel_mission-event-002-group_1",
             "name": "제2회 패널미션 시트 1"
         },

@@ -1252,6 +1252,21 @@
             "text": "(아아, 도와드리고 싶어요……)"
         },
         {
+            "supportCardId": "s_card-2-0085",
+            "number": 1,
+            "text": "늦어서 미안하다!\n뒤로 물러나 있어라!"
+        },
+        {
+            "supportCardId": "s_card-2-0085",
+            "number": 2,
+            "text": "우리가 왔으니까,\n이제 괜찮아!"
+        },
+        {
+            "supportCardId": "s_card-2-0085",
+            "number": 3,
+            "text": "그래!\n괴인은 우리가 반드시 쓰러뜨리겠다!"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "자, 한 입 줄게!"
@@ -2995,6 +3010,36 @@
             "supportCardId": "s_card-3-0115",
             "number": 3,
             "text": "정크 푸드의 매력,\n조금은 알 것 같아요."
+        },
+        {
+            "supportCardId": "s_card-3-0116",
+            "number": 1,
+            "text": "츠바메, 준비됐어?"
+        },
+        {
+            "supportCardId": "s_card-3-0116",
+            "number": 2,
+            "text": "그래. 발목 잡지 마라."
+        },
+        {
+            "supportCardId": "s_card-3-0116",
+            "number": 3,
+            "text": "너야말로.\n그럼――게임 시작이다."
+        },
+        {
+            "supportCardId": "s_card-3-0117",
+            "number": 1,
+            "text": "내가 만든 슈퍼 완전식,\n하츠보시야키를 드셔 보시라!"
+        },
+        {
+            "supportCardId": "s_card-3-0117",
+            "number": 2,
+            "text": "이건 그냥 오코노미야키가 아니잖아……\n대체 뭘 넣은 거야!?"
+        },
+        {
+            "supportCardId": "s_card-3-0117",
+            "number": 3,
+            "text": "훗, 그건 먹어 보면 알 거데이!"
         },
         {
             "supportCardId": "s_card-3-0122",

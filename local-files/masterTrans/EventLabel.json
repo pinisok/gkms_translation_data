@@ -56,6 +56,10 @@
         {
             "eventType": 13,
             "name": "추억 의상"
+        },
+        {
+            "eventType": 15,
+            "name": "멀티 시나리오"
         }
     ]
 }

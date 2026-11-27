@@ -1284,6 +1284,34 @@
         {
             "id": "story-other-01_hski-02",
             "title": "같이 달리러 가자!"
+        },
+        {
+            "id": "story-unit-event-031-01",
+            "title": "프롤로그"
+        },
+        {
+            "id": "story-unit-event-031-02",
+            "title": "Side 아마야 츠바메 제1화"
+        },
+        {
+            "id": "story-unit-event-031-03",
+            "title": "Side 아마야 츠바메 제2화"
+        },
+        {
+            "id": "story-unit-event-031-04",
+            "title": "Side 아마야 츠바메 제3화"
+        },
+        {
+            "id": "story-unit-event-031-05",
+            "title": "Side 아리무라 마오 제1화"
+        },
+        {
+            "id": "story-unit-event-031-06",
+            "title": "Side 아리무라 마오 제2화"
+        },
+        {
+            "id": "story-unit-event-031-07",
+            "title": "Side 아리무라 마오 제3화"
         }
     ]
 }

@@ -262,6 +262,10 @@
             "name": "개 귀(하나미 우메)"
         },
         {
+            "id": "shop_costume_costume_head_hume-hair-0009",
+            "name": "커다란 리본(하나미 우메)"
+        },
+        {
             "id": "shop_costume_costume_head_jsna-hair-0001",
             "name": "수국 꽃 머리 장식 (주오 세나)"
         },
@@ -308,6 +312,10 @@
         {
             "id": "shop_costume_costume_head_kcna-hair-0008",
             "name": "개 귀(쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0009",
+            "name": "커다란 리본(쿠라모토 치나)"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -368,6 +376,10 @@
         {
             "id": "shop_costume_costume_head_shro-hair-0008",
             "name": "개 귀(시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0009",
+            "name": "커다란 리본(시노사와 히로)"
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -1256,6 +1268,10 @@
         {
             "id": "shop_pass_item-0031",
             "name": "프리미엄 미션 패스 2026년 11월"
+        },
+        {
+            "id": "shop_pass_item-0032",
+            "name": "프리미엄 미션 패스 2026년 12월"
         }
     ]
 }

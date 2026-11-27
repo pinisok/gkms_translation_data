@@ -211,6 +211,16 @@
             "description": "【Fluorite】'26 소악마 아리무라 마오 입수"
         },
         {
+            "id": "amao-cstm-0184",
+            "name": "언밸런스",
+            "description": "【언밸런스】아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0185",
+            "name": "언밸런스",
+            "description": "【언밸런스】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
             "id": "amao-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(아리무라 마오) 구매하기"
@@ -384,6 +394,16 @@
             "id": "atbm-cstm-0181",
             "name": "Agitato",
             "description": "【이론무장하고】'26 소악마 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0184",
+            "name": "언밸런스",
+            "description": "【언밸런스】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0185",
+            "name": "언밸런스",
+            "description": "【언밸런스】아마야 츠바메의 재능 개화 4단계 달성"
         },
         {
             "id": "atbm-othr-0002",

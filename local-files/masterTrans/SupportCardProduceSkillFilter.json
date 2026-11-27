@@ -262,6 +262,11 @@
             "title": "멘탈 스킬 카드 강화 시 파라미터 상승"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-produce_card_search_count-p_card_search-trouble-deck_all-0001_0000",
+            "order": 46,
+            "title": "스킬 카드 강화 시 보유 중인 트러블 카드가 1장 이상일 때 파라미터 상승"
+        },
+        {
             "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",
             "order": 2,
             "title": "파라미터 보너스 +"

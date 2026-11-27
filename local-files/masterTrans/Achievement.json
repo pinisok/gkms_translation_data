@@ -276,6 +276,36 @@
             "description": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-amao-3-023-01",
+            "name": "엇갈리는 프라이드",
+            "description": "【언밸런스】아리무라 마오의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-02",
+            "name": "언밸런스",
+            "description": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-03",
+            "name": "빛나고 싶은 곳은 여기 있어",
+            "description": "【언밸런스】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-04",
+            "name": "언밸런스 +",
+            "description": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-05",
+            "name": "언밸런스 ++",
+            "description": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-06",
+            "name": "언밸런스 +++",
+            "description": "【언밸런스】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-atbm-2-000-01",
             "name": "자전일섬",
             "description": "【초지일관】아마야 츠바메의 프로듀스로 최종 시험에 합격"
@@ -424,6 +454,36 @@
             "id": "achieve-i_card-atbm-3-018-06",
             "name": "크라이아이+++",
             "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-01",
+            "name": "엇갈리는 논리",
+            "description": "【언밸런스】아마야 츠바메의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-02",
+            "name": "언밸런스",
+            "description": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-03",
+            "name": "우리 둘이라면",
+            "description": "【언밸런스】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-04",
+            "name": "언밸런스 +",
+            "description": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-05",
+            "name": "언밸런스 ++",
+            "description": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-06",
+            "name": "언밸런스 +++",
+            "description": "【언밸런스】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",

@@ -510,6 +510,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-new-wednesday-26-1202-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-fix_1",
             "name": "SSR 확정 가챠 티켓",
             "description": "SSR 확정 티켓 가챠에서 사용하는 티켓",
@@ -1050,6 +1056,12 @@
             "acquisitionRouteDescription": "이벤트 「마지막 문화제」, 프로듀스"
         },
         {
+            "id": "item-medal-unit-event-001",
+            "name": "엇갈리며 울려 퍼지는 이름 포스터",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "센스 코인",
             "description": "센스 가챠에 사용하는 코인",
@@ -1152,6 +1164,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_amao-3-023",
+            "name": "[언밸런스] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_atbm-1-000",
             "name": "[학원생활] 아마야 츠바메의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1184,6 +1202,12 @@
         {
             "id": "item-piece-idol_atbm-3-018",
             "name": "[크라이아이] 아마야 츠바메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-020",
+            "name": "[언밸런스] 아마야 츠바메의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -2356,6 +2380,12 @@
             "name": "서포트의 증표",
             "description": "교환소에서 사용하는 아이템",
             "acquisitionRouteDescription": "서포트 변환 등"
+        },
+        {
+            "id": "item-ticket-unit-event-001",
+            "name": "커뮤 해금 책갈피",
+            "description": "멀티 시나리오 이벤트의 커뮤를 해금하는 아이템",
+            "acquisitionRouteDescription": "멀티 시나리오 이벤트"
         }
     ]
 }
